@@ -1,0 +1,135 @@
+---
+title: "Edexcel A2 Chemistry (A-Level)"
+subtitle: "Chương Trình Hóa Học Pearson Edexcel International Advanced Level (IAL)"
+format: html
+---
+
+::: {.callout-note}
+## Tài nguyên ôn tập & Luyện thi: Edexcel A2 Chemistry
+Chào mừng các em học sinh! Đây là phân hệ học thuật chuyên sâu và nâng cao nhất dành cho năm học A2 của chương trình Edexcel Chemistry. Khu vực này chứa Sơ đồ kiến thức nâng cao, tóm tắt các phương trình nhiệt động Born-Haber và hằng số điện ly đệm bằng LaTeX sắc nét cùng ngân hàng tài liệu luyện thi Units 4, 5 và 6.
+:::
+
+## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+
+<p><strong>Edexcel A2 Chemistry</strong> là học phần năm thứ hai bắt buộc để học sinh hoàn thành chứng chỉ A-Level trọn vẹn. Chương trình tập trung sâu sắc vào hóa lý định lượng nhiệt động lực học, động hóa học tốc độ phản ứng, pin điện hóa, kim loại chuyển tiếp và thế giới hóa hữu cơ hương phương Benzene phức tạp cùng phân tích phổ quang học cấu trúc.</p>
+
+### Cấu Trúc Đề Thi A2 Level (Assessment Outline)
+
+<p>Học phần A2 Level được đánh giá thông qua 3 Units thi cuối khóa vô cùng thử thách:</p>
+
+<div class="table-wrapper" style="margin-bottom: 2rem;">
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th>Mã học phần thi (Unit)</th>
+        <th>Thời gian làm bài</th>
+        <th>Nội dung chuyên môn</th>
+        <th>Tổng điểm</th>
+        <th style="text-align: right;">Trọng số điểm IAL trọn vẹn</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Unit 4: WCH14/01</strong></td>
+        <td>1 tiếng 40 phút</td>
+        <td>Rates, Equilibria and Further Organic Chemistry</td>
+        <td>90 điểm</td>
+        <td style="text-align: right;"><strong>20%</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Unit 5: WCH15/01</strong></td>
+        <td>1 tiếng 40 phút</td>
+        <td>Transition Metals and Organic Nitrogen Chemistry</td>
+        <td>90 điểm</td>
+        <td style="text-align: right;"><strong>20%</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Unit 6: WCH16/01</strong></td>
+        <td>1 tiếng 20 phút</td>
+        <td>Practical Skills in Chemistry II (Đề thi viết về kỹ năng thực hành)</td>
+        <td>50 điểm</td>
+        <td style="text-align: right;"><strong>10%</strong></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
+
+## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (A2 SYLLABUS UNITS)
+
+::: {.callout-important}
+### Các chuyên đề cốt lõi của Edexcel A2 Chemistry:
+1. **Unit 4: Rates, Equilibria and Further Organic Chemistry:**
+   * Tính toán bậc phản ứng, hằng số tốc độ $k$, phương trình Arrhenius động hóa học.
+   * Tính toán năng lượng mạng lưới chu trình Born-Haber, Entropy thay đổi và năng lượng tự phát $\Delta G$.
+   * Dung dịch đệm axit-bazơ, hằng số axit yếu $K_a$, cân bằng nước $K_w$.
+   * Hóa hữu cơ: Tính chất axit cacboxylic, este, acyl clorua, phản ứng ngưng tụ andol.
+2. **Unit 5: Transition Metals and Organic Nitrogen Chemistry:**
+   * Pin điện hóa, thế khử chuẩn, pin nhiên liệu (fuel cells).
+   * Kim loại chuyển tiếp: Cấu hình electron d-orbital splitting, thuyết trường tinh thể màu sắc phức chất, phản ứng thế phối tử.
+   * Nhân thơm Benzene: liên kết pi phi định vị, cơ chế phản ứng thế ái điện nhân thơm ($S_E$).
+   * Hợp chất chứa Nitơ: Amines, amides, amino acids, peptit và phản ứng trùng ngưng polyme polyesters, polyamides.
+   * Phân tích quang phổ cấu trúc: Phổ hồng ngoại (IR), khối phổ (MS), phổ cộng hưởng từ hạt nhân ($^1\text{H-NMR}$ và $^{13}\text{C-NMR}$).
+3. **Unit 6: Practical Skills in Chemistry II:**
+   * Thiết kế thí nghiệm chuẩn độ tạo phức, chuẩn độ oxi hóa khử kali pemanganat ($KMnO_4$).
+   * Nhận biết ion chuyển tiếp bằng màu dung dịch và kết tủa hidroxit đặc trưng.
+:::
+
+---
+
+## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+
+Công thức hóa lý hiển thị sắc nét bằng LaTeX:
+
+### Định lý Năng lượng tự do Gibbs & Hằng số cân bằng
+Mối liên hệ mật thiết giữa năng lượng tự do Gibbs tiêu chuẩn $\Delta G^{\ominus}$ và hằng số cân bằng hóa học $K$ ở nhiệt độ $T$ (Kelvin):
+$$\Delta G^{\ominus} = -RT \ln K$$
+*Trong đó $R = 8.314 \text{ J}\cdot\text{mol}^{-1}\cdot\text{K}^{-1}$ là hằng số khí lý tưởng.*
+
+---
+
+## 4. BẪY ĐIỂM SỐ & PHƯƠNG PHÁP LÀM BÀI (EXAM TIPS)
+
+::: {.callout-tip}
+### Các lưu ý sống còn ở đề thi Edexcel A2:
+* **⚠️ Ý nghĩa của hằng số bền $K_{stab}$:** Khi xảy ra phản ứng thế phối tử (ligand substitution) trong phức chất kim loại chuyển tiếp:
+  * Phức chất có hằng số bền $K_{stab}$ **lớn hơn** sẽ bền vững hơn.
+  * Phản ứng thế phối tử sẽ ưu tiên chuyển dịch theo chiều tạo thành phức chất có $K_{stab}$ lớn hơn (ví dụ thế nước bằng amoniac hoặc EDTA).
+* **⚠️ Cơ chế phản ứng thế ái điện nhân thơm Benzene:** Khi vẽ cơ chế thế ái điện ($S_E$) của vòng Benzene (ví dụ nitơ hóa - nitration hoặc halogen hóa):
+  * Mũi tên cong phải xuất phát **từ bên trong vòng tròn hệ pi phi định vị** hướng thẳng đến tác nhân ái điện carbocation.
+  * Trong tiểu phân trung gian (intermediate), vòng tròn pi bị đứt quãng tạo hình móng ngựa hướng về phía nguyên tử cacbon đang phản ứng, kèm theo dấu cộng dương (+) ở giữa.
+  * Vẽ sai chi tiết này sẽ bị trừ sạch điểm cơ chế!
+:::
+
+---
+
+## 5. KHO ĐỀ PAST PAPERS THEO CHUYÊN ĐỀ
+
+::: {.program-grid}
+
+::: {.program-card .topic-card}
+### Topic 1: Unit 4 Energetics & Kinetics
+* Bậc phản ứng động hóa học, phương trình Arrhenius, chu trình Born-Haber tính năng lượng mạng lưới tinh thể.
+* [**Tải đề luyện chuyên đề 1 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 2: Unit 4 Buffers & Acids
+* Tính toán pH dung dịch đệm, hằng số Ka, chuẩn độ axit yếu bazơ mạnh.
+* [**Tải đề luyện chuyên đề 2 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 3: Unit 5 Transition Metals & Redox
+* Tính toán thế khử chuẩn pin điện hóa, màu sắc phức chất kim loại d-orbital splitting.
+* [**Tải đề luyện chuyên đề 3 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 4: Unit 5 Organics & NMR
+* Cơ chế thế ái điện nhân thơm Benzene, polymer trùng ngưng và đọc phổ quang học NMR hữu cơ.
+* [**Tải đề luyện chuyên đề 4 →**](#){.btn-gateway}
+:::
+
+:::

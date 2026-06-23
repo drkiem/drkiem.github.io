@@ -1,0 +1,837 @@
+---
+title: "CIE IGCSE Mathematics (0580)"
+subtitle: "Cambridge International GCSE Mathematics (0580) Course Portal"
+format: html
+---
+
+::: {.callout-note}
+## Course Portal: CIE IGCSE Mathematics (0580)
+Welcome, students! This specialized academic portal provides in-depth resources for the Cambridge International GCSE Mathematics (0580) curriculum. Here, you will find exhaustive syllabus checklists, revision notes, targeted practice question banks, and official exam information—all mathematically formatted to optimize your learning and help you achieve an A*.
+:::
+
+## 1 Course Introduction
+
+<p><strong>Cambridge IGCSE Mathematics (0580)</strong> is a structured and comprehensive academic curriculum designed to develop mathematical skills, logical thinking, and problem-solving capabilities. The syllabus is divided into two tiers of entry: <strong>Core Tier</strong> (eligible for grades C–G) and <strong>Extended Tier</strong> (eligible for grades A*–E), offering appropriate routes of assessment for students of different abilities.</p>
+
+### Assessment Outline
+
+<div class="table-wrapper" style="margin-bottom: 2rem;">
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th>Paper Number</th>
+        <th>Tier</th>
+        <th>Assessment Information</th>
+        <th>Marks</th>
+        <th style="text-align: right;">Weighting</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Paper 1 (Core)</strong></td>
+        <td>Core</td>
+        <td>Assessed through a 1 hour 30 minutes examination set and marked by Cambridge. Use of a calculator is not allowed. Weighted at 50% of the qualification, eligible for grades C to G.</td>
+        <td>80 marks</td>
+        <td style="text-align: right;"><strong>50%</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Paper 3 (Core)</strong></td>
+        <td>Core</td>
+        <td>Assessed through a 1 hour 30 minutes examination set and marked by Cambridge. A scientific calculator is required. Weighted at 50% of the qualification, eligible for grades C to G.</td>
+        <td>80 marks</td>
+        <td style="text-align: right;"><strong>50%</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Paper 2 (Extended)</strong></td>
+        <td>Extended</td>
+        <td>Assessed through a 2-hour examination set and marked by Cambridge. Use of a calculator is not allowed. Weighted at 50% of the qualification, eligible for grades A* to E.</td>
+        <td>100 marks</td>
+        <td style="text-align: right;"><strong>50%</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Paper 4 (Extended)</strong></td>
+        <td>Extended</td>
+        <td>Assessed through a 2-hour examination set and marked by Cambridge. A scientific calculator is required. Weighted at 50% of the qualification, eligible for grades A* to E.</td>
+        <td>100 marks</td>
+        <td style="text-align: right;"><strong>50%</strong></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+**Assessment Objectives (AOs) Weightings:**
+* **AO1 (Knowledge and understanding of mathematical techniques):** Core 60–70% | Extended 40–50%
+* **AO2 (Analyse, interpret and communicate mathematically):** Core 30–40% | Extended 50–60%
+
+### Syllabus Structure
+
+<p>The Cambridge IGCSE Mathematics syllabus content is categorized into 9 major topics, covering core concepts for all students with extended high-level parts for the Extended Tier:</p>
+
+::: {.callout-note collapse="true"}
+## 1 Number
+**1.1** Types of number<br/>
+**1.2** Sets<br/>
+**1.3** Powers and roots<br/>
+**1.4** Fractions, decimals and percentages<br/>
+**1.5** Ordering<br/>
+**1.6** The four operations<br/>
+**1.7** Indices I<br/>
+**1.8** Standard form<br/>
+**1.9** Estimation<br/>
+**1.10** Limits of accuracy<br/>
+**1.11** Ratio and proportion<br/>
+**1.12** Rates<br/>
+**1.13** Percentages<br/>
+**1.14** Using a calculator<br/>
+**1.15** Time<br/>
+**1.16** Money<br/>
+**1.17** Exponential growth and decay (Extended only)<br/>
+**1.18** Surds (Extended only)<br/>
+:::
+
+::: {.callout-note collapse="true"}
+## 2 Algebra and graphs
+**2.1** Introduction to algebra<br/>
+**2.2** Algebraic manipulation<br/>
+**2.3** Algebraic fractions (Extended only)<br/>
+**2.4** Indices II<br/>
+**2.5** Equations<br/>
+**2.6** Inequalities<br/>
+**2.7** Sequences<br/>
+**2.8** Proportion (Extended only)<br/>
+**2.9** Graphs in practical situations<br/>
+**2.10** Graphs of functions<br/>
+**2.11** Sketching curves<br/>
+**2.12** Differentiation (Extended only)<br/>
+**2.13** Functions (Extended only)<br/>
+:::
+
+::: {.callout-note collapse="true"}
+## 3 Coordinate geometry
+**3.1** Coordinates<br/>
+**3.2** Drawing linear graphs<br/>
+**3.3** Gradient of linear graphs<br/>
+**3.4** Length and midpoint (Extended only)<br/>
+**3.5** Equations of linear graphs<br/>
+**3.6** Parallel lines<br/>
+**3.7** Perpendicular lines (Extended only)<br/>
+:::
+
+::: {.callout-note collapse="true"}
+## 4 Geometry
+**4.1** Geometrical terms<br/>
+**4.2** Geometrical constructions<br/>
+**4.3** Scale drawings<br/>
+**4.4** Similarity<br/>
+**4.5** Symmetry<br/>
+**4.6** Angles<br/>
+**4.7** Circle theorems I<br/>
+**4.8** Circle theorems II (Extended only)<br/>
+:::
+
+::: {.callout-note collapse="true"}
+## 5 Mensuration
+**5.1** Units of measure<br/>
+**5.2** Area and perimeter<br/>
+**5.3** Circles, arcs and sectors<br/>
+**5.4** Surface area and volume<br/>
+**5.5** Compound shapes and parts of shapes<br/>
+:::
+
+::: {.callout-note collapse="true"}
+## 6 Trigonometry
+**6.1** Pythagoras' theorem<br/>
+**6.2** Right-angled triangles<br/>
+**6.3** Exact trigonometric values (Extended only)<br/>
+**6.4** Trigonometric functions (Extended only)<br/>
+**6.5** Non-right-angled triangles (Extended only)<br/>
+**6.6** Pythagoras' theorem and trigonometry in 3D (Extended only)<br/>
+:::
+
+::: {.callout-note collapse="true"}
+## 7 Transformations and vectors
+**7.1** Transformations<br/>
+**7.2** Vectors in two dimensions (Extended only)<br/>
+**7.3** Magnitude of a vector (Extended only)<br/>
+**7.4** Vector geometry (Extended only)<br/>
+:::
+
+::: {.callout-note collapse="true"}
+## 8 Probability
+**8.1** Introduction to probability<br/>
+**8.2** Relative and expected frequencies<br/>
+**8.3** Probability of combined events<br/>
+**8.4** Conditional probability (Extended only)<br/>
+:::
+
+::: {.callout-note collapse="true"}
+## 9 Statistics
+**9.1** Classifying statistical data<br/>
+**9.2** Interpreting statistical data<br/>
+**9.3** Averages and measures of spread<br/>
+**9.4** Statistical charts and diagrams<br/>
+**9.5** Scatter diagrams<br/>
+**9.6** Cumulative frequency diagrams (Extended only)<br/>
+**9.7** Histograms (Extended only)<br/>
+:::
+
+::: {.download-box}
+### Official Academic Resources
+*Download official Cambridge IGCSE Mathematics resources and specification guides below:*
+
+<div class="btn-group-download" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1rem;">
+  <a href="info/cie_0580/0580-2025-2027-syllabus.pdf" target="_blank" class="btn-download btn-syllabus">
+    <i class="bi bi-file-earmark-pdf"></i> Official Syllabus 2025-2027 PDF
+  </a>
+  <a href="info/cie_0580/0580-2028-2030-syllabus.pdf" target="_blank" class="btn-download btn-syllabus">
+    <i class="bi bi-file-earmark-pdf"></i> Official Syllabus 2028-2030 PDF
+  </a>
+</div>
+:::
+
+---
+
+## 2 Study Notes
+
+*Access specialized revision notes and targeted practice questions for each subtopic below:*
+
+::: {.panel-tabset}
+
+## Core Tier
+
+<div class="table-wrapper" style="margin-top: 1.5rem; max-height: 600px; overflow-y: auto;">
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th>Topic</th>
+        <th style="text-align: center; width: 15%;">Notes</th>
+        <th style="text-align: center; width: 22%;">Questions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="3" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> 1. Numbers</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.1 Types of Numbers</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1mFaWY9-2zGJDdWqWYSVGHlIyysrLFPbY/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1xc1ZNX1TSe-EAKGhF7rqwWHhEH_CZRyl/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.2 Reading & Ordering Numbers</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1haniorRA5xQXnlCopHnkFkz-NXvKpb22/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1QQafbXghmF7yCa4D2_qfbevIfpQcDmgZ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.3 Operations with Numbers & Decimals</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1lImcz4m1SEvRJ-T5MIsZOoZPtYbXxs7z/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1EABbn31B_ercDDvPTDCoIfM-pvpakQzT/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.4 Prime Factors, HCF & LCM</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/10LFGWeyul7qT_9dei8a3w163U9IGad2A/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1tfjyeVPwgrAAN8ug208x79gm_R7tm8O0/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.5 Powers, Roots & Standard Form</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1BdRNKFAWLSURr_JIZ_LVxXcS1vGTvFz8/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1lDwCgZftcKXDBb2WiWYcLmMzW7cQ4ptk/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.6 Introduction to Fractions</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1SG4rkAC05xKNbLSZSNIBgR0-jO6FVaQg/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1jpEmOHcvWSfqqNLrX3SgcHiwXu3qhKNQ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.7 Operations with Fractions</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1x251Ms7YXrXes5U4dAKXzd5LjzoL8HpZ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ePKsKtyFh6ikfYQW680g1APaG3vXY_wu/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.8 Percentages</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1sxpfWRnwZ0FaWg8peWy-6Q1YI0ZbuPrA/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1fdAYQSjQy0h50FCCh2Q9WpXT_ir-8vdc/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.9 Simple & Compound Interest</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1H4RzuyBoK5PRXakSvEsGfRa0VfyPbaZZ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1nILrGZrrHn1M51cjG3eADxv88wjXCoWa/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.10 Fractions, Decimals & Percentages</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1V7cGTLEUYRq-C6N1fKnoQDsYMu1K1ImZ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1o5l2ZSgawBVX9AL5bHzxuIAfdgCcwwtH/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.11 Ratio & Proportion</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1JZkBIjvWHhnqXrKlkYFn0NQ2Nu94JZUN/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1cbiMDdd6lJsX-J1JmLSywFMzt0yQuL-5/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.12 Money Calculations</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1KEBeKYzJTjYwADHiIFQlrk_ohK2MT7Qg/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1suMNsYYvblaAKMnSguVlAycvDwaLqILK/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.13 Time, Currency & Conversions</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/132XdnSuPlgxqmhBcatJ33igtuhbQ81mk/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1jFbcekce3LwBjvsJF6tUlfv7mAUqZTJV/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.14 Compound Measures</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1rFtMGX0Rg1l87qbSIL4oNTfHNDkbGZSA/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Y0lN3majnDNzXjN0M_cPoBqtlJRdE7fQ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.15 Rounding, Estimation & Bounds</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/10ptl7XL2EYdCxE3AGZvjCbTMZutyea_j/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1TnJZuLTOwP_Jr3n1ok5TeBbufpZVcLz9/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.16 Using a Calculator</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1PlUGNGtYfJdjzrKFeUUEmaLSfjnmyGUb/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1KU4p1VMMT8Ph-TjIOBU0lFBIchC7-wkL/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="3" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> 2. Algebra and Sequences</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.1 Introduction to Algebra</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1aosavWEuDJkL9xTQ1A0lJHRREU0zLvMB/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1qKA5dgXrBO__EUmfe51W5tv-0Cg0gyAe/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.2 Algebraic Roots & Indices</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1eCB3l_amhilyZNHEINsoqn-fkYLLxHWy/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1cgtFZnSAas-_1KxVAstauQsmjLFFGYRh/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.3 Expanding & Factorising Brackets</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1vzkmVli-mqqHLWk0q5A9sTwi7QLk8g6t/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1TVbVbVmYH4xaOJodWpJyY-4WuMznayTs/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.4 Linear Equations</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1bFC6PEGiFUjJSLFiLAv918kQ07GH8o8l/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1-wKJi2l4PMqDV3QbTTD5RzIug1kqZ5Pe/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.5 Inequalities</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1fLq8IhYutCWB4n2c_V866-Xh-3J9uOoG/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1OumM2nUKZV1Bi5uLgdQemGxtptDuxEhD/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.6 Rearranging Formulas</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1B3pbXrKALD1tqlh1g8GwjWDKue1-qXH2/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1xZrsXpquJCUkY70YSUuQkC8aUYhJDK7S/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.7 Simultaneous Equations</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/14eYTN-BeO2vM_6qZfRNhbcDX5IjAfhO9/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1gYQYzxwZjj46Pk3TOskHgBop-OrQq2V0/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.8 Sequences</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/13W3T7kwmuG1YpOE6d_RVDo-9acfPCDrh/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/13OgO2VPrqnX8LvQUO4ai83qCzIExiTQJ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="3" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> 3. Coordinate Geometry and Graphs</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.1 Linear Graphs</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1tXEFmkFQwxc0EcmyYIdATU3NBM4cbMCu/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1jdh9ykS-gcGo_7F8uMVWWYce4e4GqYX6/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.2 Further Graphs</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1owX6KV0i4SMqvI4-TdtIQl-4KkWvvcTJ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Nf6TJQ4q-OtYO0nwcueHiLG7IvT2RuVg/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.3 Real-Life Graphs</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Q8K8HbLTOXLE2biUPr1U2QwVhVilGliH/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/15TOmLQhRfw00aMXaLsN5O9qd1XB0OQL7/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="3" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> 4. Geometry</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">4.1 Symmetry & Shapes</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1w6C4nQEGkEEj6UTWshd4DYgOM8OJiXc2/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1YDcT0d9l70opVAbEkRP_3hpywMDKnB0v/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">4.2 Basic Angle Properties</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1hFn-J6-ZI1mSeItx02iONLO4j7LaSq_H/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1CGsU99U3-xdFOCC4Cqxq63bHZetUkKcv/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">4.3 Angles in Polygons & Parallel Lines</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Y2bR28UcebSEXpplLH_Fqra1ppcs37as/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/11a4cmkQURTC89462y5p84qOofHGThp3I/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">4.4 Bearing Constructinos and scale drawings</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1dbtsy1CRiOIcnewp575TKnh05apNUl-7/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/17Dhyjpn_TRZ86KoPhEy_Eg-sG7U3ZFIX/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">4.5 Circle Theorems</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1F5Khl1eokrw5aZU9hNEdqhkuiZfu-wgI/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Xvm0EZ6eHZNwUBnvIt9Xie6Aiuz3P0Mp/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="3" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> 5. Length, Area and Volume</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">5.1 Area & Perimeter</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/16zzK7rhxb-AZNROUiPhoelj0-INJv6Dd/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1L-nEnQeEtUGiv_2bDUrn7iTAHO6WzAGE/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">5.2 C ircles, Arcs & Sectors</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1pGK5EXKU9Jmlc1lm76K7eGT7poIJ0Ev8/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ITRKqWkGUEbl7fgs02qSNXhftyIpAuPl/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">5.3 Volume & Surface Area</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1r22yHVC-EAJZcwl_GDAQsoc0XH-gTno9/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1eEwExg7ENaBJuCmNttWWabcf85syV_kt/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">5.4 Congruence & Similarity</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/16Gt43jXlAf2UWSwY3Kq7Il2KWgqf70dS/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1FbTC-rz6AeY77KJTBlIcV1LmHghN8vuu/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="3" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> 6. Pythagoras and Trigonometry</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">6.1 Pythagoras</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1flfsCbq8SVZkMZ3xsvKUNMOXBLAh2oGE/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ddfklsOL9_sM1YiTF-R92BImmCNk6BFC/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">6.2 Trigonometry</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/17_TApmtGfDyGBV3qUyq4NQXOK0pSP2WC/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/177-7j1hswE5TRJlDE9rW_KE_fW2yso57/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="3" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> 7. Vectors and Transformations</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">7.1 Transformations</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1phcojHjwd1i5eeMZr4P34VXIjY6xbZz0/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1B375B6agbjGsMjQMOTWz8bV6MaCV51uO/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="3" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> 8. Probability</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">8.1 Basic Probability</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1hu--aHorlp_U5xMBKXPHoFrQc0SKuBwO/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ZjH_IGrRjgS0n9Bfd3BB7hl3bR-NBJsB/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">8.2 Set Notation & Probability Diagrams</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1sI0846AZuRhJhTNIq7apnhJVNXyM4ih1/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1OKRNOYCY-CCCjOwgyUrhiwdN9VfaFveh/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="3" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> 9. Statistics</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">9.1 Averages & Range</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1QoFBjfamw6GnnQOmPTCo8MTnU_-FDx-i/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1TMuO19sgaJGouo8c6ukVPg59FwiocUk4/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">9.2 Statistical Diagrams</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1UnIW3_V2Jx-DDFqNUJlY1eUMewd_-zv4/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1PMz5niie5WWVLtDKlHTVPYHIdNTnZHGx/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">9.3 Scatter Graphs & Correlation</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1PbpEGP3EXotk2x0d9ivFib1Eg8D8UY_s/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1qI_WE6haDPBnEeuK5QNtSnCjqeh5HRYJ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+## Extended Tier
+
+<div class="table-wrapper" style="margin-top: 1.5rem; max-height: 600px; overflow-y: auto;">
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th>Topic</th>
+        <th style="text-align: center; width: 15%;">Notes</th>
+        <th style="text-align: center; width: 18%;">Paper 2 Questions</th>
+        <th style="text-align: center; width: 18%;">Paper 4 Questions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="4" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> 1. Numbers</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.1 Number Toolkit</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1nms7LzXDPHht7cAb8MV7Sn0n1EanblXX/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1CW1AV8iD-z1_aWe-5st334v597rEjOrk/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1HvNBwGXvaC-QemVcSGPFJY1N--2kWYjl/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.2 Set Notation & Venn Diagrams</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Q76KUkG4tik4agWsrvcWj_lUxk55mz72/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1B5hkQv_CJeKgp6KKrVD5CXiiSUSxudTc/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/15hv02Rc8JQWsMVFdRn6JydqEMZBB2MDx/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.3 Prime Factors HCF & LCM</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1z1fxYj1rnyVJB2EnvhYbpio6YQBOUjTs/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1NmYpuqDsz5fwmJpUkPc0W-MEAp38_SNe/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1pEj7Sk_KHjNF6di9ZxMVOmPuvKhaAejL/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.4 Powers, Roots & Standard Form</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1eQz0x0Unr37Z8ldV6YIQzHklXwZywblM/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1qNzLU3IzBfcnQUA5GGXKKB5VRAXbUW-0/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ToYf4B6OWjaQRPcVvIzhFCtyjENZDxpM/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.5 Fractions Toolkit</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/124aL1o5i9nZ2ccb0TGSo-H213xDTOZfV/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1aBUMKQNpE9uuoJ_lYc1Snb515QOXpYUu/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.6 Percentages Toolkit</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1FhWtqP7nkkPsPT4Uaega3MI4t9SCzbEg/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1UhLsk7xJucdi_8DhRlEEtwLtist5pnNY/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1fGMXIGQpWZkWWVrUMNY60qJVjqr44DYX/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.7 Simple & Compound Interest, Growth & Decay</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1sxGmJaeTYeuyuOmkTQxvJAgh2pG-kgso/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/102oOHemS1CEi9_ysXLshTW7c6U7PY2RY/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.8 Surds</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1moGTNrVWOmWsPRmgl3-LaG6plgY-60Cz/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1-nv-wg1fqXAa--vafd9GZM_H1SkwS-EH/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.9 Working with FDP</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1guDq3RsI7slmaMJneNBaM6e1f0L_2G8X/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/15mZiioAci3bOMSwZCLN3zr-54cSvt-Qb/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1OHuVLOvMQbCjbL309WgSg1f8U4NYtmgw/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.10 Working with Ratios</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/18Hi5unEOlwgs_mFTtFOoD89dsNq3bG-k/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Gq3g0Mv9VvHagoPO9UNSrj4y-TQ5S8X5/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1B7vaBseTxn9yJa6Ned2XvwV39Hln6Bww/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.11 Compound Measures Speed Density Pressure</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1co8cEaCDrrFq6sUp3n4DvK1-xbzhbTIX/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/13DOq0WhMZg3U-FO8-lPY6IBOTr2TCa9g/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1VhDjClefv2cijxxxBNDCDtAYQoRNKcbV/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.12 Time currency and conversions</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/11UXJ9Vrg857Zq6FW2MV8eAc6yOWkKiht/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1tWSGVS76T32_5rZ80sts8x57VSxb_gvQ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1IwYAlyv8NWqkUKGXZynFhNXAeIwDnOsl/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.13 Rounding, Estimation & Bounds</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1u7_MD_jAKv_YmizzwTer9jb3Tr1p4NoC/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1qzrUlvIhfURZWuCrs-y4yGr-PFIr5Oka/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/152Q7WkxiRoYFJTLX15Ib5teisrgpX8ym/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.14 Using a Calculator</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Cbh-EdGjGrWa8u1Ut05s3yuEG2MpxiIK/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1IHMGY31udMaM-fPNTkDfFtK61IH5cl_7/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="4" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> 2. Algebra and Sequences</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.1 Algebra Toolkit</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ONQw2mqwiV4iCkWN6nkdW2fh1qxMqzBU/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1GEUhOL8poUyNGTFPQ99d8_BP3_4GXJ7R/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1D1APjEtDSPBATAIi2oAjNSucE_qAlzUl/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.2 Algebraic Roots & Indices</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Xc4jki_TwzaDU_5yx44t4XSknAbS3sA-/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1uiPyDbMDN609t8XiNgeEynQXEAW95dmS/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1jU9n2d3GgJMSeRlEPV2sMf2HnJ_wq2EL/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.3 Expanding & Factorising Brackets</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1oT1GTBafjmctUYOPua-zx6GUT2vwWwfX/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1UgPbuR-3761R3FJCCf7GVuCALC-KoNpP/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1gd37Qro9b8bqJmrBtFsk5OeiEo8MpSpc/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.4 Linear Equations & Inequalities</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1vgs7A-Q3UvF4SKWZy8JNeV9nfWR_8sA8/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1HrFR7ZZ97mWA_PCNJC7ObKc-FVLmiUXN/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1-jfn59Mesr0HIBX6IT4PBM8nIYVnt7ks/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.5 Quadratic Equations</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1X882-rnGcRImgVyYBs1KKxWRNID_PlXL/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1JKSJ7TPqMLLSpax2JSFIng8wAd3qeHxC/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/16kZM26hTB7uR3uKzXWcyMMdcDGH1YJTg/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.6 Rearranging Formulas</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1VUAQXYIQozYb0VtV4HvV0NDtrFBEZ7dU/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ovUY2Cx6bJSVT3Yh8XfO7wOZS154TJsK/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1zYkXVkawqU5jQdVKW0x6z8_aVXlAK68e/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.7 Simultaneous Equations</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1J9WaiS-X_XTy3salLiwTAO03_pla1XE9/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1f5QBv3hIGWP84QyOS6-nnvBe76dSACPf/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1EALnnpMQXpYgTgHKh5Ik5m6sUnUyZRfP/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.8 Algebraic Fractions</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1XYb4jPwZ9Q7kexrSXm5S7Xg-VgMo2MM8/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1OD-vL-nJkcBJL5lyQ9mBRs3GvKVmQdG9/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/16FbXscyZX0uWU33oAwuPmg_W11p0KEaO/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.9 Forming & Solving Equations</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1X2mxnaKC9J5xJ3SW4lIVMDuDyhqsRdKi/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1KHy9lzR5KeGSC40kRMv0JICYEZjO4m2t/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1wkXXybC8qz6kcqIo25k2g9V-1eaXJ9Nx/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.10 Functions</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1hsi0bTSGIlIVxilUDBek3nI1HCgW2Y6D/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1xtpyrLN-xksm_GQHd2e_oaVTKsKfiztO/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1rYe7l4wNRtQIY6StqYHRSSwS-qfqaQtA/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.11 Sequences</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1_bFqc-9NLa-Nfj4l4dh1pfrQFiAOhWbW/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1c5amxkjPV-gdmeMTAVMSoQl-vrfS8W2l/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1XU6EM0wlJupm7pLFL1N6tf4Bm7xvCmtD/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.12 Proportion</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/14NPEyBwwIUIoJccl7K9mSWB3xA_HFcnj/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1BcLWWri8GMNiXHlDnJTcY1G5MH3EkIXw/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1SxLRuE_iYUQpz1Ex2ZcSl2FXSvgOvmbw/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="4" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> 3. Coordinate Geometry and Graphs</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.1 Coordinate Geometry</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1biS_IA-X3xZIzSV6lBAHMBqwa4Jmgq4m/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1dahpvtlImB2RXRofbTTHe5v7Cyx4tUgP/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1jp3-fswrEf7DZZZWoFNHmaLSsLANMvAF/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.2 Linear Graphs</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Q9GUE8EmZIYrM6oei6iViIVykfUbUmCS/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1UFr6cM3-P8qoRQm53QEgRqZBuOJ7wIWe/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1JF6gvhThHdUed_1bUTwPxEkP2RpzAjxE/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.3 Quadratic Graphs</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1HGHd-zybNFTJqqcZw9zkHMXA2KYY6QZ6/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1YoCpxZ2ZFUnSGWOt4bUc2F02ny7CDSsD/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.4 Further Graphs & Tangents</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1w6q-64KacqyTppUkrcTTUrLn1ZH3C0NI/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ATS0AE6hs5hrT7Yk_UAyaNlZ9WelE1o5/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1orMqbpI0L94c-7KxzTvaqJz3rdf35dSi/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.5 Solving & Graphing Inequalities</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1haHh2PlzG4J9TDeXLe--0jZku8c6xaQm/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/17u8yoy3ZuNpHgrt2B1HmRyHjj0Tsa_LS/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.6 Real-Life Graphs</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1t3K7MksGVHBmfOVEFd2CMqx0RjH7DUxJ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1coxUV1X0xYIAA2XiMAcmr3hAgicvwIf8/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1woEyqGcZc4V21-dYwkVVAqA0Nq97Nbwq/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.7 Differentiation</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/17tjEqiuC-_AeYfMnNjnFpqMwUhzArJai/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1AVrBD_IFyJWxdQF1zR8BymMJhG-ZEfLp/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1v_Wmi3ytbzdvR6WZJlc1g8SH-C4jiyuR/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="4" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> 4. Geometry</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">4.1 Geometry Toolkit</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1UWlxK9h1IvRsZTM3ssFvfbxRWBlLhm01/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/136RtAW14oZq56HFAqMGG8AJWW4riRY2N/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1hVIWx-H60GFaP0HksL2Opb-vE6xPDyoZ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">4.2 Angles in Polygons & Parallel Lines</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1FEtuc2TWzXTk_kP4u2Co4eCr8HXDRZjd/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Apxvi_OjpVoE6xi09wJ9xEiBI7TivfNG/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Gm4X3oLSC8SuNFYJPAbFKVm4iYyHkghj/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">4.3 Bearings Constructions & Scale Drawings</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1_YO9fiSljYA2KOqo9ULr_r7gOMc0TWTZ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1warhUbtJMBiP4_7avjMXzjyTMhh6SZeH/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1z5VcJK02C0lKzxppmMyHELJI9YFd-rMl/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">4.4 Circle Theorems</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/15OP_2Eyvbk96GRW8jE0rGeU57pDSXEY1/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Ibq6YAapoAk_7gYmiDTu0egC_QwugbU6/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1zh08GktHP2KWuu0E-rPJT1G4PZ4uIIXE/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="4" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> 5. Length, Area and Volume</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">5.1 Area & Perimeter</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1pFExYB4x_C2ntepqX5d4ZrVm-hu6kHjl/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1zLTZ2Rsba8c5qruYyZ3XeCsaXnHaqjWJ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ZQ97nvfS5bnko1uN41B7paS_uFkFZHm_/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">5.2 Circles Arcs & Sectors</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/10SKYpKqliHl6M4MTK836BgpjlgVSzAH5/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/15m7VOCrAd9aVpSeV-WedFSnoFdVXcrFc/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1de_Whg-YMUxKZBX6a5Po7nziM2MeB03o/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">5.3 Volume & Surface Area</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1p-_f6zclJOtp5NHHpYNZJtj_-LiK91nu/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1KCTxbA2nAXwkUUAa0LX7jgGkWLKUUwmY/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/131PpxqtS6opW-5-Atg9zs5HXkhN4mxVn/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">5.4 Congruence & Similarity</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1yqD2ANvb-_5tILVHF9-n2EzWLIlItLHq/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1KGsSk_ykyN0kRIJ6Ei6K8TglNeooU_Zj/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/11vuFIpdpC1T8rF9aTK3ma5Z-T3f_RMQp/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="4" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> 6. Pythagoras and Trigonometry</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">6.1 Right-Angled Triangles</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Gk8-mRExc10wS5HTi03CxoymFoo9MaGi/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1XgwhuDyjmQqtEFjO1TFrvH4W_lQcvEab/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1zKWqXe2Vbxtlb-_k2Myfm8V-FSkFceJt/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">6.2 Sine, Cosine Rule & Area of Triangles</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1e8l7oaYRu3CC4wXT8spqlnKPUNfhLKrr/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/11zOAaspXlVJykSvidrJSgX9CSKIb1nz5/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">6.3 3D Pythagoras & Trigonometry</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1JZNo38I_MUh85L2PpZ-OjLwHn8AzU_vA/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1uC1Nd_ojTB3rYOOCe3KWYem9kTGKA1Ss/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">6.4 Trigonometric Graphs & Equations</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1uFdMIPTVgJ7pNDh1x0IQkHPJoeP37Af5/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1T1-YnEEIZ1JO5dt-yFjjNUkq5bdkRAuI/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="4" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> 7. Vectors and Transformations</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">7.1 Vectors</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1fwkO5yVMUJ6egOmO7fsxflrMojGXb_0l/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1zA7DZ4p1B9wzE8frFeFWVvuczzyNN521/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1o9szlkHqqSXgZ_8As22FK0KuiBtHKeop/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">7.2 Transformations</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1g1wzrgF_qEBBqC_vcJC3hMrCCh26mUiq/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1LxbQ5qDfpEVNTgZpIHUW0pN9JAxeiOMx/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Wi6vMmJFuzgUWzmBYF04cpK55SRxZJf_/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="4" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> 8. Probability</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">8.1 Basic probability</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1NJ3Yl8Sdn1GIo5EGes_UxNv5ZSDU7xR8/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1hn-DgmGBd1-cMlGxh3zRRIPKA-PORhZT/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1gDPCE-dOoLi3WcUTn9uPKB0N83uXqf8Y/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">8.2 Probability Diagrams</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1CRiQTqtyjLsX_eQPgTGQcHfpW328PwVA/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1zVeDwDip0xstWUQPFEFbaP48l8MY5R8S/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1aJkDu3KFIEc8n4vgnxF0xMaMWJyejp4d/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">8.3 Conditional Probability</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1BaLmyE72LTIRhacTfCE7hn489Shzu0GK/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1uhj3fzksHs37OMFL1aTepPya_mL79qow/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1XSMZK05XPAUinFR0sCc-BHqyR3utN8tU/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="4" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> 9. Statistics</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">9.1 Averages & Range</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1LGLcVl2Kb4xrgXKwRUA_wtV-j-qY2ahz/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1W2OTuxYImjiv1slBPxFnDO1V3Idz1JwN/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1DQcSVE1AnNhVPLfWczZT95mb0lwLt88q/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">9.2 Statistical Diagrams</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1qOLO_nLLh0sPqrvvTmTcttxJpj1WHXTe/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1qs9IbF463G5HzxM1nERvBy3ZphaZb8eT/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">9.3 Histograms</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1LYL2W-GONIJkhINSfttafaeayGbaH0-H/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1OL1wMrs3KygqPdFGfjvmHl9z8VgEQflp/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">9.4 Cumulative Frequency</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1HxIXr1bzLiACX8wcpjCSbPjeIJ6wHLMY/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Tu1E0FVHOWqcTFLgc0VI8fuvCsVwkXSY/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1se5hjFBiyrEEKhsieqKas6055hSHHvlm/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P4 Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">9.5 Scatter Graphs & Correlation</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/10_9BkDEJyZ2mcpxgcg0SH2_ATmTq8wgi/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1eyALE1HvlORRPlLNIcz544Wn0qaxIa_l/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> P2 Questions</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+:::

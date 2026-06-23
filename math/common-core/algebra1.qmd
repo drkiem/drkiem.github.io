@@ -1,0 +1,88 @@
+---
+title: "Common Core Algebra 1"
+subtitle: "Chương Trình Đại Số 1 Phổ Thông Hệ Mỹ (High School)"
+format: html
+---
+
+::: {.callout-note}
+## Tài nguyên tự học: Common Core Algebra 1
+Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức Đại số 1 cơ bản, ví dụ minh họa công thức LaTeX sắc nét, bài tập tự luyện và ngân hàng câu hỏi củng cố. Đây là nền tảng đại số cốt lõi nhất bắt buộc phải nắm vững cho mọi môn học toán học tiếp theo.
+:::
+
+## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+
+<p><strong>Algebra 1</strong> là học phần đại số đầu tiên bậc High School của hệ thống giáo dục Mỹ (Common Core State Standards). Môn học tập trung phát triển tư duy chuyển dịch từ số học cụ thể sang đại số biến số trừu tượng, giải quyết các phương trình tuyến tính và phi tuyến cơ bản.</p>
+
+---
+
+## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (SYLLABUS CORE)
+
+::: {.callout-important}
+### Các chuyên đề cốt lõi của Algebra 1:
+1. **Linear Equations and Inequalities (Phương trình & Bất phương trình tuyến tính):**
+   * Giải phương trình 1 ẩn, hệ phương trình tuyến tính 2 ẩn bằng phương pháp thế hoặc cộng đại số.
+   * Giải và biểu diễn tập nghiệm bất phương trình tuyến tính trên trục số.
+2. **Linear Functions and Graphs (Hàm số tuyến tính):**
+   * Hệ số góc (slope) $m = \frac{y_2-y_1}{x_2-x_1}$. Viết phương trình đường thẳng dạng $y=mx+b$ hoặc dạng tiêu chuẩn.
+3. **Quadratic Functions (Hàm số bậc hai):**
+   * Biến đổi đa thức bậc hai dạng khai triển sang dạng nhân tử (factoring) và dạng bình phương hoàn chỉnh.
+   * Sử dụng công thức nghiệm bậc hai (quadratic formula) để tìm nghiệm.
+4. **Exponents and Exponential Functions (Hàm số mũ cơ bản):**
+   * Các quy luật mũ nguyên, vẽ đồ thị hàm số mũ cơ bản tăng trưởng/suy giảm.
+:::
+
+---
+
+## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+
+Công thức đại số hiển thị sắc nét bằng LaTeX:
+
+### Công thức nghiệm phương trình bậc hai (Quadratic Formula)
+Nghiệm của phương trình bậc hai tổng quát $ax^2 + bx + c = 0$ ($a \neq 0$):
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+### Hệ số góc của đường thẳng (Slope formula)
+Hệ số góc $m$ của đường thẳng đi qua hai điểm $A(x_1, y_1)$ và $B(x_2, y_2)$:
+$$m = \frac{y_2 - y_1}{x_2 - x_1}$$
+
+---
+
+## 4. BẪY ĐIỂM SỐ & PHƯƠNG PHÁP LÀM BÀI (EXAM TIPS)
+
+::: {.callout-tip}
+### Các lỗi phổ biến học sinh cần tránh ở Algebra 1:
+* **⚠️ Đảo chiều bất đẳng thức khi nhân/chia số âm:** Đây là lỗi kinh điển nhất của học sinh. Khi nhân hoặc chia cả hai vế của một bất đẳng thức với một **số âm**, ta bắt buộc phải **đảo ngược chiều** của bất đẳng thức (ví dụ: $-2x < 6 \Leftrightarrow x > -3$).
+* **⚠️ Rút gọn đa thức sai quy tắc phân phối:** Hãy cẩn thận khi nhân phá ngoặc có dấu trừ phía trước, ví dụ: $-(x - 3) = -x + 3$.
+:::
+
+---
+
+## 5. KHO ĐỀ PAST PAPERS THEO CHUYÊN ĐỀ
+
+::: {.program-grid}
+
+::: {.program-card .topic-card}
+### Topic 1: Linear Systems
+* Giải hệ phương trình tuyến tính hai ẩn, bất phương trình và biểu diễn trục số.
+* [**Tải đề luyện chuyên đề 1 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 2: Slope & Linear Graphs
+* Tính hệ số góc đường thẳng, viết phương trình đường thẳng và vẽ đồ thị.
+* [**Tải đề luyện chuyên đề 2 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 3: Quadratic Factoring
+* Phương pháp phân tích nhân tử bậc hai, giải phương trình bậc hai bằng công thức nghiệm.
+* [**Tải đề luyện chuyên đề 3 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 4: Exponents Laws
+* Rút gọn biểu thức chứa lũy thừa mũ nguyên dương/âm và giải phương trình mũ cơ bản.
+* [**Tải đề luyện chuyên đề 4 →**](#){.btn-gateway}
+:::
+
+:::

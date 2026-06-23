@@ -1,0 +1,42 @@
+---
+title: "A-Level Chemistry Overview"
+subtitle: "Comprehensive Portal for International A-Level Chemistry Exam Boards"
+page-layout: full
+---
+
+::: {.callout-note}
+## Path to Achieving an A* in A-Level Chemistry
+Welcome, students! The A-Level Chemistry curriculum is renowned for its vast experimental requirements, intricate organic reaction mechanisms, and demanding physical chemistry calculations. K-Education Hub provides a structured library of core study notes, topical worksheets, and actual exam past papers organized under three primary pathways: **CIE**, **Edexcel**, and **Other Exam Boards (Others)**.
+:::
+
+## Choose Your Exam Board
+
+Select your specific exam board below to access actual past papers, syllabus-aligned study notes, and targeted reaction mechanism sheets:
+
+::: {.program-grid}
+
+::: {.program-card .chem-card}
+### A-Level CIE Chemistry (9701)
+**Cambridge Assessment International Education**
+
+* Access academic notes and exam resources mapped from Paper 1 (Multiple Choice) to Paper 5 (Planning, Analysis and Evaluation of experimental data).
+* [Explore CIE Resources →](cie/index.qmd)
+:::
+
+::: {.program-card .chem-card}
+### A-Level Edexcel Chemistry
+**Pearson Edexcel International Advanced Level (IAL)**
+
+* Navigate the modular exam structure from IAS (Units 1-3) to IA2 (Units 4-6). Focus on mechanisms, thermodynamics, and laboratory investigation notes.
+* [Explore Edexcel Resources →](edexcel/index.qmd)
+:::
+
+::: {.program-card .chem-card}
+### Other Exam Boards (Others)
+**AQA, OxfordAQA, and Advanced Supplementary Resources**
+
+* Find supplementary topic worksheets, advanced physical chemistry calculations, and unified organic reaction mechanism reference guides.
+* [Explore Other Resources →](others/index.qmd)
+:::
+
+:::

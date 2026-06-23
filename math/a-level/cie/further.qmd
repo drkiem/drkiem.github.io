@@ -1,0 +1,410 @@
+---
+title: "CIE A-Level Further Mathematics"
+subtitle: "Chương Trình Toán Học Cao Cấp Cambridge International A-Level (Mã môn: 9231)"
+format: html
+---
+
+::: {.callout-note}
+## Tài nguyên tự học & Luyện thi: CIE A-Level Further Mathematics (9231)
+Chào mừng các em học sinh xuất sắc! Khu vực học thuật chuyên sâu này chứa Sơ đồ kiến thức toán học cao cấp, công thức ma trận nâng cao và phương trình vi phân cấp hai hiển thị bằng LaTeX sắc nét cùng ngân hàng tài liệu giúp các em tự tin chinh phục điểm số tuyệt đối A* môn Further Math phục vụ ứng tuyển đại học hàng đầu thế giới (Ivy League, Oxbridge).
+:::
+
+## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+
+<p><strong>CIE A-Level Further Mathematics (9231)</strong> là môn học tự chọn nâng cao dành cho những học sinh có năng khiếu toán học đặc biệt xuất sắc. Môn học này cung cấp cái nhìn sâu sắc và hàn lâm vượt bậc vào thế giới toán đại học, trang bị các công cụ tư duy sắc bén nhất cho các ngành Khoa học Máy tính, Kỹ thuật và Vật lý lý thuyết.</p>
+
+---
+
+## 2. CẤU TRÚC ĐỒNG BỘ 4 PAPERS THI
+
+Đề thi Further Mathematics được chia thành 4 thành phần thi độc lập:
+
+<div class="table-wrapper" style="margin-bottom: 2rem;">
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th>Thành phần đề thi (Paper)</th>
+        <th>Thời gian làm bài</th>
+        <th>Tổng điểm</th>
+        <th style="text-align: right;">Trọng số điểm A-Level</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Paper 1: Further Pure Mathematics 1</strong></td>
+        <td>2 tiếng</td>
+        <td>75 điểm</td>
+        <td style="text-align: right;"><strong>30%</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Paper 2: Further Pure Mathematics 2</strong></td>
+        <td>2 tiếng</td>
+        <td>75 điểm</td>
+        <td style="text-align: right;"><strong>30%</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Paper 3: Further Mechanics</strong></td>
+        <td>1 tiếng 30 phút</td>
+        <td>50 điểm</td>
+        <td style="text-align: right;"><strong>20%</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Paper 4: Further Probability & Statistics</strong></td>
+        <td>1 tiếng 30 phút</td>
+        <td>50 điểm</td>
+        <td style="text-align: right;"><strong>20%</strong></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
+
+## 3. KHUNG CHƯƠNG TRÌNH CHI TIẾT (SYLLABUS CORE)
+
+::: {.callout-important}
+### Các chuyên đề cốt lõi của Further Math:
+1. **Further Pure Mathematics 1 (Toán thuần túy cao cấp 1):**
+   * Chứng minh bằng phương pháp quy nạp toán học (Proof by mathematical induction) đối với tổng chuỗi, ma trận và chia hết.
+   * Hình học tọa độ đường cong cực (Polar coordinates) và vẽ đồ thị các đường cong cực dạng Limacon, Cardioid, Lemniscate.
+   * Vector không gian nâng cao: Khoảng cách ngắn nhất giữa hai đường thẳng chéo nhau, khoảng cách từ một điểm đến một mặt phẳng.
+2. **Further Pure Mathematics 2 (Toán thuần túy cao cấp 2):**
+   * Đại số tuyến tính: Phép nhân ma trận, tìm ma trận nghịch đảo $M^{-1}$, đa thức đặc trưng, giá trị riêng (eigenvalues) và vector riêng (eigenvectors).
+   * Khai triển chuỗi Taylor và Maclaurin của các hàm số phức tạp.
+   * Giải phương trình vi phân tuyến tính cấp hai có dạng $a\frac{d^2y}{dx^2} + b\frac{dy}{dx} + cy = f(x)$.
+3. **Further Mechanics (Cơ học cao cấp):**
+   * Động lực học chuyển động tròn không đều, va chạm đàn hồi một chiều và hai chiều (oblique collisions).
+   * Phương trình vi phân ứng dụng trong dao động điều hòa (Simple Harmonic Motion - SHM) chịu lực cản.
+4. **Further Probability & Statistics (Thống kê cao cấp):**
+   * Biến ngẫu nhiên liên tục nâng cao và các phân phối xác suất gộp.
+   * Kiểm định giả thuyết phi tham số bằng kiểm định Chi-Square ($\chi^2$) và kiểm định dấu (Sign test).
+:::
+
+---
+
+## 4. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+
+Các công thức toán đại học hiển thị sắc nét bằng LaTeX:
+
+### Phương trình vi phân tuyến tính cấp hai
+Để giải phương trình vi phân tuyến tính cấp hai $a\frac{d^2y}{dx^2} + b\frac{dy}{dx} + cy = f(x)$, ta giải phương trình đặc trưng tìm nghiệm thuần nhất (Complementary Function - CF) kết hợp với nghiệm riêng (Particular Integral - PI):
+$$a m^2 + b m + c = 0$$
+* Nghiệm tổng quát: $y(x) = y_{CF}(x) + y_{PI}(x)$.
+
+### Trọng tâm diện tích đường cong cực (Polar Area)
+Diện tích giới hạn bởi đường cong cực $r = f(\theta)$ và hai tia $\theta = \alpha$, $\theta = \beta$ được tính bằng tích phân xác định:
+$$A = \frac{1}{2} \int_{\alpha}^{\beta} r^2 \, d\theta$$
+
+---
+
+## 5. BẪY ĐIỂM SỐ & PHƯƠNG PHÁP LÀM BÀI (EXAM TIPS)
+
+::: {.callout-tip}
+### Lời khuyên vượt qua kỳ thi Further Math:
+* **⚠️ Cẩn thận khi tính toán giá trị riêng (Eigenvalues):** Việc tìm eigenvalues thông qua phương trình đặc trưng $\det(A - \lambda I) = 0$ đòi hỏi kỹ năng biến đổi định thức ma trận $3 \times 3$ không sai số. Chỉ một lỗi dấu nhỏ sẽ dẫn đến việc tìm sai vector riêng ở các câu tiếp theo.
+* **⚠️ Phân biệt hệ số phục hồi va chạm (Coefficient of Restitution $e$):** Trong phần Further Mechanics, khi giải các bài toán va chạm chéo (oblique collisions), hãy luôn nhớ viết rõ hai phương trình bảo toàn động lượng độc lập theo phương tiếp tuyến và phương pháp tuyến của mặt phẳng tiếp xúc va chạm.
+:::
+
+---
+
+## 6. KHO ĐỀ PAST PAPERS THEO CHUYÊN ĐỀ
+
+::: {.program-grid}
+
+::: {.program-card .topic-card}
+### Topic 1: Further Pure 1 (Induction & Polar)
+* Luyện giải các bài toán chứng minh quy nạp chuỗi số phức tạp, vẽ và tính diện tích đường cong cực.
+* [**Tải đề luyện chuyên đề 1 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 2: Further Pure 2 (Matrices & ODEs)
+* Bài toán tìm eigenvalues/eigenvectors ma trận, chéo hóa ma trận và giải phương trình vi phân cấp hai.
+* [**Tải đề luyện chuyên đề 2 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 3: Further Mechanics
+* Luyện giải các bài toán va chạm đàn hồi xiên, động lực học vật rắn chuyển động tròn và dao động SHM có lực cản.
+* [**Tải đề luyện chuyên đề 3 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 4: Further Statistics
+* Luyện giải các bài kiểm tra giả thuyết Chi-Square độc lập, phân phối mẫu liên tục và sai số.
+* [**Tải đề luyện chuyên đề 4 →**](#){.btn-gateway}
+:::
+
+:::
+
+---
+
+## 7. NGÂN HÀNG ĐỀ THI (PAST PAPERS BANK)
+
+*Tìm kiếm và lọc đề thi chính thức. Sử dụng bảng điều khiển bên dưới để lọc theo năm và thành phần đề thi:*
+
+::: {.search-engine-box}
+### CIE A-Level Further Mathematics Past Papers List
+
+```{=html}
+<div class="card p-3 mb-4 shadow-sm" style="border-radius: 12px; border: 1px solid rgba(0,0,0,0.08); background: var(--bs-card-bg, #ffffff);">
+  <div class="card-body p-0">
+    <div class="d-flex align-items-center flex-wrap gap-4">
+      
+      <!-- Year Select Dropdown -->
+      <div class="d-flex align-items-center gap-2" style="min-width: 180px;">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Year:</span>
+        <select id="filter-year" class="form-select form-select-sm" onchange="selectYearDropdown()" style="max-width: 130px; display: inline-block;">
+          <option value="">All Years</option>
+        </select>
+      </div>
+      
+      <!-- Vertical Divider on desktop -->
+      <div class="d-none d-md-block" style="border-left: 1px solid rgba(0,0,0,0.1); height: 24px;"></div>
+      
+      <!-- Paper Pills -->
+      <div class="d-flex align-items-center gap-2 flex-grow-1">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Paper:</span>
+        <div id="paper-pills" class="d-flex flex-wrap gap-1">
+          <button class="btn btn-sm btn-primary smart-paper-btn active" data-paper="" onclick="selectPaper(this)">All</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="1" onclick="selectPaper(this)">Paper 1</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="2" onclick="selectPaper(this)">Paper 2</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="3" onclick="selectPaper(this)">Paper 3</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="4" onclick="selectPaper(this)">Paper 4</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div id="past-papers-table-container">
+  <p><i class="bi bi-hourglass-split"></i> Loading past papers...</p>
+</div>
+
+<script>
+let pastPapersDb = [];
+let currentSelectedYear = '';
+let currentSelectedPaper = '';
+let currentPage = 1;
+const pageSize = 10;
+let filteredExams = [];
+const currentLevel = 'further';
+
+async function loadPastPapersDb() {
+  if (pastPapersDb.length > 0) return pastPapersDb;
+  try {
+    const response = await fetch('past_papers_metadata.json');
+    if (!response.ok) throw new Error('Network response was not ok');
+    pastPapersDb = await response.json();
+  } catch (error) {
+    console.error('Failed to load past papers metadata:', error);
+  }
+  return pastPapersDb;
+}
+
+function populateYearDropdown(db, level) {
+  const yearSelect = document.getElementById('filter-year');
+  if (!yearSelect) return;
+
+  const years = new Set();
+  db.forEach(item => {
+    if (item.level === level && item.year) {
+      years.add(item.year.toString().trim());
+    }
+  });
+
+  const sortedYears = Array.from(years).sort((a, b) => parseInt(b) - parseInt(a));
+
+  yearSelect.innerHTML = '<option value="">All Years</option>';
+  sortedYears.forEach(year => {
+    const option = document.createElement('option');
+    option.value = year;
+    option.textContent = year;
+    yearSelect.appendChild(option);
+  });
+}
+
+function renderTableData() {
+  const tableBody = document.getElementById('past-papers-table-body');
+  const paginationContainer = document.getElementById('pagination-controls');
+  if (!tableBody) return;
+
+  const totalPages = Math.ceil(filteredExams.length / pageSize);
+  if (currentPage > totalPages) currentPage = Math.max(1, totalPages);
+
+  const start = (currentPage - 1) * pageSize;
+  const end = start + pageSize;
+  const pageItems = filteredExams.slice(start, end);
+
+  let html = '';
+  pageItems.forEach(exam => {
+    const seasonLabel = exam.season.charAt(0).toUpperCase() + exam.season.slice(1);
+    const paperLabel = 'Paper ' + exam.paper;
+    const variantLabel = exam.variant ? 'v' + exam.variant : 'N/A';
+
+    let qpHtml = '';
+    if (exam.qp) {
+      qpHtml = `<a href="${exam.qp}" target="_blank" title="Download Question Paper" class="btn btn-sm btn-primary bi bi-file-earmark-text" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;"></a>`;
+    } else {
+      qpHtml = `<span class="text-muted" style="font-size: 0.85rem;">N/A</span>`;
+    }
+
+    let msHtml = '';
+    if (exam.ms) {
+      msHtml = `<a href="${exam.ms}" target="_blank" title="Download Mark Scheme" class="btn btn-sm btn-success bi bi-key" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;"></a>`;
+    } else {
+      msHtml = `<span class="text-muted" style="font-size: 0.85rem;">N/A</span>`;
+    }
+
+    html += `
+      <tr>
+        <td><strong>${exam.year}</strong></td>
+        <td><strong>${seasonLabel}</strong></td>
+        <td><span class="badge badge-paper">${paperLabel}</span></td>
+        <td><span class="badge badge-tz">${variantLabel}</span></td>
+        <td style="text-align: center;">${qpHtml}</td>
+        <td style="text-align: center;">${msHtml}</td>
+      </tr>
+    `;
+  });
+  tableBody.innerHTML = html;
+
+  if (totalPages <= 1) {
+    paginationContainer.innerHTML = '';
+    return;
+  }
+
+  let pagHtml = '';
+  pagHtml += `<button class="btn btn-sm btn-outline-primary" ${currentPage === 1 ? 'disabled' : ''} onclick="changePage(${currentPage - 1})">Prev</button>`;
+  
+  for (let i = 1; i <= totalPages; i++) {
+    if (i === currentPage) {
+      pagHtml += `<button class="btn btn-sm btn-primary active">${i}</button>`;
+    } else {
+      if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= 1) {
+        pagHtml += `<button class="btn btn-sm btn-outline-primary" onclick="changePage(${i})">${i}</button>`;
+      } else if (i === 2 || i === totalPages - 1) {
+        pagHtml += `<span class="text-muted px-1">...</span>`;
+      }
+    }
+  }
+
+  pagHtml += `<button class="btn btn-sm btn-outline-primary" ${currentPage === totalPages ? 'disabled' : ''} onclick="changePage(${currentPage + 1})">Next</button>`;
+  
+  paginationContainer.innerHTML = pagHtml.replace(/(<span class="text-muted px-1">\.\.\.<\/span>\s*){2,}/g, '<span class="text-muted px-1">...</span>');
+}
+
+function changePage(page) {
+  currentPage = page;
+  renderTableData();
+  document.getElementById('past-papers-table-container').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
+function applyFilters(level) {
+  let filtered = pastPapersDb.filter(item => item.level === level);
+
+  if (currentSelectedYear) {
+    filtered = filtered.filter(item => item.year.toString() === currentSelectedYear);
+  }
+  if (currentSelectedPaper) {
+    filtered = filtered.filter(item => item.paper.toString() === currentSelectedPaper);
+  }
+
+  const exams = {};
+  filtered.forEach(item => {
+    const key = `${item.year}_${item.season}_${item.variant}_${item.paper}`;
+    if (!exams[key]) {
+      exams[key] = {
+        year: item.year,
+        season: item.season,
+        variant: item.variant,
+        paper: item.paper,
+        qp: null,
+        ms: null
+      };
+    }
+    if (item.type === 'qp') {
+      exams[key].qp = item.google_drive_link;
+    } else if (item.type === 'ms') {
+      exams[key].ms = item.google_drive_link;
+    }
+  });
+
+  filteredExams = Object.values(exams);
+  filteredExams.sort((a, b) => {
+    if (a.year !== b.year) return parseInt(b.year) - parseInt(a.year);
+    if (a.season !== b.season) return b.season.localeCompare(a.season);
+    if (a.variant !== b.variant) return a.variant.localeCompare(b.variant);
+    return a.paper.localeCompare(b.paper);
+  });
+
+  const container = document.getElementById('past-papers-table-container');
+  if (filteredExams.length === 0) {
+    container.innerHTML = '<p style="padding: 1rem; text-align: center; color: #9ca3af;"><i class="bi bi-info-circle"></i> No matching past papers found.</p>';
+    return;
+  }
+
+  container.innerHTML = `
+    <div class="table-wrapper">
+      <table class="premium-table">
+        <thead>
+          <tr>
+            <th>Year</th>
+            <th>Season</th>
+            <th>Paper</th>
+            <th>Variant</th>
+            <th style="text-align: center; width: 80px;">QP</th>
+            <th style="text-align: center; width: 80px;">MS</th>
+          </tr>
+        </thead>
+        <tbody id="past-papers-table-body">
+        </tbody>
+      </table>
+    </div>
+    <div class="d-flex justify-content-center align-items-center gap-2 mt-3" id="pagination-controls"></div>
+  `;
+
+  currentPage = 1;
+  renderTableData();
+}
+
+function selectYearDropdown() {
+  const yearSelect = document.getElementById('filter-year');
+  currentSelectedYear = yearSelect.value || '';
+  applyFilters(currentLevel);
+}
+
+function selectPaper(button) {
+  currentSelectedPaper = button.getAttribute('data-paper') || '';
+
+  const buttons = document.querySelectorAll('.smart-paper-btn');
+  buttons.forEach(btn => {
+    btn.classList.remove('btn-primary', 'active');
+    btn.classList.add('btn-outline-secondary');
+  });
+  button.classList.remove('btn-outline-secondary');
+  button.classList.add('btn-primary', 'active');
+
+  applyFilters(currentLevel);
+}
+
+async function initPastPapersTable() {
+  const container = document.getElementById('past-papers-table-container');
+  const db = await loadPastPapersDb();
+  
+  if (!db || db.length === 0) {
+    container.innerHTML = '<p><i class="bi bi-exclamation-triangle-fill" style="color: #ef4444;"></i> Error: Failed to load past papers database. Please try again later.</p>';
+    return;
+  }
+
+  populateYearDropdown(db, currentLevel);
+  applyFilters(currentLevel);
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  initPastPapersTable();
+});
+</script>
+```
+:::

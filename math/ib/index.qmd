@@ -1,0 +1,357 @@
+---
+title: "IB Mathematics Overview"
+subtitle: "International Baccalaureate (IB) Diploma Programme Mathematics"
+format: html
+---
+
+::: {.callout-note}
+## Learning Guidance & Exam Preparation: IB Mathematics
+Welcome to the specialized IB Mathematics learning portal. We provide comprehensive study guides, practice questions, and past papers dynamically mapped for both the **Analysis & Approaches (AA)** and **Applications & Interpretation (AI)** pathways, at both **Higher Level (HL)** and **Standard Level (SL)**.
+:::
+
+## Choose Your Learning Pathway
+
+To get started, select your specific course below. Each page links directly to detailed study notes, syllabus checklists, topic-based worksheets, and actual exam past papers.
+
+::: {.program-grid}
+
+::: {.program-card}
+### Math AA HL
+**Analysis & Approaches (Higher Level)**
+* Designed for students intending to study engineering, mathematics, physics, or computer science.
+* Emphasizes theoretical mathematical proofs, algebraic structures, and strong non-calculator skills.
+* [**Explore Resources →**](aa-hl.qmd)
+:::
+
+::: {.program-card}
+### Math AA SL
+**Analysis & Approaches (Standard Level)**
+* Recommended for students pursuing biochemistry, economics, or general natural sciences.
+* Focuses on analytical algebraic skills, functions, trigonometry, and calculus with high academic rigor.
+* [**Explore Resources →**](aa-sl.qmd)
+:::
+
+::: {.program-card}
+### Math AI HL
+**Applications & Interpretation (Higher Level)**
+* Ideal for students targeting economics, finance, data science, or social science statistics.
+* Heavy emphasis on technology and graphing display calculators (GDC), matrices, probability, and complex mathematical modeling.
+* [**Explore Resources →**](ai-hl.qmd)
+:::
+
+::: {.program-card}
+### Math AI SL
+**Applications & Interpretation (Standard Level)**
+* Suitable for students intending to study humanities, arts, design, or business requiring basic data analysis.
+* Focuses on utilizing GDC tools to solve real-world statistical and financial problems.
+* [**Explore Resources →**](ai-sl.qmd)
+:::
+
+:::
+
+---
+
+## IB Math Past Papers
+
+*Select your IB Math, year, and paper to find official exam materials:*
+
+::: {.search-engine-box}
+
+```{=html}
+<div class="card p-3 mb-4 shadow-sm" style="border-radius: 12px; border: 1px solid rgba(0,0,0,0.08); background: var(--bs-card-bg, #ffffff);">
+  <div class="card-body p-0">
+    <div class="d-flex align-items-center flex-wrap gap-4">
+      
+      <div class="d-flex align-items-center gap-2" style="min-width: 200px;">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Pathway:</span>
+        <select id="filter-level" class="form-select form-select-sm" onchange="selectLevelDropdown()" style="display: inline-block;">
+          <option value="" selected>All IB Math</option>
+          <option value="aa_hl">Math AA HL</option>
+          <option value="aa_sl">Math AA SL</option>
+          <option value="ai_hl">Math AI HL</option>
+          <option value="ai_sl">Math AI SL</option>
+        </select>
+      </div>
+
+      <div class="d-none d-md-block" style="border-left: 1px solid rgba(0,0,0,0.1); height: 24px;"></div>
+      
+      <div class="d-flex align-items-center gap-2" style="min-width: 150px;">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Year:</span>
+        <select id="filter-year" class="form-select form-select-sm" onchange="selectYearDropdown()" style="max-width: 120px; display: inline-block;">
+          <option value="">All Years</option>
+        </select>
+      </div>
+      
+      <div class="d-none d-md-block" style="border-left: 1px solid rgba(0,0,0,0.1); height: 24px;"></div>
+      
+      <div class="d-flex align-items-center gap-2 flex-grow-1">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Paper:</span>
+        <div id="paper-pills" class="d-flex flex-wrap gap-1">
+          <button class="btn btn-sm btn-primary smart-paper-btn active" data-paper="" onclick="selectPaper(this)">All</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="p1" onclick="selectPaper(this)">Paper 1</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="p2" onclick="selectPaper(this)">Paper 2</button>
+          <button id="btn-p3" class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="p3" onclick="selectPaper(this)">Paper 3</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div id="past-papers-table-container">
+  <p><i class="bi bi-hourglass-split"></i> Loading database...</p>
+</div>
+
+<script>
+let pastPapersDb = [];
+let currentSelectedLevel = ''; 
+let currentSelectedYear = '';
+let currentSelectedPaper = '';
+let currentPage = 1;
+const pageSize = 10;
+let filteredExams = [];
+
+async function loadPastPapersDb() {
+  if (pastPapersDb.length > 0) return pastPapersDb;
+  try {
+    const response = await fetch('past_papers_metadata.json');
+    if (!response.ok) throw new Error('Network response was not ok');
+    pastPapersDb = await response.json();
+  } catch (error) {
+    console.error('Failed to load past papers metadata:', error);
+  }
+  return pastPapersDb;
+}
+
+function populateYearDropdown() {
+  const yearSelect = document.getElementById('filter-year');
+  if (!yearSelect) return;
+
+  const years = new Set();
+  pastPapersDb.forEach(item => {
+    if ((!currentSelectedLevel || item.level === currentSelectedLevel) && item.year) {
+      years.add(item.year.toString().trim());
+    }
+  });
+
+  const sortedYears = Array.from(years).sort((a, b) => parseInt(b) - parseInt(a));
+
+  yearSelect.innerHTML = '<option value="">All Years</option>';
+  sortedYears.forEach(year => {
+    const option = document.createElement('option');
+    option.value = year;
+    option.textContent = year;
+    yearSelect.appendChild(option);
+  });
+}
+
+function formatLevelBadge(levelStr) {
+  if (!levelStr) return '';
+  const formatted = levelStr.toUpperCase().replace('_', ' ');
+  let color = '#6c757d'; 
+  if (levelStr.includes('aa_hl')) color = '#0d6efd';
+  else if (levelStr.includes('aa_sl')) color = '#0dcaf0';
+  else if (levelStr.includes('ai_hl')) color = '#198754';
+  else if (levelStr.includes('ai_sl')) color = '#20c997';
+  
+  return `<span class="badge" style="background-color: ${color};">${formatted}</span>`;
+}
+
+function renderTableData() {
+  const tableBody = document.getElementById('past-papers-table-body');
+  const paginationContainer = document.getElementById('pagination-controls');
+  if (!tableBody) return;
+
+  const totalPages = Math.ceil(filteredExams.length / pageSize);
+  if (currentPage > totalPages) currentPage = Math.max(1, totalPages);
+
+  const start = (currentPage - 1) * pageSize;
+  const end = start + pageSize;
+  const pageItems = filteredExams.slice(start, end);
+
+  let html = '';
+  pageItems.forEach(exam => {
+    const seasonLabel = exam.season.charAt(0).toUpperCase() + exam.season.slice(1);
+    const paperLabel = exam.paper.toUpperCase();
+    const tzLabel = exam.timezone ? exam.timezone.toUpperCase() : '';
+    const levelBadgeHtml = formatLevelBadge(exam.level);
+
+    let qpHtml = exam.qp 
+      ? `<a href="${exam.qp}" target="_blank" title="Download Question Paper" class="btn btn-sm btn-primary bi bi-file-earmark-text" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; border-radius: 6px;"></a>` 
+      : `<span class="text-muted" style="font-size: 0.85rem;">N/A</span>`;
+
+    let msHtml = exam.ms 
+      ? `<a href="${exam.ms}" target="_blank" title="Download Mark Scheme" class="btn btn-sm btn-success bi bi-key" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; border-radius: 6px;"></a>` 
+      : `<span class="text-muted" style="font-size: 0.85rem;">N/A</span>`;
+
+    html += `
+      <tr>
+        <td><strong>${exam.year}</strong></td>
+        <td><strong>${seasonLabel}</strong></td>
+        <td>${levelBadgeHtml}</td>
+        <td><span class="badge badge-paper">${paperLabel}</span></td>
+        <td><span class="badge badge-tz">${tzLabel}</span></td>
+        <td style="text-align: center;">${qpHtml}</td>
+        <td style="text-align: center;">${msHtml}</td>
+      </tr>
+    `;
+  });
+  tableBody.innerHTML = html;
+
+  if (totalPages <= 1) {
+    paginationContainer.innerHTML = '';
+    return;
+  }
+
+  let pagHtml = `<button class="btn btn-sm btn-outline-primary" ${currentPage === 1 ? 'disabled' : ''} onclick="changePage(${currentPage - 1})">Prev</button>`;
+  for (let i = 1; i <= totalPages; i++) {
+    if (i === currentPage) {
+      pagHtml += `<button class="btn btn-sm btn-primary active">${i}</button>`;
+    } else if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= 1) {
+      pagHtml += `<button class="btn btn-sm btn-outline-primary" onclick="changePage(${i})">${i}</button>`;
+    } else if (i === 2 || i === totalPages - 1) {
+      pagHtml += `<span class="text-muted px-1">...</span>`;
+    }
+  }
+  pagHtml += `<button class="btn btn-sm btn-outline-primary" ${currentPage === totalPages ? 'disabled' : ''} onclick="changePage(${currentPage + 1})">Next</button>`;
+  
+  paginationContainer.innerHTML = pagHtml.replace(/(<span class="text-muted px-1">\.\.\.<\/span>\s*){2,}/g, '<span class="text-muted px-1">...</span>');
+}
+
+function changePage(page) {
+  currentPage = page;
+  renderTableData();
+}
+
+function applyFilters() {
+  let filtered = pastPapersDb;
+
+  if (currentSelectedLevel) {
+    filtered = filtered.filter(item => item.level === currentSelectedLevel);
+  }
+  
+  if (currentSelectedYear) {
+    filtered = filtered.filter(item => item.year.toString() === currentSelectedYear);
+  }
+  
+  if (currentSelectedPaper) {
+    filtered = filtered.filter(item => item.paper.toLowerCase() === currentSelectedPaper.toLowerCase());
+  }
+
+  const exams = {};
+  filtered.forEach(item => {
+    const key = `${item.level}_${item.year}_${item.season}_${item.timezone}_${item.paper}`;
+    if (!exams[key]) {
+      exams[key] = {
+        level: item.level,
+        year: item.year,
+        season: item.season,
+        timezone: item.timezone,
+        paper: item.paper,
+        qp: null,
+        ms: null
+      };
+    }
+    if (item.type === 'qp') exams[key].qp = item.google_drive_link;
+    if (item.type === 'ms') exams[key].ms = item.google_drive_link;
+  });
+
+  filteredExams = Object.values(exams).sort((a, b) => {
+    if (a.year !== b.year) return parseInt(b.year) - parseInt(a.year);
+    if (a.season !== b.season) return b.season.localeCompare(a.season);
+    if (a.level !== b.level) return a.level.localeCompare(b.level);
+    if (a.timezone !== b.timezone) return a.timezone.localeCompare(b.timezone);
+    return a.paper.localeCompare(b.paper);
+  });
+
+  const container = document.getElementById('past-papers-table-container');
+  if (filteredExams.length === 0) {
+    container.innerHTML = '<p style="padding: 1rem; text-align: center; color: #9ca3af;"><i class="bi bi-info-circle"></i> No matching past papers found for this selection.</p>';
+    return;
+  }
+
+  container.innerHTML = `
+    <div class="table-wrapper">
+      <table class="premium-table">
+        <thead>
+          <tr>
+            <th>Year</th>
+            <th>Season</th>
+            <th>IB math</th>
+            <th>Paper</th>
+            <th>Timezone</th>
+            <th style="text-align: center; width: 80px;">QP</th>
+            <th style="text-align: center; width: 80px;">MS</th>
+          </tr>
+        </thead>
+        <tbody id="past-papers-table-body"></tbody>
+      </table>
+    </div>
+    <div class="d-flex justify-content-center align-items-center gap-2 mt-3" id="pagination-controls"></div>
+  `;
+  
+  currentPage = 1;
+  renderTableData();
+}
+
+function selectLevelDropdown() {
+  currentSelectedLevel = document.getElementById('filter-level').value;
+  
+  const p3Btn = document.getElementById('btn-p3');
+  if (currentSelectedLevel.includes('sl')) {
+    p3Btn.style.display = 'none';
+    if(currentSelectedPaper === 'p3') {
+       currentSelectedPaper = ''; 
+       document.querySelector('[data-paper=""]').click();
+    }
+  } else {
+    p3Btn.style.display = 'inline-block';
+  }
+
+  currentSelectedYear = '';
+  document.getElementById('filter-year').value = '';
+  
+  populateYearDropdown();
+  applyFilters();
+}
+
+function selectYearDropdown() {
+  currentSelectedYear = document.getElementById('filter-year').value || '';
+  applyFilters();
+}
+
+function selectPaper(button) {
+  currentSelectedPaper = button.getAttribute('data-paper') || '';
+
+  const buttons = document.querySelectorAll('.smart-paper-btn');
+  buttons.forEach(btn => {
+    btn.classList.remove('btn-primary', 'active');
+    btn.classList.add('btn-outline-secondary');
+  });
+  button.classList.remove('btn-outline-secondary');
+  button.classList.add('btn-primary', 'active');
+
+  applyFilters();
+}
+
+async function initPastPapersTable() {
+  const container = document.getElementById('past-papers-table-container');
+  const db = await loadPastPapersDb();
+  
+  if (!db || db.length === 0) {
+    container.innerHTML = '<p><i class="bi bi-exclamation-triangle-fill" style="color: #ef4444;"></i> Error: Failed to load past papers database.</p>';
+    return;
+  }
+
+  document.getElementById('filter-level').value = '';
+  populateYearDropdown();
+  applyFilters();
+}
+
+document.addEventListener('DOMContentLoaded', initPastPapersTable);
+</script>
+```
+
+:::
+
+---

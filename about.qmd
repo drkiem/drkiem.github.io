@@ -1,0 +1,24 @@
+---
+title: "About Me & Philosophy"
+---
+
+## ‍🏫 Người Đồng Hành Học Thuật
+Chào các em học sinh và quý phụ huynh! Tôi là giáo viên chuyên ngành Toán và Hóa học quốc tế, hiện đang giảng dạy cho học sinh các trường quốc tế hàng đầu tại TP.HCM.
+
+Với hơn nhiều năm kinh nghiệm đồng hành cùng các em học sinh chinh phục các kỳ thi khắc nghiệt như **IB Diploma, A-Level, IGCSE và SAT**, tôi hiểu rõ những rào cản lớn nhất mà học sinh gặp phải:
+1. **Sự phụ thuộc quá đà vào máy tính bỏ túi (GDC):** Khiến học sinh mất đi cảm giác nhạy bén với đại số cơ bản.
+2. **Học vẹt công thức:** Không hiểu bản chất vật lý/hóa học đằng sau các phương trình, dẫn đến việc bế tắc khi gặp các câu hỏi lạ (đặc biệt trong đề thi HL).
+3. **Thiếu kỹ năng thực hành và lập luận tự luận:** Đặc biệt trong A-Level Chemistry.
+
+---
+
+## Phương Pháp Giảng Dạy Khác Biệt
+* **Phương pháp Bottom-Up (Từ gốc rễ):** Luôn đi từ bản chất định nghĩa toán học và mô hình cấu trúc hóa học trước khi làm bài tập.
+* **Thiết lập Ranh giới Kỷ luật Học tập:** Tách biệt rõ ràng các buổi học "Không máy tính" (Paper 1) để xây dựng tư duy đại số sắt bén, độc lập.
+* **Game hóa Tiến độ (Gamification):** Học sinh tự theo dõi và tích lũy các chương mục đã hoàn thành, nhìn thấy sự tiến bộ rõ rệt qua từng ngày ôn thi.
+
+---
+
+## Đánh giá từ Học sinh (Testimonials)
+> "Em từng sợ môn IB Math AA HL kinh khủng vì lượng công thức quá nhiều, nhưng khi chia nhỏ ôn tập theo từng Paper 1 và Paper 2 riêng biệt, em đã biết cách phân phối thời gian và đạt điểm 7 mong ước!" 
+> — *An Trần (Học sinh BIS, hiện là sinh viên Đại học Melbourne)*

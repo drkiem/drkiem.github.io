@@ -1,0 +1,96 @@
+---
+title: "Edexcel Further Pure Mathematics"
+subtitle: "Chương Trình Toán Học Cao Cấp Pearson Edexcel International Advanced Level (IAL)"
+format: html
+---
+
+::: {.callout-note}
+## Tài nguyên ôn tập & Luyện thi: Edexcel Further Pure Mathematics (FP1 - FP3)
+Chào mừng các em học sinh xuất sắc! Khu vực học thuật chuyên sâu này chứa Sơ đồ kiến thức toán học cao cấp bậc nhất của Edexcel, tóm tắt các công thức ma trận, đa thức đặc trưng và vi phân cấp hai hiển thị bằng LaTeX sắc nét cùng ngân hàng đề thi thử giúp các em đạt điểm tối đa.
+:::
+
+## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+
+<p><strong>Pearson Edexcel Further Pure Mathematics (FP1 - FP3)</strong> là phân hệ toán học cao cấp tự chọn. Phân môn này đòi hỏi năng khiếu và sự tập trung cao độ của học sinh, giới thiệu các khái niệm ma trận nâng cao, tọa độ cực, hyperbolic functions, phép biến hình ma trận và giải tích tích phân phức tạp.</p>
+
+---
+
+## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (SYLLABUS CORE)
+
+Syllabus Further Pure của Edexcel được chia nhỏ thành các học phần độc lập sau:
+
+::: {.callout-important}
+### Các chuyên đề cốt lõi của Further Pure Mathematics:
+1. **Further Pure 1 (FP1):**
+   * Số phức nâng cao: Biểu diễn hình học trên mặt phẳng Argand, căn bậc n của số phức.
+   * Phương pháp lặp số học tìm nghiệm đa thức phức tạp.
+   * Biến hình hệ tọa độ tuyến tính bằng ma trận $2 \times 2$.
+   * Chứng minh bằng quy nạp toán học cho tổng chuỗi số và lũy thừa ma trận.
+2. **Further Pure 2 (FP2):**
+   * Giải bất đẳng thức chứa biến số phức tạp trên tử và mẫu số dạng phân thức phi tuyến.
+   * Khai triển chuỗi Taylor và Maclaurin của các hàm số phức tạp.
+   * Giải phương trình vi phân tuyến tính cấp một có chứa thừa số tích phân (integrating factor) và phương trình vi phân tuyến tính cấp hai có dạng $a\frac{d^2y}{dx^2} + b\frac{dy}{dx} + cy = f(x)$.
+3. **Further Pure 3 (FP3):**
+   * Các hàm số Hyperbolic: định nghĩa $\sinh x, \cosh x, \tanh x$, các đẳng thức liên hệ và giải phương trình Hyperbolic.
+   * Tích phân nâng cao liên quan đến phép thế lượng giác Hyperbolic.
+   * Hình học không gian Vectors nâng cao: Tích có hướng (vector product) và ứng dụng tính khoảng cách ngắn nhất, thể tích hình khối đa diện.
+:::
+
+---
+
+## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+
+Công thức toán học chuyên sâu hiển thị sắc nét bằng LaTeX:
+
+### Định nghĩa các hàm số Hyperbolic
+$$\sinh x = \frac{e^x - e^{-x}}{2}$$
+$$\cosh x = \frac{e^x + e^{-x}}{2}$$
+$$\tanh x = \frac{\sinh x}{\cosh x} = \frac{e^x - e^{-x}}{e^x + e^{-x}}$$
+$$\text{Đẳng thức lượng giác Hyperbolic cốt lõi: } \cosh^2 x - \sinh^2 x = 1$$
+
+### Phương trình vi phân cấp một với Thừa số tích phân (Integrating Factor)
+Để giải phương trình vi phân có dạng $\frac{dy}{dx} + P(x)y = Q(x)$, ta nhân cả hai vế với thừa số tích phân $I(x)$:
+$$I(x) = e^{\int P(x) \, dx}$$
+$$\frac{d}{dx} \left[ y \cdot I(x) \right] = Q(x) \cdot I(x) \quad \Rightarrow \quad y \cdot I(x) = \int Q(x) \cdot I(x) \, dx$$
+
+---
+
+## 4. BẪY ĐIỂM SỐ & PHƯƠNG PHÁP LÀM BÀI (EXAM TIPS)
+
+::: {.callout-tip}
+### Các bẫy cần tránh ở đề thi Further Pure:
+* **⚠️ Sai dấu của các đẳng thức Hyperbolic:** Tránh việc áp dụng máy móc các công thức lượng giác thông thường sang lượng giác Hyperbolic. Ví dụ, đẳng thức lượng giác thường là $\cos^2 x + \sin^2 x = 1$, nhưng đối với Hyperbolic thì bắt buộc phải là $\cosh^2 x - \sinh^2 x = 1$.
+* **⚠️ Tích có hướng của hai vector là đại lượng có hướng:** Trong phần FP3, tích có hướng (vector product) $\vec{a} \times \vec{b}$ tạo ra một vector mới vuông góc với cả $\vec{a}$ và $\vec{b}$. Hãy cẩn thận khi tính toán định thức ma trận để tìm ra các thành phần tọa độ của vector mới này.
+:::
+
+---
+
+## 5. KHO ĐỀ PAST PAPERS THEO CHUYÊN ĐỀ
+
+::: {.program-grid}
+
+::: {.program-card .topic-card}
+### Topic 1: FP1 (Matrices & Induction)
+* Quy nạp toán học ma trận, phép biến hình ma trận, số phức căn bậc n.
+* [**Tải đề luyện chuyên đề 1 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 2: FP2 (ODEs & Taylor Series)
+* Giải phương trình vi phân bằng thừa số tích phân, giải vi phân cấp hai và khai triển Taylor.
+* [**Tải đề luyện chuyên đề 2 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 3: FP3 (Hyperbolic Functions)
+* Đạo hàm và tích phân liên quan đến hàm Hyperbolic, giải phương trình Hyperbolic.
+* [**Tải đề luyện chuyên đề 3 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 4: FP3 (3D Vector Products)
+* Tính tích có hướng vector, thể tích khối chóp, khoảng cách từ điểm đến mặt phẳng.
+* [**Tải đề luyện chuyên đề 4 →**](#){.btn-gateway}
+:::
+
+:::

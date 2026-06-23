@@ -1,0 +1,94 @@
+---
+title: "K-Education Hub"
+subtitle: "Trung tâm Học thuật Toán & Hóa học Quốc tế Chất lượng cao"
+page-layout: full
+---
+
+::: {.hero-banner}
+::: {.hero-content}
+# Chào mừng Thầy/Cô & Học sinh đến với K-Education Hub!
+
+Hệ thống bài giảng số hóa phân cấp chuyên sâu kết hợp kho đề thi thử và công thức toán lý hóa sắc nét dành riêng cho học sinh các trường quốc tế tại TP.HCM.
+:::
+:::
+
+::: {.callout-note}
+## Hướng dẫn định hướng nhanh cho Học sinh:
+Học sinh vui lòng bấm vào các thẻ chương trình học dưới đây để di chuyển nhanh (lối tắt) vào kho bài giảng và tài nguyên ôn thi thực tế được sắp xếp tối ưu theo từng chuyên đề thi quốc tế.
+:::
+
+## Cổng Truy Cập Học Tập Nhanh (Academic Gateways)
+
+::: {.gateway-grid}
+
+::: {.gateway-card .math-card}
+### IB Mathematics
+**Chương trình Toán Tú Tài Quốc Tế**
+* Lộ trình chuyên sâu: **Math AA (HL/SL)** & **Math AI (HL/SL)**.
+* Tích hợp kho đề thi Topic Accordion động tự động ghi nhớ tiến trình.
+* [Khám phá ngay →](math/ib/index.qmd){.btn-gateway}
+:::
+
+::: {.gateway-card .chem-card}
+### IB Chemistry
+**Chương trình Hóa Học Tú Tài Quốc Tế**
+* Phương pháp tiếp cận tích hợp mới thông qua hai trục: **Structure** & **Reactivity**.
+* Ngân hàng tài liệu, đề thi thử chi tiết theo Syllabus cập nhật mới từ IBO.
+* [Khám phá ngay →](chem/ib/index.qmd){.btn-gateway}
+:::
+
+::: {.gateway-card .alevel-card}
+### A-Level Mathematics
+**Toán Học Advanced Level (Toán hệ Anh)**
+* Phân chia lộ trình học tập theo các Exam Boards lớn: **CIE**, **Edexcel** và các board khác (**Others**).
+* Hướng dẫn giải các đề thi thử modular chi tiết theo từng Paper.
+* [Khám phá ngay →](math/a-level/index.qmd){.btn-gateway}
+:::
+
+::: {.gateway-card .alevel-card}
+### A-Level Chemistry
+**Hóa Học Advanced Level (Hóa hệ Anh)**
+* Hệ thống lý thuyết hóa lý, hóa vô cơ và cơ chế phản ứng hữu cơ chuyên sâu.
+* Hỗ trợ đầy đủ các hội đồng thi lớn: **CIE**, **Edexcel** và các board khác (**Others**).
+* [Khám phá ngay →](chem/a-level/index.qmd){.btn-gateway}
+:::
+
+::: {.gateway-card .igcse-card}
+### IGCSE Mathematics
+**Toán Học Trung Học Quốc Tế**
+* Khởi đầu vững chắc chuyển tiếp với các phân hệ **CIE 0580**, **CIE 0607**, và **Edexcel 4MA1**.
+* [Khám phá ngay →](math/igcse/index.qmd){.btn-gateway}
+:::
+
+::: {.gateway-card .igcse-card}
+### IGCSE Chemistry
+**Hóa Học Trung Học Quốc Tế**
+* Xây dựng nền tảng khoa học hóa học vững chắc với phân hệ **CIE 0620** và **Edexcel 4CH1**.
+* [Khám phá ngay →](chem/igcse/index.qmd){.btn-gateway}
+:::
+
+::: {.gateway-card .sat-card}
+### Common Core Mathematics
+**Chương trình Toán Phổ Thông Mỹ**
+* Lộ trình học bậc High School: **Algebra 1**, **Geometry**, **Algebra 2**, và **Pre-Calculus**.
+* [Khám phá ngay →](math/common-core/index.qmd){.btn-gateway}
+:::
+
+::: {.gateway-card .others-card}
+### SAT & AP Mathematics
+**Luyện Thi Chuẩn Hóa Đại Học Quốc Tế**
+* Chinh phục điểm số tối đa kỳ thi **Digital SAT Math** (ứng dụng Desmos) và **AP Calculus AB/BC**, **AP Statistics**.
+* [Khám phá ngay →](math/sat-ap/index.qmd){.btn-gateway}
+:::
+
+:::
+
+---
+
+## Triết Lý Giảng Dạy & Thế Mạnh Đào Tạo
+
+Tại K-Education Hub, mỗi bài giảng không chỉ dừng lại ở lý thuyết mà tập trung cao độ vào **Khả năng tự học và giải quyết vấn đề thực tế**:
+
+1. **Academic Rigor (Học thuật chuẩn xác):** Giáo án số hóa biên soạn tỉ mỉ, hiển thị công thức toán học/hóa học sắc nét nhờ $\LaTeX$, bám sát cấu trúc barem điểm thi quốc tế.
+2. **Visual Learning (Trực quan hóa):** Sơ đồ tư duy, bảng biểu tóm tắt thông tin hóa học hữu cơ và hình học không gian 3D trực quan giúp tăng cường khả năng ghi nhớ dài hạn.
+3. **Data-Driven (Tiến độ thông minh):** Sử dụng các Widgets nhúng tương tác động lưu trữ lịch sử hoàn thành bài học, giúp cả học sinh và Thầy/Cô liên tục theo dõi và tối ưu hóa lỗ hổng kiến thức kịp thời.

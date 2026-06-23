@@ -1,0 +1,119 @@
+---
+title: "Digital SAT Mathematics"
+subtitle: "Chương Trình Luyện Thi Toán SAT Công Nghệ Mới (College Board)"
+format: html
+---
+
+::: {.callout-note}
+## Tài nguyên ôn tập & Luyện thi: Digital SAT Math
+Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức cốt lõi, ví dụ minh họa bằng công thức LaTeX sắc nét, các chiến thuật giải nhanh bằng phần mềm đồ họa Desmos được nhúng trực tiếp trong kỳ thi và ngân hàng câu hỏi luyện thi SAT chất lượng cao giúp các em đạt điểm tuyệt đối 800/800.
+:::
+
+## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+
+<p><strong>Digital SAT Mathematics</strong> là phần thi trắc nghiệm toán học chuẩn hóa quốc tế của College Board phục vụ tuyển sinh đại học Mỹ và các trường đại học quốc tế. Kỳ thi Digital SAT cho phép sử dụng phần mềm đồ họa Desmos tích hợp xuyên suốt bài thi, mở ra các chiến thuật giải toán công nghệ nhanh chóng và đột phá.</p>
+
+### Cấu Trúc Phần Thi Toán SAT (Assessment Outline)
+
+<div class="table-wrapper" style="margin-bottom: 2rem;">
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th>Thành phần thi (Module)</th>
+        <th>Số lượng câu hỏi</th>
+        <th>Thời gian làm bài</th>
+        <th>Chính sách sử dụng máy tính</th>
+        <th style="text-align: right;">Thang điểm quy đổi</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Section 2: Math (Module 1 & Module 2)</strong></td>
+        <td>44 câu hỏi (gồm câu trắc nghiệm và câu điền số - student-produced responses)</td>
+        <td>70 phút (35 phút cho mỗi Module 22 câu)</td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Cho phép dùng máy tính Desmos nhúng</span></td>
+        <td style="text-align: right;"><strong>200 - 800 điểm</strong></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
+
+## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (SYLLABUS CORE)
+
+Nội dung toán SAT được chia làm 4 mảng kiến thức lớn theo chuẩn College Board:
+
+::: {.callout-important}
+### Các chuyên đề cốt lõi của SAT Math:
+1. **Heart of Algebra (Trọng tâm đại số - 35%):**
+   * Phương trình tuyến tính 1 ẩn, hệ phương trình tuyến tính 2 ẩn.
+   * Bất phương trình tuyến tính và đồ thị biểu diễn miền nghiệm phẳng.
+2. **Problem Solving and Data Analysis (Giải quyết vấn đề & Phân tích số liệu - 15%):**
+   * Bài toán tỷ lệ phần trăm (percentage), tỷ suất (ratio, rate), đổi đơn vị đo lường cơ bản.
+   * Tính toán Mean, Median, Mode, Range, Standard deviation. Đọc hiểu biểu đồ thống kê.
+3. **Passport to Advanced Math (Đại số nâng cao - 35%):**
+   * Hàm số bậc hai, đa thức bậc cao, phương trình phi tuyến tính và biến đổi đại số phức tạp.
+   * Hàm số mũ (exponential growth/decay) và khảo sát tương quan đồ thị.
+4. **Additional Topics in Math (Chủ đề bổ trợ - 15%):**
+   * Hình học Euclid phẳng: tính diện tích, thể tích, tính chất góc tam giác và đường tròn.
+   * Lượng giác lượng giác góc nhọn tam giác vuông và phương trình đường tròn trong hệ Oxy.
+:::
+
+---
+
+## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+
+Công thức đại số hiển thị sắc nét bằng LaTeX:
+
+### Phương trình đường tròn trong hệ tọa độ phẳng Oxy
+Đường tròn có tâm tại $I(h, k)$ và bán kính $r$:
+$$(x - h)^2 + (y - k)^2 = r^2$$
+
+### Mô hình tăng trưởng và suy giảm theo hàm số mũ
+Số lượng $A(t)$ sau khoảng thời gian $t$ với lượng ban đầu $P$, tăng trưởng/suy giảm với tốc độ $r$ theo chu kỳ $T$:
+$$A(t) = P \cdot (1 \pm r)^{\frac{t}{T}}$$
+
+---
+
+## 4. BẪY ĐIỂM SỐ & CHIẾN THUẬT SỬ DỤNG DESMOS (DESMOS HACKS)
+
+::: {.callout-tip}
+### Các bí quyết giải toán SAT bằng Desmos:
+* **⚠️ Tận dụng tối đa Desmos để tìm nghiệm:**
+  * **Giải hệ phương trình:** Gõ trực tiếp hai phương trình vào hai dòng trong Desmos và click chuột vào giao điểm đồ thị để đọc tọa độ $(x, y)$ nghiệm chính xác 100%.
+  * **Tìm cực trị hàm số:** Vẽ đồ thị bậc hai hoặc đa thức trong Desmos và click trực tiếp vào đỉnh/đáy để tìm tọa độ cực trị (Vertex).
+* **⚠️ Tránh bẫy làm tròn số câu điền đáp án:** Đối với câu hỏi tự điền số (Student-Produced Responses), nếu đáp số là số thập phân vô hạn tuần hoàn (ví dụ: $\frac{2}{3}$), bạn bắt buộc phải nhập đầy đủ các ô lưới là `.666` hoặc `.667` hoặc tốt nhất là nhập phân số `2/3` để không bị trừ điểm đáp số.
+:::
+
+---
+
+## 5. KHO ĐỀ PAST PAPERS THEO CHUYÊN ĐỀ
+
+::: {.program-grid}
+
+::: {.program-card .topic-card}
+### Topic 1: Heart of Algebra
+* Luyện giải hệ phương trình tuyến tính trắc nghiệm tốc độ cao, bất phương trình phẳng.
+* [**Tải đề luyện chuyên đề 1 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 2: Problem Solving & Data
+* Bài toán tỷ lệ phần trăm thực tế, đọc hiểu bảng tần số xác suất thống kê trung vị Mean Median.
+* [**Tải đề luyện chuyên đề 2 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 3: Passport to Advanced Math
+* Giải phương trình bậc hai phi tuyến tính, hàm số mũ tăng trưởng, biến đổi đa thức phân thức.
+* [**Tải đề luyện chuyên đề 3 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 4: Circles & Trigonometry
+* Viết phương trình đường tròn Oxy, tính góc lượng giác tam giác vuông, thể tích khối chóp trụ nón.
+* [**Tải đề luyện chuyên đề 4 →**](#){.btn-gateway}
+:::
+
+:::

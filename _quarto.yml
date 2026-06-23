@@ -1,0 +1,202 @@
+project:
+  type: website
+  resources:
+    - "math/ib/past_papers_metadata.json"
+    - "math/ib/info/**"
+    - "chem/ib/info/**"
+    - "chem/ib/past_papers_metadata.json"
+    - "chem/a-level/cie/info/**"
+    - "math/a-level/cie/past_papers_metadata.json"
+    - "math/a-level/cie/info/**"
+    - "math/a-level/edexcel/past_papers_metadata.json"
+    - "math/a-level/edexcel/info/**"
+    - "math/igcse/past_papers_metadata.json"
+    - "math/igcse/cie_past_papers_metadata.json"
+    - "math/igcse/info/**"
+    - "chem/igcse/cie_past_papers_metadata.json"
+    - "chem/igcse/edexcel_past_papers_metadata.json"
+    - "chem/igcse/cie_science_past_papers_metadata.json"
+    - "chem/igcse/edexcel_science_past_papers_metadata.json"
+    - "chem/igcse/info/**"
+    - "math/common-core/regents_g68_metadata.json"
+
+
+
+
+website:
+  title: "K-Education Hub"
+  search: true
+  page-navigation: true
+  
+  navbar:
+    background: primary
+    type: dark
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Mathematics
+        menu:
+          - href: math/ib/index.qmd
+            text: "IB Mathematics"
+          - text: "---"
+          - href: math/a-level/index.qmd
+            text: "A-Level Mathematics"
+          - text: "---"
+          - href: math/igcse/index.qmd
+            text: "IGCSE Mathematics"
+          - text: "---"
+          - href: math/common-core/index.qmd
+            text: "Common Core Mathematics"
+          - text: "---"
+          - href: math/sat-ap/index.qmd
+            text: "SAT & AP Mathematics"
+      - text: Chemistry
+        menu:
+          - href: chem/ib/index.qmd
+            text: "IB Chemistry"
+          - text: "---"
+          - href: chem/a-level/index.qmd
+            text: "A-Level Chemistry"
+          - text: "---"
+          - href: chem/igcse/index.qmd
+            text: "IGCSE Chemistry"
+      - href: about.qmd
+        text: About
+    tools:
+      - icon: moon
+        href: javascript:void(0);
+        text: Toggle Dark Mode
+
+  page-footer:
+    background: dark
+    left: "Copyright © 2026 K-Education Hub"
+    center: |
+      [Home](/index.qmd) | [Mathematics](/math/ib/index.qmd) | [Chemistry](/chem/ib/index.qmd)
+    right: |
+      <a href="mailto:contact@k-education.com" class="text-white me-3" style="text-decoration: none;"><i class="bi bi-envelope-fill"></i></a>
+      <a href="https://linkedin.com" target="_blank" class="text-white me-3" style="text-decoration: none;"><i class="bi bi-linkedin"></i></a>
+      <a href="https://facebook.com" target="_blank" class="text-white" style="text-decoration: none;"><i class="bi bi-facebook"></i></a>
+
+  sidebar:
+    - id: math-ib
+      title: "IB Mathematics"
+      style: "docked"
+      contents:
+        - math/ib/index.qmd
+        - math/ib/aa-hl.qmd
+        - math/ib/aa-sl.qmd
+        - math/ib/ai-hl.qmd
+        - math/ib/ai-sl.qmd
+
+    - id: math-alevel
+      title: "A-Level Mathematics"
+      style: "docked"
+      contents:
+        - math/a-level/index.qmd
+        - section: "CIE A-Level"
+          contents:
+            - math/a-level/cie/index.qmd
+            - math/a-level/cie/p1.qmd
+            - math/a-level/cie/p2.qmd
+            - math/a-level/cie/p3.qmd
+            - math/a-level/cie/p4.qmd
+            - math/a-level/cie/s1.qmd
+            - math/a-level/cie/s2.qmd
+            - math/a-level/cie/further.qmd
+        - section: "Edexcel A-Level"
+          contents:
+            - math/a-level/edexcel/index.qmd
+            - math/a-level/edexcel/p1.qmd
+            - math/a-level/edexcel/p2.qmd
+            - math/a-level/edexcel/p3.qmd
+            - math/a-level/edexcel/p4.qmd
+            - math/a-level/edexcel/m1.qmd
+            - math/a-level/edexcel/m2.qmd
+            - math/a-level/edexcel/s1.qmd
+            - math/a-level/edexcel/s2.qmd
+            - math/a-level/edexcel/further.qmd
+        - section: "Other A-Level"
+          contents:
+            - math/a-level/others/index.qmd
+            - math/a-level/others/papers.qmd
+
+    - id: math-igcse
+      title: "IGCSE Mathematics"
+      style: "docked"
+      contents:
+        - math/igcse/index.qmd
+        - math/igcse/cie-0580.qmd
+        - math/igcse/cie-0607.qmd
+        - math/igcse/edexcel-4ma1.qmd
+
+    - id: math-commoncore
+      title: "Common Core Mathematics"
+      style: "docked"
+      contents:
+        - math/common-core/index.qmd
+        - math/common-core/algebra1.qmd
+        - math/common-core/geometry.qmd
+        - math/common-core/algebra2.qmd
+        - math/common-core/pre-calculus.qmd
+        - text: "Math Grade 6-8"
+          href: math/common-core/math-grade-6-8.qmd
+
+    - id: math-satap
+      title: "SAT & AP Mathematics"
+      style: "docked"
+      contents:
+        - math/sat-ap/index.qmd
+        - text: "SSAT Mathematics"
+          href: math/sat-ap/ssat.qmd
+        - math/sat-ap/sat.qmd
+        - math/sat-ap/ap-calculus.qmd
+        - math/sat-ap/ap-stats.qmd
+
+    - id: chem-ib
+      title: "IB Chemistry"
+      style: "docked"
+      contents:
+        - chem/ib/index.qmd
+        - chem/ib/syllabus.qmd
+        - chem/ib/hl.qmd
+        - chem/ib/sl.qmd
+
+    - id: chem-alevel
+      title: "A-Level Chemistry"
+      style: "docked"
+      contents:
+        - chem/a-level/index.qmd
+        - section: "CIE A-Level"
+          contents:
+            - chem/a-level/cie/index.qmd
+        - section: "Edexcel A-Level"
+          contents:
+            - chem/a-level/edexcel/index.qmd
+            - chem/a-level/edexcel/as.qmd
+            - chem/a-level/edexcel/a-level.qmd
+        - section: "Other A-Level"
+          contents:
+            - chem/a-level/others/index.qmd
+            - chem/a-level/others/as.qmd
+            - chem/a-level/others/a-level.qmd
+
+    - id: chem-igcse
+      title: "IGCSE Chemistry"
+      style: "docked"
+      contents:
+        - chem/igcse/index.qmd
+        - chem/igcse/cie-0620.qmd
+        - chem/igcse/edexcel-4ch1.qmd
+        - chem/igcse/cie-science-chemistry.qmd
+        - chem/igcse/edexcel-science-chemistry.qmd
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    mathjax: true

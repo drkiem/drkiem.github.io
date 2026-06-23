@@ -1,0 +1,132 @@
+---
+title: "AP Calculus AB & BC"
+subtitle: "Chương Trình Toán Học Giải Tích Advanced Placement (College Board)"
+format: html
+---
+
+::: {.callout-note}
+## Tài nguyên ôn tập & Luyện thi: AP Calculus AB & BC
+Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức giải tích chuyên sâu bậc đại học, công thức đạo hàm đạo hàm và tích phân hiển thị bằng LaTeX sắc nét cùng ngân hàng tài liệu luyện viết tự luận FRQ (Free Response Questions) độc quyền giúp đạt điểm tuyệt đối 5/5.
+:::
+
+## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+
+<p><strong>Advanced Placement (AP) Calculus</strong> là kỳ thi giải tích chuẩn đại học dành cho học sinh trung học phổ thông định hướng du học Mỹ. Chương trình chia làm hai phân hệ:</p>
+
+* **Calculus AB:** Tương đương với học kỳ giải tích thứ nhất (Calculus I) của đại học. Trọng tâm: Giới hạn (Limits), Đạo hàm (Derivatives) và Tích phân (Integrals) cơ bản.
+* **Calculus BC:** Bao gồm toàn bộ chương trình của AB và bổ sung các phương pháp tích phân nâng cao, phương trình vi phân tham số/cực và chuỗi số vô hạn (Infinite Series).
+
+### Cấu Trúc Đề Thi (Assessment Outline)
+
+<p>Đề thi AP Calculus gồm hai phần thi chính trắc nghiệm MCQ (50%) và tự luận FRQ (50%):</p>
+
+<div class="table-wrapper" style="margin-bottom: 2rem;">
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th>Thành phần thi (Section)</th>
+        <th>Số lượng câu hỏi</th>
+        <th>Thời gian làm bài</th>
+        <th>Chính sách sử dụng máy tính</th>
+        <th style="text-align: right;">Trọng số điểm</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Section I: Multiple Choice (MCQ)</strong></td>
+        <td>45 câu trắc nghiệm (chia làm phần Non-calc & Calc)</td>
+        <td>1 tiếng 45 phút</td>
+        <td>Có phần cho phép và không cho phép dùng máy tính đồ họa</td>
+        <td style="text-align: right;"><strong>50%</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Section II: Free Response (FRQ)</strong></td>
+        <td>6 câu hỏi tự luận lớn (chia làm phần Non-calc & Calc)</td>
+        <td>1 tiếng 30 phút</td>
+        <td>Có phần cho phép và không cho phép dùng máy tính đồ họa</td>
+        <td style="text-align: right;"><strong>50%</strong></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
+
+## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (SYLLABUS CORE)
+
+::: {.callout-important}
+### Các chuyên đề cốt lõi của AP Calculus BC:
+1. **Limits and Continuity (Giới hạn & Tính liên tục):**
+   * Định lý kẹp (Squeeze Theorem), giới hạn dạng vô định, quy tắc L'Hopital.
+2. **Differentiation (Đạo hàm và Ứng dụng):**
+   * Đạo hàm hàm ẩn, hàm ngược. Định lý giá trị trung bình (MVT), định lý cực trị (EVT).
+   * Ứng dụng đạo hàm khảo sát tối ưu hóa cực trị,Related rates.
+3. **Integration (Tích phân và Ứng dụng):**
+   * Tổng Riemann xấp xỉ tích phân. Định lý cơ bản của giải tích (Fundamental Theorem of Calculus).
+   * Tích phân từng phần, tích phân đổi biến, tích phân phân thức (Partial fractions).
+   * Ứng dụng tính diện tích, thể tích khối tròn xoay (đĩa, vòng đệm, vỏ trụ), chiều dài cung đường cong.
+4. **Parametric, Polar, and Vector Calculus [BC Extension]:**
+   * Đạo hàm và tích phân của hàm số tham số và tọa độ cực. Tính diện tích đường cực.
+5. **Infinite Sequences and Series [BC Extension]:**
+   * Kiểm định tính hội tụ của chuỗi số (p-series, Ratio test, Integral test).
+   * Chuỗi lũy thừa, chuỗi Taylor và chuỗi Maclaurin của các hàm số cốt lõi.
+:::
+
+---
+
+## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+
+Công thức giải tích hiển thị sắc nét bằng LaTeX:
+
+### Định lý cơ bản của Giải tích (Fundamental Theorem of Calculus)
+Mối liên hệ mật thiết giữa đạo hàm và tích phân xác định của hàm liên tục $f(x)$ trên $[a, b]$:
+$$\frac{d}{dx} \int_{a}^{x} f(t) \, dt = f(x)$$
+$$\int_{a}^{b} f(x) \, dx = F(b) - F(a) \quad \text{với } F'(x) = f(x)$$
+
+### Chuỗi khai triển Maclaurin của một số hàm số cốt lõi
+Khai triển chuỗi vô hạn tại lân cận $x=0$:
+$$e^x = \sum_{n=0}^{\infty} \frac{x^n}{n!} = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \dots \quad \text{với } x \in \mathbb{R}$$
+$$\cos x = \sum_{n=0}^{\infty} \frac{(-1)^n x^{2n}}{(2n)!} = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \dots \quad \text{với } x \in \mathbb{R}$$
+
+---
+
+## 4. BẪY ĐIỂM SỐ & PHƯƠNG PHÁP LÀM BÀI FRQ (FRQ EXAM TIPS)
+
+::: {.callout-tip}
+### Các lưu ý sống còn để giành trọn vẹn điểm FRQ:
+* **⚠️ Viết đầy đủ điều kiện áp dụng định lý:** Điểm số lập luận FRQ bắt buộc học sinh phải chứng minh điều kiện trước khi viết công thức. Ví dụ: trước khi áp dụng **Định lý giá trị trung bình (MVT)**, bạn bắt buộc phải ghi câu mở đầu: *"Since $f(x)$ is continuous on $[a, b]$ and differentiable on $(a, b)$, then by MVT..."*. Thiếu câu này sẽ mất sạch điểm lập luận.
+* **⚠️ Nhớ đơn vị đo lường trong bài toán thực tế:** Các câu hỏi FRQ liên quan đến Related rates hoặc tích phân dòng chảy thường yêu cầu ghi đơn vị (ví dụ: $\text{cm}^3/\text{sec}$ hoặc $\text{gallons}$). Luôn ghi kèm đơn vị ở đáp số cuối cùng để tránh bị trừ 1 điểm phụ.
+* **⚠️ Tuyệt đối không làm tròn số trung gian:** Chỉ làm tròn đáp số cuối cùng đến **3 chữ số thập phân (3 decimal places)** theo chuẩn College Board. Hãy dùng bộ nhớ máy tính để lưu các giá trị trung gian.
+:::
+
+---
+
+## 5. KHO ĐỀ FRQ/MCQ THEO CHUYÊN ĐỀ
+
+::: {.program-grid}
+
+::: {.program-card .topic-card}
+### Topic 1: Limits & Continuity
+* Tính giới hạn dạng vô định, kiểm định tính liên tục tại một điểm và áp dụng quy tắc L'Hopital.
+* [**Tải đề luyện chuyên đề 1 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 2: Derivatives Applications
+* Giải toán Related rates, bài toán cực trị tối ưu hóa kinh tế vật lý và kiểm định định lý MVT/EVT.
+* [**Tải đề luyện chuyên đề 2 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 3: Integrals & Volume
+* Tính tích phân vô định/xác định nâng cao, diện tích hình phẳng và thể tích khối tròn xoay.
+* [**Tải đề luyện chuyên đề 3 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 4: Infinite Series [BC]
+* Luyện giải các bài toán kiểm định tính hội tụ Ratio test, khai triển chuỗi Taylor và sai số Lagrange.
+* [**Tải đề luyện chuyên đề 4 →**](#){.btn-gateway}
+:::
+
+:::

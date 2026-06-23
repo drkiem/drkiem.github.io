@@ -1,0 +1,100 @@
+---
+title: "AP Physics & Special Advanced Placement Subjects"
+subtitle: "Chương Trình Luyện Thi Các Môn AP Đặc Biệt Phục Vụ Du Học Mỹ"
+format: html
+---
+
+::: {.callout-note}
+## Tài nguyên ôn tập bổ trợ: AP Physics & Special Subjects
+Chào mừng các em học sinh! Đây là khu vực học tập bổ trợ đặc biệt, cung cấp Sơ đồ kiến thức cốt lõi, tóm tắt các phương trình cơ học và điện từ học bằng LaTeX sắc nét cùng ngân hàng tài liệu luyện thi cho cả 4 môn AP Physics độc quyền giúp các em chinh phục điểm số tuyệt đối 5/5.
+:::
+
+## 1. GIỚI THIỆU HỆ THỐNG MÔN AP PHYSICS
+
+<p><strong>Advanced Placement (AP) Physics</strong> là các môn học chuẩn vật lý đại cương đại học của College Board Mỹ. Kỳ thi đòi hỏi tư duy giải quyết vấn đề toán học vật lý cực mạnh. Hệ thống môn AP Physics được chia thành 4 môn thi độc lập chuyên biệt:</p>
+
+1. **AP Physics 1: Algebra-Based:** Môn học nền tảng cơ học cơ bản, bao gồm động học, lực, chuyển động tròn, năng lượng, động lượng và dao động cơ học (không dùng giải tích).
+2. **AP Physics 2: Algebra-Based:** Phân hệ vật lý nâng cao gồm cơ học chất lưu (fluids), nhiệt động lực học (thermodynamics), tĩnh điện học, mạch điện, từ trường, quang học và vật lý hiện đại.
+3. **AP Physics C: Mechanics:** Môn cơ học đại cương chuẩn kỹ thuật chuyên sâu, **bắt buộc sử dụng công cụ Toán giải tích (Calculus)** để đạo hàm và tích phân các đại lượng động học và mô-men lực quán tính.
+4. **AP Physics C: Electricity and Magnetism:** Môn điện từ học đại cương chuẩn kỹ thuật chuyên sâu, **bắt buộc sử dụng Toán giải tích (Calculus)** để tính toán tích phân đường, tích phân mặt điện trường Gauss, định luật Ampere và Faraday.
+
+---
+
+## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (SYLLABUS CORE)
+
+::: {.callout-important}
+### Các chuyên đề cốt lõi của AP Physics C: Mechanics:
+* **Kinematics (Động học):** Chuyển động một chiều và hai chiều phẳng sử dụng đạo hàm tích phân: $v = \frac{ds}{dt}$, $a = \frac{dv}{dt}$.
+* **Newton's Laws of Motion (Lực và động lực học):** Phương trình vi phân chuyển động lực cản môi trường.
+* **Work, Energy, and Power (Năng lượng):** Tính công cơ học bằng tích phân lực dời dải $W = \int F \, dx$.
+* **Systems of Particles & Linear Momentum (Động lượng):** Hệ nhiều hạt, tọa độ trọng tâm chất điểm.
+* **Rotation (Chuyển động quay vật rắn):** Mô-men quán tính (moment of inertia $I = \int r^2 \, dm$), mô-men lực $\tau = I\alpha$, định luật bảo toàn mô-men động lượng.
+* **Gravitation (Vũ trụ học):** Định luật vạn vật hấp dẫn Kepler.
+:::
+
+::: {.callout-important}
+### Các chuyên đề cốt lõi của AP Physics C: Electricity & Magnetism:
+* **Electrostatics (Tĩnh điện học):** Định luật Coulomb, cường độ điện trường. Định luật Gauss tính thông lượng điện tích phân mặt kín.
+* **Conductors, Capacitors, Dielectrics (Vật dẫn & Tụ điện):** Điện dung $C$, điện thế, năng lượng tích lũy tụ điện.
+* **Electric Circuits (Mạch điện):** Định luật Ohm, định luật Kirchhoff, mạch chứa tụ và điện trở (RC circuits) phương trình vi phân nạp/xả điện.
+* **Magnetic Fields (Từ trường):** Lực Lorentz tác dụng lên điện tích di chuyển, định luật Biot-Savart, định luật Ampere tích phân đường kín.
+* **Electromagnetism (Cảm ứng điện từ):** Định luật cảm ứng Faraday, định luật Lenz chỉ chiều dòng điện cảm ứng, mạch tự cảm (LR circuits).
+:::
+
+---
+
+## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+
+Công thức vật lý đại cương hiển thị sắc nét bằng LaTeX:
+
+### Định luật Gauss cho Điện trường (Gauss's Law)
+Thông lượng điện trường đi qua một mặt kín $S$ tỷ lệ thuận với tổng điện tích chứa trong mặt kín đó:
+$$\oint_{S} \vec{E} \cdot d\vec{A} = \frac{Q_{enclosed}}{\epsilon_0}$$
+*Trong đó $\epsilon_0 \approx 8.85 \times 10^{-12} \text{ C}^2\cdot\text{N}^{-1}\cdot\text{m}^{-2}$ là hằng số điện môi chân không.*
+
+### Mô-men quán tính của Vật rắn quay (Moment of Inertia)
+Tính toán sự phân bố khối lượng đối với trục quay của vật thể liên tục:
+$$I = \int r^2 \, dm$$
+$$\text{Ví dụ mô-men quán tính của đĩa tròn đồng chất bán kính } R \text{, khối lượng } M: \quad I = \frac{1}{2}MR^2$$
+
+---
+
+## 4. BẪY ĐIỂM SỐ & PHƯƠNG PHÁP LÀM BÀI (EXAM TIPS)
+
+::: {.callout-tip}
+### Các lưu ý tránh mất điểm ở đề thi AP Physics:
+* **⚠️ Sử dụng Calculus nhuần nhuyễn ở Physics C:** Đối với hai môn Physics C, học sinh rất hay mắc lỗi dùng SUVAT cho gia tốc biến đổi. Hãy nhớ rằng khi lực cản môi trường phụ thuộc vận tốc ($F_{drag} = -kv$), gia tốc thay đổi liên tục. Bạn bắt buộc phải thiết lập phương trình vi phân bậc một và giải bằng cách tách biến tích phân để tìm ra quy luật vận tốc theo thời gian!
+* **⚠️ Chiều dòng điện cảm ứng định luật Lenz:** Khi làm bài toán cảm ứng từ định luật Faraday, luôn dùng định luật Lenz để xác định chiều dòng điện cảm ứng: *"Dòng điện cảm ứng phải có chiều sao cho từ trường do nó sinh ra có tác dụng chống lại sự biến thiên của từ thông sinh ra nó."*
+:::
+
+---
+
+## 5. KHO ĐỀ FRQ THEO CHUYÊN ĐỀ AP PHYSICS
+
+::: {.program-grid}
+
+::: {.program-card .topic-card}
+### Topic 1: AP Physics 1 & C Mechanics (Kinematics)
+* Động học chuyển động thẳng dốc nghiêng, chuyển động tròn ném xiên và đạo hàm vi phân tìm gia tốc biến đổi.
+* [**Tải đề luyện chuyên đề 1 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 2: Rotation & Angular Momentum
+* Tính toán mô-men quán tính vật rắn hình đĩa trục thanh dầm, bảo toàn mô-men động lượng va chạm quay.
+* [**Tải đề luyện chuyên đề 2 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 3: Electrostatics & Gauss's Law
+* Áp dụng định luật Gauss tính toán điện trường vỏ cầu, dây dẫn dài vô hạn và năng lượng tụ điện phẳng.
+* [**Tải đề luyện chuyên đề 3 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 4: Circuits & Electromagnetism
+* Định luật Kirchhoff dòng điện mạch RC/LR, cảm ứng điện từ Faraday và lực từ Lorentz chuyển động hạt.
+* [**Tải đề luyện chuyên đề 4 →**](#){.btn-gateway}
+:::
+
+:::

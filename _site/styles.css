@@ -1,0 +1,785 @@
+/* CSS TÙY CHỈNH CHO GIAO DIỆN K-EDUCATION HUB - PREMIUM MINIMALIST */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700&display=swap');
+
+body {
+  font-family: 'Inter', -apple-system, sans-serif;
+  color: #1e293b;
+  background-color: #f8fafc;
+  line-height: 1.6;
+}
+
+/* Dark Mode Overrides */
+body.quarto-dark {
+  color: #f1f5f9;
+  background-color: #0f172a;
+}
+
+/* Tối ưu hóa màu sắc navbar */
+.navbar {
+  font-family: 'Outfit', sans-serif;
+  background-color: #0b0f19 !important; /* Xám đen phi hành vũ trụ */
+  border-bottom: 1px solid #1e293b;
+  padding: 0.8rem 1.5rem;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  color: #f8fafc !important;
+}
+
+.nav-link {
+  font-weight: 500;
+  color: #cbd5e1 !important;
+  transition: color 0.2s ease;
+}
+
+.nav-link:hover, .nav-link:focus {
+  color: #38bdf8 !important; /* Xanh dương sáng */
+}
+
+/* Thẻ tiêu đề đẹp hơn */
+h1, h2, h3, h4 {
+  font-family: 'Outfit', sans-serif;
+  color: #0f172a;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+body.quarto-dark h1, 
+body.quarto-dark h2, 
+body.quarto-dark h3, 
+body.quarto-dark h4 {
+  color: #f8fafc;
+}
+
+h1 {
+  border-bottom: 2px solid #e2e8f0;
+  padding-bottom: 0.5rem;
+  margin-top: 2rem;
+}
+
+body.quarto-dark h1 {
+  border-bottom-color: #1e293b;
+}
+
+/* Hero Banner */
+.hero-banner {
+  background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+  border-radius: 12px;
+  padding: 2.5rem;
+  margin-bottom: 2.5rem;
+  color: #f8fafc;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  border: 1px solid #334155;
+  text-align: center;
+}
+
+.hero-content h1 {
+  font-size: 2.5rem;
+  margin-top: 0;
+  border-bottom: none;
+  color: #ffffff;
+}
+
+.hero-content p {
+  font-size: 1.15rem;
+  color: #cbd5e1;
+  max-width: 800px;
+  margin: 1rem auto 0 auto;
+}
+
+/* Lưới cổng học thuật (Gateway Grid) */
+.gateway-grid, .program-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+/* Thẻ học thuật Premium (Gateway Card & Program Card) */
+.gateway-card, .program-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 1.8rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  overflow: hidden;
+}
+
+body.quarto-dark .gateway-card,
+body.quarto-dark .program-card {
+  background: #1e293b;
+  border-color: #334155;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2);
+}
+
+/* Hiệu ứng viền chuyển động khi di chuột */
+.gateway-card::before, .program-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  background: linear-gradient(90deg, #3b82f6, #06b6d4);
+  opacity: 0.8;
+  transition: height 0.3s ease;
+}
+
+.gateway-card:hover, .program-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.08);
+  border-color: #cbd5e1;
+}
+
+body.quarto-dark .gateway-card:hover,
+body.quarto-dark .program-card:hover {
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3);
+  border-color: #475569;
+}
+
+.gateway-card h3, .program-card h3 {
+  font-size: 1.35rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+}
+
+.gateway-card p, .program-card p {
+  font-size: 0.95rem;
+  color: #64748b;
+  line-height: 1.5;
+  margin-bottom: 1.2rem;
+}
+
+body.quarto-dark .gateway-card p,
+body.quarto-dark .program-card p {
+  color: #94a3b8;
+}
+
+/* Nút liên kết lối tắt (Gateway Buttons) */
+.btn-gateway, .gateway-card a, .program-card a {
+  display: inline-block;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-decoration: none !important;
+  color: #3b82f6 !important;
+  margin-top: auto;
+  transition: all 0.2s ease;
+}
+
+.btn-gateway:hover, .gateway-card a:hover, .program-card a:hover {
+  color: #2563eb !important;
+  transform: translateX(3px);
+}
+
+body.quarto-dark .btn-gateway,
+body.quarto-dark .gateway-card a,
+body.quarto-dark .program-card a {
+  color: #60a5fa !important;
+}
+
+body.quarto-dark .btn-gateway:hover,
+body.quarto-dark .gateway-card a:hover,
+body.quarto-dark .program-card a:hover {
+  color: #93c5fd !important;
+}
+
+/* Thiết kế màu sắc đặc trưng cho từng loại thẻ */
+.math-card::before { background: linear-gradient(90deg, #3b82f6, #60a5fa); }
+.chem-card::before { background: linear-gradient(90deg, #10b981, #34d399); }
+.alevel-card::before { background: linear-gradient(90deg, #8b5cf6, #a78bfa); }
+.sat-card::before { background: linear-gradient(90deg, #f59e0b, #fbbf24); }
+.igcse-card::before { background: linear-gradient(90deg, #ec4899, #f472b6); }
+.others-card::before { background: linear-gradient(90deg, #64748b, #94a3b8); }
+
+/* Callout blocks (Note, Warning, Tip) */
+.callout {
+  border-left-width: 4px;
+  border-radius: 6px;
+  padding: 1.2rem;
+  margin: 1.5rem 0;
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.05);
+}
+
+.callout-note {
+  border-left-color: #3b82f6;
+  background-color: #eff6ff;
+}
+
+.callout-tip {
+  border-left-color: #10b981;
+  background-color: #ecfdf5;
+}
+
+.callout-warning {
+  border-left-color: #f59e0b;
+  background-color: #fffbeb;
+}
+
+body.quarto-dark .callout-note {
+  background-color: #1e3a8a30;
+  border-left-color: #3b82f6;
+}
+
+body.quarto-dark .callout-tip {
+  background-color: #064e3b30;
+  border-left-color: #10b981;
+}
+
+body.quarto-dark .callout-warning {
+  background-color: #78350f30;
+  border-left-color: #f59e0b;
+}
+
+/* LaTeX Equations */
+.math {
+  overflow-x: auto;
+  padding: 1rem;
+  background-color: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  margin: 1rem 0;
+  box-shadow: inset 0 2px 4px 0 rgb(0 0 0 / 0.02);
+}
+
+body.quarto-dark .math {
+  background-color: #1e293b;
+  border-color: #334155;
+}
+
+/* Tối ưu hóa hiển thị trên Máy Chiếu Lớp Học (Projector Mode) */
+@media print, screen and (max-width: 1200px) {
+  body {
+    font-size: 17px; /* Tăng cỡ chữ để dễ nhìn từ xa */
+  }
+  
+  h1 { font-size: 2.2rem; }
+  h2 { font-size: 1.8rem; }
+  h3 { font-size: 1.4rem; }
+}
+
+/* Accordion Styling for QMD */
+.qmd-accordion {
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  margin-bottom: 0.8rem;
+  background: white;
+  overflow: hidden;
+}
+
+body.quarto-dark .qmd-accordion {
+  border-color: #334155;
+  background: #1e293b;
+}
+
+.qmd-accordion-header {
+  padding: 1rem 1.2rem;
+  background: #f8fafc;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #e2e8f0;
+  transition: background 0.2s ease;
+}
+
+body.quarto-dark .qmd-accordion-header {
+  background: #1e293b;
+  border-bottom-color: #334155;
+  color: #f1f5f9;
+}
+
+.qmd-accordion-header:hover {
+  background: #f1f5f9;
+}
+
+body.quarto-dark .qmd-accordion-header:hover {
+  background: #334155;
+}
+
+.qmd-accordion-content {
+  padding: 1.2rem;
+}
+
+/* ==========================================================================
+   CSS NÂNG CẤP CHO BỐ CỤC IB MATH (DOWNLOAD, NOTES, SEARCH ENGINE)
+   ========================================================================== */
+
+/* Thẻ tải tài liệu (Download Box) */
+.download-box {
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid #cbd5e1;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  backdrop-filter: blur(10px);
+}
+
+body.quarto-dark .download-box {
+  background: rgba(30, 41, 59, 0.6);
+  border-color: #334155;
+}
+
+.btn-group-download {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.btn-download {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: #f1f5f9;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  padding: 0.75rem 1.2rem;
+  color: #0f172a !important;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 500;
+  text-decoration: none !important;
+  transition: all 0.2s ease;
+  white-space: nowrap !important;
+}
+
+body.quarto-dark .btn-download {
+  background: #334155;
+  border-color: #475569;
+  color: #f8fafc !important;
+}
+
+.btn-download:hover {
+  background: #e2e8f0;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+}
+
+body.quarto-dark .btn-download:hover {
+  background: #475569;
+}
+
+/* Study Notes Card Spec */
+.notes-card::before {
+  background: linear-gradient(90deg, #3b82f6, #8b5cf6);
+}
+
+/* Practice Questions Waiting Box */
+.practice-box-waiting {
+  background: #f8fafc;
+  border: 2px dashed #cbd5e1;
+  border-radius: 10px;
+  padding: 2rem;
+  text-align: center;
+  color: #64748b;
+  margin: 1.5rem 0;
+}
+
+body.quarto-dark .practice-box-waiting {
+  background: #1e293b;
+  border-color: #475569;
+  color: #94a3b8;
+}
+
+/* Topical Past Papers Cards Style */
+.topic-card::before {
+  background: linear-gradient(90deg, #3b82f6, #ec4899);
+}
+
+/* Trình Tìm Kiếm Đề Thi (Past Paper Search Engine) */
+.search-engine-box {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  padding: 2rem;
+  margin: 2rem 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+body.quarto-dark .search-engine-box {
+  background: #1e293b;
+  border-color: #334155;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+}
+
+.search-form-mock {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  margin-top: 1.5rem;
+}
+
+.form-row {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.form-group {
+  flex: 1;
+  min-width: 250px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.form-group label {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 500;
+  font-size: 0.95rem;
+  color: #334155;
+}
+
+body.quarto-dark .form-group label {
+  color: #cbd5e1;
+}
+
+.form-control {
+  background: #f8fafc;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  padding: 0.65rem 1rem;
+  font-family: inherit;
+  font-size: 0.95rem;
+  color: inherit;
+  width: 100%;
+  box-sizing: border-box;
+  transition: all 0.2s ease;
+}
+
+body.quarto-dark .form-control {
+  background: #0f172a;
+  border-color: #334155;
+  color: #f8fafc;
+}
+
+.form-control:focus {
+  border-color: #3b82f6;
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15);
+}
+
+.btn-search-submit {
+  background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 0.75rem 2rem;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 600;
+  font-size: 1rem;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: all 0.2s ease;
+  white-space: nowrap !important;
+}
+
+.btn-search-submit:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.2);
+  filter: brightness(1.1);
+}
+
+.search-result-container {
+  margin-top: 2rem;
+  border-top: 1px solid #cbd5e1;
+  padding-top: 1.5rem;
+}
+
+body.quarto-dark .search-result-container {
+  border-color: #334155;
+}
+
+.result-item-mock {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  transition: all 0.2s ease;
+}
+
+body.quarto-dark .result-item-mock {
+  background: #0f172a;
+  border-color: #1e293b;
+}
+
+.result-item-mock:hover {
+  border-color: #cbd5e1;
+  background: #f1f5f9;
+}
+
+body.quarto-dark .result-item-mock:hover {
+  border-color: #334155;
+  background: #1e293b;
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.25rem 0.6rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  border-radius: 4px;
+  text-transform: uppercase;
+}
+
+.badge-year { background: #dbeafe; color: #1e40af; }
+.badge-paper { background: #d1fae5; color: #065f46; }
+.badge-tz { background: #fef3c7; color: #92400e; }
+
+body.quarto-dark .badge-year { background: #1e3a8a; color: #93c5fd; }
+body.quarto-dark .badge-paper { background: #064e3b; color: #6ee7b7; }
+body.quarto-dark .badge-tz { background: #78350f; color: #fde68a; }
+
+.result-link {
+  font-weight: 500;
+  color: #3b82f6 !important;
+  text-decoration: none !important;
+}
+
+.result-link:hover {
+  text-decoration: underline !important;
+}
+
+/* Premium Responsive Data Table CSS */
+.table-wrapper {
+  overflow-x: auto;
+  margin-top: 1.5rem;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+}
+
+body.quarto-dark .table-wrapper {
+  border-color: #334155;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2);
+}
+
+.premium-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+  background-color: #ffffff;
+  text-align: left;
+}
+
+body.quarto-dark .premium-table {
+  background-color: #1e293b;
+}
+
+.premium-table th {
+  background-color: #f1f5f9;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 600;
+  color: #334155;
+  padding: 1rem;
+  border-bottom: 2px solid #e2e8f0;
+}
+
+body.quarto-dark .premium-table th {
+  background-color: #0f172a;
+  color: #cbd5e1;
+  border-bottom-color: #334155;
+}
+
+.premium-table td {
+  padding: 1rem;
+  border-bottom: 1px solid #e2e8f0;
+  vertical-align: middle;
+}
+
+body.quarto-dark .premium-table td {
+  border-bottom-color: #334155;
+}
+
+.premium-table tr:last-child td {
+  border-bottom: none;
+}
+
+.premium-table tr:hover {
+  background-color: #f8fafc;
+}
+
+body.quarto-dark .premium-table tr:hover {
+  background-color: #1e293b80;
+}
+
+/* Table Quick Filter Box Style */
+.table-filter-box {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 1rem;
+  margin-top: 1.5rem;
+}
+
+.table-filter-wrapper {
+  position: relative;
+  width: 100%;
+  max-width: 320px;
+}
+
+.table-filter-input {
+  width: 100%;
+  padding: 0.55rem 1rem 0.55rem 2.2rem;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  background-color: #ffffff;
+  transition: all 0.2s ease;
+  box-sizing: border-box;
+}
+
+body.quarto-dark .table-filter-input {
+  border-color: #334155;
+  background-color: #0f172a;
+  color: #f8fafc;
+}
+
+.table-filter-input:focus {
+  border-color: #3b82f6;
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15);
+}
+
+.table-filter-icon {
+  position: absolute;
+  left: 0.8rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #64748b;
+  font-size: 0.95rem;
+}
+
+/* CIE Resource Tables Buttons */
+.cie-btn-note, .cie-btn-mc, .cie-btn-mc-ms, .cie-btn-struct, .cie-btn-struct-ms {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  padding: 0.35rem 0.6rem;
+  border-radius: 6px;
+  text-decoration: none !important;
+  transition: all 0.15s ease-in-out;
+  border: 1px solid transparent;
+  white-space: nowrap;
+}
+
+/* Notes Button (Blue theme) */
+.cie-btn-note {
+  background-color: rgba(37, 99, 235, 0.08);
+  color: #2563eb !important;
+  border-color: rgba(37, 99, 235, 0.15);
+}
+.cie-btn-note:hover {
+  background-color: #2563eb;
+  color: #ffffff !important;
+  box-shadow: 0 2px 4px rgba(37, 99, 235, 0.2);
+}
+body.quarto-dark .cie-btn-note {
+  background-color: rgba(96, 165, 250, 0.12);
+  color: #60a5fa !important;
+  border-color: rgba(96, 165, 250, 0.2);
+}
+body.quarto-dark .cie-btn-note:hover {
+  background-color: #60a5fa;
+  color: #0f172a !important;
+}
+
+/* Multiple Choice Questions (Amber/Orange theme) */
+.cie-btn-mc {
+  background-color: rgba(245, 158, 11, 0.08);
+  color: #d97706 !important;
+  border-color: rgba(245, 158, 11, 0.15);
+}
+.cie-btn-mc:hover {
+  background-color: #d97706;
+  color: #ffffff !important;
+  box-shadow: 0 2px 4px rgba(217, 119, 6, 0.2);
+}
+body.quarto-dark .cie-btn-mc {
+  background-color: rgba(251, 191, 36, 0.12);
+  color: #fbbf24 !important;
+  border-color: rgba(251, 191, 36, 0.2);
+}
+body.quarto-dark .cie-btn-mc:hover {
+  background-color: #fbbf24;
+  color: #0f172a !important;
+}
+
+/* Multiple Choice Mark Schemes (Teal/Green theme) */
+.cie-btn-mc-ms, .cie-btn-struct-ms {
+  background-color: rgba(16, 185, 129, 0.08);
+  color: #059669 !important;
+  border-color: rgba(16, 185, 129, 0.15);
+}
+.cie-btn-mc-ms:hover, .cie-btn-struct-ms:hover {
+  background-color: #059669;
+  color: #ffffff !important;
+  box-shadow: 0 2px 4px rgba(5, 150, 105, 0.2);
+}
+body.quarto-dark .cie-btn-mc-ms, body.quarto-dark .cie-btn-struct-ms {
+  background-color: rgba(52, 211, 153, 0.12);
+  color: #34d399 !important;
+  border-color: rgba(52, 211, 153, 0.2);
+}
+body.quarto-dark .cie-btn-mc-ms:hover, body.quarto-dark .cie-btn-struct-ms:hover {
+  background-color: #34d399;
+  color: #0f172a !important;
+}
+
+/* Structured Questions (Indigo/Purple theme) */
+.cie-btn-struct {
+  background-color: rgba(99, 102, 241, 0.08);
+  color: #4f46e5 !important;
+  border-color: rgba(99, 102, 241, 0.15);
+}
+.cie-btn-struct:hover {
+  background-color: #4f46e5;
+  color: #ffffff !important;
+  box-shadow: 0 2px 4px rgba(79, 70, 229, 0.2);
+}
+body.quarto-dark .cie-btn-struct {
+  background-color: rgba(129, 140, 248, 0.12);
+  color: #818cf8 !important;
+  border-color: rgba(129, 140, 248, 0.2);
+}
+body.quarto-dark .cie-btn-struct:hover {
+  background-color: #818cf8;
+  color: #0f172a !important;
+}
+
+/* Custom syllabus heading styles */
+.syllabus-section h2,
+.syllabus-section h3,
+.syllabus-section .callout-title-container,
+.syllabus-section .callout-title {
+  font-size: 1.15rem !important; /* Make both heading levels identical in size */
+}
+
+.syllabus-section h2,
+.syllabus-section .callout-title-container,
+.syllabus-section .callout-title {
+  font-weight: 700 !important; /* Heading 1 is bold */
+}
+
+.syllabus-section h3 {
+  font-weight: 600 !important; /* Heading 2 is slightly less bold */
+}
+
+

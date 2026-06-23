@@ -1,0 +1,53 @@
+---
+title: "A-Level Mathematics Overview"
+subtitle: "Comprehensive resources, modular syllabus guidance, and exam portals for CIE, Edexcel, and other boards"
+format: html
+---
+
+::: {.callout-note}
+## Pathway to Achieving an A* in A-Level Mathematics
+Welcome, students! Advanced Level (A-Level) Mathematics is a highly respected qualification and a vital pathway for admission to prestigious global universities in STEM, Economics, and Finance. 
+
+K-Education Hub provides dedicated revision materials, topic-by-topic study notes, and fully interactive past exam paper banks for the three primary learning branches: **CIE**, **Edexcel**, and **Other boards** (such as AQA/OxfordAQA). Select your exam board below to get started.
+:::
+
+## Choose Your Exam Board
+
+Select your specific exam board to access modular lesson sheets, step-by-step revision notes, and official exam archives with interactive search filters:
+
+::: {.program-grid}
+
+::: {.program-card}
+### CIE Mathematics (9709)
+**Cambridge Assessment International Education**
+
+- Academic curriculum divided into modular units.
+- Covers Pure Mathematics (P1, P2, P3), Mechanics (Paper 4), and Probability & Statistics (S1, S2).
+- Highly structured assessments emphasizing deep theoretical knowledge, mathematical proofs, and algebraic rigor.
+
+[Explore CIE Resources &rarr;](cie/index.qmd)
+:::
+
+::: {.program-card}
+### Edexcel Mathematics (IAL)
+**Pearson Edexcel International A-Level**
+
+- Flexible modular assessment structure allowing students to sit exams in multiple series (January, June, October).
+- Covers Pure Mathematics (P1, P2, P3, P4), Mechanics (M1, M2), and Statistics (S1, S2).
+- Highly practical approach with exam questions focusing on real-world applications and calculator proficiency.
+
+[Explore Edexcel Resources &rarr;](edexcel/index.qmd)
+:::
+
+::: {.program-card}
+### Other Exam Boards (Others)
+**AQA, OxfordAQA, and General A-Level Curriculums**
+
+- High-quality resources for students taking AQA, OxfordAQA, or equivalent general A-Level specifications.
+- Core math concepts aligned across all major international boards, focusing on Calculus, Algebra, and Data Interpretation.
+- Practice worksheets and generalized exam revision tools to reinforce exam readiness.
+
+[Explore Other Resources &rarr;](others/index.qmd)
+:::
+
+:::

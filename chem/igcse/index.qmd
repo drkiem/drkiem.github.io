@@ -1,0 +1,58 @@
+---
+title: "IGCSE Chemistry Overview"
+subtitle: "International General Certificate of Secondary Education (IGCSE) Chemistry Portal"
+format: html
+---
+
+::: {.callout-note}
+## Embark on Your International Chemistry Journey
+Welcome, students! IGCSE Chemistry introduces you to essential scientific concepts regarding atomic structure, chemical reactions, periodic trends, and laboratory experimental skills. K-Education Hub provides high-quality exam preparation resources for both Single Chemistry and Double Award/Combined Science Chemistry under the CIE and Pearson Edexcel boards.
+:::
+
+## Choose Your Exam Pathway
+
+Select your specific syllabus below to access past papers, syllabus-aligned study notes, and targeted topical practice worksheets:
+
+::: {.program-grid}
+
+::: {.program-card .chem-card}
+### CIE IGCSE Chemistry (0620)
+**Cambridge IGCSE Single Chemistry Syllabus**
+
+* Explore atomic structures, redox reactions, acids & bases, basic organic chemistry, and environmental chemistry.
+* [Explore Resources (0620) →](cie-0620.qmd)
+:::
+
+::: {.program-card .chem-card}
+### Edexcel IGCSE Chemistry (4CH1)
+**Pearson Edexcel International GCSE Single Chemistry Syllabus**
+
+* Deep-dive into industrial chemical processes (Haber, Contact, etc.), organic chemistry of alkanes/alkenes/alcohols/esters, and quantitative stoichiometry.
+* [Explore Resources (4CH1) →](edexcel-4ch1.qmd)
+:::
+
+::: {.program-card .chem-card}
+### CIE IGCSE Science_Chemistry
+**Cambridge IGCSE Combined Science (0653) & Co-ordinated Sciences (0654)**
+
+* Mapped syllabus study notes and topical questions specifically tailored for the Chemistry components of CIE Double and Combined Science.
+* [Explore Resources (Science) →](cie-science-chemistry.qmd)
+:::
+
+::: {.program-card .chem-card}
+### Edexcel IGCSE Science-Chemistry
+**Pearson Edexcel International GCSE Science (Double Award) (4SD0)**
+
+* Targeted revision worksheets and practice question banks for the Chemistry component of the Edexcel Double Award Science pathway.
+* [Explore Resources (Double Award) →](edexcel-science-chemistry.qmd)
+:::
+
+:::
+
+---
+
+## Tips to Excel in IGCSE Chemistry
+
+1. **Master Chemical Formulae and Equations**: Writing and balancing chemical equations is a fundamental skill. Memorize the valencies of common ions, write correct molecular formulae, and always verify that atoms balance before performing stoichiometric calculations.
+2. **Memorize Key Colours and Observations**: IGCSE exams frequently ask for observations (precipitate colours, gas evolution, flame tests). Summarize these qualitative tests in a table to secure easy marks.
+3. **Understand Experimental Design**: Be clear on laboratory techniques, such as gas collection methods (displacement of water/air), filtration, crystallization, and testing purity using melting/boiling points.

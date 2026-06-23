@@ -1,0 +1,1402 @@
+---
+title: "IB Mathematics AA HL"
+subtitle: "Analysis & Approaches - Higher Level"
+format: html
+---
+
+::: {.callout-note}
+## Course Portal: IB Mathematics AA HL (Analysis & Approaches)
+Welcome, students! This specialized section contains syllabus breakdowns, core study notes, targeted practice question banks, and actual exam past papers organized dynamically to optimize your learning and help you achieve a Grade 7.
+:::
+
+## 1. Course Introduction
+
+<p><strong>Mathematics: Analysis and Approaches (AA) Higher Level (HL)</strong> focuses on developing strong analytical and rational thinking skills. The course emphasizes rigorous mathematical proofs, algebraic methods, and deep concepts of calculus and algebraic analysis. It is highly recommended for students aiming to study Computer Science, Engineering, Physics, or Mathematics at premier universities worldwide.</p>
+
+### Assessment Outline
+
+<p>The IB Mathematics AA HL course is assessed through final written examinations (80%) and an independent mathematical exploration task (20%). <strong>A graphic display calculator (GDC) is required only for Paper 2 and Paper 3:</strong></p>
+
+<div class="table-wrapper" style="margin-bottom: 2rem;">
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th>Assessment Component</th>
+        <th>Duration</th>
+        <th>Calculator Policy</th>
+        <th>Marks</th>
+        <th style="text-align: right;">Weighting</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Paper 1</strong> (Section A & B)</td>
+        <td>120 minutes (2 hours)</td>
+        <td><span class="badge" style="background: rgba(239, 68, 68, 0.1); color: #ef4444; border: 1px solid rgba(239, 68, 68, 0.2); text-transform: none; font-size: 0.8rem;">Non-calculator (Non-GDC)</span></td>
+        <td>110 marks</td>
+        <td style="text-align: right;"><strong>30%</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Paper 2</strong> (Section A & B)</td>
+        <td>120 minutes (2 hours)</td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Calculator allowed (GDC required)</span></td>
+        <td>110 marks</td>
+        <td style="text-align: right;"><strong>30%</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Paper 3</strong> (Problem Solving)</td>
+        <td>60 minutes (1 hour)</td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Calculator allowed (GDC required)</span></td>
+        <td>55 marks</td>
+        <td style="text-align: right;"><strong>20%</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Internal Assessment (IA)</strong> - Exploration</td>
+        <td>Independent research (12-20 pages)</td>
+        <td>No restrictions</td>
+        <td>20 marks</td>
+        <td style="text-align: right;"><strong>20%</strong></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+### Syllabus Structure
+
+<p>The syllabus is organized into five core topics consisting of both standard core content and advanced high-level extension topics (SL Core & HL Extensions):</p>
+
+::: {.callout-note collapse="true"}
+## Topic 1: Number and algebra
+**1.1**: Operations in standard form<br/>
+**1.2**: Arithmetic sequences and series<br/>
+**1.3**: Geometric sequences and series<br/>
+**1.4**: Financial applications<br/>
+**1.5**: Laws of exponents and logarithms<br/>
+**1.6**: Simple deductive proofs<br/>
+**1.7**: Rational exponents<br/>
+**1.8**: Infinite geometric series<br/>
+**1.9**: Binomial theorem<br/>
+**1.10**: Permutations and combinations [AHL]<br/>
+**1.11**: Partial fractions [AHL]<br/>
+**1.12**: Complex numbers in Cartesian form [AHL]<br/>
+**1.13**: Polar and Euler forms of complex numbers [AHL]<br/>
+**1.14**: Conjugate roots of polynomials [AHL]<br/>
+**1.15**: Proof by mathematical induction [AHL]<br/>
+**1.16**: Systems of linear equations [AHL]
+
+:::
+
+::: {.callout-note collapse="true"}
+## Topic 2: Functions
+**2.1**: Straight lines: equations, gradient, intercepts<br/>
+**2.2**: Concept of a function: domain, range, notation<br/>
+**2.3**: Graphs of functions<br/>
+**2.4**: Key features of graphs<br/>
+**2.5**: Composite and inverse functions<br/>
+**2.6**: Quadratic functions and their graphs<br/>
+**2.7**: Quadratic equations and discriminant<br/>
+**2.8**: Reciprocal functions and graphs<br/>
+**2.9**: Exponential and logarithmic functions<br/>
+**2.10**: Solving equations graphically and analytically<br/>
+**2.11**: Transformations of graphs<br/>
+**2.12**: Factor and remainder theorems [AHL]<br/>
+**2.13**: Rational functions [AHL]<br/>
+**2.14**: Odd and even functions [AHL]<br/>
+**2.15**: Solving inequalities [AHL]<br/>
+**2.16**: Advanced graph transformations and modulus functions [AHL]
+
+:::
+
+::: {.callout-note collapse="true"}
+## Topic 3: Geometry and trigonometry
+**3.1**: Distance and midpoint in 3D space<br/>
+**3.2**: Right-angled trigonometry<br/>
+**3.3**: Sine and cosine rules, area of a triangle<br/>
+**3.4**: Radian measure, arc length, sector area<br/>
+**3.5**: Unit circle trig definitions<br/>
+**3.6**: Pythagorean identity and double angle formulae<br/>
+**3.7**: Trigonometric graphs<br/>
+**3.8**: Solving trigonometric equations<br/>
+**3.9**: Reciprocal trigonometric functions [AHL]<br/>
+**3.10**: Compound and double angle identities [AHL]<br/>
+**3.11**: Vectors: position, displacement, magnitude [AHL]<br/>
+**3.12**: Scalar product of vectors [AHL]<br/>
+**3.13**: Vector product of vectors [AHL]<br/>
+**3.14**: Vector equations of lines in 2D and 3D [AHL]<br/>
+**3.15**: Line intersections in 3D [AHL]<br/>
+**3.16**: Kinematics applications of vectors [AHL]<br/>
+**3.17**: Vector equations of planes [AHL]<br/>
+**3.18**: Intersections of lines and planes, intersections of planes [AHL]
+
+:::
+
+::: {.callout-note collapse="true"}
+## Topic 4: Statistics and probability
+**4.1**: Population, sampling, discrete and continuous data<br/>
+**4.2**: Data presentation: frequency tables, histograms, box plots<br/>
+**4.3**: Measures of central tendency and dispersion<br/>
+**4.4**: Linear correlation of bivariate data<br/>
+**4.5**: Probability of events, Venn and tree diagrams<br/>
+**4.6**: Independent and mutually exclusive events<br/>
+**4.7**: Discrete random variables and expectation<br/>
+**4.8**: Binomial distribution<br/>
+**4.9**: Normal distribution<br/>
+**4.10**: Regression line and predictions<br/>
+**4.11**: Conditional probability<br/>
+**4.12**: Standardized normal variables (z-scores)<br/>
+**4.13**: Bayes' theorem [AHL]<br/>
+**4.14**: Probability density functions for continuous random variables [AHL]
+
+:::
+
+::: {.callout-note collapse="true"}
+## Topic 5: Calculus
+**5.1**: Concept of limits<br/>
+**5.2**: Increasing and decreasing functions<br/>
+**5.3**: Derivative of power functions and basic rules<br/>
+**5.4**: Tangents and normals equations<br/>
+**5.5**: Indefinite integration as anti-differentiation<br/>
+**5.6**: Derivative rules: product, quotient, and chain rules<br/>
+**5.7**: Second derivative, concavity, points of inflection<br/>
+**5.8**: Local maximum and minimum points<br/>
+**5.9**: Kinematic applications<br/>
+**5.10**: Indefinite integrals of standard functions<br/>
+**5.11**: Definite integrals and area under a curve<br/>
+**5.12**: Continuity and differentiability at a point [AHL]<br/>
+**5.13**: Limits of indeterminate forms and L'Hopital's rule [AHL]<br/>
+**5.14**: Implicit differentiation and related rates [AHL]<br/>
+**5.15**: Derivatives of reciprocal and inverse trig functions [AHL]<br/>
+**5.16**: Integration by substitution and parts [AHL]<br/>
+**5.17**: Volumes of revolution [AHL]<br/>
+**5.18**: First-order differential equations [AHL]<br/>
+**5.19**: Maclaurin series expansions [AHL]
+
+:::
+
+::: {.download-box}
+### Official Academic Resources
+*Download official IB resources and curriculum guides below (Google Drive links will be loaded from metadata):*
+
+<div class="btn-group-download">
+  <a href="info/Mathematics%20-%20Analysis%20and%20Approaches%20Subject%20Guide.pdf" target="_blank" class="btn-download btn-syllabus">
+    <i class="bi bi-file-earmark-pdf"></i> Official IB Math AA Subject Guide
+  </a>
+  <a href="info/Math%20AA%20HL%20formula%20booklet.pdf" target="_blank" class="btn-download btn-formula">
+    <i class="bi bi-journal-bookmark"></i> IB Math AA HL Formula Booklet
+  </a>
+</div>
+:::
+
+---
+
+## 2. Study Notes
+
+*Access curated study notes summarizing core formulas and key theorems across all topics:*
+
+::: {.panel-tabset}
+
+## Revision Notes (Set A)
+
+<div class="table-wrapper" style="margin-top: 1.5rem; max-height: 600px; overflow-y: auto;">
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th>Topic</th>
+        <th style="text-align: center; width: 18%;">Notes</th>
+        <th style="text-align: center; width: 18%;">Questions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="3" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> 1. Number & Algebra</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.1 Partial Fractions, Indices & Standard Form</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1u1a4bpj65ItVL4y2-tjs-_1a0YjxiePl/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1843f4aAyBi1z9eMGzs_wg98tTbrAcN2p/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.2 Exponentials & Logs</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/16qQI9JBthoMitX8hfLjsxUfTFCqnXlTx/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1v3601Jyb1toXT0AEH0Y2_6l8Ik-KyqrX/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.3 Sequences & Series</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Viug9eo4caAlyHxz5iDnca1dTb5hhkD0/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1WiOSuxp_fJXtYhYla7zgbWu1Z3x1-xbl/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.4 Simple Proof & Reasoning</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1eKu-dW6z_sPKgBES5CJVodT_VO2k8cY-/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1oJR1MW4-X5r4x3DLfw9c8LcfnyKltkKe/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.5 Proof by Induction & Contradiction</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Xz-GWsnh2gBFgy1dMOreKB8wPOhmj3Mq/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Woj9yje2FtdtJEGj6SVkwqB9mdPxILlb/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.6 Binomial Theorem</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1JxJ_-PcoqhKiDjnGEOh2yCKesq80P0M_/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ff43tnghp6ey8gNtS4i0PQXiwIJAgip4/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.7 Permutations & Combinations</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1aFKTv2dsJ0cQV-zS0PLwJJMkMg_gV-EL/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1mq2mNB7XGmKs1PiijqxrpPFTCzTJgL-2/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.8 Complex Numbers</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1R9s1kRU2iqiqeQELtpLFjIrqcxmqJHFo/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1LoZ9xZ8uOnJyg3INArFnQgPsnsLYTVFM/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.9 Further Complex Numbers</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1oSmSOFWKPdn0-EtzEQV8sOch_ObjlFcV/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1CsEuVI0Gr23cqV3PY_MnVywdW8h3YwDh/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.10 Systems of Linear Equations</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1AcnX5VlLvibb93jAfYmpgOdMWgyuBoxa/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Aqk143aMtIORcw4HFac7n8dE2WwiNYug/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="3" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> 2. Functions</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.1 Linear Functions & Graphs</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/17DbfNxyUZcUwEeV18uAADCb16mGgyGuF/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/17BuzpUvVFzFJ0h8oTvgj--GG93HqiusR/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.2 Quadratic Functions & Graphs</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/12XLhRBGJ9IiZA8w_tgVcWj7TaRhrdBqV/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1agcUDKWoLkbB3HLb2QP8M9KvBqdZenVH/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.3 Functions Toolkit</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1JMo7JfMj4J9Bt6Nv2NhNEDgLw1Wxd7l4/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1KXkrdHERGG8jj4zZLkAHh-GdAhV8EQnp/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.4 Other Functions & Graphs</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1UHyjmQnS6brkST22b7azeBvkAHXpm0oj/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1c4TFUNa3aldG8MnGKpG1cohRUqHNfz50/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.5 Reciprocal & Rational Functions</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1IkgkBlODJxY5RQaom5uFpnbSnqFwSZYQ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1mBCfbFmIIRuw9UG0kDNEqe0xGNMMz0u7/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.6 Transformations of Graphs</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1j9cSrhQ7ynK27-WN2cgCcvdoQuuxA2Gq/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1zFIVmdgyFuxQGUdrOXaIiqaGR8eCAceV/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.7 Polynomial Functions</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Hvtz0jrplsJwdd-sT1eJGMSy1-lMXQeR/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1AFcAxDCaHDaYOPXw0Kv3kgi7siA7x7jZ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.8 Inequalities</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1LVMd2TRlXFHbK8lvF_NNEXIaM2Q25EDp/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1J9U-Umvq_I5eeaF47-RpguMzap70Okjv/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.9 Modulus Functions & Further Transformations</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1gpXB0toaEjGJgcITworfc7qqMkHIpJX1/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1gnEl41hHpyb60aCiGGqidrs4gCBib_BJ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="3" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> 3. Geometry & Trigonometry</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.1 Geometry Toolkit</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1qgnXdCLhjbd2X0cy42okmj18L545P5ws/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1-A-xtou9Ebh7ASddelZC0DwHibgEKF-c/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.2 Geometry of 3D Shapes</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1npIIEP3jVMpERcG3vpniRkVj-Tb39RNm/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1tWHQgnPfGUmgFRIf_mJTLEgJWnXbR6lm/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.3 Trigonometry</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1MmDztz_lEXPYCdkzyaBuJ9ubbXKnPeYZ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1-sPikuOQ1TcI71fGNMXzKLNz3aea1Hfp/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.4 The Unit Circle & Exact Values</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1knbqJfpdyAW50v8u5DNquQpJ6RYxG7BI/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/128jci7f7tpvyaRNWF-gVitgSjdLlh2Z4/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.5 Trigonometric Functions & Graphs</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1sCrZrVBYXIqvrUa_J4ZWlB0DWEcuvr8n/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1XEr9_45pJ-JimqqCT2CN74_IaBTAjjCs/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.6 Trigonometric Equations & Identities</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1P1SR0moWx_zrvumUG_FBn9pTKbeMXpcT/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1iUGxZfUuKIPYww6dQ64atrvFVG_sxn7y/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.7 Inverse & Reciprocal Trigonometric Functions</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1TcJ2cRJd9OP9uarS8_MjrNAYSY3iij7U/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1S0vCkcdSj9Y3aGEzOcZPDHsPmu69qBsb/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.8 Trigonometric Proof & Equation Strategies</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1TNXrSKgzFewsAP_R8-2ijeCK08vXRL9M/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ylaDh7jkxPk6Wjg6NfmRo7mltlMWDoJu/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.9 Vector Properties</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1fnyAcz5fObatY46KYSTFBTX1EUgX-qjT/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1D5uJl6kWNaorDDwasYIyiMtfSQhiMdEa/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.10 Vector Equations of Lines</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1L_N_4DfN71nbj3XggHef5u26QZ0FwcHd/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/17ZQzSmUeGiRAOKH2MEI_fMRQm-0AQPA5/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.11 Vector Planes</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Ib61qwsbWuaubHoO8kj4RvJF1Hp-hv-Q/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1_4GVBF5Tjt3nEe4Gcwj6MKSnUfaJZ5PV/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="3" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> 4. Statistics & Probability</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">4.1 Statistics Toolkit</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1GAKxg1mPJ2p-dAv2KYkhdGLwWo5f0GMu/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/19JFJAu2Sd73Sr9fzWGqnH81GVxWCyrGQ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">4.2 Correlation & Regression</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1bv5LFA9hgGdLE_WBTM9TV3ZOoedOYVHg/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/18iRnqMogwXSj5zALiOWC3pSqWZR4NsYP/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">4.3 Probability</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1-qafR3vs5dBTbJIoiB_GgF4IiBr1jjnl/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1baEbAEZXPKXOKg-Q5vK71-BC9F8QKAkK/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">4.4 Discrete Random Variables</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1LbHBGvY-eC53_LapC4QbdbLadRfCde2p/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1KHFmg_IvGpcpQiPxglJsebwvVSqUpJPy/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">4.5 Binomial Distribution</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1bdcXfokJsFkCjrleFYu-p_LxqtqCJIRY/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1XvS5_8LWzkDPZx6F7OVBbQrAWlmLjHBP/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">4.6 Normal Distribution</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Od-TUeBkLvmMeCKCbSA7gSTxaBQEg6Ei/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1VvStgTq8ES5vkozck4f7R6Qc6QGPqsqg/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">4.7 Continuous Random Variables</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/10mBR_jiLMH9yf2BH4k-miZsyZNEzelXr/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1vllkRE4tvWiKkrKg0lESrS_5I_m_6BdD/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="3" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> 5. Calculus</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">5.1 Differentiation</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1LAlLtSlTWmoyfta1E3MGNXPXUeU-vrXV/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1KqBpVp9C9GdXjPHwaDdZcS2yWINtFzh4/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">5.2 Techniques & Applications of Differentiation</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1-ubmbOZrYmdWOCkYj_rrbhiDn4aon4Ne/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1LhZJo_ZjeJjPfqmE0ksmSfX2oxaqsQxn/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">5.3 Integration</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1QI9GNZ9AzEzlQgHl2xCBuHqeJd9tB7ru/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1iM8CiYZibEbIB1fjiLe2DIKH3A4eBrwK/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">5.4 Techniques & Applications of Integration</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1eSJb9hSypIOABAn6_L0C-LUblONUKTpa/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1EIL0CFbYX0fJrYX-saES9inTXWjF6kma/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">5.5 Optimisation</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1oVnscNYUx4VX8yNy1lIjClnMJunmfTcL/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1nJq1zNkMz2w0sQDgUE35McPodxYVRUOh/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">5.6 Kinematics</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/15XGwLsHmL6rqg2MdlOY0WMQrkCuR4Snj/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1inCzEWUG9LBN4WnpEafSNGFRHL36olcJ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">5.7 Basic Limits & Continuity</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/18EQwvUeydbMSKdloA3vfHvZub7GzFDA2/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1BVMDJrfpEhyzyjDSqQ_2B3ba6B8C-4AJ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">5.8 Further Differentiation</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Kq-Ld5IY33s9MZ2LZD8U7ZzZn9i1IOxs/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1o8bV3pYJ0nTcMF-p0CsoH1XJkup5-eiP/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">5.9 Further Integration</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1HXT0eVzhaIvFMjtdSkfUv4sGU9nwSdsT/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Wavzl-3Hb5f9KEqR9QFfWUKbN_d0cZnH/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">5.10 Differential Equations</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1lgeDgyRLlhPp5BmqnTtwxA348lqe6OMI/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1_12dMvXoBk5WZVsb0m76LgBZ67xVb6qS/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">5.11 Maclaurin Series</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1po6g8FJmL3Kesk5kHHBbPXMMqwOrs1e9/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1oADCsruLJaze2fph8UWaMs4a2_NxL7hU/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">5.12 Limits using l'Hôpital's Rule & Maclaurin Series</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1EAwPxCFvZw1HW3i1clEqviLwqM5mLFct/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1DbRUVlF3mv0E-Hdgj_X8C5NQ5upBKVDR/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-pencil-square"></i> Questions</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+## Summary Guides (Set B)
+
+<div class="table-wrapper" style="margin-top: 1.5rem;">
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th>Syllabus Topic</th>
+        <th style="text-align: center; width: 25%;">Summary Guide</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Topic 1: Number and Algebra</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1QlqyYJu6jPEQCEc5Bh7BPLzMtUkkRWSk/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download PDF</a></td>
+      </tr>
+      <tr>
+        <td><strong>Topic 2: Functions</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1pD4Xa0w9qG5llBzLqMAHmcGjXFo7ylvx/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download PDF</a></td>
+      </tr>
+      <tr>
+        <td><strong>Topic 3: Geometry and Trigonometry</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1wi0mN_nOuCvyqwNbGcTKzVcFt8cSffYA/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download PDF</a></td>
+      </tr>
+      <tr>
+        <td><strong>Topic 4: Statistics and Probability</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Dd154AQSKeFyn-8hB0hnzBtA2fklhnBL/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download PDF</a></td>
+      </tr>
+      <tr>
+        <td><strong>Topic 5: Calculus</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1qXS3xTOQ1oia6gpb2qcsvg0eNaCKB7mX/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download PDF</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+:::
+
+---
+
+## 3. Practice Questions
+
+*Access targeted conceptual questions modeled after actual exam formats:*
+
+::: {.callout-tip}
+## Study Tip:
+Students are encouraged to print out these worksheets, solve them under timed conditions, and cross-reference answers with the detailed Mark Schemes to identify algebraic areas of improvement.
+:::
+
+::: {.panel-tabset}
+
+## Revision Worksheets (Set 2)
+
+<div class="table-wrapper" style="margin-top: 1.5rem; max-height: 600px; overflow-y: auto;">
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th style="width: 15%;">Subtopic</th>
+        <th>Worksheet Title</th>
+        <th style="text-align: center; width: 18%;">Question Paper</th>
+        <th style="text-align: center; width: 18%;">Mark Scheme</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="4" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> Topic 1: Number & Algebra</td>
+      </tr>
+      <tr>
+        <td><code>1.1, 1.2</code></td>
+        <td>Numbers & Methods of Proof</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1U2o_svyZAzeCGYCBlQ4t8Qf5NkpALe7C/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1bg-tG3vPe5jf0cxaVWdCvPgjatOTTzgu/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr>
+        <td><code>1.3, 1.4, 1.5, 1.6</code></td>
+        <td>Sequences & Series</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1rhmB7HpWanVyWe0BtSZYKMtz5TVJM6I_/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/10ZsDpZSQ59jZN8d0YV5kEfXxpPexa8_z/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr>
+        <td><code>1.7</code></td>
+        <td>Binomial Theorem</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1c_rNM134qOOoGA-u6x5dvCwMJDNLeLFW/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/17SwG0-FMVTkCo_MIJ_iahoxlOqwGJ_Bh/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr>
+        <td><code>1.8</code></td>
+        <td>Mathematical Induction</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1kvXOo1kWmuW-OOXqb2KIneONZLUinjbx/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1C9--3tvK5KJu9fwGw6qs_Ac8-M8Htwzo/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr>
+        <td><code>1.9</code></td>
+        <td>Systems of Linear Equations</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1HFjPiHhqctV2iqsdFG0F36-k4mkOkscN/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1V9P-p1W0up-aqFgY0hyet8BEWxE_koZC/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr>
+        <td><code>1.10, 1.11</code></td>
+        <td>Complex Numbers (Cartesian Form)</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/150RGwXvffw6xYFPaRTt8bfLQSz8c2zro/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1lljp_84V65OZEGnh1VyanTv9xcw9GrOV/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr>
+        <td><code>1.12, 1.13, 1.14</code></td>
+        <td>Complex Numbers (Polar & Euler Forms)</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1kt3LF96Mm_9Dvc3maz_g5vzv1fmUAKV2/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1vXka2NWI84ICbe-6yQSOua_uwCPivyNu/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="4" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> Topic 2: Functions</td>
+      </tr>
+      <tr>
+        <td><code>2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.16</code></td>
+        <td>Functions, Graphs & Modulus Operations</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1BvMClf9zuGEFwNEk9U5tTl-8v-AULIQ7/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/11wJcGKUkquWDqig2V3ipcw-te_BCvYJG/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr>
+        <td><code>2.8, 2.9, 2.10</code></td>
+        <td>Exponents & Logarithms</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/10qC17J9SsGBuNpBtylWMQ5cQG0ri6pb2/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1UgN8csv1Y7UjtS5BCXxwnDDmdOXe_eNk/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr>
+        <td><code>2.11, 2.12, 2.13, 2.14, 2.15</code></td>
+        <td>Polynomials & Rational Functions</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/10V0tdNO2-_aiAJRrfXg9eLHEJuwuMVUS/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1bT9HeJoUq1dLjAyDRF_kdn8fg8ocgtSS/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="4" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> Topic 3: Geometry & Trigonometry</td>
+      </tr>
+      <tr>
+        <td><code>3.1, 3.2, 3.3, 3.4</code></td>
+        <td>3D Geometry, Triangles, Arcs & Sectors</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1O8SooltXmGuPFzvXXH-OMZ26PoqG-ZmT/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/19diofrbM_xpVK_LAvzol06udCKpJQPBp/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr>
+        <td><code>3.5, 3.6, 3.7, 3.8, 3.9</code></td>
+        <td>Trigonometric Equations & Functions</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1jSGUo7ffY63KaGX6jwNycxbLW--mz2tI/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1yoga_IMDE2fc0hCnQ4yncI8fJzArISWE/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr>
+        <td><code>3.10, 3.11, 3.12, 3.13, 3.14</code></td>
+        <td>Vectors & Equations of Lines</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1YgAK_zCFpPxdTNCkGOV50UbTK2IEZxlr/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1bO2g-ccnfz-7oImynQopRxX0kx_CDZGx/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr>
+        <td><code>3.15, 3.16, 3.17, 3.18</code></td>
+        <td>Cross Product & Vector Planes</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1wImv9V6mXpYRmzNH94NmMTh69h8XEidb/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1-Yx85tZGzKK1BRsYJoiFN6SzEnp30Nc0/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="4" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> Topic 4: Statistics & Probability</td>
+      </tr>
+      <tr>
+        <td><code>4.1, 4.2, 4.3, 4.4</code></td>
+        <td>Statistics Toolkit & Regression</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1lRVk-ESj5qHB-YzWy9x-0BheBIsBeg-o/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1k7ixTazKD0jQUKzLrnD3Y1k9NxeSCTdh/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr>
+        <td><code>4.5, 4.6, 4.7, 4.8</code></td>
+        <td>Probability Theory & Expectation</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1jzTHP6sEsjrN_m7t2nZuY3m9qyRWGROC/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1TgLNPu6S38l5Rdh7wyajUn5J27Tz5ZtJ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr>
+        <td><code>4.9, 4.10</code></td>
+        <td>Discrete Random Variables & Binomial Distribution</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1f-2hkoej5pC4GLUX_U2xWDyO5yrkcOlp/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/18W5EhBsxPC1KL66grclY3LZEcxXmWMfH/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr>
+        <td><code>4.11, 4.12</code></td>
+        <td>Continuous Random Variables & Normal Distribution</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1GbbcFDUgC_O1x_g1ifYzVKha_VivmTpH/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1qgPEWX53Nhn-gKUQJfmVvFDLenqhuQN_/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr>
+        <td><code>4.13</code></td>
+        <td>Counting & Probability</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1qbrUnjq2w-Hh3TDmujmwNQFOgXx_EBdO/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Gx1Lwz5A1IpF4hmr5fRoNn1ajnDallfI/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="4" style="color: #1e3a8a;"><i class="bi bi-journal-richtext"></i> Topic 5: Calculus</td>
+      </tr>
+      <tr>
+        <td><code>5.1, 5.2, 5.3, 5.4</code></td>
+        <td>Derivatives & Rates of Change</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1uGGYQ0UP3bVHvjwdj5Qco0ll5Srx8use/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1DCIHaUnU-5p_LIpJ7eme7MNdPICeQ8Oy/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr>
+        <td><code>5.2</code></td>
+        <td>5.2</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1-8-V9jkq-PqlxErdAWL7GZz0Sw_Rx49D/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1UvEg-NBO4yDqQgylrOLHknHMBW1gRtL_/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr>
+        <td><code>5.5, 5.6, 5.7</code></td>
+        <td>Monotony, Concavity & Optimisation</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1FQLOKD8fwVB3gTfnd_B--GKvwuXSgNMt/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1gmj5PSFzon0MgscXv2xYuDCXdyy5uqPi/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr>
+        <td><code>5.8, 5.9, 5.16</code></td>
+        <td>Indefinite Integrals & Substitution Techniques</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1292BRNuk40t_LtnldTo520qRf0v1Wytk/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1OJf5nHk5kYtIwNwwrf6tsX7BtLRZ52oG/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr>
+        <td><code>5.10, 5.18</code></td>
+        <td>Definite Integrals, Areas & Volumes</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1BxR98vhCXHWDPrqCGDsMPsPeqzOPKwea/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/12oFgUMxtxwDgziHelFCxG9uGCg9YgLNI/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr>
+        <td><code>5.11</code></td>
+        <td>Kinematics</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/10Zu4joISYS7sRLpafDHJlpBMl02e8Jzv/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1KtcofOcMkUdBgYjZE4gvohZuYOfGuoPW/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr>
+        <td><code>5.12, 5.13</code></td>
+        <td>Continuity, Differentiability & L'Hôpital's Rule</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1dVew6PZatY1jVX0tLoj_eu1Ybaxiy4JW/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1xC-NX8SbJzwYmt2SmfALIwg0_UfjEoTv/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr>
+        <td><code>5.14, 5.15</code></td>
+        <td>Implicit Differentiation & Related Rates</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1MareBgu6fCCboB7V8bhu-7X1GtJRK0lc/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1diZC16RfJAf6CrV85FLnQU3H150xOBw-/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr>
+        <td><code>5.17</code></td>
+        <td>Integration by Parts</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/14zz_leaRV-ER1dqQV1l13FdlHg2mHq_O/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1waiTPWkCb8wV21dqjtdUa220B4Q-V2BX/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+      <tr>
+        <td><code>5.19</code></td>
+        <td>Differential Equations</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1bGV0JJ2Wl9T0-PCXCN9O0GOK8wkz1cFn/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-text"></i> Questions</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1P0KmO9k10Mitlb--0FRh8d-oha7hLIB_/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-key"></i> Solutions</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+## Topic Questionbanks (Set 3)
+
+```{=html}
+<div class="set3-container" style="display: flex; flex-direction: column; gap: 2rem; margin-top: 1.5rem;">
+  <div class="card" style="border-radius: 12px; border: 1px solid rgba(0,0,0,0.08); box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05); overflow: hidden; background: var(--bs-card-bg, #ffffff);">
+    <div class="card-header" style="background-color: rgba(37, 99, 235, 0.03); border-bottom: 1px solid rgba(0,0,0,0.08); padding: 1rem 1.25rem;">
+      <h4 style="margin: 0; color: #1e3a8a; font-weight: 600; font-size: 1.15rem;"><i class="bi bi-folder2-open" style="margin-right: 0.5rem;"></i> Topic 1: Number & Algebra</h4>
+    </div>
+    <div class="card-body" style="padding: 1.25rem;">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.25rem; margin-bottom: 1.25rem; border-bottom: 1px dashed rgba(0,0,0,0.1); padding-bottom: 1.25rem;">
+        <div>
+          <h5 style="font-size: 0.9rem; text-transform: uppercase; color: #6b7280; font-weight: 600; margin-bottom: 0.5rem;">Topic-wide Practice Exam</h5>
+          <a href="https://drive.google.com/file/d/1tTG5WetylK63ltaV3VL2Uu92EXSDoXv2/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.4rem; padding: 0.5rem 1rem; font-size: 0.85rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 500; height: 36px; line-height: 20px;"><i class="bi bi-file-earmark-pdf"></i> Download Practice Exam</a>
+        </div>
+        <div>
+          <h5 style="font-size: 0.9rem; text-transform: uppercase; color: #6b7280; font-weight: 600; margin-bottom: 0.5rem;">Difficulty-based Questionbanks</h5>
+          <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+            <a href="https://drive.google.com/file/d/1xEIlKW__SOldYOlPImxsA8awSGKI95LE/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.4rem 0.8rem; font-size: 0.8rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 500; height: 36px; line-height: 20px;">Easy</a>
+            <a href="https://drive.google.com/file/d/1cI1Z6lx0TuucQVOLKh5Meiwl9JBG9Azn/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.4rem 0.8rem; font-size: 0.8rem; background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 500; height: 36px; line-height: 20px;">Medium</a>
+            <a href="https://drive.google.com/file/d/1HA7a4T6ttGeM_WHlkDZ_Y1ReW_3zhOqU/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.4rem 0.8rem; font-size: 0.8rem; background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 500; height: 36px; line-height: 20px;">Hard</a>
+          </div>
+        </div>
+      </div>
+      <div>
+        <h5 style="font-size: 0.9rem; text-transform: uppercase; color: #6b7280; font-weight: 600; margin-bottom: 0.75rem;">Subtopic Questionbanks</h5>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 0.75rem;">
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Binomial Theorem</span>
+            <a href="https://drive.google.com/file/d/16k5fRq4XgJKXXq9p5miwrT_V55HsradH/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Complex Numbers</span>
+            <a href="https://drive.google.com/file/d/1iuWHe6bHVOhkFGQkcDTdH7yOWQDxQ87v/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Counting Principles</span>
+            <a href="https://drive.google.com/file/d/1T3YSbIY4Xl5BYARBLT2NQQXg1NvhS4dU/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Exponents & Logs</span>
+            <a href="https://drive.google.com/file/d/1jpZoYbr5I1ga2bvmSZl6_YyY7zqEl-0B/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Number & Algebra</span>
+            <a href="https://drive.google.com/file/d/1AYgXNIBKn6IWmmtSNAddPl2sF07Qrcbu/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Proofs</span>
+            <a href="https://drive.google.com/file/d/1z2x5JwqfAsBtZEw3Op_Rnkc_OYMSMyB0/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Sequences & Series</span>
+            <a href="https://drive.google.com/file/d/1X8LNCeZOXYwyH_K2sWdVY2RpirUmRsb8/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Systems of Equations</span>
+            <a href="https://drive.google.com/file/d/1-FhsDKrdr_cGj_IxLwu2fRuscEFdY8CA/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="card" style="border-radius: 12px; border: 1px solid rgba(0,0,0,0.08); box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05); overflow: hidden; background: var(--bs-card-bg, #ffffff);">
+    <div class="card-header" style="background-color: rgba(37, 99, 235, 0.03); border-bottom: 1px solid rgba(0,0,0,0.08); padding: 1rem 1.25rem;">
+      <h4 style="margin: 0; color: #1e3a8a; font-weight: 600; font-size: 1.15rem;"><i class="bi bi-folder2-open" style="margin-right: 0.5rem;"></i> Topic 2: Functions</h4>
+    </div>
+    <div class="card-body" style="padding: 1.25rem;">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.25rem; margin-bottom: 1.25rem; border-bottom: 1px dashed rgba(0,0,0,0.1); padding-bottom: 1.25rem;">
+        <div>
+          <h5 style="font-size: 0.9rem; text-transform: uppercase; color: #6b7280; font-weight: 600; margin-bottom: 0.5rem;">Topic-wide Practice Exam</h5>
+          <a href="https://drive.google.com/file/d/1OxB7Kt9IVe4eUUzbYWNhK0RNMRvqgvZn/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.4rem; padding: 0.5rem 1rem; font-size: 0.85rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 500; height: 36px; line-height: 20px;"><i class="bi bi-file-earmark-pdf"></i> Download Practice Exam</a>
+        </div>
+        <div>
+          <h5 style="font-size: 0.9rem; text-transform: uppercase; color: #6b7280; font-weight: 600; margin-bottom: 0.5rem;">Difficulty-based Questionbanks</h5>
+          <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+            <a href="https://drive.google.com/file/d/1tAGN9nVY8Yc8Y_9n-JpLOK4PdTdCOaTI/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.4rem 0.8rem; font-size: 0.8rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 500; height: 36px; line-height: 20px;">Easy</a>
+            <a href="https://drive.google.com/file/d/1lkE6NaCd-RTzigXJQ6ADg76-hlIV78cn/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.4rem 0.8rem; font-size: 0.8rem; background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 500; height: 36px; line-height: 20px;">Medium</a>
+            <a href="https://drive.google.com/file/d/1XFYsbQt1pYGy-uetCgagtwgE6OruCiLd/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.4rem 0.8rem; font-size: 0.8rem; background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 500; height: 36px; line-height: 20px;">Hard</a>
+          </div>
+        </div>
+      </div>
+      <div>
+        <h5 style="font-size: 0.9rem; text-transform: uppercase; color: #6b7280; font-weight: 600; margin-bottom: 0.75rem;">Subtopic Questionbanks</h5>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 0.75rem;">
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Exponent-Log Functions</span>
+            <a href="https://drive.google.com/file/d/1V35ivS40Ag7tEqSgsDFV31QAKbB5C1JW/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Functions</span>
+            <a href="https://drive.google.com/file/d/1uehJ6f6jAIJb5t1nxbemkpzEOFJSAILs/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Modulus & Inequalities</span>
+            <a href="https://drive.google.com/file/d/1LQhMwYQfV9u6RDAG7og1LHRGqvvU6C8v/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Polynomials</span>
+            <a href="https://drive.google.com/file/d/1gyuiZQZ8sPQkJtqo_bQbBUdy_aHwn7MF/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Properties of Functions</span>
+            <a href="https://drive.google.com/file/d/1tHkOHN2OnuTaWcPNUg1J39iDE6rMneSr/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Quadratics</span>
+            <a href="https://drive.google.com/file/d/18cqMykbE3VLkTHzsQsZA6Bo5STUcI4RL/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Rational Functions</span>
+            <a href="https://drive.google.com/file/d/1WZh3l59rfoQAjlH6aWkhb337v2dyrrHQ/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Transformations</span>
+            <a href="https://drive.google.com/file/d/1isgszy4AL5D4Izq9xWWYJ8iksticDzyC/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="card" style="border-radius: 12px; border: 1px solid rgba(0,0,0,0.08); box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05); overflow: hidden; background: var(--bs-card-bg, #ffffff);">
+    <div class="card-header" style="background-color: rgba(37, 99, 235, 0.03); border-bottom: 1px solid rgba(0,0,0,0.08); padding: 1rem 1.25rem;">
+      <h4 style="margin: 0; color: #1e3a8a; font-weight: 600; font-size: 1.15rem;"><i class="bi bi-folder2-open" style="margin-right: 0.5rem;"></i> Topic 3: Geometry & Trigonometry</h4>
+    </div>
+    <div class="card-body" style="padding: 1.25rem;">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.25rem; margin-bottom: 1.25rem; border-bottom: 1px dashed rgba(0,0,0,0.1); padding-bottom: 1.25rem;">
+        <div>
+          <h5 style="font-size: 0.9rem; text-transform: uppercase; color: #6b7280; font-weight: 600; margin-bottom: 0.5rem;">Topic-wide Practice Exam</h5>
+          <a href="https://drive.google.com/file/d/1WrcWsUsbdfyctVLpdonE2ufy7yc6h7O1/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.4rem; padding: 0.5rem 1rem; font-size: 0.85rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 500; height: 36px; line-height: 20px;"><i class="bi bi-file-earmark-pdf"></i> Download Practice Exam</a>
+        </div>
+        <div>
+          <h5 style="font-size: 0.9rem; text-transform: uppercase; color: #6b7280; font-weight: 600; margin-bottom: 0.5rem;">Difficulty-based Questionbanks</h5>
+          <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+            <a href="https://drive.google.com/file/d/1cImUZddYDzXYOHOL5jB0nwWY9ra_Fhr4/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.4rem 0.8rem; font-size: 0.8rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 500; height: 36px; line-height: 20px;">Easy</a>
+            <a href="https://drive.google.com/file/d/11GSBg08i8xoqbQKfMnKUEivM1oyg1CSx/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.4rem 0.8rem; font-size: 0.8rem; background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 500; height: 36px; line-height: 20px;">Medium</a>
+            <a href="https://drive.google.com/file/d/1UzcjH3YAxq-_YpHcoW4PNxODM3khqDPm/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.4rem 0.8rem; font-size: 0.8rem; background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 500; height: 36px; line-height: 20px;">Hard</a>
+          </div>
+        </div>
+      </div>
+      <div>
+        <h5 style="font-size: 0.9rem; text-transform: uppercase; color: #6b7280; font-weight: 600; margin-bottom: 0.75rem;">Subtopic Questionbanks</h5>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 0.75rem;">
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Geometry & Shapes</span>
+            <a href="https://drive.google.com/file/d/1z1U9eno75mFqjyFV5v2bKPlgo0P9pxIc/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Geometry & Trigonometry</span>
+            <a href="https://drive.google.com/file/d/1se72sY0LJo6b5UmDQTiOdOiabxuedBp6/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Trigonometric Functions</span>
+            <a href="https://drive.google.com/file/d/12g1jc_X6_6XruI_kWlnKb7Sv6RkRO5Pf/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Vectors</span>
+            <a href="https://drive.google.com/file/d/1NpR1MscKe7x4xAT-88xrGu6M3DdHSo5U/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="card" style="border-radius: 12px; border: 1px solid rgba(0,0,0,0.08); box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05); overflow: hidden; background: var(--bs-card-bg, #ffffff);">
+    <div class="card-header" style="background-color: rgba(37, 99, 235, 0.03); border-bottom: 1px solid rgba(0,0,0,0.08); padding: 1rem 1.25rem;">
+      <h4 style="margin: 0; color: #1e3a8a; font-weight: 600; font-size: 1.15rem;"><i class="bi bi-folder2-open" style="margin-right: 0.5rem;"></i> Topic 4: Statistics & Probability</h4>
+    </div>
+    <div class="card-body" style="padding: 1.25rem;">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.25rem; margin-bottom: 1.25rem; border-bottom: 1px dashed rgba(0,0,0,0.1); padding-bottom: 1.25rem;">
+        <div>
+          <h5 style="font-size: 0.9rem; text-transform: uppercase; color: #6b7280; font-weight: 600; margin-bottom: 0.5rem;">Topic-wide Practice Exam</h5>
+          <a href="https://drive.google.com/file/d/16C0TAj55qW1CFQzxf4dYaSH7VHan0t-n/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.4rem; padding: 0.5rem 1rem; font-size: 0.85rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 500; height: 36px; line-height: 20px;"><i class="bi bi-file-earmark-pdf"></i> Download Practice Exam</a>
+        </div>
+        <div>
+          <h5 style="font-size: 0.9rem; text-transform: uppercase; color: #6b7280; font-weight: 600; margin-bottom: 0.5rem;">Difficulty-based Questionbanks</h5>
+          <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+            <a href="https://drive.google.com/file/d/165rt1IX8L0HkxVM68KkkpnhiNvtEsuS8/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.4rem 0.8rem; font-size: 0.8rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 500; height: 36px; line-height: 20px;">Easy</a>
+            <a href="https://drive.google.com/file/d/1JAGBAFyf5hep1i5ENxNfUfGFr6-1P4vo/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.4rem 0.8rem; font-size: 0.8rem; background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 500; height: 36px; line-height: 20px;">Medium</a>
+            <a href="https://drive.google.com/file/d/1jnP_MPD1T_BLx-83bJa6aUIoPKjc4H0X/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.4rem 0.8rem; font-size: 0.8rem; background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 500; height: 36px; line-height: 20px;">Hard</a>
+          </div>
+        </div>
+      </div>
+      <div>
+        <h5 style="font-size: 0.9rem; text-transform: uppercase; color: #6b7280; font-weight: 600; margin-bottom: 0.75rem;">Subtopic Questionbanks</h5>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 0.75rem;">
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Bivariate Statistics</span>
+            <a href="https://drive.google.com/file/d/13ZMUIwe_96i5ZztuBtwWVaFVOBcA6uOk/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Distributions</span>
+            <a href="https://drive.google.com/file/d/1ykmZAJZVAe6Vb4VDGYl2r_XukwFJPD78/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Probability</span>
+            <a href="https://drive.google.com/file/d/1kh4zu6-Uhq79UqiST04hB45syXob2VSO/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Statistics</span>
+            <a href="https://drive.google.com/file/d/1FF65WvFCgqueEQqrzhIh3x6fBMbAnWtL/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Statistics & Probability</span>
+            <a href="https://drive.google.com/file/d/19RMjLg_bivDnV6NV-aF9im8YZDDqN7RR/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="card" style="border-radius: 12px; border: 1px solid rgba(0,0,0,0.08); box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05); overflow: hidden; background: var(--bs-card-bg, #ffffff);">
+    <div class="card-header" style="background-color: rgba(37, 99, 235, 0.03); border-bottom: 1px solid rgba(0,0,0,0.08); padding: 1rem 1.25rem;">
+      <h4 style="margin: 0; color: #1e3a8a; font-weight: 600; font-size: 1.15rem;"><i class="bi bi-folder2-open" style="margin-right: 0.5rem;"></i> Topic 5: Calculus</h4>
+    </div>
+    <div class="card-body" style="padding: 1.25rem;">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.25rem; margin-bottom: 1.25rem; border-bottom: 1px dashed rgba(0,0,0,0.1); padding-bottom: 1.25rem;">
+        <div>
+          <h5 style="font-size: 0.9rem; text-transform: uppercase; color: #6b7280; font-weight: 600; margin-bottom: 0.5rem;">Topic-wide Practice Exam</h5>
+          <a href="https://drive.google.com/file/d/1XHWg0ZAuVtN3JNZuq6tsVP3i63aoQZpq/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.4rem; padding: 0.5rem 1rem; font-size: 0.85rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 500; height: 36px; line-height: 20px;"><i class="bi bi-file-earmark-pdf"></i> Download Practice Exam</a>
+        </div>
+        <div>
+          <h5 style="font-size: 0.9rem; text-transform: uppercase; color: #6b7280; font-weight: 600; margin-bottom: 0.5rem;">Difficulty-based Questionbanks</h5>
+          <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+            <a href="https://drive.google.com/file/d/1H8Kw7tq9b7hvotfTbWLuI98ieFkeJ-cG/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.4rem 0.8rem; font-size: 0.8rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 500; height: 36px; line-height: 20px;">Easy</a>
+            <a href="https://drive.google.com/file/d/1BcTqOrKG-nE09Sf605VGXgTiO0GzttQH/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.4rem 0.8rem; font-size: 0.8rem; background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 500; height: 36px; line-height: 20px;">Medium</a>
+            <a href="https://drive.google.com/file/d/1Glv91P6LizhG_FSa6bjRraSMFvHdaaur/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.4rem 0.8rem; font-size: 0.8rem; background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 500; height: 36px; line-height: 20px;">Hard</a>
+          </div>
+        </div>
+      </div>
+      <div>
+        <h5 style="font-size: 0.9rem; text-transform: uppercase; color: #6b7280; font-weight: 600; margin-bottom: 0.75rem;">Subtopic Questionbanks</h5>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 0.75rem;">
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Calculus</span>
+            <a href="https://drive.google.com/file/d/1EFe91Vh13MlVgnRh-JJAHn-e7XE0G4Z2/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Differential Calculus</span>
+            <a href="https://drive.google.com/file/d/17Rxp1yTbKMk4gFJ0Fo9QbAqzW-UagZca/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Differential Equations</span>
+            <a href="https://drive.google.com/file/d/1AEkxA_v7FuQMgqGQ8LjmUbjUbFL62SZ_/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Integral Calculus</span>
+            <a href="https://drive.google.com/file/d/1gGJb9fYv_WPca7xNyEtYjo7qA2u1lgB-/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Kinematics</span>
+            <a href="https://drive.google.com/file/d/1Ux0d3UAUMjyFHcYQg1CHiekSgmeOEguk/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+          <div style="border: 1px solid rgba(0,0,0,0.06); padding: 0.6rem 0.8rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.01);">
+            <span style="font-size: 0.85rem; font-weight: 500; color: var(--bs-body-color);">Maclaurin Series</span>
+            <a href="https://drive.google.com/file/d/1e1qSJnQ1eeDwb8LJeaDjqZXlql3bp4AT/view?usp=sharing" target="_blank" style="font-size: 0.8rem; color: #2563eb; text-decoration: none; display: inline-flex; align-items: center; gap: 0.2rem;"><i class="bi bi-download"></i> Get QB</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+```
+
+:::
+
+---
+
+## 4. Topical Past Papers
+
+*Review handpicked actual exam questions organized by the main syllabus topics:*
+
+::: {.callout-note}
+## Paper 3 Extended Analytical Exam Questions
+Students preparing for the AA HL exam can access the consolidated Paper 3 extended analysis past paper pack:
+[**Download Paper 3 Past Papers Pack (PDF) →**](https://drive.google.com/file/d/1qCriUcNC96lHWIG9QenaIr9ZRn795Mn7/view?usp=sharing){.btn-gateway}
+:::
+
+<div class="table-wrapper" style="margin-top: 1.5rem; max-height: 600px; overflow-y: auto;">
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th style="width: 15%;">Chapter</th>
+        <th>Topic / Concept Area</th>
+        <th style="text-align: center; width: 25%;">Paper 1 (Non-Calculator)</th>
+        <th style="text-align: center; width: 25%;">Paper 2 (Calculator Allowed)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><code>Ch 1</code></td>
+        <td><strong>Algebra, Functions & Roots</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1DKPmFMVxN7TQTXeVatR3H01tCEInIeBO/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P1</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/14r7tijnfZ1a4SBn1s4iTS6wK8XzPvpdr/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P2</a></td>
+      </tr>
+      <tr>
+        <td><code>Ch 2</code></td>
+        <td><strong>Quadratics</strong></td>
+        <td colspan="2" style="text-align: center;"><a href="https://drive.google.com/file/d/12auLPX9mhdKc2s-pSclW_r37hdmMb2HL/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 50%;"><i class="bi bi-file-earmark-pdf"></i> Download P1 & P2</a></td>
+      </tr>
+      <tr>
+        <td><code>Ch 3</code></td>
+        <td><strong>Exponentials & Logarithms</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1rfZ5RnLHoEIyxSka1Lsxsx1UP4gzpR-T/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P1</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1VW7A7QfFuCm1f2d8BPuwzf2lh8ZyK213/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P2</a></td>
+      </tr>
+      <tr>
+        <td><code>Ch 4</code></td>
+        <td><strong>Graphs</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1NYpHdjpXTm8DUKLy2n6a-_vFSPT6uppa/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P1</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1G5zp7ly5GkLOT4xy-7KXOCKcmqzQr9gO/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P2</a></td>
+      </tr>
+      <tr>
+        <td><code>Ch 5</code></td>
+        <td><strong>Sequences & Series</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1zigtyepHpoa6ImMSHGQ8rGv1CBexkPSR/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P1</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ybs3diQXk_nkrw7oduQas-PFpG0W1vC2/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P2</a></td>
+      </tr>
+      <tr>
+        <td><code>Ch 6</code></td>
+        <td><strong>Complex Numbers</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1v2atEbT8KWxrfbhd3jx7YsEgg4cPSHey/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P1</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ynJLjm4CGn0UjQMN2qaFTBs9wqPKtdsW/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P2</a></td>
+      </tr>
+      <tr>
+        <td><code>Ch 7</code></td>
+        <td><strong>Permutations & Combinations</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Vm-JNPcX3m311KHm39qEOpXzr0W0eyXs/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P1</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1q6f6fPXJ1QFfOr0CaJ1dr6WoaUzDqglc/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P2</a></td>
+      </tr>
+      <tr>
+        <td><code>Ch 8</code></td>
+        <td><strong>Binomial Theorem</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/12LtCZ8gSpFCbO0e_pPT2Jhh8LadaX31o/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P1</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1F0FPI9vHuMliibwb95NYjuXxcb30CicD/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P2</a></td>
+      </tr>
+      <tr>
+        <td><code>Ch 9</code></td>
+        <td><strong>Remainder & Factor Theorem</strong></td>
+        <td colspan="2" style="text-align: center;"><a href="https://drive.google.com/file/d/1VTt3D1ir2ipEh3VTRD6Npq3PNC2RM2y8/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 50%;"><i class="bi bi-file-earmark-pdf"></i> Download P1 & P2</a></td>
+      </tr>
+      <tr>
+        <td><code>Ch 11</code></td>
+        <td><strong>Radian Measure</strong></td>
+        <td colspan="2" style="text-align: center;"><a href="https://drive.google.com/file/d/1_ga1AoieYXbmcOuecpetEZpIuh5KsPeo/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 50%;"><i class="bi bi-file-earmark-pdf"></i> Download P1 & P2</a></td>
+      </tr>
+      <tr>
+        <td><code>Ch 12</code></td>
+        <td><strong>Trigonometry I: Equations & Graphs</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1IXwYrZ3MDUp2zmG9GNKnXDGtII5Tc0GJ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P1</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/11x9SwCFyCGMforcfDxi13APqLuY5ffBU/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P2</a></td>
+      </tr>
+      <tr>
+        <td><code>Ch 12</code></td>
+        <td><strong>Trigonometry II: Identities & Triangles</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1KpYmSEf1GC9xZFNZBjp5Z5r0FsQ1TFqC/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P1</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1cEHfzpNnqZp04F-uQqwgWYKXYnB0VOWG/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P2</a></td>
+      </tr>
+      <tr>
+        <td><code>Ch 14</code></td>
+        <td><strong>Vectors, Lines & Planes</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1wwbiqqNhVWbgY-IXqZx8URDZZd1gus3r/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P1</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1mK1nzpIygEkP6ihukcBNt4GIy-vWnD0i/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P2</a></td>
+      </tr>
+      <tr>
+        <td><code>Ch 15</code></td>
+        <td><strong>Statistics</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1I15mctfK8vCaRm8g_AYM1cMO_u7oQC74/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P1</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/18jN5CXacLjm2v8Iq45KteB_3OufD8WuM/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P2</a></td>
+      </tr>
+      <tr>
+        <td><code>Ch 16</code></td>
+        <td><strong>Probability</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1_vRHLexAlio5sAlO6mZXGE2mEfmxnkho/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P1</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/19yDBU5N1AIqUGQqy0UUlku7ENAdETVt9/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P2</a></td>
+      </tr>
+      <tr>
+        <td><code>Ch 17</code></td>
+        <td><strong>Differential Calculus</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1C-N_DCmYCDi45LvKchGGWKREkJA5juVo/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P1</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1f65msB4skKh57e49SNYZ38BWTDh8eThq/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P2</a></td>
+      </tr>
+      <tr>
+        <td><code>Ch 18</code></td>
+        <td><strong>Integral Calculus</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1BQneIs1e85L4zp6NHInbTlOGGOsr6yik/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P1</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ouzUzPSwR1te-Yo6BGrBZArTh8Y71TnB/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P2</a></td>
+      </tr>
+      <tr>
+        <td><code>Ch 19</code></td>
+        <td><strong>Differential Equations</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1D2uhxOEniBCVKyynG4Qd-iQn1szvit_-/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P1</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1791PdJe-F_qWG57U42MXuvhPca_wZzsf/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P2</a></td>
+      </tr>
+      <tr>
+        <td><code>Ch 20</code></td>
+        <td><strong>Kinematics</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1tvewBPSt2M7kqlMnRGte8h3JAcQ3v7lf/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P1</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Kfg1vinkPcJ5gAom8cu818jjLe14Y3LH/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.3rem; padding: 0.35rem 0.7rem; font-size: 0.75rem; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); text-decoration: none !important; color: white !important; border-radius: 4px; font-weight: 500; width: 100%;"><i class="bi bi-file-earmark-pdf"></i> Download P2</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
+
+## 5. Past Papers Bank
+
+*Search and filter actual past exam papers. Use the quick filter bar to locate papers by year, component, or document type:*
+
+::: {.search-engine-box}
+### IB Mathematics AA HL Past Papers List
+
+```{=html}
+<div class="card p-3 mb-4 shadow-sm" style="border-radius: 12px; border: 1px solid rgba(0,0,0,0.08); background: var(--bs-card-bg, #ffffff);">
+  <div class="card-body p-0">
+    <div class="d-flex align-items-center flex-wrap gap-4">
+      
+      <!-- Year Select Dropdown -->
+      <div class="d-flex align-items-center gap-2" style="min-width: 180px;">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Year:</span>
+        <select id="filter-year" class="form-select form-select-sm" onchange="selectYearDropdown()" style="max-width: 130px; display: inline-block;">
+          <option value="">All Years</option>
+        </select>
+      </div>
+      
+      <!-- Vertical Divider on desktop -->
+      <div class="d-none d-md-block" style="border-left: 1px solid rgba(0,0,0,0.1); height: 24px;"></div>
+      
+      <!-- Paper Pills -->
+      <div class="d-flex align-items-center gap-2 flex-grow-1">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Paper:</span>
+        <div id="paper-pills" class="d-flex flex-wrap gap-1">
+          <button class="btn btn-sm btn-primary smart-paper-btn active" data-paper="" onclick="selectPaper(this)">All</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="p1" onclick="selectPaper(this)">Paper 1</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="p2" onclick="selectPaper(this)">Paper 2</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="p3" onclick="selectPaper(this)">Paper 3</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div id="past-papers-table-container">
+  <p><i class="bi bi-hourglass-split"></i> Loading past papers...</p>
+</div>
+
+<script>
+let pastPapersDb = [];
+let currentSelectedYear = '';
+let currentSelectedPaper = '';
+let currentPage = 1;
+const pageSize = 10;
+let filteredExams = [];
+const currentLevel = 'aa_hl';
+
+async function loadPastPapersDb() {
+  if (pastPapersDb.length > 0) return pastPapersDb;
+  try {
+    const response = await fetch('past_papers_metadata.json');
+    if (!response.ok) throw new Error('Network response was not ok');
+    pastPapersDb = await response.json();
+  } catch (error) {
+    console.error('Failed to load past papers metadata:', error);
+  }
+  return pastPapersDb;
+}
+
+function populateYearDropdown(db, level) {
+  const yearSelect = document.getElementById('filter-year');
+  if (!yearSelect) return;
+
+  const years = new Set();
+  db.forEach(item => {
+    if (item.level === level && item.year) {
+      years.add(item.year.toString().trim());
+    }
+  });
+
+  const sortedYears = Array.from(years).sort((a, b) => parseInt(b) - parseInt(a));
+
+  yearSelect.innerHTML = '<option value="">All Years</option>';
+  sortedYears.forEach(year => {
+    const option = document.createElement('option');
+    option.value = year;
+    option.textContent = year;
+    yearSelect.appendChild(option);
+  });
+}
+
+// Function to render table data with pagination
+function renderTableData() {
+  const tableBody = document.getElementById('past-papers-table-body');
+  const paginationContainer = document.getElementById('pagination-controls');
+  if (!tableBody) return;
+
+  const totalPages = Math.ceil(filteredExams.length / pageSize);
+  if (currentPage > totalPages) currentPage = Math.max(1, totalPages);
+
+  const start = (currentPage - 1) * pageSize;
+  const end = start + pageSize;
+  const pageItems = filteredExams.slice(start, end);
+
+  let html = '';
+  pageItems.forEach(exam => {
+    const seasonLabel = exam.season.charAt(0).toUpperCase() + exam.season.slice(1);
+    const paperLabel = exam.paper.toUpperCase();
+    const tzLabel = exam.timezone.toUpperCase();
+
+    let qpHtml = '';
+    if (exam.qp) {
+      qpHtml = `<a href="${exam.qp}" target="_blank" title="Download Question Paper" class="btn btn-sm btn-primary bi bi-file-earmark-text" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;"></a>`;
+    } else {
+      qpHtml = `<span class="text-muted" style="font-size: 0.85rem;">N/A</span>`;
+    }
+
+    let msHtml = '';
+    if (exam.ms) {
+      msHtml = `<a href="${exam.ms}" target="_blank" title="Download Mark Scheme" class="btn btn-sm btn-success bi bi-key" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;"></a>`;
+    } else {
+      msHtml = `<span class="text-muted" style="font-size: 0.85rem;">N/A</span>`;
+    }
+
+    html += `
+      <tr>
+        <td><strong>${exam.year}</strong></td>
+        <td><strong>${seasonLabel}</strong></td>
+        <td><span class="badge badge-paper">${paperLabel}</span></td>
+        <td><span class="badge badge-tz">${tzLabel}</span></td>
+        <td style="text-align: center;">${qpHtml}</td>
+        <td style="text-align: center;">${msHtml}</td>
+      </tr>
+    `;
+  });
+  tableBody.innerHTML = html;
+
+  // Render pagination controls
+  if (totalPages <= 1) {
+    paginationContainer.innerHTML = '';
+    return;
+  }
+
+  let pagHtml = '';
+  pagHtml += `<button class="btn btn-sm btn-outline-primary" ${currentPage === 1 ? 'disabled' : ''} onclick="changePage(${currentPage - 1})">Prev</button>`;
+  
+  for (let i = 1; i <= totalPages; i++) {
+    if (i === currentPage) {
+      pagHtml += `<button class="btn btn-sm btn-primary active">${i}</button>`;
+    } else {
+      if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= 1) {
+        pagHtml += `<button class="btn btn-sm btn-outline-primary" onclick="changePage(${i})">${i}</button>`;
+      } else if (i === 2 || i === totalPages - 1) {
+        pagHtml += `<span class="text-muted px-1">...</span>`;
+      }
+    }
+  }
+
+  pagHtml += `<button class="btn btn-sm btn-outline-primary" ${currentPage === totalPages ? 'disabled' : ''} onclick="changePage(${currentPage + 1})">Next</button>`;
+  
+  paginationContainer.innerHTML = pagHtml.replace(/(<span class="text-muted px-1">\.\.\.<\/span>\s*){2,}/g, '<span class="text-muted px-1">...</span>');
+}
+
+function changePage(page) {
+  currentPage = page;
+  renderTableData();
+  document.getElementById('past-papers-table-container').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
+function applyFilters(level) {
+  let filtered = pastPapersDb.filter(item => item.level === level);
+
+  if (currentSelectedYear) {
+    filtered = filtered.filter(item => item.year.toString() === currentSelectedYear);
+  }
+  if (currentSelectedPaper) {
+    filtered = filtered.filter(item => item.paper.toLowerCase() === currentSelectedPaper.toLowerCase());
+  }
+
+  const exams = {};
+  filtered.forEach(item => {
+    const key = `${item.year}_${item.season}_${item.timezone}_${item.paper}`;
+    if (!exams[key]) {
+      exams[key] = {
+        year: item.year,
+        season: item.season,
+        timezone: item.timezone,
+        paper: item.paper,
+        qp: null,
+        ms: null
+      };
+    }
+    if (item.type === 'qp') {
+      exams[key].qp = item.google_drive_link;
+    } else if (item.type === 'ms') {
+      exams[key].ms = item.google_drive_link;
+    }
+  });
+
+  filteredExams = Object.values(exams);
+  filteredExams.sort((a, b) => {
+    if (a.year !== b.year) return parseInt(b.year) - parseInt(a.year);
+    if (a.season !== b.season) return b.season.localeCompare(a.season); // 'winter' > 'summer'
+    if (a.timezone !== b.timezone) return a.timezone.localeCompare(b.timezone);
+    return a.paper.localeCompare(b.paper);
+  });
+
+  const container = document.getElementById('past-papers-table-container');
+  if (filteredExams.length === 0) {
+    container.innerHTML = '<p style="padding: 1rem; text-align: center; color: #9ca3af;"><i class="bi bi-info-circle"></i> No matching past papers found.</p>';
+    return;
+  }
+
+  container.innerHTML = `
+    <div class="table-wrapper">
+      <table class="premium-table">
+        <thead>
+          <tr>
+            <th>Year</th>
+            <th>Season</th>
+            <th>Paper</th>
+            <th>Timezone</th>
+            <th style="text-align: center; width: 80px;">QP</th>
+            <th style="text-align: center; width: 80px;">MS</th>
+          </tr>
+        </thead>
+        <tbody id="past-papers-table-body">
+        </tbody>
+      </table>
+    </div>
+    <div class="d-flex justify-content-center align-items-center gap-2 mt-3" id="pagination-controls"></div>
+  `;
+
+  currentPage = 1;
+  renderTableData();
+}
+
+function selectYearDropdown() {
+  const yearSelect = document.getElementById('filter-year');
+  currentSelectedYear = yearSelect.value || '';
+  applyFilters(currentLevel);
+}
+
+function selectPaper(button) {
+  currentSelectedPaper = button.getAttribute('data-paper') || '';
+
+  const buttons = document.querySelectorAll('.smart-paper-btn');
+  buttons.forEach(btn => {
+    btn.classList.remove('btn-primary', 'active');
+    btn.classList.add('btn-outline-secondary');
+  });
+  button.classList.remove('btn-outline-secondary');
+  button.classList.add('btn-primary', 'active');
+
+  applyFilters(currentLevel);
+}
+
+async function initPastPapersTable() {
+  const container = document.getElementById('past-papers-table-container');
+  const db = await loadPastPapersDb();
+  
+  if (!db || db.length === 0) {
+    container.innerHTML = '<p><i class="bi bi-exclamation-triangle-fill" style="color: #ef4444;"></i> Error: Failed to load past papers database. Please try again later.</p>';
+    return;
+  }
+
+  populateYearDropdown(db, currentLevel);
+  applyFilters(currentLevel);
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  initPastPapersTable();
+});
+</script>
+```
+:::

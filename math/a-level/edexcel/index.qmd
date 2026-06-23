@@ -1,0 +1,843 @@
+---
+title: "Edexcel Mathematics Overview"
+subtitle: "Pearson Edexcel International Advanced Level (IAL) Mathematics Portal"
+format: html
+---
+
+::: {.callout-note}
+## Road to Achieving an A* in Edexcel A-Level Mathematics
+Welcome, students! Pearson Edexcel International Advanced Level (IAL) Mathematics is a flexible modular curriculum. K-Education Hub provides a structured library of core study notes, topical worksheets, and actual exam past papers organized by individual exam units to help you optimize your learning and achieve an A* grade.
+:::
+
+## 1. Course Introduction
+
+<p>Pearson Edexcel International Advanced Level in Mathematics follows a modular design, enabling candidates to take examinations throughout the course. The qualification is built from different units, allowing students to specialize in areas of Pure Mathematics, Mechanics, Statistics, or Decision Mathematics.</p>
+
+### Assessment Outline
+
+<p>To obtain an International Advanced Level (IAL) in Mathematics, candidates must Cash-In six modules, including the compulsory Pure Mathematics units (P1, P2, P3, P4) plus two optional application units.</p>
+
+<div class="table-wrapper" style="margin-bottom: 2rem;">
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th>Exam Module</th>
+        <th>Syllabus Component</th>
+        <th>Format & Duration</th>
+        <th>Marks</th>
+        <th style="text-align: right;">IAL Weighting</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Pure Mathematics 1</strong> (P1)</td>
+        <td>Algebra, coordinate geometry, trig, calculus</td>
+        <td>Written exam &mdash; 1 hour 30 minutes</td>
+        <td>75 marks</td>
+        <td style="text-align: right;"><strong>16.7%</strong> <small>(33.3% of IAS)</small></td>
+      </tr>
+      <tr>
+        <td><strong>Pure Mathematics 2</strong> (P2)</td>
+        <td>Proof, sequences, exponentials, logs, circle</td>
+        <td>Written exam &mdash; 1 hour 30 minutes</td>
+        <td>75 marks</td>
+        <td style="text-align: right;"><strong>16.7%</strong> <small>(33.3% of IAS)</small></td>
+      </tr>
+      <tr>
+        <td><strong>Pure Mathematics 3</strong> (P3)</td>
+        <td>Inverse trig, algebraic methods, advanced calculus</td>
+        <td>Written exam &mdash; 1 hour 30 minutes</td>
+        <td>75 marks</td>
+        <td style="text-align: right;"><strong>16.7%</strong> <small>(16.7% of IAL)</small></td>
+      </tr>
+      <tr>
+        <td><strong>Pure Mathematics 4</strong> (P4)</td>
+        <td>Parametrics, partial fractions, vectors, integration</td>
+        <td>Written exam &mdash; 1 hour 30 minutes</td>
+        <td>75 marks</td>
+        <td style="text-align: right;"><strong>16.7%</strong> <small>(16.7% of IAL)</small></td>
+      </tr>
+      <tr>
+        <td><strong>Optional Unit 1</strong> (e.g., S1 / M1)</td>
+        <td>Probability and statistics or basic mechanics</td>
+        <td>Written exam &mdash; 1 hour 30 minutes</td>
+        <td>75 marks</td>
+        <td style="text-align: right;"><strong>16.7%</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Optional Unit 2</strong> (e.g., S2 / M2 / D1)</td>
+        <td>Advanced statistics, dynamics, or decision math</td>
+        <td>Written exam &mdash; 1 hour 30 minutes</td>
+        <td>75 marks</td>
+        <td style="text-align: right;"><strong>16.7%</strong></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+### Cash-In and Grading Criteria
+
+<ul>
+  <li><strong>IAS Level Award</strong>: Compiled from 3 units (P1, P2 + one application unit like S1 or M1). The maximum raw marks are converted to a Uniform Mark Scale (UMS) maximum of 300 UMS.</li>
+  <li><strong>IAL Level Award</strong>: Compiled from 6 units (P1, P2, P3, P4 + two application units) with a maximum of 600 UMS marks.</li>
+  <li><strong>A* Criteria</strong>: To achieve an A* grade overall, candidates must score at least 480 UMS marks in total across the 6 units, and score at least 180 out of 200 UMS marks on P3 and P4 combined.</li>
+</ul>
+
+### Syllabus Structure
+
+<p>The core units of the Edexcel IAL Mathematics curriculum comprise the following detailed topics:</p>
+
+<div class="syllabus-section">
+::: {.callout-note collapse="true"}
+## P1: Pure Mathematics 1
+
+
+
+### 1. Algebra and functions
+
+1.1 Laws of indices.<br/>
+1.2 Surds.<br/>
+1.3 Quadratic functions and graphs.<br/>
+1.4 Discriminant.<br/>
+1.5 Completing the square & solving quadratics.<br/>
+1.6 Simultaneous equations.<br/>
+1.7 Interpret inequalities graphically.<br/>
+1.8 Represent inequalities graphically.<br/>
+1.9 Solutions of inequalities.<br/>
+1.10 Algebraic manipulation of polynomials.<br/>
+1.11 Cubic and reciprocal functions.<br/>
+1.12 Graph transformations.<br/>
+
+
+### 2. Coordinate geometry in the (x, y) plane
+
+2.1 Equation of a straight line.<br/>
+2.2 Parallel and perpendicular lines.<br/>
+
+
+### 3. Trigonometry
+
+3.1 Sine rule, cosine rule and triangle area.<br/>
+3.2 Radian measure.<br/>
+3.3 Sine, cosine and tangent functions.<br/>
+
+
+### 4. Differentiation
+
+4.1 The derivative and rates of change.<br/>
+4.2 Differentiation of polynomials.<br/>
+4.3 Gradients, tangents and normals.<br/>
+
+
+### 5. Integration
+
+5.1 Indefinite integration.<br/>
+5.2 Integration of polynomials.<br/>
+
+
+:::
+
+::: {.callout-note collapse="true"}
+## P2: Pure Mathematics 2
+
+
+
+### 1. Proof
+
+1.1 Structure of mathematical proof.<br/>
+1.2 Proof by exhaustion.<br/>
+1.3 Disproof by counter example.<br/>
+
+
+### 2. Algebra and functions
+
+2.1 Algebraic division, Factor and Remainder Theorems.<br/>
+
+
+### 3. Coordinate geometry in the (x, y) plane
+
+3.1 Coordinate geometry of the circle.<br/>
+
+
+### 4. Sequences and series
+
+4.1 Sequences.<br/>
+4.2 Arithmetic sequences and series.<br/>
+4.3 Increasing, decreasing and periodic sequences.<br/>
+4.4 Geometric sequences and series.<br/>
+4.5 Binomial expansion.<br/>
+
+
+### 5. Exponentials and logarithms
+
+5.1 Exponential functions and graphs.<br/>
+5.2 Laws of logarithms.<br/>
+5.3 Solving exponential equations.<br/>
+
+
+### 6. Trigonometry
+
+6.1 Trigonometric identities.<br/>
+6.2 Solving trigonometric equations.<br/>
+
+
+### 7. Differentiation
+
+7.1 Maxima, minima and stationary points.<br/>
+
+
+### 8. Integration
+
+8.1 Definite integrals.<br/>
+8.2 Area under a curve.<br/>
+8.3 Trapezium rule.<br/>
+
+
+:::
+
+::: {.callout-note collapse="true"}
+## P3: Pure Mathematics 3
+
+
+
+### 1. Algebra and functions
+
+1.1 Simplification of rational expressions.<br/>
+1.2 Functions and inverse functions.<br/>
+1.3 Modulus function.<br/>
+1.4 Combinations of transformations.<br/>
+
+
+### 2. Trigonometry
+
+2.1 Secant, cosecant, cotangent and inverse trig functions.<br/>
+2.2 Pythagorean identities.<br/>
+2.3 Addition and double angle formulae.<br/>
+
+
+### 3. Exponential and logarithms
+
+3.1 The exponential function.<br/>
+3.2 The natural logarithm function.<br/>
+3.3 Logarithmic graphs and relationships.<br/>
+
+
+### 4. Differentiation
+
+4.1 Differentiating exponential, log and trig functions.<br/>
+4.2 Product, quotient and chain rules.<br/>
+4.3 Differentiating inverse relations.<br/>
+4.4 Exponential growth and decay.<br/>
+
+
+### 5. Integration
+
+5.1 Integrating standard functions.<br/>
+5.2 Integration by recognition.<br/>
+
+
+### 6. Numerical methods
+
+6.1 Location of roots.<br/>
+6.2 Simple iterative methods.<br/>
+
+
+:::
+
+::: {.callout-note collapse="true"}
+## P4: Pure Mathematics 4
+
+
+
+### 1. Proof
+
+1.1 Proof by contradiction.<br/>
+
+
+### 2. Algebra and functions
+
+2.1 Partial fractions.<br/>
+
+
+### 3. Coordinate geometry in the (x, y) plane
+
+3.1 Parametric equations.<br/>
+
+
+### 4. Binomial expansion
+
+4.1 Binomial series for rational powers.<br/>
+
+
+### 5. Differentiation
+
+5.1 Implicit and parametric differentiation.<br/>
+5.2 Simple differential equations.<br/>
+
+
+### 6. Integration
+
+6.1 Volume of revolution.<br/>
+6.2 Integration by substitution and parts.<br/>
+6.3 Integration using partial fractions.<br/>
+6.4 Solving first order differential equations.<br/>
+6.5 Area under parametric curves.<br/>
+
+
+### 7. Vectors
+
+7.1 2D and 3D vectors.<br/>
+7.2 Magnitude of a vector.<br/>
+7.3 Vector algebra.<br/>
+7.4 Position vectors.<br/>
+7.5 Distance between two points.<br/>
+7.6 Vector equations of lines.<br/>
+7.7 Scalar product and angles between lines.<br/>
+
+
+:::
+
+::: {.callout-note collapse="true"}
+## M1: Mechanics 1
+
+
+
+### 1. Mathematical models in mechanics
+
+1.1 Basic ideas of mathematical modelling.<br/>
+
+
+### 2. Vectors in mechanics
+
+2.1 Magnitude and direction.<br/>
+2.2 Applying vectors to kinematics and forces.<br/>
+
+
+### 3. Kinematics of a particle moving in a straight line
+
+3.1 Constant acceleration.<br/>
+
+
+### 4. Dynamics of a particle moving in a straight line or plane
+
+4.1 Newton's laws of motion.<br/>
+4.2 Connected particles.<br/>
+4.3 Momentum, impulse and conservation of momentum.<br/>
+4.4 Coefficient of friction.<br/>
+
+
+### 5. Statics of a particle
+
+5.1 Resolution of forces.<br/>
+5.2 Equilibrium of a particle.<br/>
+5.3 Friction in equilibrium.<br/>
+
+
+### 6. Moments
+
+6.1 Moment of a force.<br/>
+
+
+:::
+
+::: {.callout-note collapse="true"}
+## M2: Mechanics 2
+
+
+
+### 1. Kinematics of a particle moving in a straight line or plane
+
+1.1 Motion under gravity.<br/>
+1.2 Projectiles.<br/>
+1.3 Variable acceleration.<br/>
+
+
+### 2. Centres of mass
+
+2.1 Centre of mass of discrete distributions.<br/>
+2.2 Centre of mass of plane figures.<br/>
+2.3 Equilibrium of a plane lamina.<br/>
+
+
+### 3. Work and energy
+
+3.1 Kinetic/potential energy, work, power and conservation.<br/>
+
+
+### 4. Collisions
+
+4.1 Impulse and conservation of momentum in vectors.<br/>
+4.2 Direct impact and restitution.<br/>
+
+
+### 5. Statics of rigid bodies
+
+5.1 Moment of a force.<br/>
+5.2 Equilibrium of rigid bodies.<br/>
+
+
+:::
+
+::: {.callout-note collapse="true"}
+## S1: Statistics 1
+
+
+
+### 1. Mathematical models in probability and statistics
+
+1.1 Basic ideas of mathematical modelling.<br/>
+
+
+### 2. Representation and summary of data
+
+2.1 Histograms, stem/leaf diagrams, box plots.<br/>
+2.2 Measures of location.<br/>
+2.3 Measures of dispersion.<br/>
+2.4 Skewness and outliers.<br/>
+
+
+### 3. Probability
+
+3.1 Elementary and conditional probability.<br/>
+3.2 Probability rules.<br/>
+3.3 Independence.<br/>
+3.4 Sum and product laws.<br/>
+
+
+### 4. Correlation and regression
+
+4.1 Scatter diagrams and linear regression.<br/>
+4.2 Explanatory and response variables.<br/>
+4.3 Product moment correlation coefficient.<br/>
+
+
+### 5. Discrete random variables
+
+5.1 Concept of a discrete random variable.<br/>
+5.2 Probability and cumulative distribution functions.<br/>
+5.3 Mean and variance.<br/>
+5.4 Discrete uniform distribution.<br/>
+
+
+### 6. The Normal distribution
+
+6.1 The Normal distribution and cumulative tables.<br/>
+
+
+:::
+
+::: {.callout-note collapse="true"}
+## S2: Statistics 2
+
+
+
+### 1. The Binomial and Poisson distributions
+
+1.1 Binomial and Poisson distributions.<br/>
+1.2 Mean and variance.<br/>
+1.3 Poisson approximation to binomial.<br/>
+
+
+### 2. Continuous random variables
+
+2.1 Concept of a continuous random variable.<br/>
+2.2 PDF and CDF.<br/>
+2.3 Relationship between density and distribution.<br/>
+2.4 Mean and variance.<br/>
+2.5 Mode, median and quartiles.<br/>
+
+
+### 3. Continuous distributions
+
+3.1 Continuous uniform distribution.<br/>
+3.2 Normal approximations.<br/>
+
+
+### 4. Hypothesis tests
+
+4.1 Population, census and sample.<br/>
+4.2 Statistic and sampling distribution.<br/>
+4.3 Null and alternative hypotheses.<br/>
+4.4 Critical region.<br/>
+4.5 One-tailed and two-tailed tests.<br/>
+4.6 Tests for binomial and Poisson distributions.<br/>
+:::
+
+</div>
+
+::: {.download-box}
+### Official Academic Resources
+*Download official specifications and syllabus materials:*
+
+<div class="btn-group-download">
+  <a href="info/International-A-Level-Maths-Spec-Issue3.pdf" target="_blank" class="btn-download btn-syllabus">
+    <i class="bi bi-file-earmark-pdf"></i> Official Edexcel IAL Mathematics Specification
+  </a>
+  <a href="info/IAL-Mathematics-Formula-Book.pdf" target="_blank" class="btn-download btn-syllabus">
+    <i class="bi bi-file-earmark-pdf"></i> Edexcel IAL Mathematics Formula Book
+  </a>
+</div>
+:::
+
+---
+
+## Choose Your Unit for Revision
+
+*Select the specific exam unit you are preparing for to access notes, formula summaries, and past papers:*
+
+::: {.program-grid}
+
+::: {.program-card .math-card}
+### Pure Mathematics 1 & 2 (P1-P2)
+**Pure Mathematics 1 & 2**
+
+* **P1 Focus**: Quadratics, graphs, coordinate geometry, basic differentiation and integration.
+* **P2 Focus**: Geometric series, logarithms, trigonometry, trapezium rule, circle coordinate geometry.
+* [Explore P1 &rarr;](p1.qmd) | [Explore P2 &rarr;](p2.qmd)
+:::
+
+::: {.program-card .math-card}
+### Pure Mathematics 3 & 4 (P3-P4)
+**Pure Mathematics 3 & 4**
+
+* **P3 Focus**: Modulus functions, numerical root-finding, trigonometry identities, product/quotient/chain rules.
+* **P4 Focus**: Parametric coordinates, vectors, integration by parts/substitution, partial fractions.
+* [Explore P3 &rarr;](p3.qmd) | [Explore P4 &rarr;](p4.qmd)
+:::
+
+::: {.program-card .math-card}
+### Mechanics 1 & 2 (M1-M2)
+**Mechanics Units 1 & 2**
+
+* **M1 Focus**: Constant acceleration, Newton's laws of motion, connected particles, friction, moments.
+* **M2 Focus**: Projectile motion, centres of mass, work-energy-power, direct impact collisions.
+* [Explore M1 &rarr;](m1.qmd) | [Explore M2 &rarr;](m2.qmd)
+:::
+
+::: {.program-card .math-card}
+### Statistics 1 & 2 (S1-S2)
+**Probability & Statistics Units 1 & 2**
+
+* **S1 Focus**: Histograms, dispersion, conditional probability, correlation coefficient, Normal distribution.
+* **S2 Focus**: Binomial and Poisson distributions, continuous uniform distribution, hypothesis testing.
+* [Explore S1 &rarr;](s1.qmd) | [Explore S2 &rarr;](s2.qmd)
+:::
+
+::: {.program-card .math-card}
+### Further Pure Mathematics (FP1-FP2)
+**Further Mathematics Units**
+
+* Advanced theoretical mathematics designed for students preparing for undergraduate mathematics, physics, and computer science degrees.
+* [Explore Further Math &rarr;](further.qmd)
+:::
+
+:::
+
+---
+
+## 2. Past Papers
+
+*Search and filter actual past exam papers. Use the quick filter bar to locate papers by year, unit module, or timezone variant:*
+
+::: {.search-engine-box}
+### Edexcel IAL Mathematics Past Papers Search
+
+```{=html}
+<div class="card p-3 mb-4 shadow-sm" style="border-radius: 12px; border: 1px solid rgba(0,0,0,0.08); background: var(--bs-card-bg, #ffffff);">
+  <div class="card-body p-0">
+    <div class="d-flex align-items-center flex-wrap gap-4">
+      
+      <!-- Year Select Dropdown -->
+      <div class="d-flex align-items-center gap-2" style="min-width: 160px;">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Year:</span>
+        <select id="filter-year" class="form-select form-select-sm" onchange="selectYearDropdown()" style="max-width: 120px; display: inline-block;">
+          <option value="">All Years</option>
+        </select>
+      </div>
+      
+      <!-- Vertical Divider -->
+      <div class="d-none d-md-block" style="border-left: 1px solid rgba(0,0,0,0.1); height: 24px;"></div>
+      
+      <!-- Unit Select Dropdown -->
+      <div class="d-flex align-items-center gap-2" style="min-width: 200px;">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Unit Module:</span>
+        <select id="filter-paper" class="form-select form-select-sm" onchange="selectPaperDropdown()" style="max-width: 140px; display: inline-block;">
+          <option value="">All Units</option>
+          <option value="p1">Pure 1 (P1)</option>
+          <option value="p2">Pure 2 (P2)</option>
+          <option value="p3">Pure 3 (P3)</option>
+          <option value="p4">Pure 4 (P4)</option>
+          <option value="m1">Mechanics 1 (M1)</option>
+          <option value="m2">Mechanics 2 (M2)</option>
+          <option value="m3">Mechanics 3 (M3)</option>
+          <option value="s1">Statistics 1 (S1)</option>
+          <option value="s2">Statistics 2 (S2)</option>
+          <option value="s3">Statistics 3 (S3)</option>
+          <option value="f1">Further Pure 1 (FP1)</option>
+          <option value="f2">Further Pure 2 (FP2)</option>
+          <option value="f3">Further Pure 3 (FP3)</option>
+        </select>
+      </div>
+      
+      <!-- Vertical Divider -->
+      <div class="d-none d-md-block" style="border-left: 1px solid rgba(0,0,0,0.1); height: 24px;"></div>
+      
+      <!-- Variant Select Dropdown -->
+      <div class="d-flex align-items-center gap-2" style="min-width: 180px;">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Variant:</span>
+        <select id="filter-variant" class="form-select form-select-sm" onchange="selectVariantDropdown()" style="max-width: 130px; display: inline-block;">
+          <option value="">All Variants</option>
+          <option value="std">Standard</option>
+          <option value="r">Regional (R)</option>
+          <option value="a">Alternative (A)</option>
+        </select>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div id="past-papers-table-container">
+  <p><i class="bi bi-hourglass-split"></i> Loading past papers...</p>
+</div>
+
+<script>
+let pastPapersDb = [];
+let currentSelectedYear = '';
+let currentSelectedPaper = '';
+let currentSelectedVariant = '';
+let currentPage = 1;
+const pageSize = 10;
+let filteredExams = [];
+
+async function loadPastPapersDb() {
+  if (pastPapersDb.length > 0) return pastPapersDb;
+  try {
+    const response = await fetch('past_papers_metadata.json');
+    if (!response.ok) throw new Error('Network response was not ok');
+    pastPapersDb = await response.json();
+  } catch (error) {
+    console.error('Failed to load past papers metadata:', error);
+  }
+  return pastPapersDb;
+}
+
+function populateYearDropdown(db) {
+  const yearSelect = document.getElementById('filter-year');
+  if (!yearSelect) return;
+
+  const years = new Set();
+  db.forEach(item => {
+    if (item.year) {
+      years.add(item.year.toString().trim());
+    }
+  });
+
+  const sortedYears = Array.from(years).sort((a, b) => parseInt(b) - parseInt(a));
+
+  yearSelect.innerHTML = '<option value="">All Years</option>';
+  sortedYears.forEach(year => {
+    const option = document.createElement('option');
+    option.value = year;
+    option.textContent = year;
+    yearSelect.appendChild(option);
+  });
+}
+
+function renderTableData() {
+  const tableBody = document.getElementById('past-papers-table-body');
+  const paginationContainer = document.getElementById('pagination-controls');
+  if (!tableBody) return;
+
+  const totalPages = Math.ceil(filteredExams.length / pageSize);
+  if (currentPage > totalPages) currentPage = Math.max(1, totalPages);
+
+  const start = (currentPage - 1) * pageSize;
+  const end = start + pageSize;
+  const pageItems = filteredExams.slice(start, end);
+
+  let html = '';
+  pageItems.forEach(exam => {
+    const seasonLabel = exam.season.charAt(0).toUpperCase() + exam.season.slice(1);
+    
+    // Formatting paper code to proper unit name
+    let paperLabel = exam.paper.toUpperCase();
+    if (paperLabel.startsWith('F')) {
+      paperLabel = 'FP' + paperLabel.slice(1);
+    }
+    
+    let tzLabel = 'Standard';
+    if (exam.variant === 'r') {
+      tzLabel = 'Regional (R)';
+    } else if (exam.variant === 'a') {
+      tzLabel = 'Alternative (A)';
+    }
+
+    let qpHtml = '';
+    if (exam.qp) {
+      qpHtml = `<a href="${exam.qp}" target="_blank" title="Download Question Paper" class="btn btn-sm btn-primary bi bi-file-earmark-text" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none;"></a>`;
+    } else {
+      qpHtml = `<span class="text-muted" style="font-size: 0.85rem;">N/A</span>`;
+    }
+
+    let msHtml = '';
+    if (exam.ms) {
+      msHtml = `<a href="${exam.ms}" target="_blank" title="Download Mark Scheme" class="btn btn-sm btn-success bi bi-key" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); border: none;"></a>`;
+    } else {
+      msHtml = `<span class="text-muted" style="font-size: 0.85rem;">N/A</span>`;
+    }
+
+    html += `
+      <tr>
+        <td><strong>${exam.year}</strong></td>
+        <td><strong>${seasonLabel}</strong></td>
+        <td><span class="badge badge-paper" style="text-transform: none;">${paperLabel}</span></td>
+        <td><span class="badge badge-tz" style="text-transform: none;">${tzLabel}</span></td>
+        <td style="text-align: center;">${qpHtml}</td>
+        <td style="text-align: center;">${msHtml}</td>
+      </tr>
+    `;
+  });
+  tableBody.innerHTML = html;
+
+  if (totalPages <= 1) {
+    paginationContainer.innerHTML = '';
+    return;
+  }
+
+  let pagHtml = '';
+  pagHtml += `<button class="btn btn-sm btn-outline-primary" ${currentPage === 1 ? 'disabled' : ''} onclick="changePage(${currentPage - 1})">Prev</button>`;
+  
+  for (let i = 1; i <= totalPages; i++) {
+    if (i === currentPage) {
+      pagHtml += `<button class="btn btn-sm btn-primary active" style="background: #2563eb; border-color: #2563eb;">${i}</button>`;
+    } else {
+      if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= 1) {
+        pagHtml += `<button class="btn btn-sm btn-outline-primary" onclick="changePage(${i})">${i}</button>`;
+      } else if (i === 2 || i === totalPages - 1) {
+        pagHtml += `<span class="text-muted px-1">...</span>`;
+      }
+    }
+  }
+
+  pagHtml += `<button class="btn btn-sm btn-outline-primary" ${currentPage === totalPages ? 'disabled' : ''} onclick="changePage(${currentPage + 1})">Next</button>`;
+  
+  paginationContainer.innerHTML = pagHtml.replace(/(<span class="text-muted px-1">\.\.\.<\/span>\s*){2,}/g, '<span class="text-muted px-1">...</span>');
+}
+
+function changePage(page) {
+  currentPage = page;
+  renderTableData();
+  document.getElementById('past-papers-table-container').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
+function applyFilters() {
+  let filtered = pastPapersDb;
+
+  if (currentSelectedYear) {
+    filtered = filtered.filter(item => item.year.toString() === currentSelectedYear);
+  }
+  if (currentSelectedPaper) {
+    filtered = filtered.filter(item => item.paper.toLowerCase() === currentSelectedPaper.toLowerCase());
+  }
+  if (currentSelectedVariant) {
+    if (currentSelectedVariant === 'std') {
+      filtered = filtered.filter(item => !item.variant || item.variant === '');
+    } else {
+      filtered = filtered.filter(item => item.variant.toLowerCase() === currentSelectedVariant.toLowerCase());
+    }
+  }
+
+  const exams = {};
+  filtered.forEach(item => {
+    const key = `${item.year}_${item.season}_${item.variant}_${item.paper}`;
+    if (!exams[key]) {
+      exams[key] = {
+        year: item.year,
+        season: item.season,
+        variant: item.variant,
+        paper: item.paper,
+        qp: null,
+        ms: null
+      };
+    }
+    if (item.type === 'qp') {
+      exams[key].qp = item.google_drive_link;
+    } else if (item.type === 'ms') {
+      exams[key].ms = item.google_drive_link;
+    }
+  });
+
+  filteredExams = Object.values(exams);
+  filteredExams.sort((a, b) => {
+    if (a.year !== b.year) return parseInt(b.year) - parseInt(a.year);
+    if (a.season !== b.season) return b.season.localeCompare(a.season);
+    if (a.variant !== b.variant) return a.variant.localeCompare(b.variant);
+    return a.paper.localeCompare(b.paper);
+  });
+
+  const container = document.getElementById('past-papers-table-container');
+  if (filteredExams.length === 0) {
+    container.innerHTML = '<p style="padding: 1rem; text-align: center; color: #9ca3af;"><i class="bi bi-info-circle"></i> No matching past papers found.</p>';
+    return;
+  }
+
+  container.innerHTML = `
+    <div class="table-wrapper">
+      <table class="premium-table">
+        <thead>
+          <tr>
+            <th>Year</th>
+            <th>Season</th>
+            <th>Unit</th>
+            <th>Variant</th>
+            <th style="text-align: center; width: 80px;">QP</th>
+            <th style="text-align: center; width: 80px;">MS</th>
+          </tr>
+        </thead>
+        <tbody id="past-papers-table-body">
+        </tbody>
+      </table>
+    </div>
+    <div class="d-flex justify-content-center align-items-center gap-2 mt-3" id="pagination-controls"></div>
+  `;
+
+  currentPage = 1;
+  renderTableData();
+}
+
+function selectYearDropdown() {
+  const yearSelect = document.getElementById('filter-year');
+  currentSelectedYear = yearSelect.value || '';
+  applyFilters();
+}
+
+function selectPaperDropdown() {
+  const paperSelect = document.getElementById('filter-paper');
+  currentSelectedPaper = paperSelect.value || '';
+  applyFilters();
+}
+
+function selectVariantDropdown() {
+  const variantSelect = document.getElementById('filter-variant');
+  currentSelectedVariant = variantSelect.value || '';
+  applyFilters();
+}
+
+async function initPastPapersTable() {
+  const container = document.getElementById('past-papers-table-container');
+  const db = await loadPastPapersDb();
+  
+  if (!db || db.length === 0) {
+    container.innerHTML = '<p><i class="bi bi-exclamation-triangle-fill" style="color: #ef4444;"></i> Error: Failed to load past papers database. Please try again later.</p>';
+    return;
+  }
+
+  populateYearDropdown(db);
+  applyFilters();
+}
+
+initPastPapersTable();
+</script>
+```
+:::

@@ -1,0 +1,1390 @@
+---
+title: "CIE Chemistry (A-Level)"
+subtitle: "Chương Trình Hóa Học Cambridge International A-Level (Mã môn: 9701)"
+page-layout: full
+listing:
+  id: past-papers-list
+  contents: cie_past_papers.yml
+  template: _cie_past_papers.ejs.md
+  page-size: 10
+  sort: 
+    - "year desc"
+    - "season desc"
+    - "paper asc"
+    - "variant asc"
+  filter-ui: false
+  sort-ui: false
+  categories: true
+---
+
+::: {.callout-note}
+## CIE Chemistry (9701) Comprehensive Dashboard
+Welcome to the unified Cambridge International A-Level Chemistry resource center. Here you can find syllabus materials, lesson-by-lesson notes, topical practice questions (QP & MS), structured past papers, and our interactive exam search engine.
+:::
+
+## 1. COURSE OVERVIEW & SYLLABUS
+
+Cambridge International AS & A Level Chemistry (Syllabus Code: **9701**) provides a comprehensive foundation in physical, inorganic, and organic chemistry. The course is structured into two main stages: AS Level (typically taken in the first year) and A2 Level (taken in the second year).
+
+### Assessment Outline (Papers 1 to 5)
+
+The complete A-Level qualification consists of five examination papers. The table below summarizes the structure, duration, and weighting of each paper:
+
+<div class="table-wrapper" style="margin-bottom: 2rem;">
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th style="width: 15%;">Level</th>
+        <th style="width: 25%;">Paper / Component</th>
+        <th style="width: 15%;">Duration</th>
+        <th style="width: 25%;">Question Type</th>
+        <th style="width: 10%;">Marks</th>
+        <th style="text-align: right; width: 10%;">Weight (A-Level)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td rowspan="3" style="font-weight: 600; background-color: rgba(37, 99, 235, 0.02); vertical-align: middle;">AS Level<br><span style="font-size:0.8rem; font-weight: normal; color:#64748b;">(50% of A-Level)</span></td>
+        <td><strong>Paper 1</strong> (Multiple Choice)</td>
+        <td>1h 15m</td>
+        <td>40 multiple-choice questions</td>
+        <td>40</td>
+        <td style="text-align: right;"><strong>15.5%</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Paper 2</strong> (AS Structured Questions)</td>
+        <td>1h 15m</td>
+        <td>Structured theory questions</td>
+        <td>60</td>
+        <td style="text-align: right;"><strong>23%</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Paper 3</strong> (Advanced Practical Skills)</td>
+        <td>2 hours</td>
+        <td>Laboratory practical assessment</td>
+        <td>40</td>
+        <td style="text-align: right;"><strong>11.5%</strong></td>
+      </tr>
+      <tr>
+        <td rowspan="2" style="font-weight: 600; background-color: rgba(16, 185, 129, 0.02); vertical-align: middle;">A2 Level<br><span style="font-size:0.8rem; font-weight: normal; color:#64748b;">(50% of A-Level)</span></td>
+        <td><strong>Paper 4</strong> (A Level Structured Questions)</td>
+        <td>2 hours</td>
+        <td>Structured theory questions on A2 topics</td>
+        <td>100</td>
+        <td style="text-align: right;"><strong>38%</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Paper 5</strong> (Planning, Analysis & Evaluation)</td>
+        <td>1h 15m</td>
+        <td>Written practical skills theory exam</td>
+        <td>30</td>
+        <td style="text-align: right;"><strong>12%</strong></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+### Official Curriculum Documents
+
+Download the official Cambridge International syllabus and support documents for offline reference:
+
+<div class="btn-group-download" style="margin-top: 1.5rem; margin-bottom: 2.5rem;">
+  <a href="info/9701_ 2025_2026_2027_syllabus.pdf" target="_blank" class="btn-download btn-syllabus">
+    <span class="bi bi-file-earmark-pdf-fill" style="color: #ef4444;"></span> CIE Chemistry 2025-2027 Syllabus (PDF)
+  </a>
+  <a href="info/9701_ 2025_2026_2027_booklet.pdf" target="_blank" class="btn-download btn-formula">
+    <span class="bi bi-file-earmark-pdf-fill" style="color: #ef4444;"></span> CIE Chemistry 2025-2027 Data Booklet (PDF)
+  </a>
+  <a href="info/9701_2022_2024_syllabus.pdf" target="_blank" class="btn-download btn-syllabus">
+    <span class="bi bi-file-earmark-pdf-fill" style="color: #ef4444;"></span> CIE Chemistry 2022-2024 Syllabus (PDF)
+  </a>
+</div>
+
+---
+
+## 2. LESSON RESOURCES (NOTES & PRACTICE)
+
+Explore our comprehensive notes and practice questions organized by syllabus topics. Use the tabs below to switch between **AS Level** and **A-Level (A2)** content.
+
+::: {.panel-tabset}
+
+## AS Level Chemistry
+
+<div class="table-wrapper" style="max-height: 550px; overflow-y: auto;">
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th style="width: 45%;">Syllabus Topic & Subtopic</th>
+        <th style="text-align: center; width: 11%;">Note</th>
+        <th style="text-align: center; width: 11%;">MC QP</th>
+        <th style="text-align: center; width: 11%;">MC MS</th>
+        <th style="text-align: center; width: 11%;">Struct QP</th>
+        <th style="text-align: center; width: 11%;">Struct MS</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 1 &mdash; Atomic structure</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.1 &mdash; Particles in the Atom & Atomic Radius</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1JGUFuawbkOaxCTvySLCXLDXv66YUYDOX/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1NmliXEvxcL08KuaDIEk6vSV6Lt4-D2ph/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/16SHIdu6-nxGVvSYEzY2cKfcC9ohL-A6I/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.2 &mdash; Isotopes</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1BHy1pjkP4YmiLqT7Eaht9FF0XzO9FQNo/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/18S4LXsR_pDabk4BzzQdLMzaiOqocB4Hf/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/13rNQtkGhm7QjjYsq-0E6ShScZLRvAxD8/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.3 &mdash; Electrons, Energy Levels & Atomic Orbitals</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1FticaQqUtmhXPzVLyMunE3C3z0MXPii-/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1K67S9yS--veGG1k5PGed84OEPv6FTWFk/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1FUYYE1zET9Fl9C2r04uTZ2OhVmQqY9p9/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">1.4 &mdash; Ionisation Energy</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1JDLCzdRE5wdadGluXL_feM2by3MRTGbz/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1NBYOaWlQN5djw1H08EnkBKYCgs-kVUk8/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1jR5B5UKjJxibGRViLkx_1wA9Ql7pD5GQ/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 2 &mdash; Atoms molecules and Stoichiometry</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.1 &mdash; Relative Masses of Atoms & Molecules</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1tewNa57pUH3UwkrOF9q1mXZULpCRzz7Q/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1F8PJFFV_eeBvJu545eYvCKwDFeZigWCf/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1izqJ1g_FqXF_k50yIh1Vx4TfcvnUeIxC/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.2 &mdash; The Mole & the Avogadro Constant</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1c31nn5rm9wyXVrUGxUYnoVcgNW45ap7B/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1gdRz5QUFnKUDrcBlpDbnp2cpYnzrbTm4/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1doxpmAWTTuAse8Muz6684LwK26EOssWT/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.3 &mdash; Formulas</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1q8J5EGDbguzcWDMZvjqPg3VzTD85NZVl/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ZcCzYRP9BkwXrX6nEmy5JEqngWcqiYq2/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1xnn2RYelx_ELknTUdZUZdvyGsWyfzJDG/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">2.4 &mdash; Reacting Masses & Volumes</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1y84YSIHPaon_-dSXeTK4z3F3GcQEGo6U/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1VC_12cneaVmYjEAHi4CqvGkGjkNvlUN8/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1a2gCZ0s5VjwfBWugYJWqKNdQMnBkwwME/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 3 &mdash; Chemical bonding</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.1 &mdash; Electronegativity & Bonding</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1y40wRPPS__oTGMZFPlTLZvqEDLBoJlK5/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1u26ETffIRvMzhnUju00ybbPoeZujIllD/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1F1k0W05-S7vNgeCbF4McnCRznz_FE071/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.2 &mdash; Ionic Bonding</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1i3qobJpKTEKEbMYOkDzYZMckd3GjLsQ_/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1a9n5fVy4U1Hw5On2HTLqhoFbDfbztUch/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1eoS3jQDuGwFXmwghiq21xEfwpjRwxrqY/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.3 &mdash; Metallic Bonding</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/19oEP2kCIZg52ZQG4ZuK2ZErP8E3SAJYB/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1EhzPxrx6Aub-Y_3brDrqm7RU-8E_q68h/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1IJh35PbVXnSOen7xPU6IeUyFFbpdUseC/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.4 &mdash; Covalent Bonding & Coordinate Bonding</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1bM31EQDwJi2H9vh_wParnx73PqyB_rZU/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1uHZpE5JacGh7Z6JyDTmt1vI94XXfvrc3/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1s3k3n0kq1aso9C17eyQhXw8TvKeXutqJ/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.5 &mdash; Shapes of Molecules</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ezsEUiOnQZaNZxwrERSAhMaQg5yFYU2x/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1nQwMT6kujogyZYeLyDjWt37I7Fu76f31/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/140-6bEOmpZP7LGzxN23cePdHqtiEdEbi/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.6 &mdash; Intermolecular Forces</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1lN8f8TKg2OxEyp3iSU5eoeRyH3wMHE6q/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1TC588SgDhOG5J4DuGiKc5o-lyhiH0reT/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1GDLXukplhD0GIdFHwnhWye8AoAeHXCeR/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">3.7 &mdash; Dot Cross Diagrams</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Q28yFJNaDk9AV5o_jroTVyhtuloExHqU/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1GWuigfixBP8hO1NAdkF6extMwY1dZCSQ/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1rNOk8_nFKgGTSEqVCMtzPzSO9bOO3XpR/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 4 &mdash; States of matter</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">4.1 &mdash; The Gaseous State</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1TGv_MfS-4SNWP220PN6fSl30TsfNqN-g/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1h1LxUfOpYqHROakMPpf4zHgZEV1C4Aql/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/169qPkXhQnyDf7v5m7NMtFDq_Kpl5uV7e/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">4.2 &mdash; Bonding and Structure</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1SLqFDFcQhhk3JFqvJnV1-im28yHumR0r/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1o3HiHmFNQd3j-eAUAJ4Bj_jruM32FQkr/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1WcCxRa-E19CtluV4ZicV1y3h_R2MxrA7/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 5 &mdash; Chemical energetics</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">5.1 &mdash; Enthalpy Change</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1zFOfEcQL_Lz84--vjqEhcgrKVlPQMVsi/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1w3PK1j3pecaP2Rzgx1YCaJbMNyV3jl5Z/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1R4L-TAYR6fjtM_OXZpdvkTVIJvAsVi--/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">5.2 &mdash; Hess’s Law</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1-97RydZj48W3166i9eO_Ja_cdil0ia1i/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/18lP0T7-hmOoZuKe5BpEl8YhYkihiSdoV/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1S_74XRlQEktn_WDWPI1YLuIJqga3f2qs/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 6 &mdash; Electrochemistry</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">6.1 &mdash; Redox Processes</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1AlUzuxVPt4K_sWu6VWB8qinVgQ14wifm/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Tms3kqBQ66Xnmd9If3z21yKhdmcZqZ6x/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1iL8n79kKwzrl1WxoH3OefMemjk9DDhb2/view?usp=drive_link" target="_blank" class="cie-btn-mc-ms"><span class="bi bi-check-circle"></span> MS</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1qNoWH8kZsxwWcyA407MbgXHAJ6ZE8mUi/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1dKFFp3IC7_2vZteualurcfOeiRUrP8cY/view?usp=drive_link" target="_blank" class="cie-btn-struct-ms"><span class="bi bi-check-circle"></span> MS</a></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 7 &mdash; Equilibrium</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">7.1 &mdash; Chemical Equilibria</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1gdBzKvfEMOpZds1BLWdu0Mj_TnhRyrgS/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1amxfv0RGTAJj5ogV1VvnLWCf-GyjUvVe/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1z8JEpBCN9aa0ap93bWd44neT1jSuS9yW/view?usp=drive_link" target="_blank" class="cie-btn-mc-ms"><span class="bi bi-check-circle"></span> MS</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1RJ34JShDVOA6iIMpZkQP3vyv8_HJ53kZ/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/15nwT7xZ3CAeoCGP97ikMmwN3mlQnRxkK/view?usp=drive_link" target="_blank" class="cie-btn-struct-ms"><span class="bi bi-check-circle"></span> MS</a></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">7.2 &mdash; Brønsted–Lowry Theory of Acids & Bases</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1yek0BfYKJZt9NNKAn2s68DcyPFHPO8hW/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1N4WGUMYGRKACLPS41XxA1umpKPTIPmcn/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1UAU73GI2J1JFj8KzE3l5E_seRAwmGeUt/view?usp=drive_link" target="_blank" class="cie-btn-mc-ms"><span class="bi bi-check-circle"></span> MS</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1nwXfsTQKdjXqTWwkoMXVBUd0DLIj8LyP/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 8 &mdash; Reaction kinetics</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">8.1 &mdash; Rate of Reaction</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1y7bHPA2wy8a4nyb4oOEl4NiuWcRr3vWK/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1U2LF1zXwgUvt5wcs-AuxMcwuGaHCjCod/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1cpHmLWnv1t8UAhAyJ_Xdj5AycWMcGsxJ/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">8.2 &mdash; Effect of Temperature on Reaction Rates-activation ennergy</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1oEJaBi7zNnyqyrGvqwoJFyjGaUciT-Uq/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Zal8t5ho1kPUueQVm0aXTRkm-JI9yIW-/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1mMRBHlU3l-lvnd4wehnkD-NtiSY3oxR4/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">8.3 &mdash; Homogeneous and Heterogeneous Catalysts</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1nJZjUAe3uXt_p2dXV0kY3ucQtCAk9AVo/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1E7VeUXkD3leBtn8KDIvyvqtUJa-6kObc/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1VV8YGib8uM0mTEP9xeDbDgGtypY0TaN5/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 9 &mdash; The periodic table chemical periodicity</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">9.1 &mdash; Periodicity of physical properties of the elements in period 3</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1CmAPQWIaONwokO-0GooLc2lxrqWIkF21/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ZwBcdERWf6bsa2Gg3xE47qFhr6gdsnFf/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1j6Bu_4sSs8WSCwtdFIuBPfACCau1LNj4/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">9.2 &mdash; Periodicity of Chemical Properties of the elements in period 3</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1OxeSgzYIESuP6oAJr-WWHyIL8dhO9ujk/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1oxBYAZLN_BPDANAPe0hDt4ktkZhCUYFn/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Ab9az74VExjUV4Ozw7fBqsLU71e55Jzx/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">9.3 &mdash; Chemical Periodicity of Other Elements</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1BbhLOOCCD-g0ABmT55NRpTOFpx2G6U2R/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1REoAAzaEAWzFRZAWdC2e--Qf9J2X_dBb/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Fwj_gENh_9uVpZ7Swq00tsyK0qKaaS-j/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 10 &mdash; Group 2</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">10.1 &mdash; Similarities and Trends in the Properties of the Group 2 Metals</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1A6JOFCHiCghbbIdQuqAcXzGmiwXOMTnV/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Jsgw5dcKQfw2qXhYzIhysGa26n89DneK/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1wFjILBgzfTA-3mHihK1vmvIY2DiKN2i6/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 11 &mdash; Group 17</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">11.1 &mdash; Physical Properties of the Group 17 Elements</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1EolAuGcI-MtBVkSiqptbkiLX-gVM_3R1/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1MEBShebS-OiqJF6JX2Qz3go6B_ENjrf2/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1GFOtyCSRwVq7x1YF3xJsFGa-0c5CXD0t/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">11.2 &mdash; The Chemical Properties of the Halogen Elements and the Hydrogen Halides</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1jr6NUIwrs_YVlggwws_XysZnVG-Lh_T1/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1CYv-SzULXc2_dyxiHen40j1AKuWSb5NN/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1hUg2RaseTzdD_dvYtjrBvM28lnAhcXRb/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">11.3 &mdash; Some Reactions of the Halide Ions</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1i8hrzGuc2lLQ6SNz5lbCe5KREVsZOGry/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1MalNEm6eWh6bVm9qYqYqBq3UgRTDiM2Z/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1kYom0nABlabr0QrLfKMRmi-QUHiV3AjA/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">11.4 &mdash; The Reactions of Chlorine</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1YDBjEXApjpRTmyEcZg8AEtBz5chMr9u9/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1LunpDsZyY1-ApEf6OZx_QBbPr8WBFlqu/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1hyMrrcziZXxNgT47ir6rRm9YI3xVW7pK/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 12 &mdash; Nitrogen and Sulfur</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">12.1 &mdash; Nitrogen and Sulfur</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1JSo5dSR1kChI1zS9uOhpfOaGQe-dez5d/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1qr0HXPfsepiHNCuMhDy-UKZJ7RNSUEg1/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1YmGoGcLWh9yndgN3ItK1LiFx4dmffvXO/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 13 &mdash; An introduction to AS level Organic chemistry</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">13.1 &mdash; Formulas Functional Groups and the Naming of Organic Compounds</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1XNPadTPDzCS2rC3cTERBMn-RkL-H4p5a/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1jc2RprANHBxzqbVtTPOf5h5LPOMniiN1/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1EFlnPvLup8whIj3zntcZl2R5uDDfPYjp/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">13.2 &mdash; Characteristic Organic Reactions</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1U-OMx-FTDsErXeo1zWwun4uFAdVLp8mM/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1X3M5SKDTG1ujasqDozBPzIMM4vTqqPXQ/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1h1v6lx74qP023rEB3BhmJ6rA1quh4UWW/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">13.3 &mdash; Shapes of Organic Molecules</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1S79QyIcH2HPzTr6bEBYbI1j7UquuWtLn/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1SWGhjYy-mh8ZcdaI6adUruDadm57W68O/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">13.4 &mdash; Isomerism Structural Isomerism and Stereoisomerism</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1SRjEl6BH2_WxqTA379SP1DlKoIrUSF4p/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1fUTq9PBMA7cZlOwXfLg9DDiZojSlnylA/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1d2dCLjPSSLf7_TGV5fRTBrgOuNZCFMyY/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 14 &mdash; Hydrocarbons</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">14.1 &mdash; Alkanes</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ZWU2RMPq-Il5tnMZcfBYezG-vY-BQBdY/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1fviqEWBdlyr1ftKXtbiOCzTDzk7JIhFE/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1_3iu_X5Qcpured0yXmPMFSrKV0NfL1ZA/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">14.2 &mdash; Alkenes</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1cnMc6C_f6hqKJ3Bp4Q6Luju-WMypqV-J/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1jbzvqrg3L1_WBwVehVX0JBYU1R1Lz2iK/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1xNGMjOIPeWYAo9mUWHOZ1SyAMfMfrcfy/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 15 &mdash; Halogen compounds</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">15.1 &mdash; Halogenoalkanes</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1V8mBaJ78g3Qk_xYY-eq7HBBkXRbl5Y5i/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1--u66QXLSCF2NW8lQgoiB6iW2m5V2Rp-/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1RkDEhuhXnb3W5qdpxkz1G03uf5e6gurp/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 16 &mdash; Hydroxy compounds</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">16.1 &mdash; Alcohols</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1nVasZQHV4eE3K2b18I0abBGWJDeWO0-2/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1uo-o3H3ThLygBkk8B1uIkfuv3oJo76U-/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Kkv_twDGM3iQS_UoCdbHuzaDnj_4T9_Q/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 17 &mdash; Carbonyl compounds</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">17.1 &mdash; Aldehydes and  Ketones</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1WiAndgfu0oG0m4fW72rYbx4jzbtFnySY/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1hFC6UtNf9vijf5lyEvnVJjsshnjdOaG7/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1cMhO8hFKfe1_R8J_uTllUj-xjZMNyVtI/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 18 &mdash; Carboxylic acids and derivatives</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">18.1 &mdash; Carboxylic Acids</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1HDY9Cz15SCKT2DgJL_gzfhq4lRDKli7U/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1RK_Bnvz_B3MfDxrvu2QOuM8-OgT3AU1z/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1VdejnGfZMZs--PEoB_oPxPIuE4s0EcSf/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">18.2 &mdash; Esters</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1FKOZfp_XQhN619afXfi7b7vxrTrMFoDU/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1RfQHPQ3RdODc1jaGdQKbOQwyeeqRuV_1/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1HwWD946wyM81OC6efdU8Ch1LxM0Tykrh/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 19 &mdash; Nitrogen compounds</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">19.1 &mdash; Primary Amines</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1NTFVAJYhk8NDkpYFCxRUWtytnbBc2EKN/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1BqPRHtmbEMq_7gVeQY28q_szLv2gwYf8/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1TJR3L8SEZfd-WZ__k0xUQT4i6ENOrH9G/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">19.2 &mdash; Nitriles and  Hydroxynitriles</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/17_hd0d6BEccHGLyRrPbVn9okJYdbmib9/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1DPHZR7U_OjLTSg4eWKma8v95afNbeTYc/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/17IdGnh9QylLjZHGZmA0dXkG5VxPu-1Ao/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 20 &mdash; Polymerisation</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">20.1 &mdash; Addition Polymerisation</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ktnpDLR4o7aHamJck9rxQO-_0PEEgQ9v/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1DD3_efkExkscGd6vx9dwOw6K02rj3pE7/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/18ttSXjqj6uNKgVbr4nqLKjKb6izBEJfC/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 21 &mdash; Organic synthesis</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">21.1 &mdash; Organic Synthesis</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1CYzLKrXyZ1HqXIh8YxxuRn1N6spv4qiW/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1OCgcRQqdGpXujF9gCq4TztFJh6pN_cDi/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1QJ1Pjwfkv-4fnsIu3cdC09CjcnvT82Zb/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 22 &mdash; Analytical techniques</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">22.1 &mdash; Infrared Spectroscopy</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1mq0cG8R51g2g8msc5CzUO53wuy3J_6B4/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/12cw6_bKxDm22WTGXxeyyYZp0XYyKZ__l/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Gg60sCIc4HbNuSSavzdup88c7OXGExDN/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">22.2 &mdash; Mass Spectrometry</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1bX6XlrgC4PWNEjg-FD5dWFpkbmYl6aeA/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1lnX2iX6lUaz88DulOpJ5kT_BsYYENXkJ/view?usp=drive_link" target="_blank" class="cie-btn-mc"><span class="bi bi-patch-question"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1syWVrjIwk_82e4ODgU3rGska73J3cFPx/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+## A-Level Chemistry (A2)
+
+<div class="table-wrapper" style="max-height: 550px; overflow-y: auto;">
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th style="width: 45%;">Syllabus Topic & Subtopic</th>
+        <th style="text-align: center; width: 11%;">Note</th>
+        <th style="text-align: center; width: 11%;">MC QP</th>
+        <th style="text-align: center; width: 11%;">MC MS</th>
+        <th style="text-align: center; width: 11%;">Struct QP</th>
+        <th style="text-align: center; width: 11%;">Struct MS</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 23 &mdash; Chemical energetics</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">23.1 &mdash; Lattice Energy and  Born-Haber Cycles</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1EcDl1gf4OTkaz66MOdaJUCPtxzZxjgT7/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">23.2 &mdash; Enthalpies of Solution and  Hydration</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1hLunAIaDjg-KmE0nHy6KMc0sbenwCsDJ/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">23.3 &mdash; Entropy Change, ΔS</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/14yyeya3RDT3B1DU2tMCa1GZnRKMXrUb2/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">23.4 &mdash; Gibbs Free Energy Change, ΔG</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1kJx-C7tSVLLKHHvVpFTxLgxfkRB6FhQf/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 24 &mdash; Electrochemistry</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">24.1 &mdash; Electrolysis</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1QOyrDZM7jTs0G8vEGaVJTSg7MoH-Reh_/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">24.2 &mdash; Standard Electrode Potentials</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1cLtZNs_zxqARjgNgVl4tu9Fz5YLb8CBQ/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 25 &mdash; Equillibria</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">25.1 &mdash; Acids and  Bases</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1n1qVcrc18FQYTP74CrdX5_QF400B0Yge/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">25.2 &mdash; Partition Coefficients</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1hCs6JYn-wCrenGvrxlKwuXZVIs0AWRTk/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 26 &mdash; Reaction kinetics</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">26.1 &mdash; Simple Rate Equations Orders of Reaction and Rate Constants</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1NBNQjLhCa3KsUPLc2CfBvqficYK9By7_/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">26.2 &mdash; Homogeneous and Heterogeneous Catalysts</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1jKWa-Qk0eEYElXl-tkNI2mX_Zf_DcrwE/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 27 &mdash; Group 2</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">27.1 &mdash; Similarities and Trends in the Properties of the Group 2 Metals</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1y-U-QyTr2VFZmniBMlIbRGnG22viCOuG/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 28 &mdash; Chemistry of transition elements</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">28.1 &mdash; General Physical and Chemical Properties of the First Row of Transition Elements</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1JMXVVJtyVcx1_Aw_0mnuaJVZsWNyaV97/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">28.2 &mdash; Titanium and copper</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1BJ4SWyK0zsNk4iyLJ4fD_kbsHefXCiHl/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">28.3 &mdash; Colour of Complexes</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1EqR6XTd0FtWL0MAdf0klySPvpD0Ledxx/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">28.4 &mdash; Stereoisomerism in Transition Element Complexes</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Kf5ARCKBPtIkh-PXy43tWUO3M6nrLv7t/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">28.5 &mdash; Stability Constants, Kstab</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1U91VTmgR7LVBSTJgmcMGwlGoZqRMznm-/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 29 &mdash; An introduction to A level organic chemistry</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">29.1 &mdash; Formulas, Functional Groups and the Naming of Organic Compounds</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1atkp7djBCMJ_8T_L347x0jTvFqF-V-n9/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">29.2 &mdash; Characteristic Organic Reactions</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/10cQOmlsmdjYCAUNeB-diUhqrLQqQPqc1/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">29.3 &mdash; Shapes of Aromatic Organic Molecules</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1vZdHoW40C85eSu9HCjR1hPtK0QQLBvHW/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">29.4 &mdash; Isomerism Optical</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1qJKIUeTOBlNdxjXS0ITsXNYa7-D11Ycm/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 30 &mdash; Hydrocarbons</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">30.1 &mdash; Arenes</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1eqYQJ-sF4x5Gwhc0MTnE3WKk_KVUDQQm/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 31 &mdash; Halogen compounds</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">31.1 &mdash; Halogen Compounds</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/15h35ydB7XUta8VBZp5pWgYozm9trH2B9/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 32 &mdash; Hydroxy compounds</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">32.1 &mdash; Alcohols</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1wgFxTJ7y5hFFUvkP-6joNzjBzPapYCnG/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">32.2 &mdash; Phenol</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/102rK0Dm7NOpvDmG-3YpfqHMaETyb4Gha/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 33 &mdash; Carboxylic acids and derivatives</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">33.1 &mdash; Carboxylic Acids</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ZHP-NZTEQlZpAxCQznuNHUN1mc7Gyfr2/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">33.2 &mdash; Esters</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1HpALM3B_F058SQO41nKAswq8T4aJ9adi/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">33.3 &mdash; Acyl Chlorides</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1OXYusWCUroTbGJl4nerSEz321h6as47Y/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 34 &mdash; Nitrogen compounds</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">34.1 &mdash; Primary and Secondary Amines</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Uqau7opqVDDLhtqRNorxUoBKunxTN1__/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">34.2 &mdash; Phenylamine and Azo Compounds</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1sW9BHyIKS_xI1elr1UJhnqw1CIBbDrlp/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">34.3 &mdash; Amides</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/19gIb_ai7rIMN7x-c4hkhuz983ZrdIr7f/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">34.4 &mdash; Amino Acids</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/11Bpp84CkpCmoEsRLFqU9J-PbLE3W4gK2/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 35 &mdash; Polymerisation</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">35.1 &mdash; Condensation Polymerisation</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1B7CJiUceP0IM0ublyutLXb1UgZpzba2V/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">35.2 &mdash; Predicting the Type of Polymerisation</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1NF2dWSBsy4o7y235Ii3vN2niTFFTS8QV/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">35.3 &mdash; Degradable Polymers</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/17B5YgzMnxzb1s49WSSx_30qlmDQ2fuP8/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 36 &mdash; Organic synthesis</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">36.1 &mdash; Organic Synthesis</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1zuE-BPWXRCOfJPi-srXapW3exnCUq_r5/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+        <td colspan="6" style="color: #1e3a8a;"><span class="bi bi-journal-richtext"></span> &nbsp;Topic 37 &mdash; Analytical techniques</td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">37.1 &mdash; Thin-Layer Chromatography</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1KK3B4n7EHL-7tz-eacPwuwJcOEf3J8Cm/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">37.2 &mdash; Gas Liquid Chromatography</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1zvBKMha6Tq_5drzBCrju6Yhlqo4K17b1/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">37.3 &mdash; Carbon-13 NMR Spectroscopy</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1CqMVUzrmlDshJs5gSt09ijawdoFREMcz/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+      <tr>
+        <td style="padding-left: 1.5rem;">37.4 &mdash; Proton (1H) NMR Spectroscopy</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ke3WuYWEBZBgDaCXXUW9e24YQoluXw6D/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+:::
+
+---
+
+## 3. MORE STUDY NOTES
+
+This section contains supplementary reference guides and specialized revision notes for deep conceptual understanding.
+
+::: {.panel-tabset}
+
+## Revision Notes (Set 2)
+
+<div class="table-wrapper" style="max-height: 480px; overflow-y: auto;">
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th style="width: 70%;">Topic / Syllabus Unit</th>
+        <th style="text-align: center; width: 30%;">Resource Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>1. Atoms, Molecules & Stoichiometry</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1bCAH30EAplJPkk92AATnzRSdw_XoqEqZ/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>2. Atomic Structure</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1xtnGVmc1JC0lxGWYIjJt7X4LDe6w3v0u/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>3. Chemical Bonding</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/11Nx4Y3jVFtrWdNIyfT1jIcp8wHUx185K/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>4. States of Matter</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ktl91B964pSGFNfZ1dL7aNZ9HiCTFj6_/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>5. Chemical Energetics</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1PZZDea-zQLeg6gs423pwGvsksxyhcqyq/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>6. Electrochemistry</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1UeAvynTThNuNDV2Grx6LH7u2VDOTFooV/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>7. Equilibria</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1qa6ftdIYIQTAZREYulBZgXNfu4yV0BoW/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>8. Reaction Kinetics</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/14H7wLpgECHSGYn9_OC009ck9jnBzlQlp/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>9. Periodicity</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1wXWPD_ytEbyWH-JsYTAl5HTs0kF1IJqc/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>10. Group 2</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1b73FlryZCXdmXSXci2TLvLQvSCTRdHRz/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>11. Halogens</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1MUq212hzi8P4EUI101fOIYfr238dWCEo/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>12. Transition Metals</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Xn4yb3LXqqB3CfByJ4zMNN1Zs0daXj3B/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>13. Nitrogen & Sulfur</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1hkZNgMvfhhenNDFfWkSy_kVBn1QDoeoA/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>14. Introduction to Organic Chemistry</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1LEgHXhmVfaBl24yqIooSrI-Opf5z4xuI/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>15. Hydrocarbons</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1OP-3_TonxVam_P-yGNwGBfHHg2TjliQQ/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>16. Halogenoalkanes</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1wc3dSt1kXks7ljQjlQnkotkyAmhcpXjl/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>17. Alcohols</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1DzOX-dejZxKEYc5eL9iU_C0V-Q_G9WKq/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>18. Aldehydes & Ketones</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1i91dGxvwsmwUcDYrsaAvv7nS9__CT18S/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>19. Carboxylic Acids & Derivatives</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/10mCj_UvLNqwXWNvMcPrCmWImCwqXWJ8c/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>20. Nitrogen Compounds</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1a1N8ZTWA5EBBAKNBYoWwjGoxdqmtvXBb/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>21. Polymers</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1-0tMunuYQMTJAlpQr1vFTUqOiQfDgUbn/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>22. Analytical Techniques</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/15qdSvfHF8b19b-ClINBtsSX-mt1P3Ojm/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>23. Organic Synthesis</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1iTXjpMxcQy5KGbMssEAYIyxICkJPik-g/view?usp=drive_link" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+## Detailed Chapter Notes (Set 3)
+
+<div class="table-wrapper" style="max-height: 480px; overflow-y: auto;">
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th style="width: 70%;">Chapter Title</th>
+        <th style="text-align: center; width: 30%;">Resource Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Chapter 1: Atomic Structure</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1MHZsO-GqXq0Rh1nwzQH2fpcil5_qvoK9/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>Chapter 2: Atoms, Molecules and Stoichiometry</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1BI-zL5FS3qHzHkVNgh4ZhGY1nUh-kGgy/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>Chapter 3: Electrons in Atoms</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1eSWlJIC1HbaT3jGNFbdxPFegkD8IpfNw/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>Chapter 4: Chemical Bonding</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ffaW5L5pftMpEtrWproYvRclu0JMsqSq/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>Chapter 5: States of Matter</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1J7WJTI_b5udDFVAVs_NA5_wssUdufeTu/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>Chapter 6: Chemical Energetics</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1mZvT-YC7COGmj3i6JI_dxE_uI6zfZI2N/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>Chapter 7: Redox Reactions and Electrolysis</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1RrFuWfB2pmzZZjEpwDYf1V9LH-rK-COr/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>Chapter 8: Chemical Equilibria</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ZDousJTf6i3Nfe6qVQJleNO4HkUCVTfb/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>Chapter 9: Rate of Reaction</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ER0HMUx_4LmEk4VUW0X1Bsqrr5HdUJZI/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>Chapter 10: Chemical Periodicity</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1mWdHjSESELHMQM6cuck4msEpSM6F0NQE/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>Chapter 11: Group II</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ZJI8Nvg5uOx10R_ZrdT-foUqB3ngv8TW/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>Chapter 12: Group VII</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1fb2JjfERL0_HMP8TKE-br2bUU4jVG_fe/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>Chapter 13: Nitrogen and Sulfur</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1SIiu9197unxa6v2mXSqNUfVrjv-4kFud/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>Chapter 14: An Introduction to Organic Chemistry</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1qOgIEZEQGO6UsQJ5NpU5mNnVnuObGCiF/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>Chapter 15: Hydrocarbons</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1fKM68uz8gVkvEwM1WVCVFkut0QHqNb1v/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>Chapter 16: Halogen Derivatives</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1wz0r9gSl0tQJeD93hGzIQiNNQPlh3rR9/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>Chapter 17: Hydroxy Compounds</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1wf_Bs-We459eGlLRnRGll2QhOSlHBp4Z/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>Chapter 18: Carbonyl Compounds</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1WsXXspVcX3JCYKWNbKfCDr5lBW3rAdSY/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>Chapter 19: Carboxylic Acids and Derivatives I</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1iz_Jy873Ggj-9byTvnfiUaWHaJkLiShn/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>Chapter 20: Lattice Energy</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/13UTQ6F9jKeGuU9fXcKrdysEVzLEEpJMi/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>Chapter 21: Electrode Potentials</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1ho9fDMN-RqrES2xMftoCov5uO8Xn2rzJ/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>Chapter 22: Ionic Equilibria</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1tBcKJc0khFZmV8Z616rkE7xRhddwymK7/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>Chapter 23: Reaction Kinetics</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1yaguK-dzcOVgmvx8O29NOuH2miqA6t6f/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>Chapter 25: Transition Elements</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1wTcYGjN8wjS62JnLPMaJXIbTcFCsy0QW/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+      <tr>
+        <td><strong>Chapter 26: Benzene and Its Compounds</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1NK-3I6aDq-YhCJ6JbR9CsumsaAaOMx70/view?usp=drive_link" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+:::
+
+---
+
+## 4. TOPICAL PAST PAPERS
+
+Test your understanding of specific syllabus areas with compiled past exam questions categorized by chemistry branches.
+
+<div class="table-wrapper" style="margin-bottom: 2.5rem;">
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th style="width: 40%;">Chemistry Branch & Topics</th>
+        <th style="width: 20%; text-align: center;">Paper 1 (MCQ)</th>
+        <th style="width: 20%; text-align: center;">Paper 2 (AS Theory)</th>
+        <th style="width: 20%; text-align: center;">Paper 4 (A2 Theory)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Physical Chemistry</strong><br><span style="font-size:0.8rem; color:#64748b;">Atomic Structure, Bonding, Energetics, Kinetics, Equilibrium</span></td>
+        <td style="text-align: center;"><a href="#" class="btn-gateway" style="font-size: 0.85rem;"><span class="bi bi-link-45deg"></span> Link Pending</a></td>
+        <td style="text-align: center;"><a href="#" class="btn-gateway" style="font-size: 0.85rem;"><span class="bi bi-link-45deg"></span> Link Pending</a></td>
+        <td style="text-align: center;"><a href="#" class="btn-gateway" style="font-size: 0.85rem;"><span class="bi bi-link-45deg"></span> Link Pending</a></td>
+      </tr>
+      <tr>
+        <td><strong>Inorganic Chemistry</strong><br><span style="font-size:0.8rem; color:#64748b;">Periodicity, Group 2 Alkaline Earth Metals, Group 17 Halogens</span></td>
+        <td style="text-align: center;"><a href="#" class="btn-gateway" style="font-size: 0.85rem;"><span class="bi bi-link-45deg"></span> Link Pending</a></td>
+        <td style="text-align: center;"><a href="#" class="btn-gateway" style="font-size: 0.85rem;"><span class="bi bi-link-45deg"></span> Link Pending</a></td>
+        <td style="text-align: center;"><span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">N/A (AS Only)</span></td>
+      </tr>
+      <tr>
+        <td><strong>Organic Chemistry & Polymers</strong><br><span style="font-size:0.8rem; color:#64748b;">Alkanes, Alkenes, Arenes, Nitrogen & Carbonyl Compounds</span></td>
+        <td style="text-align: center;"><a href="#" class="btn-gateway" style="font-size: 0.85rem;"><span class="bi bi-link-45deg"></span> Link Pending</a></td>
+        <td style="text-align: center;"><a href="#" class="btn-gateway" style="font-size: 0.85rem;"><span class="bi bi-link-45deg"></span> Link Pending</a></td>
+        <td style="text-align: center;"><a href="#" class="btn-gateway" style="font-size: 0.85rem;"><span class="bi bi-link-45deg"></span> Link Pending</a></td>
+      </tr>
+      <tr>
+        <td><strong>Analytical Chemistry</strong><br><span style="font-size:0.8rem; color:#64748b;">Chromatography, Infrared Spectroscopy, Mass Spec, NMR Spec</span></td>
+        <td style="text-align: center;"><a href="#" class="btn-gateway" style="font-size: 0.85rem;"><span class="bi bi-link-45deg"></span> Link Pending</a></td>
+        <td style="text-align: center;"><a href="#" class="btn-gateway" style="font-size: 0.85rem;"><span class="bi bi-link-45deg"></span> Link Pending</a></td>
+        <td style="text-align: center;"><a href="#" class="btn-gateway" style="font-size: 0.85rem;"><span class="bi bi-link-45deg"></span> Link Pending</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
+
+## 5. OFFICIAL PAST PAPERS BANK
+
+
+```{=html}
+<div class="card p-3 mb-4 shadow-sm" style="border-radius: 12px; border: 1px solid rgba(0,0,0,0.08);">
+  <div class="card-body p-0">
+    <div class="d-flex align-items-center flex-wrap gap-4">
+      
+      <!-- Year Select Dropdown -->
+      <div class="d-flex align-items-center gap-2" style="min-width: 200px;">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Year:</span>
+        <select id="filter-year" class="form-select form-select-sm" onchange="selectYearDropdown(this)" style="max-width: 140px; display: inline-block;">
+          <option value="">All Years</option>
+        </select>
+      </div>
+      
+      <!-- Vertical Divider on desktop -->
+      <div class="d-none d-md-block" style="border-left: 1px solid rgba(0,0,0,0.1); height: 24px;"></div>
+      
+      <!-- Paper Pills -->
+      <div class="d-flex align-items-center gap-2 flex-grow-1">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Paper:</span>
+        <div id="paper-pills" class="d-flex flex-wrap gap-1">
+          <button class="btn btn-sm btn-primary smart-paper-btn active" data-paper="" onclick="selectPaper(this)">All</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="Paper 1" onclick="selectPaper(this)">Paper 1</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="Paper 2" onclick="selectPaper(this)">Paper 2</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="Paper 3" onclick="selectPaper(this)">Paper 3</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="Paper 4" onclick="selectPaper(this)">Paper 4</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="Paper 5" onclick="selectPaper(this)">Paper 5</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<script>
+let currentSelectedYear = '';
+let currentSelectedPaper = '';
+
+function applySmartFilters() {
+  const list = window['quarto-listings'] ? window['quarto-listings']['listing-past-papers-list'] : null;
+  if (!list) return;
+
+  list.filter(function(item) {
+    const itemValues = item.values();
+    
+    // Read values
+    const itemYear = itemValues['listing-year'] ? itemValues['listing-year'].trim() : '';
+    const itemPaper = itemValues['listing-paper'] ? itemValues['listing-paper'].trim() : '';
+    
+    // Match filters
+    const matchYear = !currentSelectedYear || itemYear === currentSelectedYear;
+    const matchPaper = !currentSelectedPaper || itemPaper === currentSelectedPaper;
+
+    return matchYear && matchPaper;
+  });
+}
+
+function selectYearDropdown(select) {
+  currentSelectedYear = select.value || '';
+  applySmartFilters();
+}
+
+function selectPaper(button) {
+  currentSelectedPaper = button.getAttribute('data-paper') || '';
+  
+  // Update button active state
+  const buttons = document.querySelectorAll('.smart-paper-btn');
+  buttons.forEach(btn => {
+    btn.classList.remove('btn-primary', 'active');
+    btn.classList.add('btn-outline-secondary');
+  });
+  button.classList.remove('btn-outline-secondary');
+  button.classList.add('btn-primary', 'active');
+  
+  applySmartFilters();
+}
+
+function populateYearDropdown() {
+  const list = window['quarto-listings'] ? window['quarto-listings']['listing-past-papers-list'] : null;
+  if (!list) return;
+
+  const yearSelect = document.getElementById('filter-year');
+  if (!yearSelect) return;
+
+  const years = new Set();
+  list.items.forEach(function(item) {
+    const year = item.values()['listing-year'];
+    if (year) years.add(year.trim());
+  });
+
+  const sortedYears = Array.from(years).sort((a, b) => parseInt(b) - parseInt(a));
+
+  // Clear and add "All Years" option
+  yearSelect.innerHTML = '<option value="">All Years</option>';
+  
+  sortedYears.forEach(function(year) {
+    const option = document.createElement('option');
+    option.value = year;
+    option.textContent = year;
+    yearSelect.appendChild(option);
+  });
+}
+
+// Hook into Quarto listing initialization to populate dropdown and bind events
+(function() {
+  function initSmartFilters() {
+    const list = window['quarto-listings'] ? window['quarto-listings']['listing-past-papers-list'] : null;
+    if (list && list.items && list.items.length > 0) {
+      populateYearDropdown();
+    } else {
+      setTimeout(initSmartFilters, 100);
+    }
+  }
+  
+  // Start polling for list initialization
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initSmartFilters);
+  } else {
+    initSmartFilters();
+  }
+})();
+</script>
+```
+
+::: {#past-papers-list}
+:::
+
+<!-- rebuild trigger -->

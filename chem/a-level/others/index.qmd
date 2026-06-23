@@ -1,0 +1,38 @@
+---
+title: "Other Exam Boards Chemistry"
+subtitle: "Tài nguyên ôn tập Hóa học A-Level cho các Hội đồng thi khác (AQA, OxfordAQA...)"
+format: html
+---
+
+::: {.callout-note}
+## Hỗ Trợ Đa Dạng Các Chương Trình Học A-Level Chemistry
+Bên cạnh CIE và Edexcel, hệ giáo trình của AQA và OxfordAQA cũng rất phổ biến tại một số trường quốc tế hệ Anh. K-Education Hub cung cấp tài liệu bổ trợ cốt lõi chia thành 2 cấp độ học thuật chính để các em củng cố kiến thức tốt nhất.
+:::
+
+## Lựa Chọn Cấp Độ Để Ôn Luyện Cụ Thể
+
+Anh/chị hãy chọn đúng cấp độ học phần hiện tại để đi thẳng tới kho đề thi past papers, sơ đồ tóm tắt lý thuyết và phương pháp làm bài đạt điểm tối đa:
+
+::: {.program-grid}
+
+::: {.program-card}
+### AS Level Chemistry
+**Cấp độ cơ bản (Năm thứ nhất A-Level)**
+* Tổng hợp lý thuyết cấu tạo chất, lượng chất hóa học, và hóa học hữu cơ đại cương của các giáo trình AQA, OxfordAQA.
+* [Khám Phá Tài Nguyên AS Level →](as.qmd)
+:::
+
+::: {.program-card}
+### A Level Chemistry
+**Cấp độ nâng cao (Năm thứ hai A-Level)**
+* Tổng hợp lý thuyết động hóa học, cân bằng nâng cao, phức chất kim loại và cơ chế hữu cơ chuyên sâu.
+* [Khám Phá Tài Nguyên A Level →](a-level.qmd)
+:::
+
+:::
+
+---
+
+## Lời khuyên học thuật từ Thầy/Cô
+
+Nguyên lý hóa học là bất biến. Hãy nắm chắc cách phân tích cơ chế dịch chuyển electron và bản chất của cân bằng hóa học để tự tin chinh phục mọi kỳ thi hóa học A-Level quốc tế.

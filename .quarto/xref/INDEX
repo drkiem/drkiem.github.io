@@ -1,0 +1,257 @@
+{
+  "others/ap.qmd": {
+    "ap.html": "c14aae21"
+  },
+  "index.qmd": {
+    "index.html": "e89bcbaa"
+  },
+  "math/igcse/cie-0580.qmd": {
+    "cie-0580.html": "60603b36"
+  },
+  "math/igcse/index.qmd": {
+    "index.html": "1c3dd90f"
+  },
+  "math/igcse/cie-0607.qmd": {
+    "cie-0607.html": "b027a239"
+  },
+  "math/igcse/edexcel-4ma1.qmd": {
+    "edexcel-4ma1.html": "2d53c264"
+  },
+  "math/a-level/others/papers.qmd": {
+    "papers.html": "2e6b047f"
+  },
+  "math/a-level/others/index.qmd": {
+    "index.html": "12e52289"
+  },
+  "math/a-level/cie/s2.qmd": {
+    "s2.html": "d111658b"
+  },
+  "math/a-level/cie/s1.qmd": {
+    "s1.html": "e938769c"
+  },
+  "math/a-level/cie/m1.qmd": {
+    "m1.html": "abbdb819"
+  },
+  "math/a-level/cie/m2.qmd": {
+    "m2.html": "4c593898"
+  },
+  "math/a-level/cie/index.qmd": {
+    "index.html": "f4984be2"
+  },
+  "math/a-level/cie/p1.qmd": {
+    "p1.html": "b41feb41"
+  },
+  "math/a-level/cie/p2.qmd": {
+    "p2.html": "b23ec126"
+  },
+  "math/a-level/cie/further.qmd": {
+    "further.html": "fc8174ac"
+  },
+  "math/a-level/cie/p3.qmd": {
+    "p3.html": "b3b64ed1"
+  },
+  "math/a-level/cie/p4.qmd": {
+    "p4.html": "4c4bc7fc"
+  },
+  "math/a-level/index.qmd": {
+    "index.html": "80b84574"
+  },
+  "math/a-level/edexcel/s2.qmd": {
+    "s2.html": "ce6d1082"
+  },
+  "math/a-level/edexcel/s1.qmd": {
+    "s1.html": "82eb1d70"
+  },
+  "math/a-level/edexcel/m1.qmd": {
+    "m1.html": "8eb96a49"
+  },
+  "math/a-level/edexcel/m2.qmd": {
+    "m2.html": "a05e28bd"
+  },
+  "math/a-level/edexcel/index.qmd": {
+    "index.html": "0b6bde35"
+  },
+  "math/a-level/edexcel/p1.qmd": {
+    "p1.html": "74855ff5"
+  },
+  "math/a-level/edexcel/p2.qmd": {
+    "p2.html": "0798d1ed"
+  },
+  "math/a-level/edexcel/further.qmd": {
+    "further.html": "164efc0d"
+  },
+  "math/a-level/edexcel/p3.qmd": {
+    "p3.html": "d3ff2a7c"
+  },
+  "math/a-level/edexcel/p4.qmd": {
+    "p4.html": "02769a47"
+  },
+  "math/sat-ap/ap-stats.qmd": {
+    "ap-stats.html": "dce174aa"
+  },
+  "math/sat-ap/sat.qmd": {
+    "sat.html": "9a2275e1"
+  },
+  "math/sat-ap/index.qmd": {
+    "index.html": "f0870cda"
+  },
+  "math/sat-ap/ap-calculus.qmd": {
+    "ap-calculus.html": "51808b2c"
+  },
+  "math/ib/ai-hl.qmd": {
+    "ai-hl.html": "a186fc69"
+  },
+  "math/ib/aa-hl.qmd": {
+    "aa-hl.html": "8a51981a"
+  },
+  "math/ib/index.qmd": {
+    "index.html": "993e1fda"
+  },
+  "math/ib/aa-sl.qmd": {
+    "aa-sl.html": "f793f577"
+  },
+  "math/ib/ai-sl.qmd": {
+    "ai-sl.html": "d26c7cfc"
+  },
+  "math/common-core/algebra1.qmd": {
+    "algebra1.html": "9569b26b"
+  },
+  "math/common-core/algebra2.qmd": {
+    "algebra2.html": "60fe760b"
+  },
+  "math/common-core/index.qmd": {
+    "index.html": "54fd6f31"
+  },
+  "math/common-core/geometry.qmd": {
+    "geometry.html": "8eeca83c"
+  },
+  "math/common-core/ssat.qmd": {
+    "ssat.html": "a1b937d1"
+  },
+  "math/common-core/pre-calculus.qmd": {
+    "pre-calculus.html": "2c7648b5"
+  },
+  "about.qmd": {
+    "about.html": "c1399674"
+  },
+  "chem/igcse/cie-0620.qmd": {
+    "cie-0620.html": "6db567fe"
+  },
+  "chem/igcse/index.qmd": {
+    "index.html": "01046d7c"
+  },
+  "chem/igcse/edexcel-4ch1.qmd": {
+    "edexcel-4ch1.html": "e308b0e1"
+  },
+  "chem/a-level/others/as.qmd": {
+    "as.html": "263fd614"
+  },
+  "chem/a-level/others/index.qmd": {
+    "index.html": "2f4dfe18"
+  },
+  "chem/a-level/others/a-level.qmd": {
+    "a-level.html": "05710ba5"
+  },
+  "chem/a-level/cie/index.qmd": {
+    "index.html": "926479aa"
+  },
+  "chem/a-level/index.qmd": {
+    "index.html": "79d936ce"
+  },
+  "chem/a-level/edexcel/as.qmd": {
+    "as.html": "ba387105"
+  },
+  "chem/a-level/edexcel/index.qmd": {
+    "index.html": "c2859014"
+  },
+  "chem/a-level/edexcel/a-level.qmd": {
+    "a-level.html": "552da30e"
+  },
+  "chem/sat-ap.qmd": {
+    "sat-ap.html": "01704937"
+  },
+  "chem/ib/hl.qmd": {
+    "hl.html": "c6f4e447"
+  },
+  "chem/ib/index.qmd": {
+    "index.html": "cdf93dee"
+  },
+  "chem/ib/syllabus.qmd": {
+    "syllabus.html": "4fcc0e55"
+  },
+  "chem/ib/sl.qmd": {
+    "sl.html": "61192a31"
+  },
+  "agents.md": {
+    "agents.html": "9a9fdb7f"
+  },
+  "chem/igcse/edexcel-science-chemistry.qmd": {
+    "edexcel-science-chemistry.html": "6b93f862"
+  },
+  "chem/igcse/cie-science-chemistry.qmd": {
+    "cie-science-chemistry.html": "9ceb8a3a"
+  },
+  "math/a-level/edexcel/index_draft.qmd": {
+    "index_draft.html": "128749e4"
+  },
+  "math/a-level/edexcel/p2_draft.qmd": {
+    "p2_draft.html": "b54d935a"
+  },
+  "math/a-level/edexcel/m1_draft.qmd": {
+    "m1_draft.html": "63dceb81"
+  },
+  "math/a-level/edexcel/p4_draft.qmd": {
+    "p4_draft.html": "394b29be"
+  },
+  "math/a-level/edexcel/s1_draft.qmd": {
+    "s1_draft.html": "457d4713"
+  },
+  "math/a-level/edexcel/p3_draft.qmd": {
+    "p3_draft.html": "b56f703f"
+  },
+  "math/a-level/edexcel/p1_draft.qmd": {
+    "p1_draft.html": "52ddcd6d"
+  },
+  "math/a-level/edexcel/s2_draft.qmd": {
+    "s2_draft.html": "abf5922d"
+  },
+  "math/a-level/edexcel/m2_draft.qmd": {
+    "m2_draft.html": "50d1c4d2"
+  },
+  "math/a-level/cie/index_draft.qmd": {
+    "index_draft.html": "3d94a80a"
+  },
+  "math/a-level/cie/p2_draft.qmd": {
+    "p2_draft.html": "7b15aacb"
+  },
+  "math/a-level/cie/m1_draft.qmd": {
+    "m1_draft.html": "7800193c"
+  },
+  "math/a-level/cie/p4_draft.qmd": {
+    "p4_draft.html": "a2ccc300"
+  },
+  "math/a-level/cie/s1_draft.qmd": {
+    "s1_draft.html": "99601268"
+  },
+  "math/a-level/cie/p3_draft.qmd": {
+    "p3_draft.html": "9e828663"
+  },
+  "math/a-level/cie/p1_draft.qmd": {
+    "p1_draft.html": "584d448c"
+  },
+  "math/a-level/cie/s2_draft.qmd": {
+    "s2_draft.html": "aa2f31ec"
+  },
+  "math/a-level/cie/m2_draft.qmd": {
+    "m2_draft.html": "88da11d1"
+  },
+  "math/common-core/ssat_draft.qmd": {
+    "ssat_draft.html": "d8e8d915"
+  },
+  "math/common-core/math-grade-6-8.qmd": {
+    "math-grade-6-8.html": "2aa31d22"
+  },
+  "math/sat-ap/ssat.qmd": {
+    "ssat.html": "e1cba730"
+  }
+}

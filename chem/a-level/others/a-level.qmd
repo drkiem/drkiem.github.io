@@ -1,0 +1,62 @@
+---
+title: "AQA & OxfordAQA A2 Chemistry"
+subtitle: "Học Phần Bổ Trợ & Tài Nguyên Hóa Học A2 Level (Các Hội Đồng Thi Khác)"
+format: html
+---
+
+::: {.callout-note}
+## Tài nguyên ôn tập bổ trợ: A2 Chemistry (Others Boards)
+Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức tóm tắt, ví dụ minh họa bằng công thức LaTeX sắc nét và các bài tập luyện thi bổ trợ cho hội đồng khảo thí AQA và OxfordAQA A2 Level Chemistry.
+:::
+
+## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+
+<p>Học phần này cung cấp các tài nguyên học thuật chất lượng cao hỗ trợ học sinh học theo giáo trình AQA hoặc OxfordAQA A2 Level Chemistry. Các kiến thức cốt lõi được đồng bộ hóa và phân tích sâu sắc, giúp các em củng cố toàn diện mảng Hóa lý nâng cao (Gibbs, pH đệm, động hóa học), vô cơ kim loại chuyển tiếp và thế giới hữu cơ thơm nhân Benzene.</p>
+
+---
+
+## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (SYLLABUS CORE)
+
+::: {.callout-important}
+### Các chuyên đề cốt lõi của AQA A2 Chemistry:
+1. **Physical Chemistry (Hóa lý nâng cao):** Chu trình Born-Haber tính toán năng lượng mạng lưới tinh thể, Entropy thay đổi, năng lượng Gibbs tự phát $\Delta G$. Cân bằng đệm axit Ka, điện hóa học pin điện cực chuẩn $E_{cell}$.
+2. **Inorganic Chemistry (Hóa vô cơ):** Hóa học kim loại chuyển tiếp d-orbital complexes màu sắc phối tử.
+3. **Organic Chemistry (Hóa học hữu cơ):** Nhân thơm Benzene, amines, amides, amino acids, peptit và trùng ngưng polyme. Đọc hiểu phổ NMR hữu cơ.
+:::
+
+---
+
+## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+
+Công thức điện hóa học hiển thị sắc nét bằng LaTeX:
+
+### Sức điện động tiêu chuẩn của Pin (Standard Cell Potential)
+Hiệu điện thế cực đại giữa hai cực điện cực ở trạng thái tiêu chuẩn:
+$$E_{\text{cell}}^{\ominus} = E_{\text{reduction}}^{\ominus}(\text{Cathode}) - E_{\text{reduction}}^{\ominus}(\text{Anode})$$
+*Điều kiện tự phát phản ứng oxi hóa khử: $E_{\text{cell}}^{\ominus} > 0 \Leftrightarrow \Delta G^{\ominus} < 0$.*
+
+---
+
+## 4. KHO ĐỀ PAST PAPERS THEO CHUYÊN ĐỀ
+
+::: {.program-grid}
+
+::: {.program-card .topic-card}
+### Topic 1: Advanced Physical Chemistry
+* Nhiệt động lực học Gibbs, Born-Haber và động hóa học cơ chế tốc độ phản ứng.
+* [**Tải đề luyện chuyên đề 1 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 2: Electrochemistry & Buffers
+* Thế điện cực pin điện hóa, tính pH dung dịch đệm axit-bazơ yếu.
+* [**Tải đề luyện chuyên đề 2 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 3: Arenes & Advanced Organics
+* Phản ứng nhân thơm Benzene, peptit trùng ngưng polymer, đọc phổ hữu cơ NMR.
+* [**Tải đề luyện chuyên đề 3 →**](#){.btn-gateway}
+:::
+
+:::

@@ -1,0 +1,64 @@
+project:
+  type: website
+  resources:
+    - "math/ib/past_papers_metadata.json"
+    - "math/ib/info/**"
+    - "chem/ib/info/**"
+    - "chem/ib/past_papers_metadata.json"
+    - "math/a-level/cie/past_papers_metadata.json"
+    - "math/igcse/past_papers_metadata.json"
+    - "math/igcse/cie_past_papers_metadata.json"
+
+
+website:
+  title: "K-Education Hub"
+  search: true
+  navbar:
+    background: primary
+    type: dark
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Mathematics
+        menu:
+          - href: math/ib/index.qmd
+            text: "IB Mathematics"
+          - text: "---"
+          - href: math/a-level/index.qmd
+            text: "A-Level Mathematics"
+          - text: "---"
+          - href: math/igcse/index.qmd
+            text: "IGCSE Mathematics"
+          - text: "---"
+          - href: math/common-core/index.qmd
+            text: "Common Core Mathematics"
+          - text: "---"
+          - href: math/sat-ap/index.qmd
+            text: "SAT & AP Mathematics"
+      - text: Chemistry
+        menu:
+          - href: chem/ib/index.qmd
+            text: "IB Chemistry"
+          - text: "---"
+          - href: chem/a-level/index.qmd
+            text: "A-Level Chemistry"
+          - text: "---"
+          - href: chem/igcse/index.qmd
+            text: "IGCSE Chemistry"
+      - href: about.qmd
+        text: About
+    tools:
+      - icon: moon
+        href: javascript:void(0);
+        text: Toggle Dark Mode
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    mathjax: true

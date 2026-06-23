@@ -1,0 +1,127 @@
+---
+title: "AP Chemistry Prep"
+subtitle: "Chương Trình Luyện Thi Hóa Học Advanced Placement (College Board)"
+format: html
+---
+
+::: {.callout-note}
+## Tài nguyên ôn tập & Luyện thi: AP Chemistry Prep
+Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức hóa học chuẩn đại học Mỹ, tóm tắt các phương trình điện hóa học, nhiệt hóa và cân bằng pH bằng LaTeX sắc nét cùng ngân hàng tài liệu luyện viết tự luận FRQ giúp đạt điểm tuyệt đối 5/5.
+:::
+
+## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+
+<p><strong>Advanced Placement (AP) Chemistry</strong> là kỳ thi hóa học chuẩn hóa quốc tế cấp đại cương của College Board Mỹ. Kỳ thi đòi hỏi tư duy giải quyết vấn đề định lượng cực mạnh, phân tích sâu sắc bản chất cấu trúc vật chất, động học, năng lượng phản ứng, cân bằng dung dịch axit-bazơ phức tạp và kỹ năng thí nghiệm thực tiễn.</p>
+
+### Cấu Trúc Đề Thi (Assessment Outline)
+
+<p>Đề thi AP Chemistry gồm hai phần thi MCQ (50%) và tự luận FRQ (50%) bắt buộc sử dụng máy tính khoa học:</p>
+
+<div class="table-wrapper" style="margin-bottom: 2rem;">
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th>Thành phần thi (Section)</th>
+        <th>Số lượng câu hỏi</th>
+        <th>Thời gian làm bài</th>
+        <th>Chính sách sử dụng máy tính</th>
+        <th style="text-align: right;">Trọng số điểm</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Section I: Multiple Choice (MCQ)</strong></td>
+        <td>60 câu trắc nghiệm khách quan</td>
+        <td>1 tiếng 30 phút</td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Cho phép dùng máy tính khoa học</span></td>
+        <td style="text-align: right;"><strong>50%</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Section II: Free Response (FRQ)</strong></td>
+        <td>7 câu hỏi tự luận lớn (gồm 3 câu lớn và 4 câu nhỏ)</td>
+        <td>1 tiếng 45 phút</td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Cho phép dùng máy tính khoa học</span></td>
+        <td style="text-align: right;"><strong>50%</strong></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
+
+## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (AP CHEMISTRY CORE UNITS)
+
+Chương trình học gồm 9 Units cốt lõi theo chuẩn sơ đồ của College Board:
+
+::: {.callout-important}
+### Các chuyên đề cốt lõi của AP Chemistry:
+1. **Atomic Structure and Properties (Cấu tạo nguyên tử - 7-9%):** Phổ quang điện tử (PES), cấu hình electron orbital, tuần hoàn các nguyên tố.
+2. **Molecular and Ionic Compound Structure (Liên kết - 7-9%):** Công thức Lewis, thuyết lai hóa orbital, độ âm điện phân cực liên kết.
+3. **Intermolecular Forces and Properties (Lực liên phân tử & Khí lý tưởng - 18-22%):** Lực IMF London/lưỡng cực/hydrogen, giản đồ pha hóa học, định luật khí lý tưởng $PV=nRT$, quang phổ học Beer-Lambert.
+4. **Chemical Reactions (Phản ứng hóa học - 7-9%):** Stoichiometry nồng độ dung dịch, phản ứng axit-bazơ trung hòa, oxi hóa khử redox.
+5. **Kinetics (Động hóa học - 7-9%):** Phương trình tốc độ phản ứng tổng quát, cơ chế phản ứng từng bước, phương trình tích phân tốc độ.
+6. **Thermodynamics (Nhiệt hóa học - 7-9%):** Biến thiên Enthalpy $\Delta H$, nhiệt dung riêng calorimetry, năng lượng liên kết Hess.
+7. **Equilibrium (Cân bằng hóa học - 7-9%):** Cân bằng động hằng số $K_c$, hằng số áp suất khí $K_p$, nguyên lý Le Chatelier hằng số tích số tan $K_{sp}$.
+8. **Acids and Bases (Axit và Bazơ - 11-15%):** pH axit-bazơ yếu $K_a/K_b$, dung dịch đệm đệm (Buffers), phản ứng chuẩn độ axit-bazơ.
+9. **Applications of Thermodynamics (Nhiệt hóa nâng cao & Điện hóa - 7-9%):** Entropy thay đổi, năng lượng tự do Gibbs $\Delta G$, pin điện hóa galvanic thế chuẩn $E^{\ominus}$ và điện phân.
+:::
+
+---
+
+## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+
+Công thức hóa học hiển thị sắc nét bằng LaTeX:
+
+### Định luật quang phổ Beer-Lambert (Beer-Lambert Law)
+Tính toán nồng độ chất tan dựa trên độ hấp thụ ánh sáng của dung dịch:
+$$A = \epsilon \cdot b \cdot c$$
+*Trong đó $A$ là độ hấp thụ (không đơn vị), $\epsilon$ là hệ số hấp thụ mol, $b$ là chiều dày cuvet truyền ánh sáng (cm), $c$ là nồng độ dung dịch (M).*
+
+### Phương trình tích phân tốc độ phản ứng bậc một (First-Order integrated rate law)
+Mô tả sự suy giảm nồng độ chất phản ứng theo thời gian:
+$$\ln[A]_t - \ln[A]_0 = -kt$$
+$$\text{Chu kỳ bán rã (Half-life): } t_{1/2} = \frac{\ln 2}{k} \approx \frac{0.693}{k}$$
+
+---
+
+## 4. BẪY ĐIỂM SỐ & CHIẾN THUẬT LÀM BÀI FRQ (FRQ EXAM TIPS)
+
+::: {.callout-tip}
+### Các bí quyết giành điểm tuyệt đối FRQ AP Chem:
+* **⚠️ Lý giải bằng lực liên phân tử (IMF) chứ không ghi tên liên kết:** Khi được yêu cầu so sánh nhiệt độ sôi (boiling points) hay áp suất hơi (vapor pressure) của các phân tử hữu cơ, học sinh rất hay mắc lỗi ghi tên lực liên kết. Hãy luôn viết rõ ràng: *"Phân tử $C_2H_5OH$ có lực liên kết hydrogen liên phân tử mạnh mẽ hơn lực London phân tán liên phân tử của $CH_3OCH_3$, dẫn đến đòi hỏi nhiều năng lượng hơn để bứt phá liên kết, nên nhiệt độ sôi cao hơn."*
+* **⚠️ Phân biệt khái niệm thế khử và pin tự phát:**
+  * Sức điện động của pin tự phát $E_{cell}^{\ominus} > 0$ thì năng lượng tự do Gibbs $\Delta G^{\ominus} = -nFE_{cell}^{\ominus} < 0$.
+  * Hãy luôn nhớ kiểm tra dấu âm/dương của hai đại lượng này để tránh mất điểm logic.
+:::
+
+---
+
+## 5. KHO ĐỀ FRQ THEO CHUYÊN ĐỀ AP
+
+::: {.program-grid}
+
+::: {.program-card .topic-card}
+### Topic 1: Atomic Bonding & Beer's Law
+* Đọc quang phổ PES, thuyết lai hóa orbital VSEPR và bài toán tính nồng độ quang phổ Beer-Lambert.
+* [**Tải đề luyện chuyên đề 1 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 2: Kinetics & Energy Rates
+* Luyện giải bài toán viết phương trình tốc độ phản ứng, tính toán chu kỳ bán rã và Hess's Law.
+* [**Tải đề luyện chuyên đề 2 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 3: Buffers & titration curves
+* Tính toán pH dung dịch đệm, phân tích điểm tương đương đường cong chuẩn độ axit-bazơ.
+* [**Tải đề luyện chuyên đề 3 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 4: Electrochemistry & Gibbs
+* Tính toán thế chuẩn pin điện hóa, điện phân Faraday và mối liên hệ năng lượng Gibbs hằng số K.
+* [**Tải đề luyện chuyên đề 4 →**](#){.btn-gateway}
+:::
+
+:::

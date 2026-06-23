@@ -1,0 +1,96 @@
+---
+title: "CIE International Mathematics (0607)"
+subtitle: "Chương Trình Toán Quốc Tế Cambridge IGCSE (GDC heavy & Paper 6)"
+format: html
+---
+
+::: {.callout-note}
+## Tài nguyên ôn tập & Luyện thi: CIE International Mathematics (0607)
+Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức toán học quốc tế chuyên sâu, hướng dẫn sử dụng máy tính đồ họa (GDC) và các công thức toán lượng giác hiển thị bằng LaTeX sắc nét cùng ngân hàng tài liệu luyện thi Paper 6 (Mathematical Investigation) độc quyền.
+:::
+
+## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+
+<p><strong>CIE IGCSE International Mathematics (Mã môn: 0607)</strong> được thiết kế đặc biệt cho học sinh tại các trường quốc tế sử dụng máy tính đồ họa (GDC - Casio fx-CG50 hoặc TI-Nspire) từ sớm. Chương trình này là sự chuẩn bị hoàn hảo nhất cho phân hệ IB Mathematics ở cấp học trung học phổ thông.</p>
+
+### Cấu Trúc Đề Thi Đặc Trưng (Paper 5 & Paper 6)
+
+<p>Khác với chương trình 0580, đề thi 0607 Extended bao gồm 3 Papers thi chính:</p>
+
+* **Paper 2 (Non-calculator):** Đánh giá tư duy tính nhẩm toán học cốt lõi.
+* **Paper 4 (Calculator - GDC active):** Đánh giá khả năng giải quyết các bài toán phức tạp sử dụng sức mạnh tính toán của máy tính đồ họa.
+* **Paper 6 (Investigation & Modelling):** Đánh giá tư duy tự học độc lập qua một đề tài điều tra toán học (Section A) và thiết lập mô hình toán học (Section B).
+
+---
+
+## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (SYLLABUS CORE)
+
+::: {.callout-important}
+### Các chuyên đề cốt lõi của IGCSE 0607:
+1. **Number (Số học):** Các phép toán số học cơ bản, lũy thừa, căn thức, hệ đếm, lãi suất.
+2. **Algebra (Đại số GDC):**
+   * Giải phương trình phi tuyến tính bằng đồ thị trên máy tính GDC (tìm giao điểm, điểm cực trị).
+   * Khảo sát các dạng hàm số nâng cao: hàm bậc ba, hàm phân thức, hàm mũ.
+3. **Geometry and Trigonometry (Hình học & Lượng giác):**
+   * Tính chất hình học phẳng, góc cung tròn. Lượng giác tam giác phẳng và hình học không gian 3D cơ bản.
+4. **Statistics & Probability (Thống kê GDC):**
+   * Vẽ biểu đồ Scatter plot, tìm phương trình đường xu hướng (regression lines) bằng máy tính GDC.
+   * Xác suất biến cố kết hợp, kỳ vọng rời rạc.
+5. **Venn Diagrams (Sơ đồ Venn):** Trọng tâm thiết kế các bài toán phân tích logic tập hợp phức tạp.
+:::
+
+---
+
+## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+
+Công thức hình học tọa độ hiển thị sắc nét bằng LaTeX:
+
+### Khoảng cách giữa hai điểm trong không gian 2D
+Cho hai điểm $A(x_1, y_1)$ và $B(x_2, y_2)$ trên hệ trục tọa độ:
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
+
+### Phương trình hồi quy tuyến tính GDC (Linear Regression)
+Sử dụng chức năng thống kê của máy tính GDC để tìm đường thẳng xu hướng từ bảng số liệu thực nghiệm:
+$$y = ax + b$$
+
+---
+
+## 4. BẪY ĐIỂM SỐ & PHƯƠNG PHÁP LÀM BÀI (EXAM TIPS)
+
+::: {.callout-tip}
+### Các bẫy cần tránh ở đề thi 0607:
+* **⚠️ Rèn luyện kỹ năng viết lời giải Paper 6:** Đề thi Paper 6 chấm điểm rất mạnh ở quá trình lập luận và khả năng khái quát hóa công thức (generalisations). Hãy viết rõ ràng các bước tìm quy luật dãy số từ các dữ liệu ban đầu, tránh việc chỉ ghi mỗi đáp án cuối cùng.
+* **⚠️ Làm chủ thao tác máy tính đồ họa GDC:** Máy tính GDC là phao cứu sinh của các em ở Paper 4. Hãy học cách vẽ đồ thị nhanh, tìm điểm cực đại cực tiểu (G-Solv trên Casio hoặc Graph trên TI), tìm hệ số tương quan thống kê để tăng tốc độ làm bài.
+:::
+
+---
+
+## 5. KHO ĐỀ PAST PAPERS THEO CHUYÊN ĐỀ
+
+::: {.program-grid}
+
+::: {.program-card .topic-card}
+### Topic 1: GDC Algebra & Functions
+* Luyện giải các phương trình phi tuyến tính, tìm giao điểm và cực trị đồ thị bằng máy tính GDC.
+* [**Tải đề luyện chuyên đề 1 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 2: Paper 6 Investigation Prep
+* Ngân hàng bài tập hướng dẫn tự luyện viết đề tài điều tra toán học, tìm quy luật chuỗi số.
+* [**Tải đề luyện chuyên đề 2 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 3: Geometry & Trigonometry
+* Các dạng toán lượng giác 2D/3D nâng cao, tính chất đa giác góc đường tròn.
+* [**Tải đề luyện chuyên đề 3 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 4: Statistics & Scatter Plots
+* Luyện giải các bài toán thống kê thực nghiệm, vẽ biểu đồ phân tán và tìm đường hồi quy GDC.
+* [**Tải đề luyện chuyên đề 4 →**](#){.btn-gateway}
+:::
+
+:::

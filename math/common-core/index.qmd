@@ -1,0 +1,63 @@
+---
+title: "Common Core Mathematics Overview"
+subtitle: "US School Mathematics Curriculum (Common Core State Standards)"
+format: html
+---
+
+::: {.callout-note}
+## Pathway to Developing Mathematical Thinking (US Curriculum)
+Welcome, students! The Common Core Mathematics curriculum is widely adopted in US international schools, focusing on critical thinking, real-world problem-solving, and deep understanding of mathematical concepts from algebra to geometry. 
+
+K-Education Hub provides comprehensive study materials, core notes, and practice exercises aligned with the five primary high school pathways: **Math Grade 6-8**, **Algebra 1**, **Geometry**, **Algebra 2**, and **Pre-Calculus**. Select your module below to begin.
+:::
+
+## Choose Your Study Pathway
+
+Select your specific course to access practice worksheets, core summaries, and key formulas:
+
+::: {.program-grid}
+
+::: {.program-card}
+### Math Grade 6-8
+**US Middle School Mathematics Curriculum**
+
+- Focus: Mental math strategies, logical reasoning, advanced arithmetic, introduction to algebra, and basic spatial geometry.
+- Practice high-speed problem-solving skills and non-calculator mathematics.
+- [Explore Math Grade 6-8 Resources &rarr;](math-grade-6-8.qmd)
+:::
+
+::: {.program-card}
+### Algebra 1
+**High School Algebra 1**
+
+- Focus: Linear equations and inequalities, systems of equations, quadratic functions and graphs, polynomials, and basic exponents.
+- Establishes a fundamental algebraic foundation crucial for high school success.
+- [Explore Algebra 1 Resources &rarr;](algebra1.qmd)
+:::
+
+::: {.program-card}
+### Geometry
+**High School Geometry**
+
+- Focus: Congruence and similarity proofs, right triangle trigonometry, coordinate geometry, circles, and 2D/3D shape volumes.
+- Enhances spatial reasoning and logical geometric proof construction.
+- [Explore Geometry Resources &rarr;](geometry.qmd)
+:::
+
+::: {.program-card}
+### Algebra 2
+**High School Algebra 2**
+
+- Focus: Exponential and logarithmic functions, complex numbers, non-linear equations, basic matrices, probability, and advanced trig.
+- [Explore Algebra 2 Resources &rarr;](algebra2.qmd)
+:::
+
+::: {.program-card}
+### Pre-Calculus
+**High School Pre-Calculus**
+
+- Focus: Complex trigonometric functions, limits, sequences and series, vectors, and foundations for AP Calculus.
+- [Explore Pre-Calculus Resources &rarr;](pre-calculus.qmd)
+:::
+
+:::

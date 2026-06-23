@@ -1,0 +1,62 @@
+---
+title: "AQA & OxfordAQA AS Chemistry"
+subtitle: "Học Phần Bổ Trợ & Tài Nguyên Hóa Học AS Level (Các Hội Đồng Thi Khác)"
+format: html
+---
+
+::: {.callout-note}
+## Tài nguyên ôn tập bổ trợ: AS Chemistry (Others Boards)
+Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức tóm tắt, ví dụ minh họa bằng công thức LaTeX sắc nét và các bài tập luyện thi bổ trợ cho hội đồng khảo thí AQA và OxfordAQA AS Level Chemistry.
+:::
+
+## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+
+<p>Học phần này cung cấp các tài nguyên học thuật chất lượng cao hỗ trợ học sinh học theo giáo trình AQA hoặc OxfordAQA AS Level Chemistry. Các kiến thức cốt lõi được đồng bộ hóa và phân tích sâu sắc, giúp các em củng cố toàn diện mảng Hóa lý, Vô cơ và Hóa hữu cơ cơ bản.</p>
+
+---
+
+## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (SYLLABUS CORE)
+
+::: {.callout-important}
+### Các chuyên đề cốt lõi của AQA AS Chemistry:
+1. **Physical Chemistry (Hóa lý cơ bản):** Stoichiometry nồng độ, cấu hình electron nguyên tử orbital, nhiệt hóa học Hess's Law, động hóa học thuyết va chạm và hằng số cân bằng $K_c$.
+2. **Inorganic Chemistry (Hóa vô cơ):** Hóa học vô cơ Period 3 và Group 2, Group 7 halogens. Phản ứng thử nghiệm định tính cation/anion.
+3. **Organic Chemistry (Hóa học hữu cơ):** Danh pháp hữu cơ IUPAC, Alkanes, Alkenes, Halogenoalkanes, Alcohols, phản ứng oxi hóa rượu và phân tích phổ hồng ngoại (IR), khối phổ (MS).
+:::
+
+---
+
+## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+
+Công thức động hóa học hiển thị sắc nét bằng LaTeX:
+
+### Định nghĩa Tốc độ phản ứng hóa học (Rate of Reaction)
+Biểu diễn sự thay đổi nồng độ chất phản ứng hoặc sản phẩm theo thời gian:
+$$\text{Rate} = -\frac{1}{a}\frac{d[A]}{dt} = \frac{1}{b}\frac{d[B]}{dt}$$
+*Cho phản ứng tổng quát $aA \rightarrow bB$.*
+
+---
+
+## 4. KHO ĐỀ PAST PAPERS THEO CHUYÊN ĐỀ
+
+::: {.program-grid}
+
+::: {.program-card .topic-card}
+### Topic 1: Physical Chemistry Basics
+* Stoichiometry, Hess's Law, tính toán hằng số cân bằng Kc.
+* [**Tải đề luyện chuyên đề 1 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 2: Inorganic & Group Chemistry
+* Sự tuần hoàn Period 3, vô cơ Group 2 kiềm thổ và Group 7 halogens.
+* [**Tải đề luyện chuyên đề 2 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 3: Organic Functional Groups
+* Viết phản ứng hữu cơ, nhận biết đồng phân, chuỗi chuyển hóa alcohols và halogenoalkanes.
+* [**Tải đề luyện chuyên đề 3 →**](#){.btn-gateway}
+:::
+
+:::

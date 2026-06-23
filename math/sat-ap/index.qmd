@@ -1,0 +1,56 @@
+---
+title: "SAT & AP Mathematics Overview"
+subtitle: "Specialized Mathematics Prep for Standardized International Exams"
+format: html
+---
+
+::: {.callout-note}
+## Gateway to Earning Gold Scores for US & International Admissions
+Welcome, students! Standardized exams from the College Board, such as the **Digital SAT** and **Advanced Placement (AP)**, play a crucial role in building highly competitive admission and scholarship portfolios. 
+
+K-Education Hub provides dedicated exam prep resources, structured topic notes, and past exam practice sets designed to help you avoid common traps and score maximum points. Select your course below to begin.
+:::
+
+## Choose Your Exam Prep Program
+
+Select your specific target exam to access official past papers, Desmos graphing calculator guides, and core formula sheets:
+
+::: {.program-grid}
+
+::: {.program-card}
+### SSAT Mathematics
+**Secondary School Admission Test Preparation**
+
+- Focus: Mental math shortcuts, logical reasoning, advanced arithmetic, algebraic equations, and spatial geometry.
+- Master speed-solving tactics and non-calculator mathematics under timed exam conditions.
+- [Explore SSAT Resources &rarr;](ssat.qmd)
+:::
+
+::: {.program-card}
+### Digital SAT Mathematics
+**New Technology SAT Math Preparation**
+
+- Focus: Heart of Algebra, Problem Solving and Data Analysis, Passport to Advanced Math, and Geometry & Trigonometry.
+- Integrate desmos graphing calculator shortcuts directly embedded into the digital exam interface to optimize timing.
+- [Explore SAT Resources &rarr;](sat.qmd)
+:::
+
+::: {.program-card}
+### AP Calculus AB & BC
+**AP Calculus Examination Prep**
+
+- Focus (Calculus AB): Limits, derivatives, integrals, and fundamental applications.
+- Focus (Calculus BC): Covers all of Calculus AB plus infinite series, parametric/polar equations, and vector calculus.
+- [Explore AP Calculus Resources &rarr;](ap-calculus.qmd)
+:::
+
+::: {.program-card}
+### AP Statistics
+**AP Probability and Statistics Prep**
+
+- Focus: Exploring data, statistical studies, probability distributions, confidence intervals, and hypothesis testing.
+- Essential for students aiming for majors in Economics, Data Science, Psychology, and Social Sciences.
+- [Explore AP Statistics Resources &rarr;](ap-stats.qmd)
+:::
+
+:::

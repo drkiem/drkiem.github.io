@@ -1,0 +1,29 @@
+---
+title: "Other Exam Boards Mathematics"
+subtitle: "Tài nguyên ôn tập Toán học A-Level cho các Hội đồng thi khác (AQA, OxfordAQA...)"
+format: html
+---
+
+::: {.callout-note}
+## Hỗ Trợ Đa Dạng Các Chương Trình Học A-Level
+Bên cạnh CIE và Edexcel, nhiều trường quốc tế cũng áp dụng hệ giáo trình của AQA hoặc OxfordAQA. K-Education Hub cung cấp các tài nguyên bổ trợ chung giúp các em học sinh ở mọi chương trình học có thể củng cố kiến thức tốt nhất.
+:::
+
+## CÁC HỌC PHẦN HỖ TRỢ
+
+Hệ thống tài liệu hỗ trợ bao gồm:
+* Lý thuyết trọng tâm các chương đề thi toán của **AQA / OxfordAQA**.
+* Ngân hàng đề luyện thi tổng hợp tích hợp đa kiến thức.
+* Luyện kỹ năng giải toán thực tế và ứng dụng thực tiễn của toán học.
+
+## TÀI NGUYÊN LUYỆN ĐỀ CHUNG
+
+Anh/chị có thể truy cập trang luyện đề tổng hợp để thử sức với các bài toán có tính ứng dụng cao và rèn luyện kỹ năng phòng thi:
+
+* [**Ngân hàng đề thi luyện tập chung (Papers) →**](papers.qmd)
+
+---
+
+## Lời khuyên từ Thầy/Cô
+
+Dù học theo bất kỳ hội đồng thi nào, bản chất toán học vẫn không thay đổi. Học sinh hãy tập trung nắm vững các khái niệm nền tảng về Giải tích (Calculus), Đại số (Algebra) và Thống kê (Statistics) để có thể linh hoạt giải quyết mọi dạng bài thi.

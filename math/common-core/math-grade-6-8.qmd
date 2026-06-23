@@ -1,0 +1,492 @@
+---
+title: "US Math Grade 6-8"
+subtitle: "US School Mathematics Curriculum (Common Core State Standards)"
+format: html
+---
+
+::: {.callout-note}
+## Revision Portal: US Math Grade 6-8
+Welcome, students! This dedicated academic portal provides core textbooks, curriculum guides, and practice materials for US Middle School Mathematics (covering Grades 6, 7, and 8) aligned with the Common Core State Standards.
+:::
+
+## 1. Introduction
+
+US Middle School Mathematics (Grades 6-8) forms the critical bridge between elementary arithmetic and high school algebra and geometry. The curriculum is structured to build robust problem-solving skills, critical thinking, and mathematical modeling.
+
+### Key Conceptual Areas:
+- **Grade 6**: Focuses on ratios and rates, rational numbers, basic algebraic expressions/equations, and introductory statistical thinking.
+- **Grade 7**: Emphasizes proportional relationships, operations with rational numbers, linear expressions and equations, and geometric constructions.
+- **Grade 8**: Prepares students for algebra through linear equations and functions, exponents and scientific notation, the Pythagorean theorem, and congruence/similarity.
+
+Whether you are preparing for standard school exams, middle-school assessments, or private school entrance exams, K-Education Hub compiles the best resources to support your academic pathway.
+
+## 2. Books
+
+Access core textbooks, practice books, and reference workbooks for US Middle School Mathematics below:
+
+<div class="table-wrapper" style="margin-top: 1.5rem; max-height: 500px; overflow-y: auto;">
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th style="width: 50%;">Book Title & Author</th>
+        <th style="width: 20%;">Category</th>
+        <th style="width: 15%;">Year</th>
+        <th style="text-align: center; width: 15%;">Download</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>1001 Math Problems</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>3rd Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By LearningExpress Editors</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Practice Book</span></td>
+        <td>2009</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1O-CSifkTzXIZuyVaK73Hrx-gk63QEENA/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>501 Algebra Questions</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>2nd Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By LearningExpress Editors</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Practice Book</span></td>
+        <td>2006</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1z7KqT_IC0i76hIe-aFyuNNyOotUEB3T9/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>501 Math Word Problems</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By Mark A. McKibben</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Practice Book</span></td>
+        <td>2012</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1YAA-0REYI0yxht9fAxGt1QCds5OFrRwL/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>California Geometry: Concepts, Skills, and Problem Solving</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By Boyd, Cummins, Malloy, Carter, Flores</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Student Edition</span></td>
+        <td>2008</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/17IhGx0sfpzLMIFrP4dcutIRZOBcDOVN0/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>California Mathematics Course One: Student Textbook</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By CGP, Inc. (Andy Park, Harold I. Lawrance, Bonnie Spence)</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Student Edition</span></td>
+        <td>2007</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1FCPsDOTOaGCTt0wOcXB7zkisx-p46ijX/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>California Mathematics Course Two: Student Textbook</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By CGP, Inc. (Sharon Keeley, William D. Nolan, Raven Deerwater)</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Student Edition</span></td>
+        <td>2007</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1IXnLsty7Grf1CqoaQ3zZhnJxLBQAab0L/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>Core-Plus Mathematics: Contemporary Mathematics in Context Course 1</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>2nd Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By Christian R. Hirsch, James T. Fey, Eric W. Hart, Harold L. Schoen, Ann E. Watkins</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Student Edition</span></td>
+        <td>2008</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1vG-pKMnM3ars6fzLTucE27XQt_1AEJBn/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>Core-Plus Mathematics: Contemporary Mathematics in Context Course 2</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>2nd Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By Christian R. Hirsch, James T. Fey, Eric W. Hart, Harold L. Schoen, Ann E. Watkins</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Student Edition</span></td>
+        <td>2008</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1GxfRuS0nZaES3w3vzAJgY0PHhK8XLicT/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>Core-Plus Mathematics: Contemporary Mathematics in Context Course 3</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>2nd Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By James T. Fey, Christian R. Hirsch, Eric W. Hart, Harold L. Schoen, Ann E. Watkins</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Student Edition</span></td>
+        <td>2009</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1RsnyDOL3u9Zce3wz38jDnAnL8twiijt0/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>English to the Max: 1200 Practice Questions to Maximize Your English Power</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By LearningExpress Editors</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Practice Book</span></td>
+        <td>2008</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1nHcU8fZdtwXZFD_0QZbM_hME4y-k5tG5/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>Geometry Success in 20 Minutes a Day</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>2nd Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By LearningExpress Editors</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Practice Book</span></td>
+        <td>2005</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1sd4ZCCR_LQSSgFAHd80p5LOiJxqtclbt/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>Geometry: Concepts and Applications</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By Glencoe/McGraw-Hill</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Student Edition</span></td>
+        <td>2005</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1D-E6Ake6ElqgmcrwitO_kIuiQvti98Nq/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>Math Triumphs: Foundations for Algebra 1</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By Glencoe/McGraw-Hill</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Student Edition</span></td>
+        <td>2010</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/18zL4ObKM1o4ZKLbzf9rP7Bh2slNrsqiQ/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>Math Triumphs: Foundations for Algebra 2</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By Glencoe/McGraw-Hill</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Student Edition</span></td>
+        <td>2010</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1il81hMQVFvZUM8LoVMaqws1zrtsYdwNz/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>Math Triumphs: Foundations for Geometry</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By Glencoe/McGraw-Hill</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Student Edition</span></td>
+        <td>2010</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/11slR00U37U1WWKkdLbU77uOe2kfdNLRH/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>Math Word Problems</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By Karen L. Anglin</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Practice Book</span></td>
+        <td>2004</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1UhxqQiPm5LqyGXuhM6RlXWgb9KKrq99a/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>MathMatters 1: An Integrated Program Extra Practice Workbook</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By Glencoe/McGraw-Hill</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Extra Practice Workbook</span></td>
+        <td>2006</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1NRKmehoNN6uegmf31aZbz9v6-nOX01-1/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>MathMatters 1: An Integrated Program Reteaching Workbook</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By Glencoe/McGraw-Hill</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Reteaching Workbook</span></td>
+        <td>2006</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1fPmFaO-Uj-PThOPDG00mdKPjHWq0h57v/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>MathMatters 1: An Integrated Program Student Edition</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By Glencoe/McGraw-Hill</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Student Edition</span></td>
+        <td>2006</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1vdvnSQtE1ySepcqkA_xS_VplttNDLLjw/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>MathMatters 2: An Integrated Program Extra Practice Workbook</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By Glencoe/McGraw-Hill</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Extra Practice Workbook</span></td>
+        <td>2006</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Ml1NYsYmy73d7ToHZ_Pmk7yqS7JTyhXq/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>MathMatters 2: An Integrated Program Student Edition</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By Glencoe/McGraw-Hill</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Student Edition</span></td>
+        <td>2006</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1KEfdqKE82HFgoXftfeNoPSjCtBsrx7sX/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>MathMatters 3: An Integrated Program Extra Practice Workbook</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By Glencoe/McGraw-Hill</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Extra Practice Workbook</span></td>
+        <td>2006</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Is6aNrrI9QChfBVUb26IQiZ0GXtqmNho/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>MathMatters 3: An Integrated Program Reteaching Workbook</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By Glencoe/McGraw-Hill</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Reteaching Workbook</span></td>
+        <td>2006</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/13DDFPZrxqJd5BRxyKJJGuG7uFL7r-BUG/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>MathMatters 3: An Integrated Program Student Edition</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By Glencoe/McGraw-Hill</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Student Edition</span></td>
+        <td>2006</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Qn_pRu3pWIkMD2AM7paA0zp5Zknq-_iZ/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>Mathematics: Applications and Concepts Course 1</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By Patricia Frey, Arthur C. Howard, Beatrice Luchin, Jack M. Ott</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Student Edition</span></td>
+        <td>2006</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1LlFbg4TCuVZFZekb10hbnudO44KF7yst/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>Mathematics: Applications and Concepts Course 2</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By Glencoe/McGraw-Hill</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Student Edition</span></td>
+        <td>2006</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1kFvtzVhtY5mDQxnyTUw23Va2Ng5Ay8md/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>Mathematics: Applications and Concepts Course 3</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By Glencoe/McGraw-Hill</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Student Edition</span></td>
+        <td>2006</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1RkS27THAKI1NtPMGa47JV8jFa77yUuZ3/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>Quick Review Math Handbook: Book 1</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By Glencoe/McGraw-Hill</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Student Edition</span></td>
+        <td>2010</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/15kyDeCbbGnnn-dfHdX7NfAWm3ml1jgJ_/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>Quick Review Math Handbook: Book 2</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By Glencoe/McGraw-Hill</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Student Edition</span></td>
+        <td>2010</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1o9Sd98K4CZcgt9dBQrqcOq4qEuBL3vdt/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>Quick Review Math Handbook: Book 3</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By Glencoe/McGraw-Hill</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Student Edition</span></td>
+        <td>2010</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1rQ1a-ZeC9CqTz8trATqze711GxRDhTzW/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+      <tr>
+        <td><strong>Texas Mathematics Course 1</strong> <span class='badge' style='background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); font-size: 0.75rem; font-weight: normal; margin-left: 0.5rem;'>1st Edition</span><div style='font-size: 0.85rem; color: #6b7280; margin-top: 0.25rem;'>By Glencoe/McGraw-Hill</div></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #059669; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Student Edition</span></td>
+        <td>2007</td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1YI0gdYVbmpkOBz1Gh875DELzmWcocDqi/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-download"></i> Download</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+## 3. Practice Questions
+
+::: {.callout-note}
+## Upcoming Practice Resources
+We are currently compiling topic-focused practice sheets, quizzes, and non-calculator exercise sets for Grades 6, 7, and 8. Curated worksheets with step-by-step solutions will be uploaded here shortly.
+:::
+
+## 4. Regents Past Papers
+
+*Search and filter official New York Regents state exam papers. Use the control panel below to filter by exam year and middle school grade level:*
+
+::: {.search-engine-box}
+### NY Regents Mathematics (Grade 6-8) Past Papers List
+
+```{=html}
+<div class="card p-3 mb-4 shadow-sm" style="border-radius: 12px; border: 1px solid rgba(0,0,0,0.08); background: var(--bs-card-bg, #ffffff);">
+  <div class="card-body p-0">
+    <div class="d-flex align-items-center flex-wrap gap-4">
+      
+      <!-- Year Select Dropdown -->
+      <div class="d-flex align-items-center gap-2" style="min-width: 180px;">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Year:</span>
+        <select id="filter-year" class="form-select form-select-sm" onchange="selectYearDropdown()" style="max-width: 130px; display: inline-block;">
+          <option value="">All Years</option>
+        </select>
+      </div>
+      
+      <!-- Vertical Divider on desktop -->
+      <div class="d-none d-md-block" style="border-left: 1px solid rgba(0,0,0,0.1); height: 24px;"></div>
+      
+      <!-- Grade Pills -->
+      <div class="d-flex align-items-center gap-2 flex-grow-1">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Grade:</span>
+        <div id="grade-pills" class="d-flex flex-wrap gap-1">
+          <button class="btn btn-sm btn-primary smart-grade-btn active" data-grade="" onclick="selectGrade(this)">All Grades</button>
+          <button class="btn btn-sm btn-outline-secondary smart-grade-btn" data-grade="grade 6" onclick="selectGrade(this)">Grade 6</button>
+          <button class="btn btn-sm btn-outline-secondary smart-grade-btn" data-grade="grade 7" onclick="selectGrade(this)">Grade 7</button>
+          <button class="btn btn-sm btn-outline-secondary smart-grade-btn" data-grade="grade 8" onclick="selectGrade(this)">Grade 8</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div id="past-papers-table-container">
+  <p><i class="bi bi-hourglass-split"></i> Loading past papers...</p>
+</div>
+
+<script>
+let pastPapersDb = [];
+let currentSelectedYear = '';
+let currentSelectedGrade = '';
+let currentPage = 1;
+const pageSize = 10;
+let filteredExams = [];
+
+async function loadPastPapersDb() {
+  if (pastPapersDb.length > 0) return pastPapersDb;
+  try {
+    const response = await fetch('regents_g68_metadata.json');
+    if (!response.ok) throw new Error('Network response was not ok');
+    pastPapersDb = await response.json();
+  } catch (error) {
+    console.error('Failed to load past papers metadata:', error);
+  }
+  return pastPapersDb;
+}
+
+function populateYearDropdown(db) {
+  const yearSelect = document.getElementById('filter-year');
+  if (!yearSelect) return;
+
+  const years = new Set();
+  db.forEach(item => {
+    if (item.year) {
+      years.add(item.year.toString().trim());
+    }
+  });
+
+  const sortedYears = Array.from(years).sort((a, b) => parseInt(b) - parseInt(a));
+
+  yearSelect.innerHTML = '<option value="">All Years</option>';
+  sortedYears.forEach(year => {
+    const option = document.createElement('option');
+    option.value = year;
+    option.textContent = year;
+    yearSelect.appendChild(option);
+  });
+}
+
+function renderTableData() {
+  const tableBody = document.getElementById('past-papers-table-body');
+  const paginationContainer = document.getElementById('pagination-controls');
+  if (!tableBody) return;
+
+  const totalPages = Math.ceil(filteredExams.length / pageSize);
+  if (currentPage > totalPages) currentPage = Math.max(1, totalPages);
+
+  const start = (currentPage - 1) * pageSize;
+  const end = start + pageSize;
+  const pageItems = filteredExams.slice(start, end);
+
+  let html = '';
+  pageItems.forEach(exam => {
+    // Capitalize Grade Label
+    const gradeLabel = exam.level.charAt(0).toUpperCase() + exam.level.slice(1);
+
+    let qpHtml = '';
+    if (exam.qp) {
+      qpHtml = `<a href="${exam.qp}" target="_blank" title="Download Question Paper" class="btn btn-sm btn-primary bi bi-file-earmark-text" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none;"></a>`;
+    } else {
+      qpHtml = `<span class="text-muted" style="font-size: 0.85rem;">N/A</span>`;
+    }
+
+    let msHtml = '';
+    if (exam.ms) {
+      msHtml = `<a href="${exam.ms}" target="_blank" title="Download Scoring Key" class="btn btn-sm btn-success bi bi-key" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); border: none;"></a>`;
+    } else {
+      msHtml = `<span class="text-muted" style="font-size: 0.85rem;">N/A</span>`;
+    }
+
+    html += `
+      <tr>
+        <td><strong>${exam.year}</strong></td>
+        <td><span class="badge badge-paper" style="background: rgba(59, 130, 246, 0.1); color: #2563eb; border: 1px solid rgba(59, 130, 246, 0.2); text-transform: none; font-size: 0.85rem;">${gradeLabel}</span></td>
+        <td style="text-align: center;">${qpHtml}</td>
+        <td style="text-align: center;">${msHtml}</td>
+      </tr>
+    `;
+  });
+  tableBody.innerHTML = html;
+
+  if (totalPages <= 1) {
+    paginationContainer.innerHTML = '';
+    return;
+  }
+
+  let pagHtml = '';
+  pagHtml += `<button class="btn btn-sm btn-outline-primary" ${currentPage === 1 ? 'disabled' : ''} onclick="changePage(${currentPage - 1})">Prev</button>`;
+  
+  for (let i = 1; i <= totalPages; i++) {
+    if (i === currentPage) {
+      pagHtml += `<button class="btn btn-sm btn-primary active" style="background: #2563eb; border-color: #2563eb;">${i}</button>`;
+    } else {
+      if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= 1) {
+        pagHtml += `<button class="btn btn-sm btn-outline-primary" onclick="changePage(${i})">${i}</button>`;
+      } else if (i === 2 || i === totalPages - 1) {
+        pagHtml += `<span class="text-muted px-1">...</span>`;
+      }
+    }
+  }
+
+  pagHtml += `<button class="btn btn-sm btn-outline-primary" ${currentPage === totalPages ? 'disabled' : ''} onclick="changePage(${currentPage + 1})">Next</button>`;
+  
+  paginationContainer.innerHTML = pagHtml.replace(/(<span class="text-muted px-1">\.\.\.<\/span>\s*){2,}/g, '<span class="text-muted px-1">...</span>');
+}
+
+function changePage(page) {
+  currentPage = page;
+  renderTableData();
+  document.getElementById('past-papers-table-container').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
+function applyFilters() {
+  let filtered = pastPapersDb;
+
+  if (currentSelectedYear) {
+    filtered = filtered.filter(item => item.year.toString() === currentSelectedYear);
+  }
+  if (currentSelectedGrade) {
+    filtered = filtered.filter(item => item.level.toLowerCase() === currentSelectedGrade.toLowerCase());
+  }
+
+  const exams = {};
+  filtered.forEach(item => {
+    const key = `${item.year}_${item.level}`;
+    if (!exams[key]) {
+      exams[key] = {
+        year: item.year,
+        level: item.level,
+        qp: null,
+        ms: null
+      };
+    }
+    if (item.doc_type === 'question') {
+      exams[key].qp = item.link;
+    } else if (item.doc_type === 'scoring-key') {
+      exams[key].ms = item.link;
+    }
+  });
+
+  filteredExams = Object.values(exams);
+  filteredExams.sort((a, b) => {
+    if (a.year !== b.year) return parseInt(b.year) - parseInt(a.year);
+    return a.level.localeCompare(b.level);
+  });
+
+  const container = document.getElementById('past-papers-table-container');
+  if (filteredExams.length === 0) {
+    container.innerHTML = '<p style="padding: 1rem; text-align: center; color: #9ca3af;"><i class="bi bi-info-circle"></i> No matching past papers found.</p>';
+    return;
+  }
+
+  container.innerHTML = `
+    <div class="table-wrapper">
+      <table class="premium-table">
+        <thead>
+          <tr>
+            <th>Year</th>
+            <th>Grade Level</th>
+            <th style="text-align: center; width: 80px;">Question Paper</th>
+            <th style="text-align: center; width: 80px;">Scoring Key</th>
+          </tr>
+        </thead>
+        <tbody id="past-papers-table-body">
+        </tbody>
+      </table>
+    </div>
+    <div class="d-flex justify-content-center align-items-center gap-2 mt-3" id="pagination-controls"></div>
+  `;
+
+  currentPage = 1;
+  renderTableData();
+}
+
+function selectYearDropdown() {
+  const yearSelect = document.getElementById('filter-year');
+  currentSelectedYear = yearSelect.value || '';
+  applyFilters();
+}
+
+function selectGrade(button) {
+  currentSelectedGrade = button.getAttribute('data-grade') || '';
+
+  const buttons = document.querySelectorAll('.smart-grade-btn');
+  buttons.forEach(btn => {
+    btn.classList.remove('btn-primary', 'active');
+    btn.classList.add('btn-outline-secondary');
+  });
+  button.classList.remove('btn-outline-secondary');
+  button.classList.add('btn-primary', 'active');
+
+  applyFilters();
+}
+
+async function initPastPapersTable() {
+  const container = document.getElementById('past-papers-table-container');
+  const db = await loadPastPapersDb();
+  
+  if (!db || db.length === 0) {
+    container.innerHTML = '<p><i class="bi bi-exclamation-triangle-fill" style="color: #ef4444;"></i> Error: Failed to load past papers database. Please try again later.</p>';
+    return;
+  }
+
+  populateYearDropdown(db);
+  applyFilters();
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  initPastPapersTable();
+});
+</script>
+```
+:::

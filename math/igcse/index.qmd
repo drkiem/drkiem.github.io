@@ -1,0 +1,377 @@
+---
+title: "IGCSE Mathematics Overview"
+subtitle: "International General Certificate of Secondary Education (IGCSE) Mathematics Curriculums"
+format: html
+---
+
+::: {.callout-note}
+## Solid Foundation for Transition to IB / A-Level
+Welcome, secondary students! The IGCSE Mathematics program plays an essential role in training logical mathematical thinking, mastering fundamental algebraic manipulations, and building academic English vocabulary. K-Education Hub provides detailed exam preparation resources and past papers for the most popular pathways: **CIE 0580**, **CIE 0607 (International)**, and **Pearson Edexcel 4MA1**.
+:::
+
+## Choose Your Exam Pathway
+
+Select your specific exam curriculum below to go directly to its dedicated portal, featuring past papers, marking schemes, worked solutions, and key formula sheets:
+
+::: {.program-grid}
+
+::: {.program-card}
+### CIE IGCSE Mathematics (0580)
+**Core Cambridge IGCSE Math Curriculum**
+* Focus: Algebra, Geometry, Mensuration, Coordinate Geometry, Probability & Statistics. Categorized into Core (target grade C) and Extended (target grades A* to B).
+* [Explore Resources (0580) →](cie-0580.qmd)
+:::
+
+::: {.program-card}
+### CIE International Mathematics (0607)
+**Cambridge IGCSE International Math**
+* Tailored for international schools incorporating Graphic Display Calculators (GDC) early. Focuses on technology-integrated problem solving and mathematical investigation.
+* [Explore Resources (0607) →](cie-0607.qmd)
+:::
+
+::: {.program-card}
+### Edexcel IGCSE Mathematics A (4MA1)
+**Pearson Edexcel IGCSE Math**
+* Highly structured syllabus focusing on practical mathematical applications and strong pure algebra skills. Divided into Foundation and Higher tiers.
+* [Explore Resources (4MA1) →](edexcel-4ma1.qmd)
+:::
+
+:::
+
+---
+
+## Cambridge Past Papers Bank
+
+Use the interactive search engine below to find and download Question Papers (QP) and Mark Schemes (MS) for the five Cambridge Mathematics programs: **0580**, **0606**, **0607**, **4024**, and **4037**.
+
+```{=html}
+<div class="search-engine-box">
+  <h3 style="margin-top: 0; margin-bottom: 1.5rem;"><i class="bi bi-search"></i> Cambridge Past Papers Finder</h3>
+
+  <div class="d-flex flex-column gap-3">
+    <!-- First row: Syllabus and Year -->
+    <div class="d-flex flex-wrap gap-3 align-items-center">
+      <div class="d-flex align-items-center gap-2" style="min-width: 280px; flex: 1 1 auto;">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Syllabus:</span>
+        <select id="filter-syllabus" class="form-select form-select-sm" onchange="selectSyllabusDropdown()">
+          <option value="">All Cambridge Syllabuses</option>
+          <option value="0580">0580 - CIE IGCSE Mathematics</option>
+          <option value="0606">0606 - CIE IGCSE Additional Mathematics</option>
+          <option value="0607">0607 - CIE IGCSE International Mathematics</option>
+          <option value="4024">4024 - CIE O-Level Mathematics D</option>
+          <option value="4037">4037 - CIE O-Level Additional Mathematics</option>
+        </select>
+      </div>
+
+      <div class="d-flex align-items-center gap-2" style="min-width: 160px;">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Year:</span>
+        <select id="filter-year" class="form-select form-select-sm" onchange="selectYearDropdown()" style="min-width: 100px;">
+          <option value="">All Years</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- Second row: Session & Paper -->
+    <div class="d-flex flex-wrap gap-3 align-items-center" style="border-top: 1px solid rgba(0,0,0,0.05); padding-top: 1rem;">
+      <!-- Session Pills -->
+      <div class="d-flex align-items-center gap-2">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Session:</span>
+        <div id="season-pills" class="d-flex flex-wrap gap-1">
+          <button class="btn btn-sm btn-primary smart-season-btn active" data-season="" onclick="selectSeason(this)">All</button>
+          <button class="btn btn-sm btn-outline-secondary smart-season-btn" data-season="spring" onclick="selectSeason(this)">Spring</button>
+          <button class="btn btn-sm btn-outline-secondary smart-season-btn" data-season="summer" onclick="selectSeason(this)">Summer</button>
+          <button class="btn btn-sm btn-outline-secondary smart-season-btn" data-season="winter" onclick="selectSeason(this)">Winter</button>
+        </div>
+      </div>
+
+      <!-- Vertical Divider on desktop -->
+      <div class="d-none d-md-block" style="border-left: 1px solid rgba(0,0,0,0.1); height: 24px;"></div>
+
+      <!-- Paper Pills -->
+      <div class="d-flex align-items-center gap-2 flex-grow-1">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Paper:</span>
+        <div id="paper-pills" class="d-flex flex-wrap gap-1">
+          <button class="btn btn-sm btn-primary smart-paper-btn active" data-paper="" onclick="selectPaper(this)">All</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="1" onclick="selectPaper(this)">Paper 1</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="2" onclick="selectPaper(this)">Paper 2</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="3" onclick="selectPaper(this)">Paper 3</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="4" onclick="selectPaper(this)">Paper 4</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="5" onclick="selectPaper(this)">Paper 5</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="6" onclick="selectPaper(this)">Paper 6</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="past-papers-table-container">
+  <p><i class="bi bi-hourglass-split"></i> Loading past papers...</p>
+</div>
+
+<script>
+let pastPapersDb = [];
+let currentSelectedSyllabus = '';
+let currentSelectedYear = '';
+let currentSelectedSeason = '';
+let currentSelectedPaper = '';
+let currentPage = 1;
+const pageSize = 10;
+let filteredExams = [];
+
+async function loadPastPapersDb() {
+  if (pastPapersDb.length > 0) return pastPapersDb;
+  try {
+    const response = await fetch('cie_past_papers_metadata.json');
+    if (!response.ok) throw new Error('Network response was not ok');
+    pastPapersDb = await response.json();
+  } catch (error) {
+    console.error('Failed to load past papers metadata:', error);
+  }
+  return pastPapersDb;
+}
+
+function populateYearDropdown(db) {
+  const yearSelect = document.getElementById('filter-year');
+  if (!yearSelect) return;
+
+  const years = new Set();
+  db.forEach(item => {
+    if (item.year) {
+      years.add(item.year.toString().trim());
+    }
+  });
+
+  const sortedYears = Array.from(years).sort((a, b) => parseInt(b) - parseInt(a));
+
+  yearSelect.innerHTML = '<option value="">All Years</option>';
+  sortedYears.forEach(year => {
+    const option = document.createElement('option');
+    option.value = year;
+    option.textContent = year;
+    yearSelect.appendChild(option);
+  });
+}
+
+function renderTableData() {
+  const tableBody = document.getElementById('past-papers-table-body');
+  const paginationContainer = document.getElementById('pagination-controls');
+  if (!tableBody) return;
+
+  const totalPages = Math.ceil(filteredExams.length / pageSize);
+  if (currentPage > totalPages) currentPage = Math.max(1, totalPages);
+
+  const start = (currentPage - 1) * pageSize;
+  const end = start + pageSize;
+  const pageItems = filteredExams.slice(start, end);
+
+  let html = '';
+  pageItems.forEach(exam => {
+    const seasonLabel = exam.season.charAt(0).toUpperCase() + exam.season.slice(1);
+    const paperLabel = 'Paper ' + exam.paper;
+    const syllabusLabel = exam.syllabus_code;
+    
+    // Variant Label
+    const variantLabel = exam.variant ? exam.variant : '—';
+
+    let qpHtml = '';
+    if (exam.qp) {
+      qpHtml = `<a href="${exam.qp}" target="_blank" title="Download Question Paper" class="btn btn-sm btn-primary bi bi-file-earmark-text" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;"></a>`;
+    } else {
+      qpHtml = `<span class="text-muted" style="font-size: 0.85rem;">—</span>`;
+    }
+
+    let msHtml = '';
+    if (exam.ms) {
+      msHtml = `<a href="${exam.ms}" target="_blank" title="Download Mark Scheme" class="btn btn-sm btn-success bi bi-key" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;"></a>`;
+    } else {
+      msHtml = `<span class="text-muted" style="font-size: 0.85rem;">—</span>`;
+    }
+
+    html += `
+      <tr>
+        <td><strong>${exam.year}</strong></td>
+        <td><strong>${seasonLabel}</strong></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.2); font-size: 0.75rem; font-weight: 600;">${syllabusLabel}</span></td>
+        <td><span class="badge" style="background: rgba(107, 114, 128, 0.1); color: #4b5563; border: 1px solid rgba(107, 114, 128, 0.2); font-size: 0.75rem; font-weight: 600;">${paperLabel}</span></td>
+        <td><span class="badge" style="background: rgba(245, 158, 11, 0.1); color: #d97706; border: 1px solid rgba(245, 158, 11, 0.2); font-size: 0.75rem; font-weight: 600;">Variant ${variantLabel}</span></td>
+        <td style="text-align: center;">${qpHtml}</td>
+        <td style="text-align: center;">${msHtml}</td>
+      </tr>
+    `;
+  });
+  tableBody.innerHTML = html;
+
+  if (totalPages <= 1) {
+    paginationContainer.innerHTML = '';
+    return;
+  }
+
+  let pagHtml = '';
+  pagHtml += `<button class="btn btn-sm btn-outline-primary" ${currentPage === 1 ? 'disabled' : ''} onclick="changePage(${currentPage - 1})">Prev</button>`;
+  
+  for (let i = 1; i <= totalPages; i++) {
+    if (i === currentPage) {
+      pagHtml += `<button class="btn btn-sm btn-primary active">${i}</button>`;
+    } else {
+      if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= 1) {
+        pagHtml += `<button class="btn btn-sm btn-outline-primary" onclick="changePage(${i})">${i}</button>`;
+      } else if (i === 2 || i === totalPages - 1) {
+        pagHtml += `<span class="text-muted px-1">...</span>`;
+      }
+    }
+  }
+
+  pagHtml += `<button class="btn btn-sm btn-outline-primary" ${currentPage === totalPages ? 'disabled' : ''} onclick="changePage(${currentPage + 1})">Next</button>`;
+  
+  paginationContainer.innerHTML = pagHtml.replace(/(<span class="text-muted px-1">\.\.\.<\/span>\s*){2,}/g, '<span class="text-muted px-1">...</span>');
+}
+
+function changePage(page) {
+  currentPage = page;
+  renderTableData();
+  document.getElementById('past-papers-table-container').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
+function applyFilters() {
+  let filtered = pastPapersDb;
+
+  if (currentSelectedSyllabus) {
+    filtered = filtered.filter(item => item.syllabus_code === currentSelectedSyllabus);
+  }
+  if (currentSelectedYear) {
+    filtered = filtered.filter(item => item.year.toString() === currentSelectedYear);
+  }
+  if (currentSelectedSeason) {
+    filtered = filtered.filter(item => item.season === currentSelectedSeason);
+  }
+  if (currentSelectedPaper) {
+    filtered = filtered.filter(item => item.paper === currentSelectedPaper);
+  }
+
+  const exams = {};
+  filtered.forEach(item => {
+    const key = `${item.year}_${item.season}_${item.syllabus_code}_${item.paper}_${item.variant}`;
+    if (!exams[key]) {
+      exams[key] = {
+        year: item.year,
+        season: item.season,
+        syllabus_code: item.syllabus_code,
+        paper: item.paper,
+        variant: item.variant,
+        qp: null,
+        ms: null
+      };
+    }
+    if (item.type === 'qp') {
+      exams[key].qp = item.link;
+    } else if (item.type === 'ms') {
+      exams[key].ms = item.link;
+    }
+  });
+
+  filteredExams = Object.values(exams);
+  filteredExams.sort((a, b) => {
+    if (a.year !== b.year) return parseInt(b.year) - parseInt(a.year);
+    if (a.season !== b.season) return a.season.localeCompare(b.season);
+    if (a.syllabus_code !== b.syllabus_code) return a.syllabus_code.localeCompare(b.syllabus_code);
+    if (a.paper !== b.paper) return a.paper.localeCompare(b.paper);
+    return a.variant.localeCompare(b.variant);
+  });
+
+  const container = document.getElementById('past-papers-table-container');
+  if (filteredExams.length === 0) {
+    container.innerHTML = '<p style="padding: 1rem; text-align: center; color: #9ca3af;"><i class="bi bi-info-circle"></i> No matching past papers found.</p>';
+    return;
+  }
+
+  container.innerHTML = `
+    <div class="table-wrapper">
+      <table class="premium-table">
+        <thead>
+          <tr>
+            <th>Year</th>
+            <th>Session</th>
+            <th>Syllabus</th>
+            <th>Paper</th>
+            <th>Variant</th>
+            <th style="text-align: center; width: 80px;">QP</th>
+            <th style="text-align: center; width: 80px;">MS</th>
+          </tr>
+        </thead>
+        <tbody id="past-papers-table-body">
+        </tbody>
+      </table>
+    </div>
+    <div class="d-flex justify-content-center align-items-center gap-2 mt-3" id="pagination-controls"></div>
+  `;
+
+  currentPage = 1;
+  renderTableData();
+}
+
+function selectSyllabusDropdown() {
+  const syllabusSelect = document.getElementById('filter-syllabus');
+  currentSelectedSyllabus = syllabusSelect.value || '';
+  applyFilters();
+}
+
+function selectYearDropdown() {
+  const yearSelect = document.getElementById('filter-year');
+  currentSelectedYear = yearSelect.value || '';
+  applyFilters();
+}
+
+function selectSeason(button) {
+  currentSelectedSeason = button.getAttribute('data-season') || '';
+
+  const buttons = document.querySelectorAll('.smart-season-btn');
+  buttons.forEach(btn => {
+    btn.classList.remove('btn-primary', 'active');
+    btn.classList.add('btn-outline-secondary');
+  });
+  button.classList.remove('btn-outline-secondary');
+  button.classList.add('btn-primary', 'active');
+
+  applyFilters();
+}
+
+function selectPaper(button) {
+  currentSelectedPaper = button.getAttribute('data-paper') || '';
+
+  const buttons = document.querySelectorAll('.smart-paper-btn');
+  buttons.forEach(btn => {
+    btn.classList.remove('btn-primary', 'active');
+    btn.classList.add('btn-outline-secondary');
+  });
+  button.classList.remove('btn-outline-secondary');
+  button.classList.add('btn-primary', 'active');
+
+  applyFilters();
+}
+
+async function initPastPapersTable() {
+  const container = document.getElementById('past-papers-table-container');
+  const db = await loadPastPapersDb();
+  
+  if (!db || db.length === 0) {
+    container.innerHTML = '<p><i class="bi bi-exclamation-triangle-fill" style="color: #ef4444;"></i> Error: Failed to load past papers database. Please try again later.</p>';
+    return;
+  }
+
+  populateYearDropdown(db);
+  applyFilters();
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  initPastPapersTable();
+});
+</script>
+```
+
+---
+
+## Teacher's Advice for Exam Prep
+
+1. **Master Algebraic Manipulation**: Algebra is the language of mathematics. Solving quadratic equations, simultaneous equations, and simplifying algebraic fractions must be practiced thoroughly to avoid losing points due to silly mistakes.
+2. **Geometry and Mensuration Skills**: Always bring a ruler, compass, and protractor to the exam hall. Neat drawings help identify circle properties, similar triangles, or trigonometric relationships easily.
+3. **Read Questions Carefully**: Pay close attention to rounding requirements (e.g., round to 3 significant figures, or round angles to 1 decimal place).

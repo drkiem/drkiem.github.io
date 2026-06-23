@@ -1,0 +1,87 @@
+---
+title: "Common Core Pre-Calculus"
+subtitle: "Chương Trình Tiền Giải Tích Phổ Thông Hệ Mỹ (High School)"
+format: html
+---
+
+::: {.callout-note}
+## Tài nguyên tự học: Common Core Pre-Calculus
+Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức Tiền Giải Tích, ví dụ minh họa bằng công thức giới hạn và lượng giác bằng LaTeX sắc nét cùng các bài giải mẫu chuẩn bị cho kỳ thi AP Calculus.
+:::
+
+## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+
+<p><strong>Pre-Calculus</strong> là học phần nâng cao bậc High School hệ Mỹ. Đây là môn học bắc cầu quan trọng nhất chuẩn bị cho học sinh lên học các chương trình giải tích nâng cao của College Board như AP Calculus AB/BC.</p>
+
+---
+
+## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (SYLLABUS CORE)
+
+::: {.callout-important}
+### Các chuyên đề cốt lõi của Pre-Calculus:
+1. **Trigonometric Identities (Lượng giác nâng cao):**
+   * Công thức cộng góc, nhân đôi, lượng giác ngược ($\arcsin, \arccos, \arctan$).
+2. **Vectors & Polar Coordinates (Vector & Tọa độ cực):**
+   * Biểu diễn điểm và đường cong cực dạng $r=f(\theta)$, tích vô hướng vector phẳng.
+3. **Sequences & Series (Chuỗi số & Cấp số):**
+   * Giới hạn chuỗi vô hạn hội tụ, tổng Riemann giới thiệu tích phân.
+4. **Limits & Intro to Derivatives (Giới hạn & Đạo hàm):**
+   * Định nghĩa và cách tính giới hạn hàm số (Limits), đạo hàm bằng định nghĩa gia tăng.
+:::
+
+---
+
+## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+
+Công thức giới hạn lượng giác hiển thị sắc nét bằng LaTeX:
+
+### Định nghĩa giới hạn của Đạo hàm hàm số
+Gia tốc tốc độ thay đổi tức thời của hàm số $y=f(x)$ tại điểm $x$:
+$$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
+
+### Biến đổi tọa độ Descartes sang Tọa độ cực (Polar conversion)
+Mối liên hệ giữa tọa độ cực $(r, \theta)$ và tọa độ Descartes $(x, y)$:
+$$x = r\cos\theta \quad \text{và} \quad y = r\sin\theta$$
+$$r^2 = x^2 + y^2 \quad \text{và} \quad \theta = \arctan\left(\frac{y}{x}\right)$$
+
+---
+
+## 4. BẪY ĐIỂM SỐ & PHƯƠNG PHÁP LÀM BÀI (EXAM TIPS)
+
+::: {.callout-tip}
+### Các lưu ý tránh mất điểm ở Pre-Calculus:
+* **⚠️ Điều kiện chia cho không khi tính giới hạn:** Khi tính giới hạn dạng vô định $\frac{0}{0}$ hoặc $\frac{\infty}{\infty}$, hãy luôn nhớ sử dụng các kỹ thuật đại số để triệt tiêu nhân tử vô định ở mẫu số (như phân tích nhân tử hoặc nhân liên hợp) trước khi thay giá trị trực tiếp vào.
+* **⚠️ Góc argument trong tọa độ cực:** Tương tự số phức, hãy vẽ hình để xác định chính xác góc $\theta$ nằm ở góc phần tư tương ứng, tránh việc phụ thuộc hoàn toàn vào máy tính bỏ túi.
+:::
+
+---
+
+## 5. KHO ĐỀ PAST PAPERS THEO CHUYÊN ĐỀ
+
+::: {.program-grid}
+
+::: {.program-card .topic-card}
+### Topic 1: Advanced Trigonometry
+* Chứng minh đẳng thức lượng giác, giải phương trình lượng giác nâng cao góc nhân đôi nhân ba.
+* [**Tải đề luyện chuyên đề 1 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 2: Polar Curves
+* Vẽ đồ thị hàm số đường cực, chuyển đổi tọa độ cực sang tọa độ phẳng Oxy và ngược lại.
+* [**Tải đề luyện chuyên đề 2 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 3: Infinite Series Limits
+* Tổng chuỗi vô hạn cấp số nhân hội tụ, tìm giới hạn vô cực hàm số đa thức.
+* [**Tải đề luyện chuyên đề 3 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 4: Limit Calculations
+* Giải các bài toán tìm giới hạn dạng vô định, giới thiệu đạo hàm bằng định nghĩa gia tăng.
+* [**Tải đề luyện chuyên đề 4 →**](#){.btn-gateway}
+:::
+
+:::

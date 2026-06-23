@@ -1,0 +1,438 @@
+---
+title: "Edexcel Statistics 1 (S1)"
+subtitle: "Pearson Edexcel International Advanced Level (IAL) Mathematics"
+format: html
+---
+
+::: {.callout-note}
+## Revision Portal: Edexcel Statistics 1 (S1)
+Welcome, students! This academic portal provides unit-specific study materials, syllabus outlines, and exam revision resources to help you master S1 and prepare for your modular exams.
+:::
+
+## 1. Syllabus
+
+The detailed syllabus structure for Edexcel Statistics 1 (S1) comprises the following topics:
+
+<div class="syllabus-section">
+### 1. Mathematical models in probability and statistics
+
+1.1 Basic ideas of mathematical modelling.<br/>
+
+
+### 2. Representation and summary of data
+
+2.1 Histograms, stem/leaf diagrams, box plots.<br/>
+2.2 Measures of location.<br/>
+2.3 Measures of dispersion.<br/>
+2.4 Skewness and outliers.<br/>
+
+
+### 3. Probability
+
+3.1 Elementary and conditional probability.<br/>
+3.2 Probability rules.<br/>
+3.3 Independence.<br/>
+3.4 Sum and product laws.<br/>
+
+
+### 4. Correlation and regression
+
+4.1 Scatter diagrams and linear regression.<br/>
+4.2 Explanatory and response variables.<br/>
+4.3 Product moment correlation coefficient.<br/>
+
+
+### 5. Discrete random variables
+
+5.1 Concept of a discrete random variable.<br/>
+5.2 Probability and cumulative distribution functions.<br/>
+5.3 Mean and variance.<br/>
+5.4 Discrete uniform distribution.<br/>
+
+
+### 6. The Normal distribution
+
+6.1 The Normal distribution and cumulative tables.<br/>
+</div>
+
+## 2. Study Lessons
+
+Access core study notes and practice worksheets for each subtopic below:
+
+<div class="table-wrapper" style="margin-top: 1.5rem; max-height: 600px; overflow-y: auto;">
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th style="width: 60%;">Subtopic</th>
+        <th style="text-align: center; width: 20%;">Revision Notes</th>
+        <th style="text-align: center; width: 20%;">Practice Questions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="topic-group-header" style="background-color: rgba(59, 130, 246, 0.05); font-weight: bold;">
+        <td colspan="3" style="color: #1e3a8a;"><i class="bi bi-journal-bookmark"></i> Data Presentation and Interpretation</td>
+      </tr>
+      <tr>
+        <td><strong>Correlation and regression</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1M7yerm0EnHh2ItFBRs27vwQ9P_0E9SNi/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1W1K6Y4i5eczMfh42bCJDjinR2ut8sfrH/view?usp=sharing" target="_blank" class="btn btn-sm btn-success" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-pencil-square"></i> Practice</a></td>
+      </tr>
+      <tr>
+        <td><strong>Statistical Measures</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1xJ1PIlXf1VGDS43bjSQTjWDJ2hbKmSuX/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1Z3KCFwGsFX9wNvz9AEE0GfVoGEjO_53W/view?usp=sharing" target="_blank" class="btn btn-sm btn-success" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-pencil-square"></i> Practice</a></td>
+      </tr>
+      <tr>
+        <td><strong>Working with Data</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1YaQRumdPLuBtfmS4deSa9vusLbj9o929/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1o2os79FpYLkRESpLEUGACPYflBLj0nps/view?usp=sharing" target="_blank" class="btn btn-sm btn-success" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-pencil-square"></i> Practice</a></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(59, 130, 246, 0.05); font-weight: bold;">
+        <td colspan="3" style="color: #1e3a8a;"><i class="bi bi-journal-bookmark"></i> Probability</td>
+      </tr>
+      <tr>
+        <td><strong>Basic Probability</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/10JHwg2sTfVcfejnZkVjhw8teRYutbnwQ/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/128Of2OGGgRklMPKx5-NhzwBu96bVfZa6/view?usp=sharing" target="_blank" class="btn btn-sm btn-success" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-pencil-square"></i> Practice</a></td>
+      </tr>
+      <tr>
+        <td><strong>Further Probability</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1pz6CipLySWEAmITJgnvJOPSktbGeGSwC/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1uivL1AGuTccXp7x0b3smpa-I9rQom1Ul/view?usp=sharing" target="_blank" class="btn btn-sm btn-success" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-pencil-square"></i> Practice</a></td>
+      </tr>
+      <tr class="topic-group-header" style="background-color: rgba(59, 130, 246, 0.05); font-weight: bold;">
+        <td colspan="3" style="color: #1e3a8a;"><i class="bi bi-journal-bookmark"></i> Statistical distributions</td>
+      </tr>
+      <tr>
+        <td><strong>Discrete Random Variables</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1hhd6cQox6u7cMqMueHMqqhfKkJyEkhQ8/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1md4Ris_OUXfS2tumOWGrn4sTwu4gZB65/view?usp=sharing" target="_blank" class="btn btn-sm btn-success" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-pencil-square"></i> Practice</a></td>
+      </tr>
+      <tr>
+        <td><strong>Normal Distribution</strong></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1hXNMGnWRwrm0GrJYD31N8ywEf0zv0JHh/view?usp=sharing" target="_blank" class="btn btn-sm btn-primary" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-file-earmark-text"></i> Notes</a></td>
+        <td style="text-align: center;"><a href="https://drive.google.com/file/d/1UfZCVWCIJ6kCH994B44e3MICMjoJZ99T/view?usp=sharing" target="_blank" class="btn btn-sm btn-success" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.7rem; font-size: 0.8rem; background: linear-gradient(135deg, #10b981 0%, #059669 100%); border: none; border-radius: 6px; width: 100%; white-space: nowrap; color: white;"><i class="bi bi-pencil-square"></i> Practice</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+## 3. Practice Questions
+
+::: {.callout-note}
+## Upcoming Practice Resources
+We are currently curating past exam practice sets and topic-focused exercises for this unit. Verified question papers and step-by-step marking schemes will be published here as soon as they are compiled.
+:::
+
+## 4. Topical Past Paper Questions
+
+::: {.callout-note}
+## Upcoming Topical Past Papers
+Actual exam questions classified by topic (with detailed mark schemes) will be integrated in this section. This will allow you to practice exam-style questions specifically on the areas you need to improve.
+:::
+
+## 5. Past Papers Bank
+
+*Search and filter official past exam papers. Use the control panel below to filter by year and variant:*
+
+::: {.search-engine-box}
+### Edexcel Statistics 1 (S1) Past Papers List
+
+```{=html}
+<div class="card p-3 mb-4 shadow-sm" style="border-radius: 12px; border: 1px solid rgba(0,0,0,0.08); background: var(--bs-card-bg, #ffffff);">
+  <div class="card-body p-0">
+    <div class="d-flex align-items-center flex-wrap gap-4">
+      
+      <!-- Year Select Dropdown -->
+      <div class="d-flex align-items-center gap-2" style="min-width: 180px;">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Year:</span>
+        <select id="filter-year" class="form-select form-select-sm" onchange="selectYearDropdown()" style="max-width: 130px; display: inline-block;">
+          <option value="">All Years</option>
+        </select>
+      </div>
+      
+      <!-- Vertical Divider on desktop -->
+      <div class="d-none d-md-block" style="border-left: 1px solid rgba(0,0,0,0.1); height: 24px;"></div>
+      
+      <!-- Variant Select Dropdown -->
+      <div class="d-flex align-items-center gap-2" style="min-width: 180px;">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Variant:</span>
+        <select id="filter-variant" class="form-select form-select-sm" onchange="selectVariantDropdown()" style="max-width: 130px; display: inline-block;">
+          <option value="">All Variants</option>
+          <option value="std">Standard</option>
+          <option value="r">Regional (R)</option>
+          <option value="a">Alternative (A)</option>
+        </select>
+      </div>
+      
+      <!-- Vertical Divider on desktop -->
+      <div class="d-none d-md-block" style="border-left: 1px solid rgba(0,0,0,0.1); height: 24px;"></div>
+      
+      <!-- Paper Pills -->
+      <div class="d-flex align-items-center gap-2 flex-grow-1">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Paper:</span>
+        <div id="paper-pills" class="d-flex flex-wrap gap-1">
+          <button class="btn btn-sm btn-primary smart-paper-btn active" data-paper="" onclick="selectPaper(this)">All</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="s1" onclick="selectPaper(this)">Paper S1</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div id="past-papers-table-container">
+  <p><i class="bi bi-hourglass-split"></i> Loading past papers...</p>
+</div>
+
+<script>
+let pastPapersDb = [];
+let currentSelectedYear = '';
+let currentSelectedPaper = '';
+let currentSelectedVariant = '';
+let currentPage = 1;
+const pageSize = 10;
+let filteredExams = [];
+const currentLevel = 's1';
+
+async function loadPastPapersDb() {
+  if (pastPapersDb.length > 0) return pastPapersDb;
+  try {
+    const response = await fetch('past_papers_metadata.json');
+    if (!response.ok) throw new Error('Network response was not ok');
+    pastPapersDb = await response.json();
+  } catch (error) {
+    console.error('Failed to load past papers metadata:', error);
+  }
+  return pastPapersDb;
+}
+
+function populateYearDropdown(db, level) {
+  const yearSelect = document.getElementById('filter-year');
+  if (!yearSelect) return;
+
+  const years = new Set();
+  db.forEach(item => {
+    if (item.level === level && item.year) {
+      years.add(item.year.toString().trim());
+    }
+  });
+
+  const sortedYears = Array.from(years).sort((a, b) => parseInt(b) - parseInt(a));
+
+  yearSelect.innerHTML = '<option value="">All Years</option>';
+  sortedYears.forEach(year => {
+    const option = document.createElement('option');
+    option.value = year;
+    option.textContent = year;
+    yearSelect.appendChild(option);
+  });
+}
+
+function renderTableData() {
+  const tableBody = document.getElementById('past-papers-table-body');
+  const paginationContainer = document.getElementById('pagination-controls');
+  if (!tableBody) return;
+
+  const totalPages = Math.ceil(filteredExams.length / pageSize);
+  if (currentPage > totalPages) currentPage = Math.max(1, totalPages);
+
+  const start = (currentPage - 1) * pageSize;
+  const end = start + pageSize;
+  const pageItems = filteredExams.slice(start, end);
+
+  let html = '';
+  pageItems.forEach(exam => {
+    const seasonLabel = exam.season.charAt(0).toUpperCase() + exam.season.slice(1);
+    
+    // Formatting paper code to proper unit name
+    let paperLabel = exam.paper.toUpperCase();
+    if (paperLabel.startsWith('F')) {
+      paperLabel = 'FP' + paperLabel.slice(1);
+    }
+    
+    let tzLabel = 'Standard';
+    if (exam.variant === 'r') {
+      tzLabel = 'Regional (R)';
+    } else if (exam.variant === 'a') {
+      tzLabel = 'Alternative (A)';
+    }
+
+    let qpHtml = '';
+    if (exam.qp) {
+      qpHtml = `<a href="${exam.qp}" target="_blank" title="Download Question Paper" class="btn btn-sm btn-primary bi bi-file-earmark-text" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px; background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%); border: none;"></a>`;
+    } else {
+      qpHtml = `<span class="text-muted" style="font-size: 0.85rem;">N/A</span>`;
+    }
+
+    let msHtml = '';
+    if (exam.ms) {
+      msHtml = `<a href="${exam.ms}" target="_blank" title="Download Mark Scheme" class="btn btn-sm btn-success bi bi-key" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); border: none;"></a>`;
+    } else {
+      msHtml = `<span class="text-muted" style="font-size: 0.85rem;">N/A</span>`;
+    }
+
+    html += `
+      <tr>
+        <td><strong>${exam.year}</strong></td>
+        <td><strong>${seasonLabel}</strong></td>
+        <td><span class="badge badge-paper" style="text-transform: none;">${paperLabel}</span></td>
+        <td><span class="badge badge-tz" style="text-transform: none;">${tzLabel}</span></td>
+        <td style="text-align: center;">${qpHtml}</td>
+        <td style="text-align: center;">${msHtml}</td>
+      </tr>
+    `;
+  });
+  tableBody.innerHTML = html;
+
+  if (totalPages <= 1) {
+    paginationContainer.innerHTML = '';
+    return;
+  }
+
+  let pagHtml = '';
+  pagHtml += `<button class="btn btn-sm btn-outline-primary" ${currentPage === 1 ? 'disabled' : ''} onclick="changePage(${currentPage - 1})">Prev</button>`;
+  
+  for (let i = 1; i <= totalPages; i++) {
+    if (i === currentPage) {
+      pagHtml += `<button class="btn btn-sm btn-primary active" style="background: #2563eb; border-color: #2563eb;">${i}</button>`;
+    } else {
+      if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= 1) {
+        pagHtml += `<button class="btn btn-sm btn-outline-primary" onclick="changePage(${i})">${i}</button>`;
+      } else if (i === 2 || i === totalPages - 1) {
+        pagHtml += `<span class="text-muted px-1">...</span>`;
+      }
+    }
+  }
+
+  pagHtml += `<button class="btn btn-sm btn-outline-primary" ${currentPage === totalPages ? 'disabled' : ''} onclick="changePage(${currentPage + 1})">Next</button>`;
+  
+  paginationContainer.innerHTML = pagHtml.replace(/(<span class="text-muted px-1">\.\.\.<\/span>\s*){2,}/g, '<span class="text-muted px-1">...</span>');
+}
+
+function changePage(page) {
+  currentPage = page;
+  renderTableData();
+  document.getElementById('past-papers-table-container').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
+function applyFilters(level) {
+  let filtered = pastPapersDb.filter(item => item.level === level);
+
+  if (currentSelectedYear) {
+    filtered = filtered.filter(item => item.year.toString() === currentSelectedYear);
+  }
+  if (currentSelectedPaper) {
+    filtered = filtered.filter(item => item.paper.toLowerCase() === currentSelectedPaper.toLowerCase());
+  }
+  if (currentSelectedVariant) {
+    if (currentSelectedVariant === 'std') {
+      filtered = filtered.filter(item => !item.variant || item.variant === '');
+    } else {
+      filtered = filtered.filter(item => item.variant.toLowerCase() === currentSelectedVariant.toLowerCase());
+    }
+  }
+
+  const exams = {};
+  filtered.forEach(item => {
+    const key = `${item.year}_${item.season}_${item.variant}_${item.paper}`;
+    if (!exams[key]) {
+      exams[key] = {
+        year: item.year,
+        season: item.season,
+        variant: item.variant,
+        paper: item.paper,
+        qp: null,
+        ms: null
+      };
+    }
+    if (item.type === 'qp') {
+      exams[key].qp = item.google_drive_link;
+    } else if (item.type === 'ms') {
+      exams[key].ms = item.google_drive_link;
+    }
+  });
+
+  filteredExams = Object.values(exams);
+  filteredExams.sort((a, b) => {
+    if (a.year !== b.year) return parseInt(b.year) - parseInt(a.year);
+    if (a.season !== b.season) return b.season.localeCompare(a.season);
+    if (a.variant !== b.variant) return a.variant.localeCompare(b.variant);
+    return a.paper.localeCompare(b.paper);
+  });
+
+  const container = document.getElementById('past-papers-table-container');
+  if (filteredExams.length === 0) {
+    container.innerHTML = '<p style="padding: 1rem; text-align: center; color: #9ca3af;"><i class="bi bi-info-circle"></i> No matching past papers found.</p>';
+    return;
+  }
+
+  container.innerHTML = `
+    <div class="table-wrapper">
+      <table class="premium-table">
+        <thead>
+          <tr>
+            <th>Year</th>
+            <th>Season</th>
+            <th>Unit</th>
+            <th>Variant</th>
+            <th style="text-align: center; width: 80px;">QP</th>
+            <th style="text-align: center; width: 80px;">MS</th>
+          </tr>
+        </thead>
+        <tbody id="past-papers-table-body">
+        </tbody>
+      </table>
+    </div>
+    <div class="d-flex justify-content-center align-items-center gap-2 mt-3" id="pagination-controls"></div>
+  `;
+
+  currentPage = 1;
+  renderTableData();
+}
+
+function selectYearDropdown() {
+  const yearSelect = document.getElementById('filter-year');
+  currentSelectedYear = yearSelect.value || '';
+  applyFilters(currentLevel);
+}
+
+function selectVariantDropdown() {
+  const variantSelect = document.getElementById('filter-variant');
+  currentSelectedVariant = variantSelect.value || '';
+  applyFilters(currentLevel);
+}
+
+function selectPaper(button) {
+  currentSelectedPaper = button.getAttribute('data-paper') || '';
+
+  const buttons = document.querySelectorAll('.smart-paper-btn');
+  buttons.forEach(btn => {
+    btn.classList.remove('btn-primary', 'active');
+    btn.classList.add('btn-outline-secondary');
+  });
+  button.classList.remove('btn-outline-secondary');
+  button.classList.add('btn-primary', 'active');
+
+  applyFilters(currentLevel);
+}
+
+async function initPastPapersTable() {
+  const container = document.getElementById('past-papers-table-container');
+  const db = await loadPastPapersDb();
+  
+  if (!db || db.length === 0) {
+    container.innerHTML = '<p><i class="bi bi-exclamation-triangle-fill" style="color: #ef4444;"></i> Error: Failed to load past papers database. Please try again later.</p>';
+    return;
+  }
+
+  populateYearDropdown(db, currentLevel);
+  applyFilters(currentLevel);
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  initPastPapersTable();
+});
+</script>
+```
+:::

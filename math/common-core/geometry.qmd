@@ -1,0 +1,87 @@
+---
+title: "Common Core Geometry"
+subtitle: "Chương Trình Hình Học Phổ Thông Hệ Mỹ (High School)"
+format: html
+---
+
+::: {.callout-note}
+## Tài nguyên tự học: Common Core Geometry
+Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức hình học phẳng và không gian, các công thức lượng giác lượng hóa và thể tích hiển thị bằng LaTeX sắc nét cùng các bài giải mẫu chứng minh hình học.
+:::
+
+## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+
+<p><strong>Geometry</strong> là học phần hình học cốt lõi bậc trung học Mỹ. Môn học rèn luyện tư duy lập luận logic chặt chẽ thông qua các bài toán chứng minh tam giác bằng nhau/đồng dạng, tọa độ hình học phẳng, lượng giác cơ bản và tính toán thể tích/diện tích các khối hình 3D.</p>
+
+---
+
+## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (SYLLABUS CORE)
+
+::: {.callout-important}
+### Các chuyên đề cốt lõi của Common Core Geometry:
+1. **Congruence and Similarity (Bằng nhau & Đồng dạng):**
+   * Chứng minh tam giác bằng nhau bằng các trường hợp SSS, SAS, ASA, AAS, HL.
+   * Định lý tỉ lệ tam giác đồng dạng, định lý Thales.
+2. **Right Triangles and Trigonometry (Tam giác vuông & Lượng giác):**
+   * Lượng giác góc nhọn SOH-CAH-TOA, định lý Pythagoras.
+   * Tính chất tam giác đặc biệt: Tam giác vuông cân ($45^{\circ}-45^{\circ}-90^{\circ}$) và tam giác nửa đều ($30^{\circ}-60^{\circ}-90^{\circ}$).
+3. **Circles (Đường tròn):**
+   * Các tính chất góc nội tiếp, dây cung, tiếp tuyến đường tròn. Độ dài cung và diện tích hình quạt.
+4. **Geometric Measurement and Dimension (Đo lường hình học 3D):**
+   * Tính diện tích xung quanh, thể tích các khối hình: hình lăng trụ, hình trụ, hình chóp, hình nón, hình cầu.
+:::
+
+---
+
+## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+
+Công thức hình học và lượng giác hiển thị sắc nét bằng LaTeX:
+
+### Hệ thức lượng giác trong tam giác vuông (SOH-CAH-TOA)
+$$\sin\theta = \frac{\text{Opposite}}{\text{Hypotenuse}} \quad \cos\theta = \frac{\text{Adjacent}}{\text{Hypotenuse}} \quad \tan\theta = \frac{\text{Opposite}}{\text{Adjacent}}$$
+
+### Thể tích hình nón tròn xoay (Volume of a Cone)
+Thể tích khối nón có bán kính đáy $r$ và chiều cao tương ứng $h$:
+$$V = \frac{1}{3}\pi r^2 h$$
+
+---
+
+## 4. BẪY ĐIỂM SỐ & PHƯƠNG PHÁP LÀM BÀI (EXAM TIPS)
+
+::: {.callout-tip}
+### Các lỗi phổ biến học sinh cần tránh ở môn Geometry:
+* **⚠️ Viết sai thứ tự đỉnh đồng dạng:** Khi viết kết luận hai tam giác đồng dạng hoặc bằng nhau, bạn bắt buộc phải viết đúng thứ tự đỉnh tương ứng (ví dụ: $\Delta ABC \sim \Delta DEF$). Viết sai thứ tự đỉnh tương ứng sẽ bị coi là sai lập luận hình học.
+* **⚠️ Nhầm lẫn công thức diện tích xung quanh và thể tích:** Hãy đọc kỹ đề bài yêu cầu tìm Volume (Thể tích) hay Surface Area (Diện tích bề mặt) để áp dụng đúng công thức.
+:::
+
+---
+
+## 5. KHO ĐỀ PAST PAPERS THEO CHUYÊN ĐỀ
+
+::: {.program-grid}
+
+::: {.program-card .topic-card}
+### Topic 1: Triangle Proofs
+* Luyện giải các bài toán viết lập luận chứng minh tam giác bằng nhau, tam giác đồng dạng.
+* [**Tải đề luyện chuyên đề 1 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 2: Trigonometry Special Triangles
+* Các bài toán tam giác vuông lượng giác, tam giác đặc biệt $30-60-90$ và định lý Pythagoras.
+* [**Tải đề luyện chuyên đề 2 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 3: Circle Geometry
+* Tính diện tích hình quạt tròn, độ dài cung, góc nội tiếp và tiếp tuyến cắt đường tròn.
+* [**Tải đề luyện chuyên đề 3 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 4: 3D Solid Mensuration
+* Tính toán thể tích và diện tích bề mặt của hình nón, hình cầu, lăng trụ và khối chóp ghép.
+* [**Tải đề luyện chuyên đề 4 →**](#){.btn-gateway}
+:::
+
+:::

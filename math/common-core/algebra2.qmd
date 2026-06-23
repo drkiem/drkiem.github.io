@@ -1,0 +1,88 @@
+---
+title: "Common Core Algebra 2"
+subtitle: "Chương Trình Đại Số 2 Phổ Thông Hệ Mỹ (High School)"
+format: html
+---
+
+::: {.callout-note}
+## Tài nguyên tự học: Common Core Algebra 2
+Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức Đại số 2 nâng cao, ví dụ minh họa bằng công thức mũ, số phức và logarithm bằng LaTeX sắc nét cùng ngân hàng bài tập tự luyện chọn lọc.
+:::
+
+## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+
+<p><strong>Algebra 2</strong> mở rộng sâu sắc các khái niệm của Algebra 1, đưa học sinh tiếp cận với hệ số ảo và số phức (complex numbers), khảo sát các đa thức bậc cao, phương trình phi tuyến phức tạp và giới thiệu sâu về hàm mũ & hàm logarithm.</p>
+
+---
+
+## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (SYLLABUS CORE)
+
+::: {.callout-important}
+### Các chuyên đề cốt lõi của Algebra 2:
+1. **The Complex Number System (Hệ thống số phức):**
+   * Số ảo $i^2 = -1$. Phép toán cộng, trừ, nhân, chia số phức dạng $a+bi$.
+2. **Polynomial, Rational, and Radical Equations (Phương trình bậc cao):**
+   * Nghiệm phức của phương trình bậc hai, giải phương trình chứa căn thức và bất phương trình phân thức phi tuyến.
+3. **Exponential and Logarithmic Functions (Hàm mũ và Logarithm):**
+   * Các tính chất cơ bản của logarithm, đồ thị hàm logarithm, giải phương trình cơ số tự nhiên $e$ và $\ln$.
+4. **Trigonometric Functions (Hàm lượng giác nâng cao):**
+   * Vòng tròn lượng giác (Unit Circle), số đo góc radian, đồ thị dạng sóng hình sin biến đổi.
+:::
+
+---
+
+## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+
+Công thức số phức và lượng giác hiển thị sắc nét bằng LaTeX:
+
+### Khái niệm số phức cơ bản (Complex numbers)
+Mọi số phức $z$ đều có dạng đại số gồm phần thực $a$ và phần ảo $b$:
+$$z = a + bi \quad \text{với } i^2 = -1$$
+$$\text{Số phức liên hợp (Conjugate): } \bar{z} = a - bi$$
+
+### Quy luật Logarithm cơ số tự nhiên (Natural Logarithm laws)
+Nếu cơ số là hằng số tự nhiên Euler $e \approx 2.718$:
+$$y = e^x \quad \Leftrightarrow \quad x = \ln y$$
+$$\ln(e^x) = x \quad \text{và} \quad e^{\ln x} = x$$
+
+---
+
+## 4. BẪY ĐIỂM SỐ & PHƯƠNG PHÁP LÀM BÀI (EXAM TIPS)
+
+::: {.callout-tip}
+### Các lỗi phổ biến học sinh cần tránh ở Algebra 2:
+* **⚠️ Sai dấu khi nhân hai số ảo:** Hãy luôn nhớ $i^2 = -1$. Do đó: $3i \cdot 2i = 6i^2 = -6$. Học sinh rất hay quên đổi dấu thành dấu âm.
+* **⚠️ Loại bỏ nghiệm ngoại lai (Extraneous Solutions):** Khi giải các phương trình chứa căn thức ($\sqrt{f(x)} = g(x)$) hoặc phương trình chứa logarithm ($\log(f(x)) = g(x)$), bạn bắt buộc phải kiểm tra điều kiện tập xác định và thay nghiệm ngược lại phương trình ban đầu để loại bỏ nghiệm ngoại lai vô lý.
+:::
+
+---
+
+## 5. KHO ĐỀ PAST PAPERS THEO CHUYÊN ĐỀ
+
+::: {.program-grid}
+
+::: {.program-card .topic-card}
+### Topic 1: Complex Arithmetic
+* Phép tính cộng, trừ, nhân, chia số phức dạng đại số $a+bi$, số phức liên hợp.
+* [**Tải đề luyện chuyên đề 1 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 2: Radical & Rational Equations
+* Giải phương trình có chứa căn thức, phân thức đại số bậc cao và bất phương trình phi tuyến.
+* [**Tải đề luyện chuyên đề 2 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 3: Logarithmic Systems
+* Biến đổi logarithm, giải phương trình hệ phương trình chứa hàm mũ cơ số tự nhiên $e$ và $\ln$.
+* [**Tải đề luyện chuyên đề 3 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 4: Unit Circle Trig
+* Vòng tròn lượng giác đơn vị, đổi góc độ sang radian, đồ thị biên độ chu kỳ hàm sin/cos.
+* [**Tải đề luyện chuyên đề 4 →**](#){.btn-gateway}
+:::
+
+:::

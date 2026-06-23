@@ -1,0 +1,132 @@
+---
+title: "AP Statistics"
+subtitle: "Chương Trình Xác Suất Thống Kê Advanced Placement (College Board)"
+format: html
+---
+
+::: {.callout-note}
+## Tài nguyên ôn tập & Luyện thi: AP Statistics
+Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức thống kê chuẩn đại học, công thức tính khoảng tin cậy và kiểm định z-test, t-test bằng LaTeX sắc nét cùng ngân hàng tài liệu luyện viết lập luận FRQ (Free Response Questions) độc quyền giúp đạt điểm tuyệt đối 5/5.
+:::
+
+## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+
+<p><strong>Advanced Placement (AP) Statistics</strong> là kỳ thi chuẩn hóa quốc tế của College Board tương đương một học kỳ xác suất thống kê đại cương tại đại học. Khác với các môn toán thông thường, AP Stats đòi hỏi khả năng diễn dịch số liệu bằng ngôn từ thực tế vô cùng chuẩn xác và logic.</p>
+
+### Cấu Trúc Đề Thi (Assessment Outline)
+
+<p>Đề thi AP Stats gồm hai phần thi chính trắc nghiệm MCQ (50%) và tự luận FRQ (50%):</p>
+
+<div class="table-wrapper" style="margin-bottom: 2rem;">
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th>Thành phần thi (Section)</th>
+        <th>Số lượng câu hỏi</th>
+        <th>Thời gian làm bài</th>
+        <th>Chính sách sử dụng máy tính</th>
+        <th style="text-align: right;">Trọng số điểm</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Section I: Multiple Choice (MCQ)</strong></td>
+        <td>40 câu trắc nghiệm</td>
+        <td>1 tiếng 30 phút</td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Bắt buộc dùng máy tính đồ họa</span></td>
+        <td style="text-align: right;"><strong>50%</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Section II: Free Response (FRQ)</strong></td>
+        <td>6 câu hỏi tự luận lớn (gồm câu 6 Investigative Task đặc trưng)</td>
+        <td>1 tiếng 30 phút</td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Bắt buộc dùng máy tính đồ họa</span></td>
+        <td style="text-align: right;"><strong>50%</strong></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
+
+## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (SYLLABUS CORE)
+
+Syllabus AP Statistics được chia thành 9 Units lớn theo cấu trúc của College Board:
+
+::: {.callout-important}
+### Các chuyên đề cốt lõi của AP Statistics:
+1. **Exploring One-Variable & Two-Variable Data (Phân tích dữ liệu - 30%):**
+   * Biểu diễn dữ liệu bằng Boxplot, Histogram. Tính toán Mean, Median, Standard deviation, z-score.
+   * Vẽ đồ thị phân tán (Scatterplot), tính hệ số tương quan $r$ và viết phương trình đường hồi quy $y = a + bx$.
+2. **Collecting Data (Thu thập dữ liệu thực nghiệm - 15%):**
+   * Thiết kế chọn mẫu ngẫu nhiên: SRS, Stratified, Cluster.
+   * Thiết kế thực nghiệm (experiments) có đối chứng độc lập, các bẫy thiên lệch (bias).
+3. **Probability & Random Variables (Xác suất & Biến ngẫu nhiên - 20%):**
+   * Quy tắc xác suất có điều kiện. Tính kỳ vọng và phương sai biến ngẫu nhiên rời rạc.
+   * Phân phối nhị thức (Binomial), hình học (Geometric) và phân phối chuẩn (Normal).
+4. **Statistical Inference (Kiểm định thống kê suy luận - 35%):**
+   * Ước lượng khoảng tin cậy (Confidence Intervals) và kiểm định giả thuyết thống kê (Hypothesis Tests).
+   * Kiểm định tham số cho tỷ lệ (z-test) và kiểm định cho trung bình (t-test) của 1 mẫu hoặc 2 mẫu độc lập/ghép đôi.
+   * Kiểm định Chi-Square ($\chi^2$) cho mức độ phù hợp và độc lập. Kiểm định hệ số góc đường hồi quy.
+:::
+
+---
+
+## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+
+Công thức kiểm định thống kê hiển thị sắc nét bằng LaTeX:
+
+### Công thức chung của Khoảng tin cậy (Confidence Interval)
+Mọi khoảng tin cậy đều có cấu trúc gồm ước lượng điểm cộng/trừ sai số biên:
+$$\text{Confidence Interval} = \text{Point Estimate} \pm (\text{Critical Value}) \times (\text{Standard Error})$$
+$$\text{Ví dụ khoảng tin cậy 95\% cho trung bình } \mu \text{ (dùng t-test): } \bar{x} \pm t^* \frac{s_x}{\sqrt{n}}$$
+
+### Công thức Giá trị kiểm định thống kê (Test Statistic)
+Đo lường mức độ sai lệch giữa giả thuyết không và giá trị thực nghiệm mẫu:
+$$\text{Test Statistic} = \frac{\text{Point Estimate} - \text{Null Value}}{\text{Standard Error}}$$
+$$\text{Ví dụ kiểm định t-test cho } \mu: \quad t = \frac{\bar{x} - \mu_0}{s_x / \sqrt{n}}$$
+
+---
+
+## 4. BẪY ĐIỂM SỐ & PHƯƠNG PHÁP LÀM BÀI FRQ (FRQ EXAM TIPS)
+
+::: {.callout-tip}
+### Các quy tắc lập luận bắt buộc để đạt điểm tuyệt đối (E - Essentially Correct):
+* **⚠️ Viết đầy đủ 3 bước kiểm tra điều kiện (Conditions Check):** Đối với bất kỳ bài toán FRQ yêu cầu tính khoảng tin cậy hay kiểm định giả thuyết, bạn bắt buộc phải kiểm tra và xác nhận 3 điều kiện:
+  1. **Randomness:** Dữ liệu được chọn ngẫu nhiên từ mẫu SRS hoặc thiết kế thực nghiệm ngẫu nhiên.
+  2. **10% Condition:** Kích thước mẫu $n \le 10\%$ tổng thể (bắt buộc khi chọn mẫu không hoàn lại để đảm bảo tính độc lập).
+  3. **Normality:** Chứng minh phân phối xấp xỉ chuẩn: dùng điều kiện $np \ge 10$ and $n(1-p) \ge 10$ cho tỷ lệ; dùng Định lý giới hạn trung tâm (CLT) $n \ge 30$ hoặc vẽ biểu đồ Boxplot chứng minh không có điểm ngoại lai đối với trung bình.
+* **⚠️ Diễn dịch kết quả bằng ngữ cảnh thực tế (In Context):** Không bao giờ viết kết luận trơ trọi. Thay vì ghi *"Reject $H_0$ because $p < 0.05$"*, bạn phải viết đầy đủ: *"Since the p-value ($0.02$) is less than the significance level $\alpha = 0.05$, we reject $H_0$. There is convincing evidence that the true mean recovery time of all patients using the new drug is less than 15 days."*
+:::
+
+---
+
+## 5. KHO ĐỀ FRQ/MCQ THEO CHUYÊN ĐỀ
+
+::: {.program-grid}
+
+::: {.program-card .topic-card}
+### Topic 1: Describing & Collecting Data
+* Biểu diễn dữ liệu Boxplot Skewness, viết phương trình đường hồi quy, thiết kế chọn mẫu không thiên lệch.
+* [**Tải đề luyện chuyên đề 1 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 2: Probability & Random Variables
+* Xác suất có điều kiện sơ đồ cây, lập bảng xác suất rời rạc, tính kỳ vọng toán và phân phối chuẩn.
+* [**Tải đề luyện chuyên đề 2 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 3: Confidence Intervals (Z-Interval & T-Interval)
+* Kiểm tra điều kiện, tính toán khoảng tin cậy cho tỷ lệ và trung bình một mẫu hoặc hai mẫu độc lập.
+* [**Tải đề luyện chuyên đề 3 →**](#){.btn-gateway}
+:::
+
+::: {.program-card .topic-card}
+### Topic 4: Hypothesis Testing (z-test, t-test, Chi-Square)
+* Thực hành viết giả thuyết, kiểm tra điều kiện, tính toán test statistic, p-value và kết luận ngữ cảnh thực tế.
+* [**Tải đề luyện chuyên đề 4 →**](#){.btn-gateway}
+:::
+
+:::

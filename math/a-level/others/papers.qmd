@@ -1,0 +1,29 @@
+---
+title: "A-Level Math Practice Papers (Other Boards)"
+format: html
+---
+
+::: {.callout-note}
+## Ngân hàng đề luyện thi tổng hợp bổ trợ
+Khu vực này tổng hợp các đề thi thử chất lượng từ AQA, OxfordAQA và các nguồn tài liệu học thuật chọn lọc giúp học sinh mở rộng tư duy giải toán.
+:::
+
+## THÔNG TIN LUYỆN ĐỀ
+
+Học sinh nên rèn luyện kỹ năng phân tích đề bài, nhận diện phương pháp giải toán tối ưu và ghi điểm tối đa theo từng barem thi cụ thể.
+
+## PAST PAPER QUESTIONS BY TOPIC
+
+<!-- 
+  K-EDUCATION-HUB GATEWAY
+  [DATA_SOURCE: topic-resource-table-others]
+  [COMPONENT: accordion-dynamic-render]
+-->
+
+---
+
+## Ví dụ Minh Họa & Phương Pháp Giải Quyết
+
+Phương trình vi phân mẫu:
+
+$$\frac{dy}{dx} + P(x)y = Q(x)$$
