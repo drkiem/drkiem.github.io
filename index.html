@@ -75,35 +75,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -365,9 +336,8 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#chào-mừng-thầycô-học-sinh-đến-với-k-education-hub" id="toc-chào-mừng-thầycô-học-sinh-đến-với-k-education-hub" class="nav-link active" data-scroll-target="#chào-mừng-thầycô-học-sinh-đến-với-k-education-hub">Chào mừng Thầy/Cô &amp; Học sinh đến với K-Education Hub!</a></li>
-  <li><a href="#cổng-truy-cập-học-tập-nhanh-academic-gateways" id="toc-cổng-truy-cập-học-tập-nhanh-academic-gateways" class="nav-link" data-scroll-target="#cổng-truy-cập-học-tập-nhanh-academic-gateways">Cổng Truy Cập Học Tập Nhanh (Academic Gateways)</a></li>
-  <li><a href="#triết-lý-giảng-dạy-thế-mạnh-đào-tạo" id="toc-triết-lý-giảng-dạy-thế-mạnh-đào-tạo" class="nav-link" data-scroll-target="#triết-lý-giảng-dạy-thế-mạnh-đào-tạo">Triết Lý Giảng Dạy &amp; Thế Mạnh Đào Tạo</a></li>
+  <li><a href="#welcome-to-k-education-hub" id="toc-welcome-to-k-education-hub" class="nav-link active" data-scroll-target="#welcome-to-k-education-hub">Welcome to K-Education Hub!</a></li>
+  <li><a href="#academic-gateways" id="toc-academic-gateways" class="nav-link" data-scroll-target="#academic-gateways">Academic Gateways</a></li>
   </ul>
 </nav>
     </div>
@@ -378,7 +348,7 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">K-Education Hub</h1>
-<p class="subtitle lead">Trung tâm Học thuật Toán &amp; Hóa học Quốc tế Chất lượng cao</p>
+<p class="subtitle lead">Premium Academic Gateways for International Mathematics &amp; Chemistry</p>
 </div>
 
 
@@ -396,9 +366,9 @@ window.Quarto = {
 
 
 <div class="hero-banner">
-<section id="chào-mừng-thầycô-học-sinh-đến-với-k-education-hub" class="level1 hero-content">
-<h1>Chào mừng Thầy/Cô &amp; Học sinh đến với K-Education Hub!</h1>
-<p>Hệ thống bài giảng số hóa phân cấp chuyên sâu kết hợp kho đề thi thử và công thức toán lý hóa sắc nét dành riêng cho học sinh các trường quốc tế tại TP.HCM.</p>
+<section id="welcome-to-k-education-hub" class="level1 hero-content">
+<h1>Welcome to K-Education Hub!</h1>
+<p>High-yield digital portals, interactive databases, and structured exam preparation resources designed specifically for students in international curricula.</p>
 </section>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
@@ -407,59 +377,89 @@ window.Quarto = {
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Hướng dẫn định hướng nhanh cho Học sinh:
+<span class="screen-reader-only">Note</span>Student Navigation Guide:
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Học sinh vui lòng bấm vào các thẻ chương trình học dưới đây để di chuyển nhanh (lối tắt) vào kho bài giảng và tài nguyên ôn thi thực tế được sắp xếp tối ưu theo từng chuyên đề thi quốc tế.</p>
+<p>Please select any of the curriculum cards below to navigate directly to the respective lecture notes, formula guides, and past paper databases curated for international assessments.</p>
 </div>
 </div>
-<section id="cổng-truy-cập-học-tập-nhanh-academic-gateways" class="level2">
-<h2 class="anchored" data-anchor-id="cổng-truy-cập-học-tập-nhanh-academic-gateways">Cổng Truy Cập Học Tập Nhanh (Academic Gateways)</h2>
+<section id="academic-gateways" class="level2">
+<h2 class="anchored" data-anchor-id="academic-gateways">Academic Gateways</h2>
 <div class="gateway-grid">
 <section id="ib-mathematics" class="level3 gateway-card math-card">
 <h3 class="anchored" data-anchor-id="ib-mathematics">IB Mathematics</h3>
-<p><strong>Chương trình Toán Tú Tài Quốc Tế</strong> * Lộ trình chuyên sâu: <strong>Math AA (HL/SL)</strong> &amp; <strong>Math AI (HL/SL)</strong>. * Tích hợp kho đề thi Topic Accordion động tự động ghi nhớ tiến trình. * <a href="./math/ib/index.html" class="btn-gateway">Khám phá ngay →</a></p>
+<p><strong>International Baccalaureate Math Preparation</strong></p>
+<ul>
+<li>Focus: Comprehensive study guides for <strong>Analysis &amp; Approaches (AA HL/SL)</strong> and <strong>Applications &amp; Interpretation (AI HL/SL)</strong>.</li>
+<li>Features dynamic past paper databases and progress-tracking checkpoints to organize your learning.</li>
+<li><a href="./math/ib/index.html" class="btn-gateway">Explore Now →</a></li>
+</ul>
 </section>
 <section id="ib-chemistry" class="level3 gateway-card chem-card">
 <h3 class="anchored" data-anchor-id="ib-chemistry">IB Chemistry</h3>
-<p><strong>Chương trình Hóa Học Tú Tài Quốc Tế</strong> * Phương pháp tiếp cận tích hợp mới thông qua hai trục: <strong>Structure</strong> &amp; <strong>Reactivity</strong>. * Ngân hàng tài liệu, đề thi thử chi tiết theo Syllabus cập nhật mới từ IBO. * <a href="./chem/ib/index.html" class="btn-gateway">Khám phá ngay →</a></p>
+<p><strong>International Baccalaureate Chemistry Portal</strong></p>
+<ul>
+<li>Focus: Conceptual study notes structured around the core axes of <strong>Structure</strong> and <strong>Reactivity</strong>.</li>
+<li>Contains detailed topic checklists, past papers, and formula guides tailored to the new IBO syllabus.</li>
+<li><a href="./chem/ib/index.html" class="btn-gateway">Explore Now →</a></li>
+</ul>
 </section>
 <section id="a-level-mathematics" class="level3 gateway-card alevel-card">
 <h3 class="anchored" data-anchor-id="a-level-mathematics">A-Level Mathematics</h3>
-<p><strong>Toán Học Advanced Level (Toán hệ Anh)</strong> * Phân chia lộ trình học tập theo các Exam Boards lớn: <strong>CIE</strong>, <strong>Edexcel</strong> và các board khác (<strong>Others</strong>). * Hướng dẫn giải các đề thi thử modular chi tiết theo từng Paper. * <a href="./math/a-level/index.html" class="btn-gateway">Khám phá ngay →</a></p>
+<p><strong>Advanced Level Mathematics (British System)</strong></p>
+<ul>
+<li>Focus: Specialized resources for major boards including <strong>CIE</strong>, <strong>Edexcel</strong>, and others.</li>
+<li>Fully supports modular structures across <strong>Pure Mathematics</strong>, <strong>Mechanics</strong>, and <strong>Probability &amp; Statistics</strong>.</li>
+<li><a href="./math/a-level/index.html" class="btn-gateway">Explore Now →</a></li>
+</ul>
 </section>
 <section id="a-level-chemistry" class="level3 gateway-card alevel-card">
 <h3 class="anchored" data-anchor-id="a-level-chemistry">A-Level Chemistry</h3>
-<p><strong>Hóa Học Advanced Level (Hóa hệ Anh)</strong> * Hệ thống lý thuyết hóa lý, hóa vô cơ và cơ chế phản ứng hữu cơ chuyên sâu. * Hỗ trợ đầy đủ các hội đồng thi lớn: <strong>CIE</strong>, <strong>Edexcel</strong> và các board khác (<strong>Others</strong>). * <a href="./chem/a-level/index.html" class="btn-gateway">Khám phá ngay →</a></p>
+<p><strong>Advanced Level Chemistry (British System)</strong></p>
+<ul>
+<li>Focus: Structured revision notes for <strong>Physical</strong>, <strong>Inorganic</strong>, and <strong>Organic Chemistry</strong> modules.</li>
+<li>Supports comprehensive preparation for CIE and Edexcel boards with reaction mechanisms and practical guides.</li>
+<li><a href="./chem/a-level/index.html" class="btn-gateway">Explore Now →</a></li>
+</ul>
 </section>
 <section id="igcse-mathematics" class="level3 gateway-card igcse-card">
 <h3 class="anchored" data-anchor-id="igcse-mathematics">IGCSE Mathematics</h3>
-<p><strong>Toán Học Trung Học Quốc Tế</strong> * Khởi đầu vững chắc chuyển tiếp với các phân hệ <strong>CIE 0580</strong>, <strong>CIE 0607</strong>, và <strong>Edexcel 4MA1</strong>. * <a href="./math/igcse/index.html" class="btn-gateway">Khám phá ngay →</a></p>
+<p><strong>International GCSE Mathematics Prep</strong></p>
+<ul>
+<li>Focus: Foundation bridging for junior secondary pathways including <strong>CIE 0580</strong>, <strong>CIE 0607</strong>, and <strong>Edexcel 4MA1</strong>.</li>
+<li>Key topic summaries, past paper search filters, and worksheets to transition smoothly to senior mathematics.</li>
+<li><a href="./math/igcse/index.html" class="btn-gateway">Explore Now →</a></li>
+</ul>
 </section>
 <section id="igcse-chemistry" class="level3 gateway-card igcse-card">
 <h3 class="anchored" data-anchor-id="igcse-chemistry">IGCSE Chemistry</h3>
-<p><strong>Hóa Học Trung Học Quốc Tế</strong> * Xây dựng nền tảng khoa học hóa học vững chắc với phân hệ <strong>CIE 0620</strong> và <strong>Edexcel 4CH1</strong>. * <a href="./chem/igcse/index.html" class="btn-gateway">Khám phá ngay →</a></p>
+<p><strong>International GCSE Chemistry Prep</strong></p>
+<ul>
+<li>Focus: Comprehensive notes covering fundamental concepts for <strong>CIE 0620</strong> and <strong>Edexcel 4CH1</strong>.</li>
+<li>Also provides resources for <strong>IGCSE Coordinated &amp; Combined Sciences</strong> chemistry sections.</li>
+<li><a href="./chem/igcse/index.html" class="btn-gateway">Explore Now →</a></li>
+</ul>
 </section>
 <section id="common-core-mathematics" class="level3 gateway-card sat-card">
 <h3 class="anchored" data-anchor-id="common-core-mathematics">Common Core Mathematics</h3>
-<p><strong>Chương trình Toán Phổ Thông Mỹ</strong> * Lộ trình học bậc High School: <strong>Algebra 1</strong>, <strong>Geometry</strong>, <strong>Algebra 2</strong>, và <strong>Pre-Calculus</strong>. * <a href="./math/common-core/index.html" class="btn-gateway">Khám phá ngay →</a></p>
+<p><strong>US Curriculum Mathematics Prep</strong></p>
+<ul>
+<li>Focus: High school courses covering <strong>Algebra 1</strong>, <strong>Geometry</strong>, <strong>Algebra 2</strong>, and <strong>Pre-Calculus</strong>.</li>
+<li>Now includes specialized study guidelines and past papers for <strong>US Math Grade 6-8</strong>.</li>
+<li><a href="./math/common-core/index.html" class="btn-gateway">Explore Now →</a></li>
+</ul>
 </section>
-<section id="sat-ap-mathematics" class="level3 gateway-card others-card">
-<h3 class="anchored" data-anchor-id="sat-ap-mathematics">SAT &amp; AP Mathematics</h3>
-<p><strong>Luyện Thi Chuẩn Hóa Đại Học Quốc Tế</strong> * Chinh phục điểm số tối đa kỳ thi <strong>Digital SAT Math</strong> (ứng dụng Desmos) và <strong>AP Calculus AB/BC</strong>, <strong>AP Statistics</strong>. * <a href="./math/sat-ap/index.html" class="btn-gateway">Khám phá ngay →</a></p>
+<section id="sat-ap-prep" class="level3 gateway-card others-card">
+<h3 class="anchored" data-anchor-id="sat-ap-prep">SAT &amp; AP Prep</h3>
+<p><strong>Standardized Admission Test Preparation</strong></p>
+<ul>
+<li>Focus: Target preparation for <strong>SSAT Quantitative</strong>, <strong>Digital SAT Math</strong> (with Desmos calculator guides), <strong>AP Calculus AB/BC</strong>, and <strong>AP Statistics</strong>.</li>
+<li>High-yield exam strategies, formula sheets, and past paper search databases.</li>
+<li><a href="./math/sat-ap/index.html" class="btn-gateway">Explore Now →</a></li>
+</ul>
 </section>
 </div>
-<hr>
-</section>
-<section id="triết-lý-giảng-dạy-thế-mạnh-đào-tạo" class="level2">
-<h2 class="anchored" data-anchor-id="triết-lý-giảng-dạy-thế-mạnh-đào-tạo">Triết Lý Giảng Dạy &amp; Thế Mạnh Đào Tạo</h2>
-<p>Tại K-Education Hub, mỗi bài giảng không chỉ dừng lại ở lý thuyết mà tập trung cao độ vào <strong>Khả năng tự học và giải quyết vấn đề thực tế</strong>:</p>
-<ol type="1">
-<li><strong>Academic Rigor (Học thuật chuẩn xác):</strong> Giáo án số hóa biên soạn tỉ mỉ, hiển thị công thức toán học/hóa học sắc nét nhờ <span class="math inline">\(\LaTeX\)</span>, bám sát cấu trúc barem điểm thi quốc tế.</li>
-<li><strong>Visual Learning (Trực quan hóa):</strong> Sơ đồ tư duy, bảng biểu tóm tắt thông tin hóa học hữu cơ và hình học không gian 3D trực quan giúp tăng cường khả năng ghi nhớ dài hạn.</li>
-<li><strong>Data-Driven (Tiến độ thông minh):</strong> Sử dụng các Widgets nhúng tương tác động lưu trữ lịch sử hoàn thành bài học, giúp cả học sinh và Thầy/Cô liên tục theo dõi và tối ưu hóa lỗ hổng kiến thức kịp thời.</li>
-</ol>
 
 
 </section>
@@ -551,7 +551,7 @@ window.Quarto = {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/drkiem\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
