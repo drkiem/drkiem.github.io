@@ -259,7 +259,7 @@
     "href": "chem/a-level/others/index.html",
     "title": "Other Exam Boards Chemistry",
     "section": "",
-    "text": "NoteHỗ Trợ Đa Dạng Các Chương Trình Học A-Level Chemistry\n\n\n\nBên cạnh CIE và Edexcel, hệ giáo trình của AQA và OxfordAQA cũng rất phổ biến tại một số trường quốc tế hệ Anh. K-Education Hub cung cấp tài liệu bổ trợ cốt lõi chia thành 2 cấp độ học thuật chính để các em củng cố kiến thức tốt nhất.",
+    "text": "NoteHỗ Trợ Đa Dạng Các Chương Trình Học A-Level Chemistry\n\n\n\nBên cạnh CIE và Edexcel, hệ giáo trình của AQA và OxfordAQA cũng rất phổ biến tại một số trường quốc tế hệ Anh. NKK-Education Hub cung cấp tài liệu bổ trợ cốt lõi chia thành 2 cấp độ học thuật chính để các em củng cố kiến thức tốt nhất.",
     "crumbs": [
       "Other A-Level",
       "Other Exam Boards Chemistry"
@@ -733,6 +733,16 @@
     "title": "IB Mathematics Overview",
     "section": "IB Math Past Papers",
     "text": "IB Math Past Papers\nSelect your IB Math, year, and paper to find official exam materials:\n\n\n  \n    \n      \n      \n        Pathway:\n        \n          All IB Math\n          Math AA HL\n          Math AA SL\n          Math AI HL\n          Math AI SL\n        \n      \n\n      \n      \n      \n        Year:\n        \n          All Years\n        \n      \n      \n      \n      \n      \n        Paper:\n        \n          All\n          Paper 1\n          Paper 2\n          Paper 3\n        \n      \n\n    \n  \n\n\n\n   Loading database...",
+    "crumbs": [
+      "IB Mathematics Overview"
+    ]
+  },
+  {
+    "objectID": "math/ib/index.html#legacy-ib-math-past-papers",
+    "href": "math/ib/index.html#legacy-ib-math-past-papers",
+    "title": "IB Mathematics Overview",
+    "section": "Legacy IB Math Past Papers",
+    "text": "Legacy IB Math Past Papers\nAccess historical IB Mathematics past papers from the legacy syllabus (prior to 2021) including Higher Level (HL), Standard Level (SL), Mathematical Studies, and Further Mathematics.\n\n\n  \n    \n      \n      \n        Legacy Course:\n        \n          All Legacy Courses\n          Math HL\n          Math SL\n          Math Studies\n          Further Math HL\n          Further Math SL\n        \n      \n\n      \n      \n      \n        Year:\n        \n          All Years\n        \n      \n      \n      \n\n      \n        HL Option:\n        \n          All Options\n          Calculus\n          Statistics and Probability\n          Discrete Mathematics\n          Sets, Relations & Groups\n        \n      \n      \n      \n      \n      \n        Paper:\n        \n          All\n          Paper 1\n          Paper 2\n          Paper 3\n        \n      \n\n    \n  \n\n\n\n   Loading legacy database...",
     "crumbs": [
       "IB Mathematics Overview"
     ]
@@ -1252,7 +1262,7 @@
     "href": "math/a-level/index.html",
     "title": "A-Level Mathematics Overview",
     "section": "",
-    "text": "NotePathway to Achieving an A* in A-Level Mathematics\n\n\n\nWelcome, students! Advanced Level (A-Level) Mathematics is a highly respected qualification and a vital pathway for admission to prestigious global universities in STEM, Economics, and Finance.\nK-Education Hub provides dedicated revision materials, topic-by-topic study notes, and fully interactive past exam paper banks for the three primary learning branches: CIE, Edexcel, and Other boards (such as AQA/OxfordAQA). Select your exam board below to get started.",
+    "text": "NotePathway to Achieving an A* in A-Level Mathematics\n\n\n\nWelcome, students! Advanced Level (A-Level) Mathematics is a highly respected qualification and a vital pathway for admission to prestigious global universities in STEM, Economics, and Finance.\nNKK-Education Hub provides dedicated revision materials, topic-by-topic study notes, and fully interactive past exam paper banks for the three primary learning branches: CIE, Edexcel, and Other boards (such as AQA/OxfordAQA). Select your exam board below to get started.",
     "crumbs": [
       "A-Level Mathematics Overview"
     ]
@@ -1404,7 +1414,7 @@
     "href": "math/a-level/cie/index.html",
     "title": "CIE A-Level Mathematics Overview",
     "section": "",
-    "text": "NoteRoad to Achieving an A* in CIE A-Level Mathematics\n\n\n\nWelcome, students! Cambridge International AS & A Level Mathematics (9709) is a flexible modular curriculum. K-Education Hub provides a structured library of core study notes, topical worksheets, and actual exam past papers organized by individual papers to help you optimize your learning and achieve an A* grade.",
+    "text": "NoteRoad to Achieving an A* in CIE A-Level Mathematics\n\n\n\nWelcome, students! Cambridge International AS & A Level Mathematics (9709) is a flexible modular curriculum. NKK-Education Hub provides a structured library of core study notes, topical worksheets, and actual exam past papers organized by individual papers to help you optimize your learning and achieve an A* grade.",
     "crumbs": [
       "CIE A-Level",
       "CIE A-Level Mathematics Overview"
@@ -1688,14 +1698,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "K-Education Hub",
+    "title": "NKK-Education Hub",
     "section": "",
     "text": "High-yield digital portals, interactive databases, and structured exam preparation resources designed specifically for students in international curricula."
   },
   {
     "objectID": "index.html#academic-gateways",
     "href": "index.html#academic-gateways",
-    "title": "K-Education Hub",
+    "title": "NKK-Education Hub",
     "section": "Academic Gateways",
     "text": "Academic Gateways\n\n\nIB Mathematics\nInternational Baccalaureate Math Preparation\n\nFocus: Comprehensive study guides for Analysis & Approaches (AA HL/SL) and Applications & Interpretation (AI HL/SL).\nFeatures dynamic past paper databases and progress-tracking checkpoints to organize your learning.\nExplore Now →\n\n\n\nIB Chemistry\nInternational Baccalaureate Chemistry Portal\n\nFocus: Conceptual study notes structured around the core axes of Structure and Reactivity.\nContains detailed topic checklists, past papers, and formula guides tailored to the new IBO syllabus.\nExplore Now →\n\n\n\nA-Level Mathematics\nAdvanced Level Mathematics (British System)\n\nFocus: Specialized resources for major boards including CIE, Edexcel, and others.\nFully supports modular structures across Pure Mathematics, Mechanics, and Probability & Statistics.\nExplore Now →\n\n\n\nA-Level Chemistry\nAdvanced Level Chemistry (British System)\n\nFocus: Structured revision notes for Physical, Inorganic, and Organic Chemistry modules.\nSupports comprehensive preparation for CIE and Edexcel boards with reaction mechanisms and practical guides.\nExplore Now →\n\n\n\nIGCSE Mathematics\nInternational GCSE Mathematics Prep\n\nFocus: Foundation bridging for junior secondary pathways including CIE 0580, CIE 0607, and Edexcel 4MA1.\nKey topic summaries, past paper search filters, and worksheets to transition smoothly to senior mathematics.\nExplore Now →\n\n\n\nIGCSE Chemistry\nInternational GCSE Chemistry Prep\n\nFocus: Comprehensive notes covering fundamental concepts for CIE 0620 and Edexcel 4CH1.\nAlso provides resources for IGCSE Coordinated & Combined Sciences chemistry sections.\nExplore Now →\n\n\n\nCommon Core Mathematics\nUS Curriculum Mathematics Prep\n\nFocus: High school courses covering Algebra 1, Geometry, Algebra 2, and Pre-Calculus.\nNow includes specialized study guidelines and past papers for US Math Grade 6-8.\nExplore Now →\n\n\n\nSAT & AP Prep\nStandardized Admission Test Preparation\n\nFocus: Target preparation for SSAT Quantitative, Digital SAT Math (with Desmos calculator guides), AP Calculus AB/BC, and AP Statistics.\nHigh-yield exam strategies, formula sheets, and past paper search databases.\nExplore Now →"
   },
@@ -1704,7 +1714,7 @@
     "href": "math/igcse/index.html",
     "title": "IGCSE Mathematics Overview",
     "section": "",
-    "text": "NoteSolid Foundation for Transition to IB / A-Level\n\n\n\nWelcome, secondary students! The IGCSE Mathematics program plays an essential role in training logical mathematical thinking, mastering fundamental algebraic manipulations, and building academic English vocabulary. K-Education Hub provides detailed exam preparation resources and past papers for the most popular pathways: CIE 0580, CIE 0607 (International), and Pearson Edexcel 4MA1.",
+    "text": "NoteSolid Foundation for Transition to IB / A-Level\n\n\n\nWelcome, secondary students! The IGCSE Mathematics program plays an essential role in training logical mathematical thinking, mastering fundamental algebraic manipulations, and building academic English vocabulary. NKK-Education Hub provides detailed exam preparation resources and past papers for the most popular pathways: CIE 0580, CIE 0607 (International), and Pearson Edexcel 4MA1.",
     "crumbs": [
       "IGCSE Mathematics Overview"
     ]
@@ -1804,7 +1814,7 @@
     "href": "math/a-level/others/index.html",
     "title": "Other Exam Boards Mathematics",
     "section": "",
-    "text": "NoteHỗ Trợ Đa Dạng Các Chương Trình Học A-Level\n\n\n\nBên cạnh CIE và Edexcel, nhiều trường quốc tế cũng áp dụng hệ giáo trình của AQA hoặc OxfordAQA. K-Education Hub cung cấp các tài nguyên bổ trợ chung giúp các em học sinh ở mọi chương trình học có thể củng cố kiến thức tốt nhất.",
+    "text": "NoteHỗ Trợ Đa Dạng Các Chương Trình Học A-Level\n\n\n\nBên cạnh CIE và Edexcel, nhiều trường quốc tế cũng áp dụng hệ giáo trình của AQA hoặc OxfordAQA. NKK-Education Hub cung cấp các tài nguyên bổ trợ chung giúp các em học sinh ở mọi chương trình học có thể củng cố kiến thức tốt nhất.",
     "crumbs": [
       "Other A-Level",
       "Other Exam Boards Mathematics"
@@ -2266,7 +2276,7 @@
     "href": "math/a-level/edexcel/index.html",
     "title": "Edexcel Mathematics Overview",
     "section": "",
-    "text": "NoteRoad to Achieving an A* in Edexcel A-Level Mathematics\n\n\n\nWelcome, students! Pearson Edexcel International Advanced Level (IAL) Mathematics is a flexible modular curriculum. K-Education Hub provides a structured library of core study notes, topical worksheets, and actual exam past papers organized by individual exam units to help you optimize your learning and achieve an A* grade.",
+    "text": "NoteRoad to Achieving an A* in Edexcel A-Level Mathematics\n\n\n\nWelcome, students! Pearson Edexcel International Advanced Level (IAL) Mathematics is a flexible modular curriculum. NKK-Education Hub provides a structured library of core study notes, topical worksheets, and actual exam past papers organized by individual exam units to help you optimize your learning and achieve an A* grade.",
     "crumbs": [
       "Edexcel A-Level",
       "Edexcel Mathematics Overview"
@@ -2502,7 +2512,7 @@
     "href": "math/sat-ap/index.html",
     "title": "SAT & AP Mathematics Overview",
     "section": "",
-    "text": "NoteGateway to Earning Gold Scores for US & International Admissions\n\n\n\nWelcome, students! Standardized exams from the College Board, such as the Digital SAT and Advanced Placement (AP), play a crucial role in building highly competitive admission and scholarship portfolios.\nK-Education Hub provides dedicated exam prep resources, structured topic notes, and past exam practice sets designed to help you avoid common traps and score maximum points. Select your course below to begin.",
+    "text": "NoteGateway to Earning Gold Scores for US & International Admissions\n\n\n\nWelcome, students! Standardized exams from the College Board, such as the Digital SAT and Advanced Placement (AP), play a crucial role in building highly competitive admission and scholarship portfolios.\nNKK-Education Hub provides dedicated exam prep resources, structured topic notes, and past exam practice sets designed to help you avoid common traps and score maximum points. Select your course below to begin.",
     "crumbs": [
       "SAT & AP Mathematics Overview"
     ]
@@ -2762,7 +2772,7 @@
     "href": "math/common-core/index.html",
     "title": "Common Core Mathematics Overview",
     "section": "",
-    "text": "NotePathway to Developing Mathematical Thinking (US Curriculum)\n\n\n\nWelcome, students! The Common Core Mathematics curriculum is widely adopted in US international schools, focusing on critical thinking, real-world problem-solving, and deep understanding of mathematical concepts from algebra to geometry.\nK-Education Hub provides comprehensive study materials, core notes, and practice exercises aligned with the five primary high school pathways: Math Grade 6-8, Algebra 1, Geometry, Algebra 2, and Pre-Calculus. Select your module below to begin.",
+    "text": "NotePathway to Developing Mathematical Thinking (US Curriculum)\n\n\n\nWelcome, students! The Common Core Mathematics curriculum is widely adopted in US international schools, focusing on critical thinking, real-world problem-solving, and deep understanding of mathematical concepts from algebra to geometry.\nNKK-Education Hub provides comprehensive study materials, core notes, and practice exercises aligned with the five primary high school pathways: Math Grade 6-8, Algebra 1, Geometry, Algebra 2, and Pre-Calculus. Select your module below to begin.",
     "crumbs": [
       "Common Core Mathematics Overview"
     ]
@@ -2792,7 +2802,7 @@
     "href": "math/common-core/math-grade-6-8.html#introduction",
     "title": "US Math Grade 6-8",
     "section": "1. Introduction",
-    "text": "1. Introduction\nUS Middle School Mathematics (Grades 6-8) forms the critical bridge between elementary arithmetic and high school algebra and geometry. The curriculum is structured to build robust problem-solving skills, critical thinking, and mathematical modeling.\n\nKey Conceptual Areas:\n\nGrade 6: Focuses on ratios and rates, rational numbers, basic algebraic expressions/equations, and introductory statistical thinking.\nGrade 7: Emphasizes proportional relationships, operations with rational numbers, linear expressions and equations, and geometric constructions.\nGrade 8: Prepares students for algebra through linear equations and functions, exponents and scientific notation, the Pythagorean theorem, and congruence/similarity.\n\nWhether you are preparing for standard school exams, middle-school assessments, or private school entrance exams, K-Education Hub compiles the best resources to support your academic pathway.",
+    "text": "1. Introduction\nUS Middle School Mathematics (Grades 6-8) forms the critical bridge between elementary arithmetic and high school algebra and geometry. The curriculum is structured to build robust problem-solving skills, critical thinking, and mathematical modeling.\n\nKey Conceptual Areas:\n\nGrade 6: Focuses on ratios and rates, rational numbers, basic algebraic expressions/equations, and introductory statistical thinking.\nGrade 7: Emphasizes proportional relationships, operations with rational numbers, linear expressions and equations, and geometric constructions.\nGrade 8: Prepares students for algebra through linear equations and functions, exponents and scientific notation, the Pythagorean theorem, and congruence/similarity.\n\nWhether you are preparing for standard school exams, middle-school assessments, or private school entrance exams, NKK-Education Hub compiles the best resources to support your academic pathway.",
     "crumbs": [
       "Math Grade 6-8"
     ]
@@ -2860,7 +2870,7 @@
     "href": "chem/igcse/index.html",
     "title": "IGCSE Chemistry Overview",
     "section": "",
-    "text": "NoteEmbark on Your International Chemistry Journey\n\n\n\nWelcome, students! IGCSE Chemistry introduces you to essential scientific concepts regarding atomic structure, chemical reactions, periodic trends, and laboratory experimental skills. K-Education Hub provides high-quality exam preparation resources for both Single Chemistry and Double Award/Combined Science Chemistry under the CIE and Pearson Edexcel boards.",
+    "text": "NoteEmbark on Your International Chemistry Journey\n\n\n\nWelcome, students! IGCSE Chemistry introduces you to essential scientific concepts regarding atomic structure, chemical reactions, periodic trends, and laboratory experimental skills. NKK-Education Hub provides high-quality exam preparation resources for both Single Chemistry and Double Award/Combined Science Chemistry under the CIE and Pearson Edexcel boards.",
     "crumbs": [
       "IGCSE Chemistry Overview"
     ]
@@ -3060,7 +3070,7 @@
     "href": "chem/a-level/index.html",
     "title": "A-Level Chemistry Overview",
     "section": "",
-    "text": "NotePath to Achieving an A* in A-Level Chemistry\n\n\n\nWelcome, students! The A-Level Chemistry curriculum is renowned for its vast experimental requirements, intricate organic reaction mechanisms, and demanding physical chemistry calculations. K-Education Hub provides a structured library of core study notes, topical worksheets, and actual exam past papers organized under three primary pathways: CIE, Edexcel, and Other Exam Boards (Others).",
+    "text": "NotePath to Achieving an A* in A-Level Chemistry\n\n\n\nWelcome, students! The A-Level Chemistry curriculum is renowned for its vast experimental requirements, intricate organic reaction mechanisms, and demanding physical chemistry calculations. NKK-Education Hub provides a structured library of core study notes, topical worksheets, and actual exam past papers organized under three primary pathways: CIE, Edexcel, and Other Exam Boards (Others).",
     "crumbs": [
       "A-Level Chemistry Overview"
     ]
@@ -3080,7 +3090,7 @@
     "href": "chem/a-level/edexcel/index.html",
     "title": "Edexcel Chemistry Overview",
     "section": "",
-    "text": "NoteLộ Trình Chinh Phục Điểm Số A-Level Hóa Edexcel\n\n\n\nPearson Edexcel IAL Chemistry cung cấp một hệ thống học tập modular rất hiện đại, cập nhật liên tục các nghiên cứu ứng dụng thực tế. K-Education Hub cung cấp tài liệu đầy đủ chia thành 2 cấp độ học thuật chính giúp các em ôn tập đạt kết quả cao nhất.",
+    "text": "NoteLộ Trình Chinh Phục Điểm Số A-Level Hóa Edexcel\n\n\n\nPearson Edexcel IAL Chemistry cung cấp một hệ thống học tập modular rất hiện đại, cập nhật liên tục các nghiên cứu ứng dụng thực tế. NKK-Education Hub cung cấp tài liệu đầy đủ chia thành 2 cấp độ học thuật chính giúp các em ôn tập đạt kết quả cao nhất.",
     "crumbs": [
       "Edexcel A-Level",
       "Edexcel Chemistry Overview"

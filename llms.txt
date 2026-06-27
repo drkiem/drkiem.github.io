@@ -1,0 +1,103 @@
+# NKK-Education Hub
+> Premium academic gateways for international Mathematics and Chemistry, providing structured notes, formula guides, topical worksheets, and past paper search tools.
+
+## Information for LLMs
+- [Full Markdown Knowledge-Base](/llms-full.txt): Concatenated full text markdown of all study notes, guides, and curriculums for NKK-Education Hub.
+
+## Core Pages
+*General overview and introductory pages of the portal.*
+
+- [AP Chemistry Prep](/chem/sat-ap.html): Chương Trình Luyện Thi Hóa Học Advanced Placement (College Board)
+- [AP Physics & Special Advanced Placement Subjects](/others/ap.html): Chương Trình Luyện Thi Các Môn AP Đặc Biệt Phục Vụ Du Học Mỹ
+- [About Me & Philosophy](/about.html): Detailed course resources and past papers.
+- [NKK-Education Hub](/index.html): Premium Academic Gateways for International Mathematics & Chemistry
+
+## IB Mathematics
+*Study notes and past papers for Analysis & Approaches (AA) and Applications & Interpretation (AI) pathways.*
+
+- [IB Mathematics AA HL](/math/ib/aa-hl.html): Analysis & Approaches - Higher Level
+- [IB Mathematics AA SL](/math/ib/aa-sl.html): Analysis & Approaches - Standard Level
+- [IB Mathematics AI HL](/math/ib/ai-hl.html): Applications & Interpretation - Higher Level
+- [IB Mathematics AI SL](/math/ib/ai-sl.html): Applications & Interpretation - Standard Level
+- [IB Mathematics Overview](/math/ib/index.html): International Baccalaureate (IB) Diploma Programme Mathematics
+
+## IB Chemistry
+*Structure and Reactivity chemistry portal notes and past papers.*
+
+- [IB Chemistry Higher Level (HL)](/chem/ib/hl.html): International Baccalaureate (IB) Diploma Programme Chemistry - Higher Level
+- [IB Chemistry Overview](/chem/ib/index.html): International Baccalaureate (IB) Chemistry Program
+- [IB Chemistry Standard Level (SL)](/chem/ib/sl.html): International Baccalaureate (IB) Diploma Programme Chemistry - Standard Level
+- [Level 3 Syllabus Mapping: IB Chemistry (2016 vs 2025)](/chem/ib/syllabus.html): A granular 3rd-level mapping of legacy 2016 resources to the new 2025 Structure & Reactivity framework.
+
+## A-Level Mathematics
+*Comprehensive resources for CIE, Edexcel, and other boards (Pure, Statistics, Mechanics).*
+
+- [A-Level Math Practice Papers (Other Boards)](/math/a-level/others/papers.html): Detailed course resources and past papers.
+- [A-Level Mathematics Overview](/math/a-level/index.html): Comprehensive resources, modular syllabus guidance, and exam portals for CIE, Edexcel, and other boards
+- [CIE A-Level Further Mathematics](/math/a-level/cie/further.html): Chương Trình Toán Học Cao Cấp Cambridge International A-Level (Mã môn: 9231)
+- [CIE A-Level Mathematics Overview](/math/a-level/cie/index.html): Cambridge International AS & A Level Mathematics (9709) Portal
+- [CIE Mechanics (Paper 4)](/math/a-level/cie/p4.html): Cambridge International AS & A Level Mathematics (9709)
+- [CIE Probability & Statistics 1 (S1)](/math/a-level/cie/s1.html): Cambridge International AS & A Level Mathematics (9709)
+- [CIE Probability & Statistics 2 (S2)](/math/a-level/cie/s2.html): Cambridge International AS & A Level Mathematics (9709)
+- [CIE Pure Mathematics 1 (P1)](/math/a-level/cie/p1.html): Cambridge International AS & A Level Mathematics (9709)
+- [CIE Pure Mathematics 2 (P2)](/math/a-level/cie/p2.html): Cambridge International AS & A Level Mathematics (9709)
+- [CIE Pure Mathematics 3 (P3)](/math/a-level/cie/p3.html): Cambridge International AS & A Level Mathematics (9709)
+- [Edexcel Further Pure Mathematics](/math/a-level/edexcel/further.html): Chương Trình Toán Học Cao Cấp Pearson Edexcel International Advanced Level (IAL)
+- [Edexcel Mathematics Overview](/math/a-level/edexcel/index.html): Pearson Edexcel International Advanced Level (IAL) Mathematics Portal
+- [Edexcel Mechanics 1 (M1)](/math/a-level/edexcel/m1.html): Pearson Edexcel International Advanced Level (IAL) Mathematics
+- [Edexcel Mechanics 2 (M2)](/math/a-level/edexcel/m2.html): Pearson Edexcel International Advanced Level (IAL) Mathematics
+- [Edexcel Pure Mathematics 1 (P1)](/math/a-level/edexcel/p1.html): Pearson Edexcel International Advanced Level (IAL) Mathematics
+- [Edexcel Pure Mathematics 2 (P2)](/math/a-level/edexcel/p2.html): Pearson Edexcel International Advanced Level (IAL) Mathematics
+- [Edexcel Pure Mathematics 3 (P3)](/math/a-level/edexcel/p3.html): Pearson Edexcel International Advanced Level (IAL) Mathematics
+- [Edexcel Pure Mathematics 4 (P4)](/math/a-level/edexcel/p4.html): Pearson Edexcel International Advanced Level (IAL) Mathematics
+- [Edexcel Statistics 1 (S1)](/math/a-level/edexcel/s1.html): Pearson Edexcel International Advanced Level (IAL) Mathematics
+- [Edexcel Statistics 2 (S2)](/math/a-level/edexcel/s2.html): Pearson Edexcel International Advanced Level (IAL) Mathematics
+- [Other Exam Boards Mathematics](/math/a-level/others/index.html): Tài nguyên ôn tập Toán học A-Level cho các Hội đồng thi khác (AQA, OxfordAQA...)
+
+## A-Level Chemistry
+*Organic, physical, and inorganic chemistry preparation modules.*
+
+- [A-Level Chemistry Overview](/chem/a-level/index.html): Comprehensive Portal for International A-Level Chemistry Exam Boards
+- [AQA & OxfordAQA A2 Chemistry](/chem/a-level/others/a-level.html): Học Phần Bổ Trợ & Tài Nguyên Hóa Học A2 Level (Các Hội Đồng Thi Khác)
+- [AQA & OxfordAQA AS Chemistry](/chem/a-level/others/as.html): Học Phần Bổ Trợ & Tài Nguyên Hóa Học AS Level (Các Hội Đồng Thi Khác)
+- [CIE Chemistry (A-Level)](/chem/a-level/cie/index.html): Chương Trình Hóa Học Cambridge International A-Level (Mã môn: 9701)
+- [Edexcel A2 Chemistry (A-Level)](/chem/a-level/edexcel/a-level.html): Chương Trình Hóa Học Pearson Edexcel International Advanced Level (IAL)
+- [Edexcel AS Chemistry (AS Level)](/chem/a-level/edexcel/as.html): Chương Trình Hóa Học Pearson Edexcel International Advanced Level (IAL)
+- [Edexcel Chemistry Overview](/chem/a-level/edexcel/index.html): Chương Trình Hóa Học Pearson Edexcel International Advanced Level (IAL)
+- [Other Exam Boards Chemistry](/chem/a-level/others/index.html): Tài nguyên ôn tập Hóa học A-Level cho các Hội đồng thi khác (AQA, OxfordAQA...)
+
+## IGCSE Mathematics
+*Worksheets and exam guides for CIE 0580, CIE 0607, and Edexcel 4MA1.*
+
+- [CIE IGCSE Mathematics (0580)](/math/igcse/cie-0580.html): Cambridge International GCSE Mathematics (0580) Course Portal
+- [CIE International Mathematics (0607)](/math/igcse/cie-0607.html): Chương Trình Toán Quốc Tế Cambridge IGCSE (GDC heavy & Paper 6)
+- [Edexcel IGCSE Mathematics A (4MA1)](/math/igcse/edexcel-4ma1.html): Pearson Edexcel International GCSE Mathematics A (4MA1)
+- [IGCSE Mathematics Overview](/math/igcse/index.html): International General Certificate of Secondary Education (IGCSE) Mathematics Curriculums
+
+## IGCSE Chemistry
+*Fundamental chemistry principles (CIE 0620 and Edexcel 4CH1).*
+
+- [CIE IGCSE Chemistry (0620)](/chem/igcse/cie-0620.html): Cambridge IGCSE Chemistry Syllabus Portal
+- [CIE IGCSE Science_Chemistry (0653 / 0654)](/chem/igcse/cie-science-chemistry.html): Cambridge IGCSE Combined & Co-ordinated Sciences Chemistry Portal
+- [Edexcel IGCSE Chemistry (4CH1)](/chem/igcse/edexcel-4ch1.html): Pearson Edexcel International GCSE Chemistry Syllabus Portal
+- [Edexcel IGCSE Science-Chemistry (4SD0)](/chem/igcse/edexcel-science-chemistry.html): Pearson Edexcel International GCSE Science (Double Award) Chemistry Portal
+- [IGCSE Chemistry Overview](/chem/igcse/index.html): International General Certificate of Secondary Education (IGCSE) Chemistry Portal
+
+## Common Core Mathematics
+*US High School pathways (Algebra 1/2, Geometry, Pre-Calculus, and Math Grade 6-8).*
+
+- [Common Core Algebra 1](/math/common-core/algebra1.html): Chương Trình Đại Số 1 Phổ Thông Hệ Mỹ (High School)
+- [Common Core Algebra 2](/math/common-core/algebra2.html): Chương Trình Đại Số 2 Phổ Thông Hệ Mỹ (High School)
+- [Common Core Geometry](/math/common-core/geometry.html): Chương Trình Hình Học Phổ Thông Hệ Mỹ (High School)
+- [Common Core Mathematics Overview](/math/common-core/index.html): US School Mathematics Curriculum (Common Core State Standards)
+- [Common Core Pre-Calculus](/math/common-core/pre-calculus.html): Chương Trình Tiền Giải Tích Phổ Thông Hệ Mỹ (High School)
+- [US Math Grade 6-8](/math/common-core/math-grade-6-8.html): US School Mathematics Curriculum (Common Core State Standards)
+
+## SAT & AP Mathematics
+*Targeted digital SAT Math, AP Calculus AB/BC, and AP Statistics preparation.*
+
+- [AP Calculus AB & BC](/math/sat-ap/ap-calculus.html): Chương Trình Toán Học Giải Tích Advanced Placement (College Board)
+- [AP Statistics](/math/sat-ap/ap-stats.html): Chương Trình Xác Suất Thống Kê Advanced Placement (College Board)
+- [Digital SAT Mathematics](/math/sat-ap/sat.html): Chương Trình Luyện Thi Toán SAT Công Nghệ Mới (College Board)
+- [SAT & AP Mathematics Overview](/math/sat-ap/index.html): Specialized Mathematics Prep for Standardized International Exams
+- [SSAT Prep Mathematics](/math/sat-ap/ssat.html): Secondary School Admission Test Preparation (Quantitative Section)

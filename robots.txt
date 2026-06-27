@@ -1,1 +1,24 @@
-Sitemap: https://drkiem.github.io/sitemap.xml
+User-agent: *
+Allow: /
+Sitemap: https://nkk-education-hub.com/sitemap.xml
+
+# AI crawler optimizations
+User-agent: GPTBot
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /
+
+User-agent: Google-Extended
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /
