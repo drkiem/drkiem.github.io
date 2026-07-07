@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%">
+  <defs>
+    <!-- Silver Gradient for AP/SAT cards -->
+    <linearGradient id="silverGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E2E8F0" />
+      <stop offset="100%" stop-color="#CBD5E1" />
+    </linearGradient>
+
+    <!-- IBO Logo Gradient -->
+    <radialGradient id="ibLogoGrad" cx="40%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#60A5FA"/>
+      <stop offset="70%" stop-color="#1E40AF"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </radialGradient>
+
+    <!-- Card Clipping Shape for Banner -->
+    <clipPath id="cardClip">
+      <rect x="0" y="0" width="800" height="450" rx="24"/>
+    </clipPath>
+
+    <!-- Technical Grid Pattern -->
+    <pattern id="lightGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(0, 0, 0, 0.03)" stroke-width="0.8"/>
+    </pattern>
+
+    <!-- Glow filter for curves -->
+    <filter id="glow-dark" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="3.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  
+    <!-- Arrow Marker -->
+    <marker id="arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8 5 L 0 8.5 z" fill="context-stroke" />
+    </marker>
+    
+  </defs>
+
+  <!-- Card Background -->
+  <rect width="800" height="450" rx="24" fill="#E1F4F9" stroke="rgba(0,0,0,0.06)" stroke-width="2"/>
+  <rect width="800" height="450" rx="24" fill="url(#lightGrid)"/>
+
+  <!-- Logo Placement -->
+  
+    <g transform="translate(565, 50)">
+      <circle cx="0" cy="0" r="14" fill="#0079C1"/>
+      <path d="M -5,-8 L 1,-8 C 4.5,-8 6.5,-6 6.5,-3 C 6.5,0 4.5,2 1,2 L -2,2 L -2,8 L -5,8 Z M -2,-5 L -2,-1 L 0.5,-1 C 1.8,-1 2.8,-1.8 2.8,-3 C 2.8,-4.2 1.8,-5 0.5,-5 Z" fill="#FFFFFF"/>
+      <g transform="translate(22, -6)">
+        <text x="0" y="8" font-family="'Inter', -apple-system, sans-serif" font-weight="900" font-size="13" fill="#0079C1" letter-spacing="-0.5">Pearson</text>
+        <text x="0" y="20" font-family="'Inter', -apple-system, sans-serif" font-weight="800" font-size="12" fill="#1E293B" letter-spacing="-0.2">Edexcel</text>
+      </g>
+    </g>
+    
+
+  <!-- AP/SAT Badges -->
+  
+
+  <!-- Left Content Panel -->
+  <g transform="translate(60, 0)">
+    <!-- Title Line 1 -->
+    <text x="0" y="140" font-family="'Inter', -apple-system, sans-serif" font-weight="900" font-size="44" fill="#000000" letter-spacing="-1">IGCSE Chemistry</text>
+    
+    <!-- Title Line 2 -->
+    <text x="0" y="210" font-family="'Inter', -apple-system, sans-serif" font-weight="900" font-size="38" fill="#000000" letter-spacing="-0.5">Edexcel 4CH1</text>
+    
+    <!-- Subtitle (Curriculum name / Board / Level) -->
+    <text x="0" y="260" font-family="'Inter', -apple-system, sans-serif" font-weight="600" font-size="20" fill="#334155" letter-spacing="-0.2">Atomic &amp; Electrolysis</text>
+  </g>
+
+  <!-- Right Illustration Panel -->
+  <g transform="translate(0, 0)">
+    
+        <!-- Electrolysis cell -->
+        <g transform="translate(480, 130)">
+          <rect x="0" y="30" width="110" height="100" rx="4" fill="none" stroke="rgba(0,0,0,0.3)" stroke-width="2"/>
+          <path d="M 2 65 L 108 65 L 108 128 L 2 128 Z" fill="rgba(20, 184, 166, 0.12)"/>
+          <rect x="25" y="10" width="12" height="90" fill="#164E63"/>
+          <rect x="75" y="10" width="12" height="90" fill="#14B8A6"/>
+          
+          <path d="M 31 10 L 31 -18 L 81 -18 L 81 10" fill="none" stroke="rgba(0,0,0,0.3)" stroke-width="1.5"/>
+        </g>
+        
+  </g>
+
+  <!-- Desmos Logo overlay -->
+  
+
+  <!-- Bottom-Right Banner clipped by card rounded corner -->
+  <g clip-path="url(#cardClip)">
+    <path d="M 370,450 L 370,380 C 370,362 385,348 402,348 L 800,348 L 800,450 Z" fill="#085464"/>
+    <text x="590" y="408" font-family="'Inter', -apple-system, sans-serif" font-weight="800" font-size="23" fill="#FFFFFF" text-anchor="middle" letter-spacing="-0.2">Core &amp; Extended</text>
+  </g>
+</svg>

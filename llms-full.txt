@@ -12,12 +12,16 @@ Please select any of the curriculum cards below to navigate directly to the resp
 
 ## Academic Gateways
 
+<img src="images/ib_math.webp" class="gateway-card-img" alt="IB Mathematics">
+
 ### IB Mathematics
 **International Baccalaureate Math Preparation**
 
 - Focus: Comprehensive study guides for **Analysis & Approaches (AA HL/SL)** and **Applications & Interpretation (AI HL/SL)**.
 - Features dynamic past paper databases and progress-tracking checkpoints to organize your learning.
 - [Explore Now &rarr;](math/ib/index.html)
+
+<img src="images/ib_chem.webp" class="gateway-card-img" alt="IB Chemistry">
 
 ### IB Chemistry
 **International Baccalaureate Chemistry Portal**
@@ -26,12 +30,16 @@ Please select any of the curriculum cards below to navigate directly to the resp
 - Contains detailed topic checklists, past papers, and formula guides tailored to the new IBO syllabus.
 - [Explore Now &rarr;](chem/ib/index.html)
 
+<img src="images/a_level_math.webp" class="gateway-card-img" alt="A-Level Mathematics">
+
 ### A-Level Mathematics
 **Advanced Level Mathematics (British System)**
 
 - Focus: Specialized resources for major boards including **CIE**, **Edexcel**, and others.
 - Fully supports modular structures across **Pure Mathematics**, **Mechanics**, and **Probability & Statistics**.
 - [Explore Now &rarr;](math/a-level/index.html)
+
+<img src="images/a_level_chem.webp" class="gateway-card-img" alt="A-Level Chemistry">
 
 ### A-Level Chemistry
 **Advanced Level Chemistry (British System)**
@@ -40,12 +48,16 @@ Please select any of the curriculum cards below to navigate directly to the resp
 - Supports comprehensive preparation for CIE and Edexcel boards with reaction mechanisms and practical guides.
 - [Explore Now &rarr;](chem/a-level/index.html)
 
+<img src="images/igcse_math.webp" class="gateway-card-img" alt="IGCSE Mathematics">
+
 ### IGCSE Mathematics
 **International GCSE Mathematics Prep**
 
 - Focus: Foundation bridging for junior secondary pathways including **CIE 0580**, **CIE 0607**, and **Edexcel 4MA1**.
 - Key topic summaries, past paper search filters, and worksheets to transition smoothly to senior mathematics.
 - [Explore Now &rarr;](math/igcse/index.html)
+
+<img src="images/igcse_chem.webp" class="gateway-card-img" alt="IGCSE Chemistry">
 
 ### IGCSE Chemistry
 **International GCSE Chemistry Prep**
@@ -54,12 +66,16 @@ Please select any of the curriculum cards below to navigate directly to the resp
 - Also provides resources for **IGCSE Coordinated & Combined Sciences** chemistry sections.
 - [Explore Now &rarr;](chem/igcse/index.html)
 
+<img src="images/us_math.webp" class="gateway-card-img" alt="Common Core Mathematics">
+
 ### Common Core Mathematics
 **US Curriculum Mathematics Prep**
 
 - Focus: High school courses covering **Algebra 1**, **Geometry**, **Algebra 2**, and **Pre-Calculus**.
 - Now includes specialized study guidelines and past papers for **US Math Grade 6-8**.
 - [Explore Now &rarr;](math/common-core/index.html)
+
+<img src="images/sat_ap.webp" class="gateway-card-img" alt="SAT & AP Prep">
 
 ### SAT & AP Prep
 **Standardized Admission Test Preparation**
@@ -74,26 +90,66 @@ Please select any of the curriculum cards below to navigate directly to the resp
 Path: /about.html
 ----------------------------------------
 
-## ‍🏫 Người Đồng Hành Học Thuật
-Chào các em học sinh và quý phụ huynh! Tôi là giáo viên chuyên ngành Toán và Hóa học quốc tế, hiện đang giảng dạy cho học sinh các trường quốc tế hàng đầu tại TP.HCM.
+<img src="images/dr_kiem_portrait.png" alt="Dr. Kiem Nguyen" class="about-profile-pic">
 
-Với hơn nhiều năm kinh nghiệm đồng hành cùng các em học sinh chinh phục các kỳ thi khắc nghiệt như **IB Diploma, A-Level, IGCSE và SAT**, tôi hiểu rõ những rào cản lớn nhất mà học sinh gặp phải:
-1. **Sự phụ thuộc quá đà vào máy tính bỏ túi (GDC):** Khiến học sinh mất đi cảm giác nhạy bén với đại số cơ bản.
-2. **Học vẹt công thức:** Không hiểu bản chất vật lý/hóa học đằng sau các phương trình, dẫn đến việc bế tắc khi gặp các câu hỏi lạ (đặc biệt trong đề thi HL).
-3. **Thiếu kỹ năng thực hành và lập luận tự luận:** Đặc biệt trong A-Level Chemistry.
+# Dr. Kiem Nguyen
+University Lecturer & Academic Advisor for International Math & Chemistry
 
----
-
-## Phương Pháp Giảng Dạy Khác Biệt
-* **Phương pháp Bottom-Up (Từ gốc rễ):** Luôn đi từ bản chất định nghĩa toán học và mô hình cấu trúc hóa học trước khi làm bài tập.
-* **Thiết lập Ranh giới Kỷ luật Học tập:** Tách biệt rõ ràng các buổi học "Không máy tính" (Paper 1) để xây dựng tư duy đại số sắt bén, độc lập.
-* **Game hóa Tiến độ (Gamification):** Học sinh tự theo dõi và tích lũy các chương mục đã hoàn thành, nhìn thấy sự tiến bộ rõ rệt qua từng ngày ôn thi.
+Welcome to my academic portal. I am a dedicated lecturer and academic advisor with a passion for helping students unlock their maximum potential in advanced sciences. By bridging rigorous academic engineering methodologies with international curricula, I guide students to master core concepts, build problem-solving confidence, and excel in their senior high school assessments and university admissions.
 
 ---
 
-## Đánh giá từ Học sinh (Testimonials)
-> "Em từng sợ môn IB Math AA HL kinh khủng vì lượng công thức quá nhiều, nhưng khi chia nhỏ ôn tập theo từng Paper 1 và Paper 2 riêng biệt, em đã biết cách phân phối thời gian và đạt điểm 7 mong ước!" 
-> — *An Trần (Học sinh BIS, hiện là sinh viên Đại học Melbourne)*
+## Experience & Mentorship Highlights
+
+20
+Years of Academic & Corporate Experience (including pharmaceutical & multinational food corporations)
+
+15+
+Years Mentoring International Students (IB, A-Level, AP, SAT, IGCSE Curricula)
+
+---
+
+## Teaching Philosophy
+
+"My ultimate goal is not just to help students solve the problem in front of them, but to equip them with the analytical methodology and confidence to solve any similar problem in the future."
+
+---
+
+## Tutoring Scope & Contact
+
+### Mathematics
+**Curriculum Levels taught:**
+
+- **IB Mathematics**: Analysis & Approaches (AA HL/SL) and Applications & Interpretation (AI HL/SL)
+- **A-Level Mathematics**: CIE, Edexcel modular pathways (Pure, Mechanics, Statistics)
+- **SAT & AP Math**: Digital SAT prep, AP Calculus AB/BC, AP Statistics
+- **IGCSE Mathematics**: CIE 0580, CIE 0607, Pearson Edexcel 4MA1
+
+### Chemistry
+**Curriculum Levels taught:**
+
+- **IB Chemistry**: Higher Level (HL) and Standard Level (SL) pathways
+- **A-Level Chemistry**: Inorganic, Organic, Physical, and Practical modules
+- **AP & IGCSE Chemistry**: AP Chemistry, CIE 0620, Edexcel 4CH1
+
+### Locations
+Lessons are conducted in-person at primary teaching centers in **District 2** and **District 7 (Ho Chi Minh City)**, as well as via high-quality interactive **Global Online** sessions for students worldwide.
+
+<iframe src="https://maps.google.com/maps?q=10.7878829,106.7214731&amp;z=14&amp;output=embed" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+### Contact & Admissions
+
+Please feel free to reach out via any of the channels below for admissions, class schedules, or academic advising queries:
+
+<ul class="about-contact-list">
+  <li><strong>Email</strong> <a href="mailto:khackiemnguyen@gmail.com">khackiemnguyen@gmail.com</a></li>
+  <li><strong>Phone</strong> <a href="tel:0815113114">0815 113 114</a></li>
+  <li><strong>Zalo</strong> <a href="https://zalo.me/0815113114" target="_blank">0815 113 114</a></li>
+  <li><strong>WhatsApp</strong> <a href="https://wa.me/84815113114" target="_blank">+84 815 113 114</a></li>
+  <li><strong>Line ID</strong> <a href="https://line.me/ti/p/~141173314" target="_blank">141173314</a></li>
+  <li><strong>Telegram</strong> <a href="https://t.me/+84815113114" target="_blank">+84 815 113 114</a></li>
+  <li><strong>Facebook</strong> <a href="https://www.facebook.com/share/1EX9cfmDD3/" target="_blank">Dr. Kiem Nguyen</a></li>
+</ul>
 
 
 
@@ -996,15 +1052,21 @@ Welcome, secondary students! The IGCSE Mathematics program plays an essential ro
 
 Select your specific exam curriculum below to go directly to its dedicated portal, featuring past papers, marking schemes, worked solutions, and key formula sheets:
 
+<img src="../../images/cie_igcse_math_0580.webp" class="program-card-img igcse-math-card-img" alt="CIE IGCSE Mathematics 0580">
+
 ### CIE IGCSE Mathematics (0580)
 **Core Cambridge IGCSE Math Curriculum**
 * Focus: Algebra, Geometry, Mensuration, Coordinate Geometry, Probability & Statistics. Categorized into Core (target grade C) and Extended (target grades A* to B).
 * [Explore Resources (0580) →](cie-0580.html)
 
+<img src="../../images/cie_igcse_math_0607.webp" class="program-card-img igcse-math-card-img" alt="CIE International Mathematics 0607">
+
 ### CIE International Mathematics (0607)
 **Cambridge IGCSE International Math**
 * Tailored for international schools incorporating Graphic Display Calculators (GDC) early. Focuses on technology-integrated problem solving and mathematical investigation.
 * [Explore Resources (0607) →](cie-0607.html)
+
+<img src="../../images/edexcel_igcse_math_4ch1.webp" class="program-card-img igcse-math-card-img" alt="Edexcel IGCSE Mathematics A 4MA1">
 
 ### Edexcel IGCSE Mathematics A (4MA1)
 **Pearson Edexcel IGCSE Math**
@@ -2492,6 +2554,8 @@ NKK-Education Hub provides dedicated revision materials, topic-by-topic study no
 
 Select your specific exam board to access modular lesson sheets, step-by-step revision notes, and official exam archives with interactive search filters:
 
+<img src="../../images/cie_a_level_math_9709.webp" class="program-card-img alevel-math-card-img" alt="CIE Mathematics 9709">
+
 ### CIE Mathematics (9709)
 **Cambridge Assessment International Education**
 
@@ -2501,6 +2565,8 @@ Select your specific exam board to access modular lesson sheets, step-by-step re
 
 [Explore CIE Resources &rarr;](cie/index.html)
 
+<img src="../../images/edexcel_a_level_mathematics.webp" class="program-card-img alevel-math-card-img" alt="Edexcel Mathematics IAL">
+
 ### Edexcel Mathematics (IAL)
 **Pearson Edexcel International A-Level**
 
@@ -2509,6 +2575,8 @@ Select your specific exam board to access modular lesson sheets, step-by-step re
 - Highly practical approach with exam questions focusing on real-world applications and calculator proficiency.
 
 [Explore Edexcel Resources &rarr;](edexcel/index.html)
+
+<img src="../../images/a_level_math_other_exam_boards.webp" class="program-card-img alevel-math-card-img" alt="Other Exam Boards Math">
 
 ### Other Exam Boards (Others)
 **AQA, OxfordAQA, and General A-Level Curriculums**
@@ -2968,11 +3036,15 @@ The core papers of the CIE A-Level Mathematics curriculum comprise the following
 
 *Select the specific exam paper you are preparing for to access notes, formula summaries, and past papers:*
 
+<img src="../../../assets/images/math/a-level/cie/p1.svg" class="program-card-img" alt="Pure Mathematics 1 P1">
+
 ### Pure Mathematics 1 (P1)
 **Pure Mathematics 1**
 
 * **Focus**: Quadratics, functions, coordinate geometry, circular measure, trigonometry, series, basic differentiation and integration.
 * **Link**: [Explore P1 &rarr;](p1.html)
+
+<img src="../../../assets/images/math/a-level/cie/p2.svg" class="program-card-img" alt="Pure Mathematics 2 P2">
 
 ### Pure Mathematics 2 (P2)
 **Pure Mathematics 2**
@@ -2980,11 +3052,15 @@ The core papers of the CIE A-Level Mathematics curriculum comprise the following
 * **Focus**: Algebra, logarithmic and exponential functions, trigonometry, differentiation, integration, numerical solutions.
 * **Link**: [Explore P2 &rarr;](p2.html)
 
+<img src="../../../assets/images/math/a-level/cie/p3.svg" class="program-card-img" alt="Pure Mathematics 3 P3">
+
 ### Pure Mathematics 3 (P3)
 **Pure Mathematics 3**
 
 * **Focus**: Advanced algebra (partial fractions, binomials), advanced trigonometry, advanced integration/differentiation, vectors, differential equations, complex numbers.
 * **Link**: [Explore P3 &rarr;](p3.html)
+
+<img src="../../../assets/images/math/a-level/cie/p4.svg" class="program-card-img" alt="Mechanics Paper 4">
 
 ### Mechanics (Paper 4)
 **Mechanics Units**
@@ -2992,17 +3068,23 @@ The core papers of the CIE A-Level Mathematics curriculum comprise the following
 * **Focus**: Kinematics, forces and equilibrium, momentum, Newton's laws, energy, work and power.
 * **Link**: [Explore Mechanics &rarr;](p4.html)
 
+<img src="../../../assets/images/math/a-level/cie/s1.svg" class="program-card-img" alt="Probability & Statistics 1 S1">
+
 ### Probability & Statistics 1 (S1)
 **Probability & Statistics 1**
 
 * **Focus**: Representation of data, permutations and combinations, probability, discrete random variables, Normal distribution.
 * **Link**: [Explore Statistics 1 &rarr;](s1.html)
 
+<img src="../../../assets/images/math/a-level/cie/s2.svg" class="program-card-img" alt="Probability & Statistics 2 S2">
+
 ### Probability & Statistics 2 (S2)
 **Probability & Statistics 2**
 
 * **Focus**: Poisson distribution, linear combinations, continuous random variables, sampling/estimation, hypothesis tests.
 * **Link**: [Explore Statistics 2 &rarr;](s2.html)
+
+<img src="../../../assets/images/math/a-level/cie/further.svg" class="program-card-img" alt="Further Mathematics">
 
 ### Further Mathematics
 **Further Mathematics**
@@ -4595,12 +4677,16 @@ The core units of the Edexcel IAL Mathematics curriculum comprise the following 
 
 *Select the specific exam unit you are preparing for to access notes, formula summaries, and past papers:*
 
+<img src="../../../assets/images/math/a-level/edexcel/p1.svg" class="program-card-img" alt="Pure Mathematics 1 & 2 P1-P2">
+
 ### Pure Mathematics 1 & 2 (P1-P2)
 **Pure Mathematics 1 & 2**
 
 * **P1 Focus**: Quadratics, graphs, coordinate geometry, basic differentiation and integration.
 * **P2 Focus**: Geometric series, logarithms, trigonometry, trapezium rule, circle coordinate geometry.
 * [Explore P1 &rarr;](p1.html) | [Explore P2 &rarr;](p2.html)
+
+<img src="../../../assets/images/math/a-level/edexcel/p3.svg" class="program-card-img" alt="Pure Mathematics 3 & 4 P3-P4">
 
 ### Pure Mathematics 3 & 4 (P3-P4)
 **Pure Mathematics 3 & 4**
@@ -4609,6 +4695,8 @@ The core units of the Edexcel IAL Mathematics curriculum comprise the following 
 * **P4 Focus**: Parametric coordinates, vectors, integration by parts/substitution, partial fractions.
 * [Explore P3 &rarr;](p3.html) | [Explore P4 &rarr;](p4.html)
 
+<img src="../../../assets/images/math/a-level/edexcel/m1.svg" class="program-card-img" alt="Mechanics 1 & 2 M1-M2">
+
 ### Mechanics 1 & 2 (M1-M2)
 **Mechanics Units 1 & 2**
 
@@ -4616,12 +4704,16 @@ The core units of the Edexcel IAL Mathematics curriculum comprise the following 
 * **M2 Focus**: Projectile motion, centres of mass, work-energy-power, direct impact collisions.
 * [Explore M1 &rarr;](m1.html) | [Explore M2 &rarr;](m2.html)
 
+<img src="../../../assets/images/math/a-level/edexcel/s1.svg" class="program-card-img" alt="Probability & Statistics 1 & 2 S1-S2">
+
 ### Statistics 1 & 2 (S1-S2)
 **Probability & Statistics Units 1 & 2**
 
 * **S1 Focus**: Histograms, dispersion, conditional probability, correlation coefficient, Normal distribution.
 * **S2 Focus**: Binomial and Poisson distributions, continuous uniform distribution, hypothesis testing.
 * [Explore S1 &rarr;](s1.html) | [Explore S2 &rarr;](s2.html)
+
+<img src="../../../assets/images/math/a-level/edexcel/further.svg" class="program-card-img" alt="Further Pure Mathematics FP1-FP2">
 
 ### Further Pure Mathematics (FP1-FP2)
 **Further Mathematics Units**
@@ -5610,12 +5702,16 @@ NKK-Education Hub provides dedicated exam prep resources, structured topic notes
 
 Select your specific target exam to access official past papers, Desmos graphing calculator guides, and core formula sheets:
 
+<img src="../../assets/images/math/sat-ap/ssat.svg" class="program-card-img" alt="SSAT Mathematics">
+
 ### SSAT Mathematics
 **Secondary School Admission Test Preparation**
 
 - Focus: Mental math shortcuts, logical reasoning, advanced arithmetic, algebraic equations, and spatial geometry.
 - Master speed-solving tactics and non-calculator mathematics under timed exam conditions.
 - [Explore SSAT Resources &rarr;](ssat.html)
+
+<img src="../../assets/images/math/sat-ap/sat.svg" class="program-card-img" alt="Digital SAT Mathematics">
 
 ### Digital SAT Mathematics
 **New Technology SAT Math Preparation**
@@ -5624,12 +5720,16 @@ Select your specific target exam to access official past papers, Desmos graphing
 - Integrate desmos graphing calculator shortcuts directly embedded into the digital exam interface to optimize timing.
 - [Explore SAT Resources &rarr;](sat.html)
 
+<img src="../../assets/images/math/sat-ap/ap-calculus.svg" class="program-card-img" alt="AP Calculus AB & BC">
+
 ### AP Calculus AB & BC
 **AP Calculus Examination Prep**
 
 - Focus (Calculus AB): Limits, derivatives, integrals, and fundamental applications.
 - Focus (Calculus BC): Covers all of Calculus AB plus infinite series, parametric/polar equations, and vector calculus.
 - [Explore AP Calculus Resources &rarr;](ap-calculus.html)
+
+<img src="../../assets/images/math/sat-ap/ap-stats.svg" class="program-card-img" alt="AP Statistics">
 
 ### AP Statistics
 **AP Probability and Statistics Prep**
@@ -7705,11 +7805,15 @@ Welcome to the specialized IB Mathematics learning portal. We provide comprehens
 
 To get started, select your specific course below. Each page links directly to detailed study notes, syllabus checklists, topic-based worksheets, and actual exam past papers.
 
+<img src="../../images/ib_math_aa_hl.webp" class="program-card-img ib-math-card-img" alt="Math AA HL">
+
 ### Math AA HL
 **Analysis & Approaches (Higher Level)**
 * Designed for students intending to study engineering, mathematics, physics, or computer science.
 * Emphasizes theoretical mathematical proofs, algebraic structures, and strong non-calculator skills.
 * [**Explore Resources →**](aa-hl.html)
+
+<img src="../../images/ib_math_aa_sl.webp" class="program-card-img ib-math-card-img" alt="Math AA SL">
 
 ### Math AA SL
 **Analysis & Approaches (Standard Level)**
@@ -7717,11 +7821,15 @@ To get started, select your specific course below. Each page links directly to d
 * Focuses on analytical algebraic skills, functions, trigonometry, and calculus with high academic rigor.
 * [**Explore Resources →**](aa-sl.html)
 
+<img src="../../images/ib_math_ai_hl.webp" class="program-card-img ib-math-card-img" alt="Math AI HL">
+
 ### Math AI HL
 **Applications & Interpretation (Higher Level)**
 * Ideal for students targeting economics, finance, data science, or social science statistics.
 * Heavy emphasis on technology and graphing display calculators (GDC), matrices, probability, and complex mathematical modeling.
 * [**Explore Resources →**](ai-hl.html)
+
+<img src="../../images/ib_math_ai_sl.webp" class="program-card-img ib-math-card-img" alt="Math AI SL">
 
 ### Math AI SL
 **Applications & Interpretation (Standard Level)**
@@ -9205,12 +9313,16 @@ NKK-Education Hub provides comprehensive study materials, core notes, and practi
 
 Select your specific course to access practice worksheets, core summaries, and key formulas:
 
+<img src="../../assets/images/math/common-core/math-grade-6-8.svg" class="program-card-img" alt="Math Grade 6-8">
+
 ### Math Grade 6-8
 **US Middle School Mathematics Curriculum**
 
 - Focus: Mental math strategies, logical reasoning, advanced arithmetic, introduction to algebra, and basic spatial geometry.
 - Practice high-speed problem-solving skills and non-calculator mathematics.
 - [Explore Math Grade 6-8 Resources &rarr;](math-grade-6-8.html)
+
+<img src="../../assets/images/math/common-core/algebra1.svg" class="program-card-img" alt="Algebra 1">
 
 ### Algebra 1
 **High School Algebra 1**
@@ -9219,6 +9331,8 @@ Select your specific course to access practice worksheets, core summaries, and k
 - Establishes a fundamental algebraic foundation crucial for high school success.
 - [Explore Algebra 1 Resources &rarr;](algebra1.html)
 
+<img src="../../assets/images/math/common-core/geometry.svg" class="program-card-img" alt="Geometry">
+
 ### Geometry
 **High School Geometry**
 
@@ -9226,11 +9340,15 @@ Select your specific course to access practice worksheets, core summaries, and k
 - Enhances spatial reasoning and logical geometric proof construction.
 - [Explore Geometry Resources &rarr;](geometry.html)
 
+<img src="../../assets/images/math/common-core/algebra2.svg" class="program-card-img" alt="Algebra 2">
+
 ### Algebra 2
 **High School Algebra 2**
 
 - Focus: Exponential and logarithmic functions, complex numbers, non-linear equations, basic matrices, probability, and advanced trig.
 - [Explore Algebra 2 Resources &rarr;](algebra2.html)
+
+<img src="../../assets/images/math/common-core/pre-calculus.svg" class="program-card-img" alt="Pre-Calculus">
 
 ### Pre-Calculus
 **High School Pre-Calculus**
@@ -9938,11 +10056,15 @@ Welcome, students! IGCSE Chemistry introduces you to essential scientific concep
 
 Select your specific syllabus below to access past papers, syllabus-aligned study notes, and targeted topical practice worksheets:
 
+<img src="../../images/cie_igcse_chemistry_0620.webp" class="program-card-img igcse-chem-card-img" alt="CIE IGCSE Chemistry 0620">
+
 ### CIE IGCSE Chemistry (0620)
 **Cambridge IGCSE Single Chemistry Syllabus**
 
 * Explore atomic structures, redox reactions, acids & bases, basic organic chemistry, and environmental chemistry.
 * [Explore Resources (0620) →](cie-0620.html)
+
+<img src="../../images/edexcel_igcse_chemistry_4ch1.webp" class="program-card-img igcse-chem-card-img" alt="Edexcel IGCSE Chemistry 4CH1">
 
 ### Edexcel IGCSE Chemistry (4CH1)
 **Pearson Edexcel International GCSE Single Chemistry Syllabus**
@@ -9950,11 +10072,15 @@ Select your specific syllabus below to access past papers, syllabus-aligned stud
 * Deep-dive into industrial chemical processes (Haber, Contact, etc.), organic chemistry of alkanes/alkenes/alcohols/esters, and quantitative stoichiometry.
 * [Explore Resources (4CH1) →](edexcel-4ch1.html)
 
+<img src="../../images/cie_igcse_science_chemistry.webp" class="program-card-img igcse-chem-card-img" alt="CIE IGCSE Science Chemistry">
+
 ### CIE IGCSE Science_Chemistry
 **Cambridge IGCSE Combined Science (0653) & Co-ordinated Sciences (0654)**
 
 * Mapped syllabus study notes and topical questions specifically tailored for the Chemistry components of CIE Double and Combined Science.
 * [Explore Resources (Science) →](cie-science-chemistry.html)
+
+<img src="../../images/edexcel_igcse_science_chemistry.webp" class="program-card-img igcse-chem-card-img" alt="Edexcel IGCSE Science Chemistry">
 
 ### Edexcel IGCSE Science-Chemistry
 **Pearson Edexcel International GCSE Science (Double Award) (4SD0)**
@@ -10359,17 +10485,23 @@ Welcome, students! The A-Level Chemistry curriculum is renowned for its vast exp
 
 Select your specific exam board below to access actual past papers, syllabus-aligned study notes, and targeted reaction mechanism sheets:
 
+<img src="../../images/a_level_cie_chemistry_9701.webp" class="program-card-img" alt="A-Level CIE Chemistry 9701">
+
 ### A-Level CIE Chemistry (9701)
 **Cambridge Assessment International Education**
 
 * Access academic notes and exam resources mapped from Paper 1 (Multiple Choice) to Paper 5 (Planning, Analysis and Evaluation of experimental data).
 * [Explore CIE Resources →](cie/index.html)
 
+<img src="../../images/a_level_edexcel_chem.webp" class="program-card-img" alt="A-Level Edexcel Chemistry">
+
 ### A-Level Edexcel Chemistry
 **Pearson Edexcel International Advanced Level (IAL)**
 
 * Navigate the modular exam structure from IAS (Units 1-3) to IA2 (Units 4-6). Focus on mechanisms, thermodynamics, and laboratory investigation notes.
 * [Explore Edexcel Resources →](edexcel/index.html)
+
+<img src="../../images/a_level_chem_other_exam_boards.webp" class="program-card-img" alt="Other Exam Boards Chemistry">
 
 ### Other Exam Boards (Others)
 **AQA, OxfordAQA, and Advanced Supplementary Resources**
@@ -11861,10 +11993,14 @@ Pearson Edexcel IAL Chemistry cung cấp một hệ thống học tập modular 
 
 Anh/chị hãy chọn đúng cấp độ học phần hiện tại để đi thẳng tới kho đề thi past papers, sơ đồ tóm tắt lý thuyết và phương pháp làm bài đạt điểm tối đa:
 
+<img src="../../../assets/images/chem/a-level/edexcel/as.svg" class="program-card-img" alt="AS Level Chemistry IAS">
+
 ### AS Level Chemistry (IAS)
 **Cấp độ cơ bản (Năm thứ nhất A-Level)**
 * Bao gồm các kiến thức nền tảng trong các Unit 1, Unit 2 và Unit 3 thực hành: Cấu tạo chất, liên kết hóa học, nhiệt động học cơ bản, hóa vô cơ nhóm 2 & 7, ancol, dẫn xuất halogen và kỹ năng phòng thí nghiệm AS.
 * [Khám Phá Tài Nguyên AS Level →](as.html)
+
+<img src="../../../assets/images/chem/a-level/edexcel/a2.svg" class="program-card-img" alt="A Level Chemistry IA2">
 
 ### A Level Chemistry (IA2)
 **Cấp độ nâng cao (Năm thứ hai A-Level)**
@@ -12305,11 +12441,15 @@ Welcome, students! This specialized IB Chemistry learning portal provides compre
 
 Select the appropriate program level below to access detailed study notes, syllabus-mapped practice questions, and key chemical formula guides:
 
+<img src="../../images/ib_chem_hl.png" class="program-card-img" alt="IB Chemistry HL">
+
 ### IB Chemistry HL
 **Higher Level**
 * Designed for students pursuing careers in Medicine, Pharmacy, Chemical Engineering, Materials Science, or Biology.
 * Covers all SL core topics plus Advanced Higher Level (AHL) modules in kinetics, equilibrium, thermodynamics, and complex organic chemistry.
 * [Explore Resources →](hl.html)
+
+<img src="../../images/ib_chem_sl.png" class="program-card-img" alt="IB Chemistry SL">
 
 ### IB Chemistry SL
 **Standard Level**

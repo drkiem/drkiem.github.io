@@ -892,3 +892,572 @@ body.quarto-dark ::-webkit-scrollbar-thumb:hover {
     font-size: 0.85rem;
   }
 }
+
+/* ==========================================================================
+   CSS CHO TRANG ABOUT ME & PHILOSOPHY
+   ========================================================================== */
+
+/* Hero Banner chuyên nghiệp */
+.about-hero-section {
+  position: relative;
+  background-image: url('images/academic_workspace.png');
+  background-size: cover;
+  background-position: center;
+  border-radius: var(--radius-lg);
+  padding: 4rem 2rem;
+  margin-bottom: 3rem;
+  box-shadow: var(--shadow-lg);
+  border: 1px solid var(--border);
+  overflow: hidden;
+}
+
+.about-hero-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, rgba(15, 23, 42, 0.9) 0%, rgba(15, 23, 42, 0.75) 100%);
+  z-index: 1;
+}
+
+body.quarto-dark .about-hero-overlay {
+  background: linear-gradient(135deg, rgba(8, 13, 22, 0.95) 0%, rgba(8, 13, 22, 0.8) 100%);
+}
+
+.about-hero-container {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  max-width: 1000px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.about-profile-wrapper {
+  flex-shrink: 0;
+}
+
+.about-profile-pic {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid rgba(255, 255, 255, 0.8);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.3s ease;
+}
+
+.about-profile-pic:hover {
+  transform: scale(1.05) rotate(2deg);
+  border-color: var(--primary);
+}
+
+.about-hero-details h1 {
+  font-size: 2.2rem;
+  font-weight: 800;
+  margin-top: 0;
+  border-bottom: none;
+  padding-bottom: 0;
+  color: #ffffff !important;
+  letter-spacing: -0.03em;
+  background: linear-gradient(to right, #ffffff, #93c5fd);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  line-height: 1.25;
+}
+
+.about-hero-details .subtitle {
+  font-family: var(--font-title);
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: #38bdf8;
+  margin-top: 0.5rem;
+  margin-bottom: 1.25rem;
+  letter-spacing: -0.01em;
+}
+
+.about-hero-details .welcome-hook {
+  font-size: 1rem;
+  color: #cbd5e1;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* Timeline - Lộ trình học thuật */
+.timeline-container {
+  position: relative;
+  max-width: 800px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+}
+
+.timeline-container::after {
+  content: '';
+  position: absolute;
+  width: 2px;
+  background-color: var(--border);
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -1px;
+}
+
+.timeline-item {
+  padding: 10px 40px;
+  position: relative;
+  background-color: inherit;
+  width: 50%;
+  box-sizing: border-box;
+}
+
+.timeline-item::after {
+  content: '';
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  right: -8px;
+  background-color: var(--bg-page);
+  border: 4px solid var(--primary);
+  top: 25px;
+  border-radius: 50%;
+  z-index: 3;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.timeline-item.left {
+  left: 0;
+  text-align: right;
+}
+
+.timeline-item.right {
+  left: 50%;
+}
+
+.timeline-item.right::after {
+  left: -8px;
+}
+
+.timeline-content {
+  padding: 1.5rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+  display: inline-block;
+  text-align: left;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.timeline-content:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--primary);
+}
+
+.timeline-item:hover::after {
+  background-color: var(--primary);
+  transform: scale(1.2);
+}
+
+.timeline-icon-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: var(--radius-sm);
+  background-color: var(--primary-glow);
+  color: var(--primary);
+  margin-bottom: 1rem;
+}
+
+.timeline-content h3 {
+  font-size: 1.15rem;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.timeline-content .timeline-degree {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.5rem;
+}
+
+.timeline-content p {
+  font-size: 0.9rem;
+  color: var(--text-main);
+  margin: 0;
+  line-height: 1.5;
+}
+
+/* Huy hiệu kinh nghiệm (Experience Badges) */
+.badge-deck {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  max-width: 800px;
+  margin: 2rem auto;
+}
+
+.premium-badge-card {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  padding: 1.5rem;
+  background: var(--glass-bg);
+  backdrop-filter: var(--glass-blur);
+  -webkit-backdrop-filter: var(--glass-blur);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.premium-badge-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--primary);
+}
+
+.badge-number {
+  font-family: var(--font-title);
+  font-size: 2.2rem;
+  font-weight: 800;
+  color: var(--primary);
+  line-height: 1;
+}
+
+.badge-text {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text-title);
+  line-height: 1.4;
+}
+
+/* Philosophy Pullquote */
+.philosophy-quote-box {
+  position: relative;
+  background: linear-gradient(135deg, var(--callout-note-bg) 0%, rgba(37, 99, 235, 0.03) 100%);
+  border-left: 5px solid var(--primary);
+  border-radius: var(--radius-md);
+  padding: 2.5rem 3rem;
+  max-width: 800px;
+  margin: 3.5rem auto;
+  box-shadow: var(--shadow-sm);
+}
+
+.philosophy-quote-box::before {
+  content: "“";
+  position: absolute;
+  font-family: var(--font-title);
+  font-size: 8rem;
+  color: rgba(37, 99, 235, 0.08);
+  top: -2.5rem;
+  left: 1rem;
+  line-height: 1;
+  font-weight: 800;
+}
+
+.philosophy-quote-text {
+  font-family: var(--font-title);
+  font-size: 1.25rem;
+  font-weight: 500;
+  font-style: italic;
+  color: var(--text-title);
+  line-height: 1.6;
+  margin: 0;
+  position: relative;
+  z-index: 2;
+}
+
+/* Contact Grid & Popover */
+.contact-container {
+  max-width: 800px;
+  margin: 3rem auto;
+  text-align: center;
+}
+
+.about-contact-grid {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.btn-contact {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.25rem;
+  background-color: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  color: var(--text-title) !important;
+  font-family: var(--font-title);
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-decoration: none !important;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  cursor: pointer;
+  position: relative;
+}
+
+.btn-contact:hover {
+  background-color: var(--border);
+  border-color: var(--border-hover);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+  color: var(--primary) !important;
+}
+
+/* Zalo Popover */
+.zalo-qr-popover {
+  position: absolute;
+  bottom: 125%;
+  left: 50%;
+  transform: translateX(-50%) translateY(10px);
+  width: 220px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-lg);
+  padding: 0.75rem;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s ease;
+  z-index: 50;
+  pointer-events: none;
+}
+
+.zalo-qr-popover::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border-width: 6px;
+  border-style: solid;
+  border-color: var(--bg-card) transparent transparent transparent;
+}
+
+.btn-contact:hover .zalo-qr-popover {
+  opacity: 1;
+  visibility: visible;
+  transform: translateX(-50%) translateY(0);
+}
+
+.zalo-qr-img {
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius-sm);
+  display: block;
+}
+
+.zalo-popover-text {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  margin-top: 0.4rem;
+  margin-bottom: 0;
+  font-weight: 500;
+}
+
+/* Đánh giá sự tương thích của màn hình di động */
+@media (max-width: 768px) {
+  .about-hero-container {
+    flex-direction: column;
+    text-align: center;
+    gap: 1.5rem;
+  }
+  
+  .about-hero-details h1 {
+    font-size: 1.8rem;
+  }
+
+  .timeline-container::after {
+    left: 31px;
+  }
+
+  .timeline-item {
+    width: 100%;
+    padding-left: 70px;
+    padding-right: 25px;
+  }
+
+  .timeline-item::after {
+    left: 23px;
+  }
+
+  .timeline-item.left {
+    text-align: left;
+  }
+
+  .timeline-item.right {
+    left: 0;
+  }
+
+  .badge-deck {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .philosophy-quote-box {
+    padding: 2rem 1.5rem;
+  }
+
+  .philosophy-quote-box::before {
+    font-size: 6rem;
+    top: -1.5rem;
+    left: 0.5rem;
+  }
+  
+  .philosophy-quote-text {
+    font-size: 1.1rem;
+  }
+}
+
+/* ==========================================================================
+   CSS CHO HÌNH ẢNH TRÊN CÁC THẺ (CARD IMAGES)
+   ========================================================================== */
+
+/* 1. Định dạng chung cho hình ảnh ở CÁC TRANG CON (program cards) - Đã vừa vặn */
+.program-card-img {
+  width: 100% !important;
+  height: 180px !important;
+  margin-top: 0 !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  margin-bottom: 1.5rem !important;
+  background-color: rgba(255, 255, 255, 0.02) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: var(--radius-sm) !important;
+  display: block !important;
+  box-sizing: border-box !important;
+  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1),
+              box-shadow 0.4s cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+
+.program-card-img[src$=".png"], .program-card-img[src$=".webp"] {
+  object-fit: cover !important;
+  padding: 0 !important;
+}
+
+.program-card-img[src$=".svg"] {
+  object-fit: contain !important;
+  padding: 0.4rem !important;
+}
+
+/* 2. Định dạng riêng cho 8 hình ảnh ở TRANG CHỦ (gateway cards) - Đã căn chỉnh vừa vặn */
+.gateway-card-img {
+  width: 100% !important;
+  aspect-ratio: 2 / 1 !important; /* Thiết kế tỷ lệ 2:1 chuẩn theo yêu cầu */
+  height: auto !important; /* Tự động tính chiều cao để vừa khít tỉ lệ */
+  object-fit: cover !important; /* Phủ đầy khung hình 2:1 đẹp mắt */
+  padding: 0 !important; /* Không đệm viền ngoài để ảnh lấp đầy khung */
+  margin-top: 0 !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  margin-bottom: 1.25rem !important;
+  background-color: rgba(255, 255, 255, 0.02) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: var(--radius-sm) !important;
+  display: block !important;
+  box-sizing: border-box !important;
+  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1),
+              box-shadow 0.4s cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+
+body.quarto-light .gateway-card-img,
+body.quarto-light .program-card-img {
+  background-color: rgba(0, 0, 0, 0.02) !important;
+}
+
+/* Hiệu ứng nhấc nhẹ và bóng mờ khi di chuột vào thẻ */
+.gateway-card:hover .gateway-card-img, 
+.program-card:hover .program-card-img {
+  transform: translateY(-2px) scale(1.02) !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05) !important;
+}
+
+/* 3. Định dạng riêng cho hình ảnh ở IGCSE, A-LEVEL & IB MATHEMATICS (tỷ lệ 2:1 tự co dãn) */
+.igcse-chem-card-img, .igcse-math-card-img, .alevel-math-card-img, .ib-math-card-img {
+  width: 100% !important;
+  aspect-ratio: 2 / 1 !important; /* Thiết kế tỷ lệ 2:1 chuẩn theo yêu cầu */
+  height: auto !important; /* Tự động tính chiều cao để vừa khít tỉ lệ */
+  object-fit: cover !important; /* Đầy khung đẹp mắt */
+  padding: 0 !important; /* Không đệm viền để ảnh lấp đầy khung */
+}
+
+/* 4. Định dạng bản đồ Google Maps trên trang About */
+.map-container {
+  width: 100%;
+  margin-top: 1.5rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
+}
+
+.map-container iframe {
+  display: block;
+  width: 100%;
+  height: 350px;
+  border: 0;
+}
+
+/* 5. Định dạng danh sách liên hệ tối giản trên trang About */
+.about-contact-list {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  background: rgba(255, 255, 255, 0.01);
+  overflow: hidden;
+}
+
+.about-contact-list li {
+  font-size: 1.05rem;
+  padding: 0.85rem 1.25rem;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.about-contact-list li:last-child {
+  border-bottom: none;
+}
+
+.about-contact-list li strong {
+  color: var(--primary);
+  font-weight: 600;
+}
+
+.about-contact-list li span, 
+.about-contact-list li a {
+  color: var(--text-color);
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.about-contact-list li a:hover {
+  color: var(--primary);
+  text-decoration: underline;
+}
+
+body.quarto-light .about-contact-list {
+  background: rgba(0, 0, 0, 0.01);
+}

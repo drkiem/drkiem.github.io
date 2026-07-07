@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%">
+  <defs>
+    <!-- Silver Gradient for AP/SAT cards -->
+    <linearGradient id="silverGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E2E8F0" />
+      <stop offset="100%" stop-color="#CBD5E1" />
+    </linearGradient>
+
+    <!-- IBO Logo Gradient -->
+    <radialGradient id="ibLogoGrad" cx="40%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#60A5FA"/>
+      <stop offset="70%" stop-color="#1E40AF"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </radialGradient>
+
+    <!-- Card Clipping Shape for Banner -->
+    <clipPath id="cardClip">
+      <rect x="0" y="0" width="800" height="450" rx="24"/>
+    </clipPath>
+
+    <!-- Technical Grid Pattern -->
+    <pattern id="lightGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(0, 0, 0, 0.03)" stroke-width="0.8"/>
+    </pattern>
+
+    <!-- Glow filter for curves -->
+    <filter id="glow-dark" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="3.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  
+    <!-- Arrow Marker -->
+    <marker id="arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8 5 L 0 8.5 z" fill="context-stroke" />
+    </marker>
+    
+  </defs>
+
+  <!-- Card Background -->
+  <rect width="800" height="450" rx="24" fill="#E2F0D9" stroke="rgba(0,0,0,0.06)" stroke-width="2"/>
+  <rect width="800" height="450" rx="24" fill="url(#lightGrid)"/>
+
+  <!-- Logo Placement -->
+  
+    <g transform="translate(520, 50)">
+      <path d="M -15,-15 L 15,-15 L 15,0 C 15,9 8,16 0,20 C -8,16 -15,9 -15,0 Z" fill="#A80000" stroke="#FFFFFF" stroke-width="1.2"/>
+      <line x1="-15" y1="-2" x2="15" y2="-2" stroke="#FFFFFF" stroke-width="3"/>
+      <line x1="-1" y1="-15" x2="-1" y2="20" stroke="#FFFFFF" stroke-width="3"/>
+      <line x1="-15" y1="-2" x2="15" y2="-2" stroke="#A80000" stroke-width="0.6"/>
+      <line x1="-1" y1="-15" x2="-1" y2="20" stroke="#A80000" stroke-width="0.6"/>
+      <circle cx="-8" cy="-8.5" r="2.2" fill="#EAB308"/>
+      <circle cx="6" cy="-8.5" r="2.2" fill="#EAB308"/>
+      <circle cx="-8" cy="7.5" r="2.2" fill="#EAB308"/>
+      <circle cx="6" cy="7.5" r="2.2" fill="#EAB308"/>
+      <rect x="-3.5" y="-4.5" width="5" height="5" fill="#EAB308" rx="0.5"/>
+      <g transform="translate(25, -6)">
+        <text x="0" y="8" font-family="'Inter', -apple-system, sans-serif" font-weight="900" font-size="11.5" fill="#1E293B" letter-spacing="-0.1">Cambridge Assessment</text>
+        <text x="0" y="20" font-family="'Inter', -apple-system, sans-serif" font-weight="500" font-size="10.5" fill="#475569">International Education</text>
+      </g>
+    </g>
+    
+
+  <!-- AP/SAT Badges -->
+  
+
+  <!-- Left Content Panel -->
+  <g transform="translate(60, 0)">
+    <!-- Title Line 1 -->
+    <text x="0" y="140" font-family="'Inter', -apple-system, sans-serif" font-weight="900" font-size="44" fill="#000000" letter-spacing="-1">IGCSE</text>
+    
+    <!-- Title Line 2 -->
+    <text x="0" y="210" font-family="'Inter', -apple-system, sans-serif" font-weight="900" font-size="38" fill="#000000" letter-spacing="-0.5">International Math</text>
+    
+    <!-- Subtitle (Curriculum name / Board / Level) -->
+    <text x="0" y="260" font-family="'Inter', -apple-system, sans-serif" font-weight="600" font-size="20" fill="#334155" letter-spacing="-0.2">Cambridge 0607</text>
+  </g>
+
+  <!-- Right Illustration Panel -->
+  <g transform="translate(0, 0)">
+    
+        <!-- Graphic calculator sketch drawing curve -->
+        <g transform="translate(480, 95)">
+          <rect x="0" y="0" width="150" height="230" rx="10" fill="#0E1E28" stroke="rgba(0,0,0,0.3)" stroke-width="3"/>
+          <rect x="0" y="0" width="150" height="230" rx="10" fill="none" stroke="#115E59" stroke-width="1.5" filter="url(#glow-dark)"/>
+          <rect x="12" y="15" width="126" height="95" rx="3" fill="#E2F0D9" stroke="rgba(0,0,0,0.15)" stroke-width="1.5"/>
+          
+          <line x1="20" y1="62" x2="130" y2="62" stroke="rgba(0,0,0,0.15)"/>
+          <line x1="75" y1="20" x2="75" y2="105" stroke="rgba(0,0,0,0.15)"/>
+          
+          <path d="M 25 62 C 45 20, 65 20, 75 62 S 110 105, 130 62" fill="none" stroke="#115E59" stroke-width="2.2" filter="url(#glow-dark)"/>
+          
+          <!-- keys -->
+          <g fill="rgba(255,255,255,0.1)" stroke="rgba(0,0,0,0.2)" stroke-width="0.7">
+            <rect x="15" y="120" width="18" height="8" rx="1" />
+            <rect x="38" y="120" width="18" height="8" rx="1" />
+            <rect x="61" y="120" width="18" height="8" rx="1" />
+            <rect x="84" y="120" width="18" height="8" rx="1" />
+            <rect x="107" y="120" width="18" height="8" rx="1" />
+            
+            <rect x="15" y="140" width="22" height="12" rx="1.5" fill="rgba(15, 61, 89, 0.15)" stroke="#0EA5E9"/>
+            <rect x="42" y="140" width="22" height="12" rx="1.5" />
+            <rect x="69" y="140" width="22" height="12" rx="1.5" />
+            <circle cx="118" cy="150" r="8" />
+          </g>
+        </g>
+        
+  </g>
+
+  <!-- Desmos Logo overlay -->
+  
+
+  <!-- Bottom-Right Banner clipped by card rounded corner -->
+  <g clip-path="url(#cardClip)">
+    <path d="M 370,450 L 370,380 C 370,362 385,348 402,348 L 800,348 L 800,450 Z" fill="#0F3D59"/>
+    <text x="590" y="408" font-family="'Inter', -apple-system, sans-serif" font-weight="800" font-size="23" fill="#FFFFFF" text-anchor="middle" letter-spacing="-0.2">GDC Graphing</text>
+  </g>
+</svg>
