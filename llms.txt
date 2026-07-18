@@ -11,6 +11,7 @@
 - [AP Physics & Special Advanced Placement Subjects](/others/ap.html): Chương Trình Luyện Thi Các Môn AP Đặc Biệt Phục Vụ Du Học Mỹ
 - [About Me & Philosophy](/about.html): Detailed course resources and past papers.
 - [NKK-Education Hub](/index.html): Premium Academic Gateways for International Mathematics & Chemistry
+- [Test Bank](/test_bank.html): Exam Preparation Resources for International Mathematics & Chemistry
 
 ## IB Mathematics
 *Study notes and past papers for Analysis & Approaches (AA) and Applications & Interpretation (AI) pathways.*
