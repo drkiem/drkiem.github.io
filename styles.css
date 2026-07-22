@@ -1461,3 +1461,103 @@ body.quarto-light .program-card-img {
 body.quarto-light .about-contact-list {
   background: rgba(0, 0, 0, 0.01);
 }
+
+
+/* ==========================================================================
+   CSS CHO MỤC SÁCH (IB MATHEMATICS BOOKS GRID)
+   ========================================================================== */
+
+.book-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
+
+.book-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-card, #ffffff);
+  border: 1px solid var(--border, rgba(0, 0, 0, 0.08));
+  border-radius: var(--radius-md, 12px);
+  padding: 1.25rem;
+  box-shadow: var(--shadow-sm, 0 4px 6px rgba(0, 0, 0, 0.04));
+  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1),
+              box-shadow 0.3s cubic-bezier(0.16, 1, 0.3, 1),
+              border-color 0.3s ease;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+.book-card:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-md, 0 10px 20px rgba(0, 0, 0, 0.08));
+  border-color: var(--primary);
+}
+
+.book-cover-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.02);
+  border-radius: var(--radius-sm, 8px);
+  padding: 0.75rem;
+  min-height: 280px;
+  margin-bottom: 1rem;
+}
+
+body.quarto-dark .book-cover-container {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.book-cover-img {
+  max-height: 240px;
+  max-width: 100%;
+  object-fit: contain;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.12);
+  border-radius: 4px;
+  transition: transform 0.3s ease;
+}
+
+.book-card:hover .book-cover-img {
+  transform: scale(1.03);
+}
+
+.book-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  flex-grow: 1;
+  margin-bottom: 1.25rem;
+}
+
+.book-title {
+  font-family: var(--font-title);
+  font-size: 0.95rem;
+  font-weight: 700;
+  margin: 0;
+  line-height: 1.35;
+  color: var(--text-title);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  min-height: 2.7em;
+}
+
+.book-meta {
+  font-size: 0.825rem;
+  color: var(--text-muted);
+  line-height: 1.3;
+}
+
+.book-download-btn {
+  width: 100%;
+  border-radius: var(--radius-sm, 8px);
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+}

@@ -3,79 +3,79 @@ Path: /test_bank.html
 Subtitle: Exam Preparation Resources for International Mathematics & Chemistry
 ----------------------------------------
 
-# Introduction
-
 Chào mừng các em học sinh đến với Test Bank của NKK-Education Hub. Dưới đây là hệ thống các bài test được thiết kế theo từng môn học, dùng để học sinh tự đánh giá khả năng của mình và cũng là nơi để thầy giao bài tập cho học sinh. Mỗi bài test sẽ có hai format là pdf để các bạn có thể download về và forms dùng để học sinh nộp bài.
 
 ------------------------------------------------------------------------
 
-# 1. INTERNATIONAL BACCALAUREATE (IB)
+## Subject Index
 
-## IB Mathematics
+## IB (International Baccalaureate)
+
+### IB Mathematics {#ib-math}
 
 Hệ thống đề thực luyện bám sát cấu trúc IBO dành cho hai nhánh Analysis & Approaches (AA) và Applications & Interpretation (AI).
 
-### IB Math AA HL
+#### IB Math AA HL {#ib-math-aa-hl}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
-| 01 | **Test 1:** | [📥 PDF Paper 1](#) | [📝 Google Form](#) |
-| 02 | **Test 2:** | [📥 PDF Paper 2](#) | [📝 Google Form](#) |
-| 03 | **Test 3:** | [📥 PDF Paper 1](#) | [📝 Google Form](#) |
-| 04 | **Test 4:** | [📥 PDF Paper 2](#) | [📝 Google Form](#) |
+| 01 | **Test 1: Test on paper 1, exclusive: induction, counting, polar form complex number, diff.eqn, limit, 60 mins** | [📥 PDF Paper 1](https://drive.google.com/file/d/1VUVOa8dGxvKFFW3g8y7r83JgEXQoRSrq/view?usp=sharing) | [📝 Google Form](https://forms.gle/2h2bp5Tj5jTruis88) |
+| 02 | **Test 2: Test on paper 1, exclusive: induction, counting, polar form complex number, diff.eqn, limit, 60 mins** | [📥 PDF Paper 1](https://drive.google.com/file/d/13yIQuD8ApIpBrA546P2iPgh2eUoeztH1/view?usp=sharing) | [📝 Google Form](https://forms.gle/wBNbKLGcL8s6HpZJ6) |
+| 03 | **Test 3: Test on paper 2, exclusive: induction, counting, polar form complex number, diff.eqn, limit, 90 mins** | [📥 PDF Paper 2](https://drive.google.com/file/d/1ukr8c5vL9zAM1QIAPVWCpgJbvlmVlauQ/view?usp=sharing) | [📝 Google Form](https://forms.gle/nJnfBjSjFmaYZFNM6) |
+| 04 | **Test 4: Test on paper 2, exclusive: induction, counting, polar form complex number, diff.eqn, limit, 60 mins** | [📥 PDF Paper 2](https://drive.google.com/file/d/13fOYtfQuai8F0QxNuP6rnGkUc4pOOvcw/view?usp=sharing) | [📝 Google Form](https://forms.gle/ENicAMy7hU9rSao38) |
 | 05 | **Test 5:** | [📥 PDF Paper 1](#) | [📝 Google Form](#) |
 | 06 | **Test 6:** | [📥 PDF Paper 2](#) | [📝 Google Form](#) |
 | 07 | **Test 7:** | [📥 PDF Paper 3](#) | [📝 Google Form](#) |
 | 08 | **Test 8:** | [📥 PDF Paper 3](#) | [📝 Google Form](#) |
 
-### IB Math AA SL
+#### IB Math AA SL {#ib-math-aa-sl}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
-| 01 | **Test 1:** | [📥 PDF Paper 1](#) | [📝 Google Form](#) |
-| 02 | **Test 2:** | [📥 PDF Paper 2](#) | [📝 Google Form](#) |
-| 03 | **Test 3:** | [📥 PDF Paper 1](#) | [📝 Google Form](#) |
-| 04 | **Test 4:** | [📥 PDF Paper 2](#) | [📝 Google Form](#) |
-| 05 | **Test 5:** | [📥 PDF Paper 1](#) | [📝 Google Form](#) |
+| 01 | **ib_math_aa_sl_p1&2_binomial_expension** | [📥 PDF Paper 1&2](https://drive.google.com/file/d/13jsWKKOVBsIxBENhNZwW4B8klCZdwfgJ/view?usp=drive_link) | [📝 Google Form](https://forms.gle/zUjxzc9vifXgZNju8) |
+| 02 | **ib_math_aa_sl_p1_topic_1_01** | [📥 PDF Paper 1](https://drive.google.com/file/d/14fteoGlPo4beIbxLAt4CjapXWKdq1AlG/view?usp=drive_link) | [📝 Google Form](https://forms.gle/Vj7bKQWr8DgS6buz9) |
+| 03 | **ib_math_aa_sl_p2_topic_1_01** | [📥 PDF Paper 2](https://drive.google.com/file/d/13shg4YffGlDYzPthoCwjc5lvwWh17HQJ/view?usp=drive_link) | [📝 Google Form](https://forms.gle/ueFvbReAKZEN99er7) |
+| 04 | **ib_math_aa_sl_p1_topic_2_01** | [📥 PDF Paper 1](https://drive.google.com/file/d/1ajtZvVsFsOkB6awG0CzD5W-s3qQ5g045/view?usp=drive_link) | [📝 Google Form](https://forms.gle/PekWsUUdFDV9rEmKA) |
+| 05 | **ib_math_aa_sl_p2_topic_2_01** | [📥 PDF Paper 1](https://drive.google.com/file/d/1NpAiHyh32o_95gqJPHDijzZP5mrBdE7c/view?usp=drive_link) | [📝 Google Form](https://forms.gle/wKoL9Qk4P5MFDrLQ7) |
 
-### IB Math AI HL
+#### IB Math AI HL {#ib-math-ai-hl}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
-| 01 | **Test 1:** | [📥 PDF Paper 1](#) | [📝 Google Form](#) |
-| 02 | **Test 2:** | [📥 PDF Paper 2](#) | [📝 Google Form](#) |
-| 03 | **Test 3:** | [📥 PDF Paper 1](#) | [📝 Google Form](#) |
-| 04 | **Test 4:** | [📥 PDF Paper 2](#) | [📝 Google Form](#) |
-| 05 | **Test 5:** | [📥 PDF Paper 1](#) | [📝 Google Form](#) |
-| 06 | **Test 6:** | [📥 PDF Paper 2](#) | [📝 Google Form](#) |
+| 01 | **ib_math_ai_hl_p1_function model-linear regression:** | [📥 PDF Paper 1](https://drive.google.com/file/d/1xS0aI1MksA9Rzwo0k4Lc5iELocvAvW0A/view?usp=drive_link) | [📝 Google Form](https://forms.gle/jnjUKRFexD3FCB3g7) |
+| 02 | **ib_math_ai_hl_p1_complex number_01** | [📥 PDF Paper 1](https://drive.google.com/file/d/1nNaax8PVkSokR7ln4EeecGtVUtxY61ML/view?usp=sharing) | [📝 Google Form](https://forms.gle/tq1wz9CRApX2trN68) |
+| 03 | **ib_math_ai_hl_p1_vector_01** | [📥 PDF Paper 1](https://drive.google.com/file/d/1MlkgIcOCx6iygGlKBvjux3KTY0iOqdTc/view?usp=sharing) | [📝 Google Form](https://forms.gle/YQkxSdPiGso4Fusf9) |
+| 04 | **ib_math_ai_hl_p2_prob_distribution_01** | [📥 PDF Paper 2](https://drive.google.com/file/d/13NhVARKwP_pMmji8ZTEw-GFW5UrhjFHW/view?usp=sharing) | [📝 Google Form](https://forms.gle/p6GBggaFkC5YVn2HA) |
+| 05 | **ib_math_ai_hl_p1_hypothesis_testing_01** | [📥 PDF Paper 1](https://drive.google.com/file/d/1TyNE44Lg4SgmuGqYC0Z9Z_bXcS94Ri0u/view?usp=sharing) | [📝 Google Form](https://forms.gle/DXjsUuQ69923UVP3A) |
+| 06 | **ib_math_ai_hl_p2_hypothesis_testing_01** | [📥 PDF Paper 2](https://drive.google.com/file/d/1NncpB-2ZDzydPvBkKk6gayTns4U1heoB/view?usp=sharing) | [📝 Google Form](https://forms.gle/Q9u9RGsPMEXtCYwJ9) |
 | 07 | **Test 7:** | [📥 PDF Paper 3](#) | [📝 Google Form](#) |
 | 08 | **Test 8:** | [📥 PDF Paper 3](#) | [📝 Google Form](#) |
 
-### IB Math AI SL
+#### IB Math AI SL {#ib-math-ai-sl}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
-| 01 | **Test 1:** | [📥 PDF Paper 1](#) | [📝 Google Form](#) |
-| 02 | **Test 2:** | [📥 PDF Paper 2](#) | [📝 Google Form](#) |
-| 03 | **Test 3:** | [📥 PDF Paper 1](#) | [📝 Google Form](#) |
-| 04 | **Test 4:** | [📥 PDF Paper 2](#) | [📝 Google Form](#) |
-| 05 | **Test 5:** | [📥 PDF Paper 1](#) | [📝 Google Form](#) |
+| 01 | **ib_math_ai_sl_p2_geometry_01** | [📥 PDF Paper 2](https://drive.google.com/file/d/1hCRk6PIqhGujq6r0SrXc2JLKc_JkrOLd/view?usp=sharing) | [📝 Google Form](https://forms.gle/t11sSFr6yargGDGP9) |
+| 02 | **ib_math_ai_sl_p2_voronoi_01** | [📥 PDF Paper 2](https://drive.google.com/file/d/1RKJbhPDwW-svWhCK6MUeM9hUB8dwh3KM/view?usp=sharing) | [📝 Google Form](https://forms.gle/wC7DWbHXgoaf52VN9) |
+| 03 | **ib_math_ai_sl_p2_topic3_trig_geo_voronoi_01** | [📥 PDF Paper 2](https://drive.google.com/file/d/1yOCsaROxUk9gdWwM0ct9Hw5p2_SZr42F/view?usp=sharing) | [📝 Google Form](https://forms.gle/KxVtC34aEhwgqgxy9) |
+| 04 | **ib_math_ai_sl_mock_exam_#1** | [📥 PDF Paper 1&2](https://drive.google.com/file/d/1AhX6QVgImiegLc9QDAiyPEZnmPnan_Ld/view?usp=sharing) | [📝 Google Form](https://forms.gle/uAwziLBi7V9H4S369) |
+| 05 | **ib_math_ai_sl_mock_exam_#2** | [📥 PDF Paper 1&2](https://drive.google.com/file/d/1MITORiOS-yc8JlAxDEHpPtjw235Z4Lfm/view?usp=sharing) | [📝 Google Form](https://forms.gle/RNYrNJNzotUbY2ZAA) |
 
-## IB Chemistry
+### IB Chemistry {#ib-chem}
 
 Các chuyên đề cốt lõi tập trung vào hai trục chính cấu trúc và phản ứng theo syllabus mới của IBO.
 
-### IB Chemistry HL
+#### IB Chemistry HL {#ib-chem-hl}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
-| 01 | **Test 1:** | [📥 PDF Paper 1](#) | [📝 Google Form](#) |
-| 02 | **Test 2:** | [📥 PDF Paper 2](#) | [📝 Google Form](#) |
+| 01 | **Test 1: topic 1-7, 2016 syllabus, Paper 1, 30 mins** | [📥 PDF Paper 1](https://drive.google.com/file/d/1boGj8uzdlDoN33O3aLfN4avV1JTvakM4/view?usp=drive_link) | [📝 Google Form](https://forms.gle/hJczpaCqLoKCEjAEA) |
+| 02 | **Test 2: topic 1-7, 2016 syllabus, Paper 1, 30 mins** | [📥 PDF Paper 1](https://drive.google.com/file/d/1fMnEJz8bGtEVuLvT36jkxp6iWM7VyP1U/view?usp=sharing) | [📝 Google Form](https://forms.gle/6SQ9ddARHx9AC4559) |
 | 03 | **Test 3:** | [📥 PDF Paper 2](#) | [📝 Google Form](#) |
 | 04 | **Test 4:** | [📥 PDF Paper 1](#) | [📝 Google Form](#) |
 | 05 | **Test 5:** | [📥 PDF Paper 2](#) | [📝 Google Form](#) |
 
-### IB Chemistry SL
+#### IB Chemistry SL {#ib-chem-sl}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
@@ -87,21 +87,11 @@ Các chuyên đề cốt lõi tập trung vào hai trục chính cấu trúc và
 
 ------------------------------------------------------------------------
 
-# 2. CAMBRIDGE ADVANCED (A-LEVEL)
+## A-Level (Cambridge Advanced)
 
-## A-Level Mathematics CIE (Syllabus 9709)
+### A-Level Mathematics CIE (Syllabus 9709) {#alevel-math-cie}
 
-### Pure Mathematics 1 (P1)
-
-| STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
-|:--:|:---|:--:|:--:|
-| 01 | **Test 1:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
-| 02 | **Test 2:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
-| 03 | **Test 3:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
-| 04 | **Test 4:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
-| 05 | **Test 5:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
-
-### Pure Mathematics 3 (P3)
+#### Pure Mathematics 1 (P1) {#alevel-cie-p1}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
@@ -111,7 +101,7 @@ Các chuyên đề cốt lõi tập trung vào hai trục chính cấu trúc và
 | 04 | **Test 4:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 | 05 | **Test 5:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 
-### Mechanics (M1)
+#### Pure Mathematics 3 (P3) {#alevel-cie-p3}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
@@ -121,7 +111,7 @@ Các chuyên đề cốt lõi tập trung vào hai trục chính cấu trúc và
 | 04 | **Test 4:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 | 05 | **Test 5:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 
-### Probability & Statistics 1 (S1)
+#### Mechanics (M1) {#alevel-cie-m1}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
@@ -131,7 +121,7 @@ Các chuyên đề cốt lõi tập trung vào hai trục chính cấu trúc và
 | 04 | **Test 4:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 | 05 | **Test 5:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 
-### Probability & Statistics 2 (S2)
+#### Probability & Statistics 1 (S1) {#alevel-cie-s1}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
@@ -141,9 +131,7 @@ Các chuyên đề cốt lõi tập trung vào hai trục chính cấu trúc và
 | 04 | **Test 4:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 | 05 | **Test 5:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 
-## A-Level Mathematics Edexcel (Syllabus WMA11)
-
-### Pure Mathematics 1 (P1)
+#### Probability & Statistics 2 (S2) {#alevel-cie-s2}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
@@ -153,7 +141,9 @@ Các chuyên đề cốt lõi tập trung vào hai trục chính cấu trúc và
 | 04 | **Test 4:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 | 05 | **Test 5:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 
-### Pure Mathematics 2 (P2)
+### A-Level Mathematics Edexcel (Syllabus WMA11)
+
+#### Pure Mathematics 1 (P1) {#alevel-edex-p1}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
@@ -163,7 +153,7 @@ Các chuyên đề cốt lõi tập trung vào hai trục chính cấu trúc và
 | 04 | **Test 4:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 | 05 | **Test 5:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 
-### Pure Mathematics 3 (P3)
+#### Pure Mathematics 2 (P2) {#alevel-edex-p2}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
@@ -173,7 +163,7 @@ Các chuyên đề cốt lõi tập trung vào hai trục chính cấu trúc và
 | 04 | **Test 4:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 | 05 | **Test 5:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 
-### Pure Mathematics 4 (P4)
+#### Pure Mathematics 3 (P3) {#alevel-edex-p3}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
@@ -183,7 +173,7 @@ Các chuyên đề cốt lõi tập trung vào hai trục chính cấu trúc và
 | 04 | **Test 4:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 | 05 | **Test 5:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 
-### Mechanics 1 (M1)
+#### Pure Mathematics 4 (P4) {#alevel-edex-p4}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
@@ -193,7 +183,7 @@ Các chuyên đề cốt lõi tập trung vào hai trục chính cấu trúc và
 | 04 | **Test 4:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 | 05 | **Test 5:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 
-### Mechanics 2 (M2)
+#### Mechanics 1 (M1) {#alevel-edex-m1}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
@@ -203,7 +193,7 @@ Các chuyên đề cốt lõi tập trung vào hai trục chính cấu trúc và
 | 04 | **Test 4:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 | 05 | **Test 5:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 
-### Probability & Statistics 1 (S1)
+#### Mechanics 2 (M2) {#alevel-edex-m2}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
@@ -213,7 +203,7 @@ Các chuyên đề cốt lõi tập trung vào hai trục chính cấu trúc và
 | 04 | **Test 4:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 | 05 | **Test 5:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 
-### Probability & Statistics 2 (S2)
+#### Probability & Statistics 1 (S1) {#alevel-edex-s1}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
@@ -223,32 +213,42 @@ Các chuyên đề cốt lõi tập trung vào hai trục chính cấu trúc và
 | 04 | **Test 4:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 | 05 | **Test 5:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 
-## A-Level Chemistry CIE (Syllabus 9701)
+#### Probability & Statistics 2 (S2) {#alevel-edex-s2}
 
-### AS-Level Chemistry
+| STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
+|:--:|:---|:--:|:--:|
+| 01 | **Test 1:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
+| 02 | **Test 2:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
+| 03 | **Test 3:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
+| 04 | **Test 4:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
+| 05 | **Test 5:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
+
+### A-Level Chemistry CIE (Syllabus 9701)
+
+#### AS-Level Chemistry {#alevel-chem-cie-as}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
 | 01 | **Test 1:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 | 02 | **Test 2:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 
-### A-Level Chemistry
+#### A-Level Chemistry {#alevel-chem-cie-al}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
 | 01 | **Test 1:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 | 02 | **Test 2:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 
-## A-Level Chemistry Edexcel (Syllabus WCH11)
+### A-Level Chemistry Edexcel (Syllabus WCH11)
 
-### AS-Level Chemistry
+#### AS-Level Chemistry {#alevel-chem-edex-as}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
 | 01 | **Test 1:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 | 02 | **Test 2:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 
-### A-Level Chemistry
+#### A-Level Chemistry {#alevel-chem-edex-al}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
@@ -257,19 +257,11 @@ Các chuyên đề cốt lõi tập trung vào hai trục chính cấu trúc và
 
 ------------------------------------------------------------------------
 
-# 3. IGCSE
+## IGCSE
 
-## IGCSE CIE
+### IGCSE CIE {#igcse-cie}
 
-### IGCSE Mathematics (Syllabus 0580)
-
-| STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
-|:--:|:---|:--:|:--:|
-| 01 | **Test 1:** | [📥 PDF P2](#) | [📝 Google Form](#) |
-| 02 | **Test 2:** | [📥 PDF P4](#) | [📝 Google Form](#) |
-| 03 | **Test 3:** | [📥 PDF P4](#) | [📝 Google Form](#) |
-
-### Checkpoint Mathematics
+#### IGCSE Mathematics (Syllabus 0580) {#igcse-cie-0580}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
@@ -277,14 +269,7 @@ Các chuyên đề cốt lõi tập trung vào hai trục chính cấu trúc và
 | 02 | **Test 2:** | [📥 PDF P4](#) | [📝 Google Form](#) |
 | 03 | **Test 3:** | [📥 PDF P4](#) | [📝 Google Form](#) |
 
-### International Mathematics (Syllabus 0607)
-
-| STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
-|:--:|:---|:--:|:--:|
-| 01 | **Test 1:** | [📥 PDF P4](#) | [📝 Google Form](#) |
-| 02 | **Test 2:** | [📥 PDF P6](#) | [📝 Google Form](#) |
-
-### IGCSE Mathematics (Syllabus 0606)
+#### Checkpoint Mathematics {#igcse-cie-checkpoint}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
@@ -292,23 +277,38 @@ Các chuyên đề cốt lõi tập trung vào hai trục chính cấu trúc và
 | 02 | **Test 2:** | [📥 PDF P4](#) | [📝 Google Form](#) |
 | 03 | **Test 3:** | [📥 PDF P4](#) | [📝 Google Form](#) |
 
-### IGCSE Chemistry (Syllabus 0620)
+#### International Mathematics (Syllabus 0607) {#igcse-cie-0607}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
 | 01 | **Test 1:** | [📥 PDF P4](#) | [📝 Google Form](#) |
 | 02 | **Test 2:** | [📥 PDF P6](#) | [📝 Google Form](#) |
 
-### IGCSE Science Chemistry (Syllabus 0654 & 0653)
+#### IGCSE Mathematics (Syllabus 0606) {#igcse-cie-0606}
+
+| STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
+|:--:|:---|:--:|:--:|
+| 01 | **Test 1:** | [📥 PDF P2](#) | [📝 Google Form](#) |
+| 02 | **Test 2:** | [📥 PDF P4](#) | [📝 Google Form](#) |
+| 03 | **Test 3:** | [📥 PDF P4](#) | [📝 Google Form](#) |
+
+#### IGCSE Chemistry (Syllabus 0620) {#igcse-cie-0620}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
 | 01 | **Test 1:** | [📥 PDF P4](#) | [📝 Google Form](#) |
 | 02 | **Test 2:** | [📥 PDF P6](#) | [📝 Google Form](#) |
 
-## IGCSE Edexcel
+#### IGCSE Science Chemistry (Syllabus 0654 & 0653) {#igcse-cie-science}
 
-### IGCSE Mathematics (Syllabus 4MA1)
+| STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
+|:--:|:---|:--:|:--:|
+| 01 | **Test 1:** | [📥 PDF P4](#) | [📝 Google Form](#) |
+| 02 | **Test 2:** | [📥 PDF P6](#) | [📝 Google Form](#) |
+
+### IGCSE Edexcel {#igcse-edexcel}
+
+#### IGCSE Mathematics (Syllabus 4MA1) {#igcse-edex-4ma1}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
@@ -316,7 +316,7 @@ Các chuyên đề cốt lõi tập trung vào hai trục chính cấu trúc và
 | 02 | **Test 2: Proportion ratio and percentage 02, 60 mins** | [📥 PDF](https://drive.google.com/file/d/1DS84ejcdfxbfjdi6UqObN8pRu-cZ5EwS/view?usp=sharing) | [📝 Google Form](https://forms.gle/1ZAXNhj6nj4LGgvc8) |
 | 03 | **Test 3:** | [📥 PDF P4](#) | [📝 Google Form](#) |
 
-### IGCSE Chemistry (Syllabus 4CH1)
+#### IGCSE Chemistry (Syllabus 4CH1) {#igcse-edex-4ch1}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
@@ -325,64 +325,90 @@ Các chuyên đề cốt lõi tập trung vào hai trục chính cấu trúc và
 
 ------------------------------------------------------------------------
 
-# 4. US CURRICULUM, SAT & ADVANCED PLACEMENT (AP)
+## US Curriculum, SAT & AP
 
-## US High School Math
+### US High School Math {#us-hs-math}
 
-### Grade 6-8
-
-| STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
-|:--:|:---|:--:|:--:|
-| 01 | **Test 1:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
-| 02 | **Test 2:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
-
-### Algebra 1, Geometry & Algebra 2
+#### Grade 6-8 {#us-math-g68}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
 | 01 | **Test 1:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 | 02 | **Test 2:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 
-### Pre-Calculus
+#### Algebra 1, Geometry & Algebra 2 {#us-math-alg}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
 | 01 | **Test 1:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 | 02 | **Test 2:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 
-## Standardized Tests
-
-### Digital SSAT Mathematics
+#### Pre-Calculus {#us-math-precalc}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
 | 01 | **Test 1:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 | 02 | **Test 2:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 
-### Digital SAT Mathematics
+### Standardized Tests {#std-tests}
+
+#### Digital SSAT Mathematics {#test-ssat}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
 | 01 | **Test 1:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 | 02 | **Test 2:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 
-## Advanced Placement (AP)
+#### Digital PSAT 8/9 Mathematics
 
-### AP Calculus AB
+| STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
+|:--:|:---|:--:|:--:|
+| 01 | **Test 1: Percentage 01, 25 questions, 30 mins** | [📥 Tải PDF](https://drive.google.com/file/d/16u6N4O9itCpAzwSVR-G8u7yuCNb0ncNn/view?usp=drive_link) | [📝 Google Form](https://forms.gle/AGbpGhSytgTmpXNo6) |
+| 02 | **Test 2: Percentage 02, 25 questions, 30 mins** | [📥 Tải PDF](https://drive.google.com/file/d/19JxOtZRTd-xu7CDCYapVuX54z7GrEYtc/view?usp=drive_link) | [📝 Google Form](https://forms.gle/neYoQ1eUdAwvnQbw5) |
+| 03 | **Test 3: Percentage 03, 23 questions, 30 mins** | [📥 Tải PDF](https://drive.google.com/file/d/1YErJlAmLv-yrJHIUjNFMGkbudsdtK9m-/view?usp=drive_link) | [📝 Google Form](https://forms.gle/CeEQ18E19dhQkHfp6) |
+| 04 | **Test 4: PSAT_8/9_Ratios_rates_proportional_relationships_and_units_01** | [📥 Tải PDF](https://drive.google.com/file/d/1QBmHBs7MuhEOrtJyLpJE31vY5qSVJvRn/view?usp=sharing) | [📝 Google Form](https://forms.gle/q6LDFHWQercK2Ef98) |
+| 05 | **Test 5: PSAT_8/9_Ratios_rates_proportional_relationships_and_units_02** | [📥 Tải PDF](https://drive.google.com/file/d/13_t-BB0xkezi5LoNP1b_LciqIxybSELg/view?usp=sharing) | [📝 Google Form](https://forms.gle/M9PnbAi9D36Ni1ed8) |
+| 06 | **Test 6: PSAT_8/9_Ratios_rates_proportional_relationships_and_units_03** | [📥 Tải PDF](https://drive.google.com/file/d/19OoxvwUfN1d_wsW4LmWuO-FA0k-Y5D3t/view?usp=sharing) | [📝 Google Form](https://forms.gle/U84ixNc5F1YMTm3z9) |
+| 07 | **Test 7: PSAT_8/9_Ratios_rates_proportional_relationships_and_units_04** | [📥 Tải PDF](https://drive.google.com/file/d/1RtL103HY4yg8Og9di_3QqE2nkvIc-PkN/view?usp=sharing) | [📝 Google Form](https://forms.gle/QXutEn2QgxjTVkyt5) |
+
+#### Digital PSAT 10 Mathematics
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
 | 01 | **Test 1:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 | 02 | **Test 2:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 
-### AP Calculus BC
+#### Digital SAT Mathematics {#test-sat}
+
+| STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
+|:--:|:---|:--:|:--:|
+| 01 | sat_ linear equation in one variable_level_1_01 | [📥 Tải PDF](https://drive.google.com/file/d/1_EWbv1hqnY71Bh3D2QzCPnTAvb3DmAvz/view?usp=drivesdk) | [📝 Google Form](https://forms.gle/8eJK9W9szDW5LFVS9) |
+| 02 | sat_ linear equation in one variable_level_1_02 | [📥 Tải PDF](https://drive.google.com/file/d/1h_F4tiGehPLm5IJPFh2LfHOx5_es7c1d/view?usp=drivesdk) | [📝 Google Form](https://forms.gle/otAbyvF48CNW1fQcA) |
+| 03 | sat_ linear equation in one variable_level_2_01 | [📥 Tải PDF](https://drive.google.com/file/d/1ue_rUJCHuTGFZG567FQniJzJ-CarTC28/view?usp=drivesdk) | [📝 Google Form](https://forms.gle/YUWA8NnriuQiyoic6) |
+| 04 | sat_ linear equation in one variable_level_3_01 | [📥 Tải PDF](https://drive.google.com/file/d/1Fol9ruh3vNG3alDN8FKksfr9d-nglQ-f/view?usp=drivesdk) | [📝 Google Form](https://forms.gle/PoiaaQvpjhEaTuYJ9) |
+| 05 | sat_ Linear functions _level_1_01 | [📥 Tải PDF](https://drive.google.com/file/d/1pP0rACoA_cJDusafa67U3eq8kgu87l3j/view?usp=drivesdk) | [📝 Google Form](https://forms.gle/itbnLR5DotzaVnSU9) |
+| 06 | sat_ Linear functions _level_1_02 | [📥 Tải PDF](https://drive.google.com/file/d/1JGU7yg-MnP0hHbpJkleWJl0h7toTKeq9/view?usp=drivesdk) | [📝 Google Form](https://forms.gle/Cpmc94inXwou2CaR9) |
+| 07 | sat_ Linear functions _level_2_01 | [📥 Tải PDF](https://drive.google.com/file/d/1nYj1bs3ZspSHKeeTREL1r9LD9fpClrAE/view?usp=drivesdk) | [📝 Google Form](https://forms.gle/qxKNuh4htLxzSBKw7) |
+| 08 | sat_ Linear functions _level_2_02 | [📥 Tải PDF](https://drive.google.com/file/d/1lFYQCw6uGc9qJbxwIZaYZtz9ApGnIcvO/view?usp=drivesdk) | [📝 Google Form](https://forms.gle/YUhQbPax2rWfo83x9) |
+| 09 | sat_ Linear functions _level_3_01 | [📥 Tải PDF](https://drive.google.com/file/d/19fdHAYKWLL_wqwYbbxvYSM43vYQoIdyq/view?usp=drivesdk) | [📝 Google Form](https://forms.gle/LfUhS9cwwVFSP6ay8) |
+
+### Advanced Placement (AP) {#ap-courses}
+
+#### AP Calculus AB {#ap-calc-ab}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
 | 01 | **Test 1:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 | 02 | **Test 2:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
 
-### AP Statistics
+#### AP Calculus BC {#ap-calc-bc}
+
+| STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
+|:--:|:---|:--:|:--:|
+| 01 | **Test 1:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
+| 02 | **Test 2:** | [📥 Tải PDF](#) | [📝 Google Form](#) |
+
+#### AP Statistics {#ap-stats}
 
 | STT | Mô tả Đề thi (Test Description) | Đề thi (PDF) | Đề thi (forms) |
 |:--:|:---|:--:|:--:|
@@ -3296,17 +3322,17 @@ The core papers of the CIE A-Level Mathematics curriculum comprise the following
 1.7 Differentiation<br/>
 1.8 Integration<br/>
 
-## Paper 2: Pure Mathematics 2
+## Paper 2 & 3: Pure Mathematics 2 & 3
 
+**Paper 2 Syllabus:**<br/>
 2.1 Algebra<br/>
 2.2 Logarithmic and exponential functions<br/>
 2.3 Trigonometry<br/>
 2.4 Differentiation<br/>
 2.5 Integration<br/>
 2.6 Numerical solution of equations<br/>
-
-## Paper 3: Pure Mathematics 3
-
+<br/>
+**Paper 3 Syllabus:**<br/>
 3.1 Algebra<br/>
 3.2 Logarithmic and exponential functions<br/>
 3.3 Trigonometry<br/>
@@ -3365,21 +3391,13 @@ The core papers of the CIE A-Level Mathematics curriculum comprise the following
 * **Focus**: Quadratics, functions, coordinate geometry, circular measure, trigonometry, series, basic differentiation and integration.
 * **Link**: [Explore P1 &rarr;](p1.html)
 
-<img src="../../../assets/images/math/a-level/cie/p2.svg" class="program-card-img" alt="Pure Mathematics 2 P2">
+<img src="../../../assets/images/math/a-level/cie/p3.svg" class="program-card-img" alt="Pure Mathematics 2 & 3 (P2 & P3)">
 
-### Pure Mathematics 2 (P2)
-**Pure Mathematics 2**
+### Pure Mathematics 2 & 3 (P2 & P3)
+**Pure Mathematics 2 & 3**
 
-* **Focus**: Algebra, logarithmic and exponential functions, trigonometry, differentiation, integration, numerical solutions.
-* **Link**: [Explore P2 &rarr;](p2.html)
-
-<img src="../../../assets/images/math/a-level/cie/p3.svg" class="program-card-img" alt="Pure Mathematics 3 P3">
-
-### Pure Mathematics 3 (P3)
-**Pure Mathematics 3**
-
-* **Focus**: Advanced algebra (partial fractions, binomials), advanced trigonometry, advanced integration/differentiation, vectors, differential equations, complex numbers.
-* **Link**: [Explore P3 &rarr;](p3.html)
+* **Focus**: Algebra, logarithmic/exponential functions, trigonometry, differentiation, integration, numerical solutions, vectors, differential equations, complex numbers.
+* **Link**: [Explore P2 & 3 &rarr;](p3.html)
 
 <img src="../../../assets/images/math/a-level/cie/p4.svg" class="program-card-img" alt="Mechanics Paper 4">
 
@@ -3608,52 +3626,6 @@ Actual exam questions classified by topic (with detailed mark schemes) will be i
 
 
 
-# PAGE: CIE Pure Mathematics 2 (P2)
-Path: /math/a-level/cie/p2.html
-Subtitle: Cambridge International AS & A Level Mathematics (9709)
-----------------------------------------
-
-## Revision Portal: CIE Pure Mathematics 2 (P2)
-Welcome, students! This academic portal provides unit-specific study materials, syllabus outlines, and exam revision resources to help you master P2 and prepare for your modular exams.
-
-## 1. Syllabus
-
-The detailed syllabus structure for CIE Pure Mathematics 2 (P2) comprises the following topics:
-
-### Paper 2: Pure Mathematics 2
-
-2.1 Algebra<br/>
-2.2 Logarithmic and exponential functions<br/>
-2.3 Trigonometry<br/>
-2.4 Differentiation<br/>
-2.5 Integration<br/>
-2.6 Numerical solution of equations<br/>
-
-## 2. Study Lessons
-
-Access core study notes and practice worksheets for each subtopic below:
-
-## Study Lessons Not Available
-Study lessons and revision notes are not currently available for this unit.
-
-## 3. Practice Questions
-
-## Upcoming Practice Resources
-We are currently curating past exam practice sets and topic-focused exercises for this unit. Verified question papers and step-by-step marking schemes will be published here as soon as they are compiled.
-
-## 4. Topical Past Paper Questions
-
-## Upcoming Topical Past Papers
-Actual exam questions classified by topic (with detailed mark schemes) will be integrated in this section. This will allow you to practice exam-style questions specifically on the areas you need to improve.
-
-## 5. Past Papers Bank
-
-*Search and filter official past exam papers. Use the control panel below to filter by year and paper component:*
-
-### CIE Pure Mathematics 2 (P2) Past Papers List
-
-
-
 # PAGE: CIE A-Level Further Mathematics
 Path: /math/a-level/cie/further.html
 Subtitle: Chương Trình Toán Học Cao Cấp Cambridge International A-Level (Mã môn: 9231)
@@ -3782,19 +3754,28 @@ $$A = \frac{1}{2} \int_{\alpha}^{\beta} r^2 \, d\theta$$
 
 
 
-# PAGE: CIE Pure Mathematics 3 (P3)
+# PAGE: CIE Pure Mathematics 2 & 3 (P2 & P3)
 Path: /math/a-level/cie/p3.html
 Subtitle: Cambridge International AS & A Level Mathematics (9709)
 ----------------------------------------
 
-## Revision Portal: CIE Pure Mathematics 3 (P3)
-Welcome, students! This academic portal provides unit-specific study materials, syllabus outlines, and exam revision resources to help you master P3 and prepare for your modular exams.
+## Revision Portal: CIE Pure Mathematics 2 & 3 (P2 & P3)
+Welcome, students! This academic portal provides unit-specific study materials, syllabus outlines, and exam revision resources to help you master P2 & P3 and prepare for your modular exams.
 
 ## 1. Syllabus
 
-The detailed syllabus structure for CIE Pure Mathematics 3 (P3) comprises the following topics:
+The detailed syllabus structure for CIE Pure Mathematics 2 & 3 (P2 & P3) comprises the following topics:
 
-### Paper 3: Pure Mathematics 3
+### Paper 2 Syllabus
+
+2.1 Algebra<br/>
+2.2 Logarithmic and exponential functions<br/>
+2.3 Trigonometry<br/>
+2.4 Differentiation<br/>
+2.5 Integration<br/>
+2.6 Numerical solution of equations<br/>
+
+### Paper 3 Syllabus
 
 3.1 Algebra<br/>
 3.2 Logarithmic and exponential functions<br/>
@@ -4998,7 +4979,7 @@ The core units of the Edexcel IAL Mathematics curriculum comprise the following 
 
 *Select the specific exam unit you are preparing for to access notes, formula summaries, and past papers:*
 
-<img src="../../../assets/images/math/a-level/edexcel/p1.svg" class="program-card-img" alt="Pure Mathematics 1 & 2 P1-P2">
+<img src="../../../images/a_level_math_edexcel_p1_2.webp" class="program-card-img" alt="Pure Mathematics 1 & 2 P1-P2">
 
 ### Pure Mathematics 1 & 2 (P1-P2)
 **Pure Mathematics 1 & 2**
@@ -5007,7 +4988,7 @@ The core units of the Edexcel IAL Mathematics curriculum comprise the following 
 * **P2 Focus**: Geometric series, logarithms, trigonometry, trapezium rule, circle coordinate geometry.
 * [Explore P1 &rarr;](p1.html) | [Explore P2 &rarr;](p2.html)
 
-<img src="../../../assets/images/math/a-level/edexcel/p3.svg" class="program-card-img" alt="Pure Mathematics 3 & 4 P3-P4">
+<img src="../../../images/a_level_math_edexcel_p3_4.webp" class="program-card-img" alt="Pure Mathematics 3 & 4 P3-P4">
 
 ### Pure Mathematics 3 & 4 (P3-P4)
 **Pure Mathematics 3 & 4**
@@ -5016,7 +4997,7 @@ The core units of the Edexcel IAL Mathematics curriculum comprise the following 
 * **P4 Focus**: Parametric coordinates, vectors, integration by parts/substitution, partial fractions.
 * [Explore P3 &rarr;](p3.html) | [Explore P4 &rarr;](p4.html)
 
-<img src="../../../assets/images/math/a-level/edexcel/m1.svg" class="program-card-img" alt="Mechanics 1 & 2 M1-M2">
+<img src="../../../images/a_level_math_edexcel_m1_2.webp" class="program-card-img" alt="Mechanics 1 & 2 M1-M2">
 
 ### Mechanics 1 & 2 (M1-M2)
 **Mechanics Units 1 & 2**
@@ -5025,7 +5006,7 @@ The core units of the Edexcel IAL Mathematics curriculum comprise the following 
 * **M2 Focus**: Projectile motion, centres of mass, work-energy-power, direct impact collisions.
 * [Explore M1 &rarr;](m1.html) | [Explore M2 &rarr;](m2.html)
 
-<img src="../../../assets/images/math/a-level/edexcel/s1.svg" class="program-card-img" alt="Probability & Statistics 1 & 2 S1-S2">
+<img src="../../../images/a_level_math_edexcel_s1_2.webp" class="program-card-img" alt="Probability & Statistics 1 & 2 S1-S2">
 
 ### Statistics 1 & 2 (S1-S2)
 **Probability & Statistics Units 1 & 2**
@@ -5034,7 +5015,7 @@ The core units of the Edexcel IAL Mathematics curriculum comprise the following 
 * **S2 Focus**: Binomial and Poisson distributions, continuous uniform distribution, hypothesis testing.
 * [Explore S1 &rarr;](s1.html) | [Explore S2 &rarr;](s2.html)
 
-<img src="../../../assets/images/math/a-level/edexcel/further.svg" class="program-card-img" alt="Further Pure Mathematics FP1-FP2">
+<img src="../../../images/a_level_math_edexcel_fp1_2.webp" class="program-card-img" alt="Further Pure Mathematics FP1-FP2">
 
 ### Further Pure Mathematics (FP1-FP2)
 **Further Mathematics Units**
@@ -8010,6 +7991,327 @@ To get started, select your specific course below. Each page links directly to d
 
 ---
 
+## IB Mathematics Books
+
+<img src="../../images/books/ib_math/Mathematics Analysis and Approaches HL Course Companion.png" class="book-cover-img" alt="Mathematics Analysis and Approaches HL Course Companion Cover">
+
+<h4 class="book-title">Mathematics Analysis and Approaches HL Course Companion</h4>
+<strong>Author:</strong> Natasha Awada, Paul Belcher, Jennifer Chang Wathall, Phil Duxbury, Jane Forrest
+<strong>Publisher:</strong> Oxford University Press
+<strong>Year:</strong> 2019
+
+<a href="https://drive.google.com/file/d/1G2PyklqkW-hUn5t91Mb6U6NZ1ZQGC2PA/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Analysis and Approaches HL 2.png" class="book-cover-img" alt="Mathematics Analysis and Approaches HL 2 Cover">
+
+<h4 class="book-title">Mathematics Analysis and Approaches HL 2</h4>
+<strong>Author:</strong> Michael Haese, Mark Humphries, Chris Sangwin, Ngoc Vo
+<strong>Publisher:</strong> Haese Mathematics
+<strong>Year:</strong> 2019
+
+<a href="https://drive.google.com/file/d/1fY1GXZK8VuJ-UaTICkZoV96kiqFFvuNo/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Analysis and Approaches HL Worked Solutions.png" class="book-cover-img" alt="Mathematics Analysis and Approaches HL Worked Solutions Cover">
+
+<h4 class="book-title">Mathematics Analysis and Approaches HL Worked Solutions</h4>
+<strong>Author:</strong> Ibrahim Wazir, Tim Garry
+<strong>Publisher:</strong> Pearson Education
+<strong>Year:</strong> 2019
+
+<a href="https://drive.google.com/file/d/15u68A54oJvQrvxcQfsBILaiAcKc2F4D7/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Applications and Interpretation SL.png" class="book-cover-img" alt="Mathematics Applications and Interpretation SL Cover">
+
+<h4 class="book-title">Mathematics Applications and Interpretation SL</h4>
+<strong>Author:</strong> Tim Garry, Ibrahim Wazir, Kevin Frederick, Bryan Landmann, Jim Nakamoto, John Whalley
+<strong>Publisher:</strong> Pearson Education
+<strong>Year:</strong> 2019
+
+<a href="https://drive.google.com/file/d/1e8RReBsHUgEJvFECo72BgQh6V95_b67b/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Applications and Interpretation SL Course Companion.png" class="book-cover-img" alt="Mathematics Applications and Interpretation SL Course Companion Cover">
+
+<h4 class="book-title">Mathematics Applications and Interpretation SL Course Companion</h4>
+<strong>Author:</strong> Jennifer Chang Wathall, Suzanne Doering, Jane Forrest, David Harris, Nadia Stoyanova, Paula Waldman
+<strong>Publisher:</strong> Oxford University Press
+<strong>Year:</strong> 2019
+
+<a href="https://drive.google.com/file/d/1DEM6GBjfs6nrK3D-Kuu-v4VUn_W_FOgQ/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Applications and Interpretation SL Course Companion (Compressed).png" class="book-cover-img" alt="Mathematics Applications and Interpretation SL Course Companion (Compressed) Cover">
+
+<h4 class="book-title">Mathematics Applications and Interpretation SL Course Companion (Compressed)</h4>
+<strong>Author:</strong> Jennifer Chang Wathall, Suzanne Doering, Jane Forrest, David Harris, Nadia Stoyanova, Paula Waldman
+<strong>Publisher:</strong> Oxford University Press
+<strong>Year:</strong> 2019
+
+<a href="https://drive.google.com/file/d/1riXkCze0xwYe8Xb7JNOgMdcElnRta1kY/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Analysis and Approaches SL.png" class="book-cover-img" alt="Mathematics Analysis and Approaches SL Cover">
+
+<h4 class="book-title">Mathematics Analysis and Approaches SL</h4>
+<strong>Author:</strong> Ibrahim Wazir, Tim Garry
+<strong>Publisher:</strong> Pearson Education
+<strong>Year:</strong> 2019
+
+<a href="https://drive.google.com/file/d/10VoXtwyuIPFvt_dgU9UIAEJEvBIWA0n3/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Analysis and Approaches HL 2 Revision Guide (Compressed).png" class="book-cover-img" alt="Mathematics Analysis and Approaches HL 2 Revision Guide (Compressed) Cover">
+
+<h4 class="book-title">Mathematics Analysis and Approaches HL 2 Revision Guide (Compressed)</h4>
+<strong>Author:</strong> Michael Haese, Mark Humphries, Chris Sangwin, Ngoc Vo
+<strong>Publisher:</strong> Haese Mathematics
+<strong>Year:</strong> 2020
+
+<a href="https://drive.google.com/file/d/19XSADrXXyT5duUAx6Ex4_Fq6qS6Sxu22/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Analysis and Approaches HL 2 Worked Solutions (Compressed).png" class="book-cover-img" alt="Mathematics Analysis and Approaches HL 2 Worked Solutions (Compressed) Cover">
+
+<h4 class="book-title">Mathematics Analysis and Approaches HL 2 Worked Solutions (Compressed)</h4>
+<strong>Author:</strong> Michael Haese, Mark Humphries, Chris Sangwin, Ngoc Vo
+<strong>Publisher:</strong> Haese Mathematics
+<strong>Year:</strong> 2020
+
+<a href="https://drive.google.com/file/d/1dRqW86odbPD-fED2u0C2XPG4ny0zE2Li/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Analysis and Approaches SL 2 Revision Guide.png" class="book-cover-img" alt="Mathematics Analysis and Approaches SL 2 Revision Guide Cover">
+
+<h4 class="book-title">Mathematics Analysis and Approaches SL 2 Revision Guide</h4>
+<strong>Author:</strong> Michael Haese, Mark Humphries, Ngoc Vo
+<strong>Publisher:</strong> Haese Mathematics
+<strong>Year:</strong> 2020
+
+<a href="https://drive.google.com/file/d/1E8h1Mn1QL7FqQO1fFQk7xc5QW3v_EdW-/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Analysis and Approaches SL 2 Worked Solutions.png" class="book-cover-img" alt="Mathematics Analysis and Approaches SL 2 Worked Solutions Cover">
+
+<h4 class="book-title">Mathematics Analysis and Approaches SL 2 Worked Solutions</h4>
+<strong>Author:</strong> Michael Haese, Ngoc Vo
+<strong>Publisher:</strong> Haese Mathematics
+<strong>Year:</strong> 2020
+
+<a href="https://drive.google.com/file/d/1gPDrnnPov5gjfeeR1aIt3tjpmyV8asDE/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Applications and Interpretation HL 2.png" class="book-cover-img" alt="Mathematics Applications and Interpretation HL 2 Cover">
+
+<h4 class="book-title">Mathematics Applications and Interpretation HL 2</h4>
+<strong>Author:</strong> Michael Haese, Mark Humphries, Chris Sangwin, Ngoc Vo
+<strong>Publisher:</strong> Haese Mathematics
+<strong>Year:</strong> 2019
+
+<a href="https://drive.google.com/file/d/1-Beuk3-4A6S7w5iYDxoX8YH0K1uAdPxw/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Applications and Interpretation HL 2 Revision Guide.png" class="book-cover-img" alt="Mathematics Applications and Interpretation HL 2 Revision Guide Cover">
+
+<h4 class="book-title">Mathematics Applications and Interpretation HL 2 Revision Guide</h4>
+<strong>Author:</strong> Michael Haese, Mark Humphries, Chris Sangwin, Ngoc Vo
+<strong>Publisher:</strong> Haese Mathematics
+<strong>Year:</strong> 2020
+
+<a href="https://drive.google.com/file/d/1JatjO97R1fXILdI3TKNLjHqJfkA9W1hn/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Applications and Interpretation HL 2 Worked Solutions.png" class="book-cover-img" alt="Mathematics Applications and Interpretation HL 2 Worked Solutions Cover">
+
+<h4 class="book-title">Mathematics Applications and Interpretation HL 2 Worked Solutions</h4>
+<strong>Author:</strong> Mark Humphries, Ngoc Vo
+<strong>Publisher:</strong> Haese Mathematics
+<strong>Year:</strong> 2020
+
+<a href="https://drive.google.com/file/d/1b2J5Mm0g-Oivqbqi97SS3lBHXlFTcEEk/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Applications and Interpretation SL 2.png" class="book-cover-img" alt="Mathematics Applications and Interpretation SL 2 Cover">
+
+<h4 class="book-title">Mathematics Applications and Interpretation SL 2</h4>
+<strong>Author:</strong> Michael Haese, Mark Humphries, Chris Sangwin, Ngoc Vo
+<strong>Publisher:</strong> Haese Mathematics
+<strong>Year:</strong> 2019
+
+<a href="https://drive.google.com/file/d/12VxcDPFXRv2GQKGibiErCe3cD8Mi1P_r/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Applications and Interpretation SL 2 Revision Guide.png" class="book-cover-img" alt="Mathematics Applications and Interpretation SL 2 Revision Guide Cover">
+
+<h4 class="book-title">Mathematics Applications and Interpretation SL 2 Revision Guide</h4>
+<strong>Author:</strong> Michael Haese, Mark Humphries, Ngoc Vo
+<strong>Publisher:</strong> Haese Mathematics
+<strong>Year:</strong> 2020
+
+<a href="https://drive.google.com/file/d/13KFSQ6SSJ7MuyJVIg8o_9oKQUQC09fOI/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Applications and Interpretation SL 2 Revision Guide (Compressed).png" class="book-cover-img" alt="Mathematics Applications and Interpretation SL 2 Revision Guide (Compressed) Cover">
+
+<h4 class="book-title">Mathematics Applications and Interpretation SL 2 Revision Guide (Compressed)</h4>
+<strong>Author:</strong> Michael Haese, Mark Humphries, Ngoc Vo
+<strong>Publisher:</strong> Haese Mathematics
+<strong>Year:</strong> 2020
+
+<a href="https://drive.google.com/file/d/1o4-vTaXuAeS9iAAIo2xO1QsL7zRGQHUu/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Applications and Interpretation SL 2 Worked Solutions (Compressed).png" class="book-cover-img" alt="Mathematics Applications and Interpretation SL 2 Worked Solutions (Compressed) Cover">
+
+<h4 class="book-title">Mathematics Applications and Interpretation SL 2 Worked Solutions (Compressed)</h4>
+<strong>Author:</strong> Michael Haese, Ngoc Vo
+<strong>Publisher:</strong> Haese Mathematics
+<strong>Year:</strong> 2020
+
+<a href="https://drive.google.com/file/d/1rhnLi09JiIQqesTAayY1NNT55hJP_v2V/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Applications and Interpretation HL Course Companion.png" class="book-cover-img" alt="Mathematics Applications and Interpretation HL Course Companion Cover">
+
+<h4 class="book-title">Mathematics Applications and Interpretation HL Course Companion</h4>
+<strong>Author:</strong> Paul Belcher, Jane Forrest
+<strong>Publisher:</strong> Oxford University Press
+<strong>Year:</strong> 2019
+
+<a href="https://drive.google.com/file/d/1jtloFFQN5YIEvmrUKx_LBLGyEGdme4HR/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Core Topics SL 1.png" class="book-cover-img" alt="Mathematics Core Topics SL 1 Cover">
+
+<h4 class="book-title">Mathematics Core Topics SL 1</h4>
+<strong>Author:</strong> Michael Haese
+<strong>Publisher:</strong> Haese Mathematics
+<strong>Year:</strong> 2019
+
+<a href="https://drive.google.com/file/d/1B50qI1oABp2DmGuwrRgUNiAFRCwPzMAI/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Analysis and Approaches SL 2.png" class="book-cover-img" alt="Mathematics Analysis and Approaches SL 2 Cover">
+
+<h4 class="book-title">Mathematics Analysis and Approaches SL 2</h4>
+<strong>Author:</strong> Michael Haese, Mark Humphries, Chris Sangwin, Ngoc Vo
+<strong>Publisher:</strong> Haese Mathematics
+<strong>Year:</strong> 2019
+
+<a href="https://drive.google.com/file/d/1F71wEpmZ1pn4Y3y0_yODLYohGgZBhRjw/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Core Topics HL.png" class="book-cover-img" alt="Mathematics Core Topics HL Cover">
+
+<h4 class="book-title">Mathematics Core Topics HL</h4>
+<strong>Author:</strong> Michael Haese, Mark Humphries, Chris Sangwin and Ngoc Vo
+<strong>Publisher:</strong> Haese Mathematics
+<strong>Year:</strong> 2019
+
+<a href="https://drive.google.com/file/d/16FQ8Gu9eEJ6dudyyZqjceSTGy5_l6xD8/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Applications and Interpretation HL 2.png" class="book-cover-img" alt="Mathematics Applications and Interpretation HL 2 Cover">
+
+<h4 class="book-title">Mathematics Applications and Interpretation HL 2</h4>
+<strong>Author:</strong> Michael Haese, Mark Humphries, Chris Sangwin, Ngoc Vo
+<strong>Publisher:</strong> Haese Mathematics
+<strong>Year:</strong> 2019
+
+<a href="https://drive.google.com/file/d/19YNf7rH5dijayJcHeIVwUcrKXFf4cZcN/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Analysis and Approaches SL Course Companion.png" class="book-cover-img" alt="Mathematics Analysis and Approaches SL Course Companion Cover">
+
+<h4 class="book-title">Mathematics Analysis and Approaches SL Course Companion</h4>
+<strong>Author:</strong> Natasha Awada, Paul Belcher, Jennifer Chang Wathall, Phil Duxbury, Jane Forrest
+<strong>Publisher:</strong> Oxford University Press
+<strong>Year:</strong> 2019
+
+<a href="https://drive.google.com/file/d/1VsBfMgk2qcap7fxK4YmSENnu95kzB2bf/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/IB Prepared IB Diploma Programme Mathematics Analysis and Approaches.png" class="book-cover-img" alt="IB Prepared IB Diploma Programme Mathematics Analysis and Approaches Cover">
+
+<h4 class="book-title">IB Prepared IB Diploma Programme Mathematics Analysis and Approaches</h4>
+<strong>Author:</strong> Paul Belcher, Ed Kemp
+<strong>Publisher:</strong> Oxford University Press
+<strong>Year:</strong> 2021
+
+<a href="https://drive.google.com/file/d/1SNlh6sJEQ7K8_VQAISCW6xuIR2Jz_RaT/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics for the IB Diploma Exam Practice Workbook Applications and Interpretation HL.png" class="book-cover-img" alt="Mathematics for the IB Diploma Exam Practice Workbook Applications and Interpretation HL Cover">
+
+<h4 class="book-title">Mathematics for the IB Diploma Exam Practice Workbook Applications and Interpretation HL</h4>
+<strong>Author:</strong> Paul Fannon, Vesna Kadelburg, Stephen Ward
+<strong>Publisher:</strong> Hodder Education
+<strong>Year:</strong> 2021
+
+<a href="https://drive.google.com/file/d/1w8b56Ourmes9adihu7V5qygrmVRIi4qE/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics for the IB Diploma Exam Practice Workbook Analysis and Approaches HL.png" class="book-cover-img" alt="Mathematics for the IB Diploma Exam Practice Workbook Analysis and Approaches HL Cover">
+
+<h4 class="book-title">Mathematics for the IB Diploma Exam Practice Workbook Analysis and Approaches HL</h4>
+<strong>Author:</strong> Paul Fannon, Stephen Ward, Vesna Kadelburg
+<strong>Publisher:</strong> Hodder Education
+<strong>Year:</strong> 2021
+
+<a href="https://drive.google.com/file/d/12Lx-IIVTDhYyZUKsFktha0PfQHmeDf5t/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Applications and Interpretation HL.png" class="book-cover-img" alt="Mathematics Applications and Interpretation HL Cover">
+
+<h4 class="book-title">Mathematics Applications and Interpretation HL</h4>
+<strong>Author:</strong> Ibrahim Wazir, Tim Garry, Jim Nakamoto, Kevin Frederick, Stephen Lumb
+<strong>Publisher:</strong> Pearson Education
+<strong>Year:</strong> 2019
+
+<a href="https://drive.google.com/file/d/18U0Q-o-eit7wNbvlicJZWapnfplF_WzN/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_math/Mathematics Applications and Interpretation SL 2.png" class="book-cover-img" alt="Mathematics Applications and Interpretation SL 2 Cover">
+
+<h4 class="book-title">Mathematics Applications and Interpretation SL 2</h4>
+<strong>Author:</strong> Michael Haese, Mark Humphries, Chris Sangwin, Ngoc Vo
+<strong>Publisher:</strong> Haese Mathematics
+<strong>Year:</strong> 2019
+
+<a href="https://drive.google.com/file/d/1zSSmi9HXSHlHzOjbm-MhNPnNdPUBd6RS/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
 
 
 # PAGE: IB Mathematics AA SL
@@ -10405,11 +10707,84 @@ Select your specific syllabus below to access past papers, syllabus-aligned stud
 
 ---
 
-## Tips to Excel in IGCSE Chemistry
+## IGCSE Chemistry Books
 
-1. **Master Chemical Formulae and Equations**: Writing and balancing chemical equations is a fundamental skill. Memorize the valencies of common ions, write correct molecular formulae, and always verify that atoms balance before performing stoichiometric calculations.
-2. **Memorize Key Colours and Observations**: IGCSE exams frequently ask for observations (precipitate colours, gas evolution, flame tests). Summarize these qualitative tests in a table to secure easy marks.
-3. **Understand Experimental Design**: Be clear on laboratory techniques, such as gas collection methods (displacement of water/air), filtration, crystallization, and testing purity using melting/boiling points.
+<img src="../../images/books/igcse_chemistry/cambridge_igcse_chemistry.jpg" class="book-cover-img" alt="Cambridge IGCSE Chemistry Cover">
+
+<h4 class="book-title">Cambridge IGCSE Chemistry</h4>
+<strong>Author:</strong> Bryan Earl, Doug Wilford
+<strong>Publisher:</strong> Hodder Education
+<strong>Year:</strong> 2014
+
+<a href="https://drive.google.com/file/d/1Pzuw8oyHk2fVG2GpNUYivlnTR-t_oET0/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/igcse_chemistry/cambridge_igcse_chemistry_study_and_revision_guide.jpg" class="book-cover-img" alt="Cambridge IGCSE Chemistry Study and Revision Guide Cover">
+
+<h4 class="book-title">Cambridge IGCSE Chemistry Study and Revision Guide</h4>
+<strong>Author:</strong> David Besser
+<strong>Publisher:</strong> Hodder Education
+<strong>Year:</strong> 2017
+
+<a href="https://drive.google.com/file/d/1JQ2Wjw0OsbD65WnIqybLbR9NV_BuEqf9/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/igcse_chemistry/cambridge_igcse_chemistry_4th_edition.jpg" class="book-cover-img" alt="Cambridge IGCSE Chemistry (4th Edition) Cover">
+
+<h4 class="book-title">Cambridge IGCSE Chemistry (4th Edition)</h4>
+<strong>Author:</strong> Bryan Earl, Doug Wilford
+<strong>Publisher:</strong> Hodder Education
+<strong>Year:</strong> 2021
+
+<a href="https://drive.google.com/file/d/1hICK-ZpCBd1e6TzuTk0APLMmcUf4sJrT/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/igcse_chemistry/cambridge_igcse_chemistry_study_and_revision_guide_third_edition.jpg" class="book-cover-img" alt="Cambridge IGCSE Chemistry Study and Revision Guide (Third Edition) Cover">
+
+<h4 class="book-title">Cambridge IGCSE Chemistry Study and Revision Guide (Third Edition)</h4>
+<strong>Author:</strong> David Besser
+<strong>Publisher:</strong> Hodder Education
+<strong>Year:</strong> 2022
+
+<a href="https://drive.google.com/file/d/1nPcy2qM6ef07S6hrOjInv3Asbi8-0wk7/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/igcse_chemistry/complete_chemistry_for_cambridge_igcse.jpg" class="book-cover-img" alt="Complete Chemistry for Cambridge IGCSE Cover">
+
+<h4 class="book-title">Complete Chemistry for Cambridge IGCSE</h4>
+<strong>Author:</strong> Rose Marie Gallagher, Paul Ingram
+<strong>Publisher:</strong> Oxford University Press
+<strong>Year:</strong> 2013
+
+<a href="https://drive.google.com/file/d/1ADGUrXm3E5-oa60WxLZRggwTD52AnVPK/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/igcse_chemistry/cambridge_igcse_chemistry_coursebook_fifth_edition.jpg" class="book-cover-img" alt="Cambridge IGCSE Chemistry Coursebook (Fifth Edition) Cover">
+
+<h4 class="book-title">Cambridge IGCSE Chemistry Coursebook (Fifth Edition)</h4>
+<strong>Author:</strong> Richard Harwood, Ian Lodge, Chris Millington
+<strong>Publisher:</strong> Cambridge University Press
+<strong>Year:</strong> 2021
+
+<a href="https://drive.google.com/file/d/1fVE8wm181QgOQ7uZ0KONufBYV7RFXBH-/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/igcse_chemistry/cambridge_igcse_chemistry_workbook.jpg" class="book-cover-img" alt="Cambridge IGCSE Chemistry Workbook Cover">
+
+<h4 class="book-title">Cambridge IGCSE Chemistry Workbook</h4>
+<strong>Author:</strong> Richard Harwood, Ian Lodge
+<strong>Publisher:</strong> Cambridge University Press
+<strong>Year:</strong> 2011
+
+<a href="https://drive.google.com/file/d/1uDzYMg4qXebyOX_D6RfcIzdTnXbvTBSH/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
 
 
 
@@ -12837,6 +13212,219 @@ Select the appropriate program level below to access detailed study notes, sylla
 *Search and filter past exam papers for IB Chemistry. Use the dashboard below for quick filtering:*
 
 ### IB Chemistry General Past Papers Bank
+
+---
+
+## IB Chemistry Books
+
+<img src="../../images/books/ib_chem/oxford_resources_for_ib_dp_chemistry_course_book.jpg" class="book-cover-img" alt="Oxford Resources for IB DP Chemistry Course Book Cover">
+
+<h4 class="book-title">Oxford Resources for IB DP Chemistry Course Book</h4>
+<strong>Author:</strong> Sergey Bylikin, Gary Horner, Elisa Jane Grant, David Tarcy
+<strong>Publisher:</strong> Oxford University Press
+<strong>Year:</strong> 2023
+
+<a href="https://drive.google.com/file/d/15lIF_3hH6YWj9oIDEIl37wYS8roSa581/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_chem/cambridge_chemistry_for_the_ib_diploma_workbook.jpg" class="book-cover-img" alt="Cambridge Chemistry for the IB Diploma Workbook Cover">
+
+<h4 class="book-title">Cambridge Chemistry for the IB Diploma Workbook</h4>
+<strong>Author:</strong> Jacqueline Paris
+<strong>Publisher:</strong> Cambridge University Press
+<strong>Year:</strong> 2015
+
+<a href="https://drive.google.com/file/d/10vFktHNZiUt23CfQzkG840pudUrvTG05/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_chem/oxford_ib_diploma_programme_chemistry_course_preparation.jpg" class="book-cover-img" alt="Oxford IB Diploma Programme: Chemistry Course Preparation Cover">
+
+<h4 class="book-title">Oxford IB Diploma Programme: Chemistry Course Preparation</h4>
+<strong>Author:</strong> Sergey Bylikin
+<strong>Publisher:</strong> Oxford University Press
+<strong>Year:</strong> 2018
+
+<a href="https://drive.google.com/file/d/16LntczrH5WENAvbyvWeNrrOIJaQScuyH/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_chem/oxford_ib_prepared_chemistry.jpg" class="book-cover-img" alt="Oxford IB Prepared: Chemistry Cover">
+
+<h4 class="book-title">Oxford IB Prepared: Chemistry</h4>
+<strong>Author:</strong> Sergey Bylikin, Brian Murphy
+<strong>Publisher:</strong> Oxford University Press
+<strong>Year:</strong> 2019
+
+<a href="https://drive.google.com/file/d/12AAAn_Ibh9o7E4tUsXTwAQB_VCsFeW34/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_chem/chemistry_for_the_ib_diploma_third_edition.jpg" class="book-cover-img" alt="Chemistry for the IB Diploma (Third Edition) Cover">
+
+<h4 class="book-title">Chemistry for the IB Diploma (Third Edition)</h4>
+<strong>Author:</strong> John Green, Sadru Damji
+<strong>Publisher:</strong> IBID Press
+<strong>Year:</strong> 2008
+
+<a href="https://drive.google.com/file/d/1rYqv8odohqWq5OCUWwrP0YVivw625G1Q/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_chem/oxford_ib_diploma_programme_chemistry_years_4_5.jpg" class="book-cover-img" alt="Oxford IB Diploma Programme: Chemistry Years 4 & 5 Cover">
+
+<h4 class="book-title">Oxford IB Diploma Programme: Chemistry Years 4 & 5</h4>
+<strong>Author:</strong> Gary Horner
+<strong>Publisher:</strong> Oxford University Press
+<strong>Year:</strong> 2018
+
+<a href="https://drive.google.com/file/d/1ZvuRcLXq1WqpXxakvWJH5-t6tTBdU4Pt/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_chem/chemistry_for_the_ib_diploma_second_edition.jpg" class="book-cover-img" alt="Chemistry for the IB Diploma (Second Edition) Cover">
+
+<h4 class="book-title">Chemistry for the IB Diploma (Second Edition)</h4>
+<strong>Author:</strong> Steve Owen
+<strong>Publisher:</strong> Hodder Education
+<strong>Year:</strong> 2014
+
+<a href="https://drive.google.com/file/d/1gmvE4pJtlYR16E7YVpEv8PgiF7pOd68b/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_chem/chemistry_for_the_ib_diploma_study_and_revision_guide.jpg" class="book-cover-img" alt="Chemistry for the IB Diploma Study and Revision Guide Cover">
+
+<h4 class="book-title">Chemistry for the IB Diploma Study and Revision Guide</h4>
+<strong>Author:</strong> Christopher Talbot
+<strong>Publisher:</strong> Hodder Education
+<strong>Year:</strong> 2017
+
+<a href="https://drive.google.com/file/d/1cZzQ343xXMBFNDaG76i6lZ8bC9BLH1g8/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_chem/chemistry_for_the_ib_diploma_third_edition.jpg" class="book-cover-img" alt="Chemistry for the IB Diploma (Third Edition) Cover">
+
+<h4 class="book-title">Chemistry for the IB Diploma (Third Edition)</h4>
+<strong>Author:</strong> Christopher Talbot, Chris Davison, David Fairley
+<strong>Publisher:</strong> Hodder Education
+<strong>Year:</strong> 2023
+
+<a href="https://drive.google.com/file/d/17DIEizAFRknWEE6vjZ3uDtsOS6FrrNu4/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_chem/chemistry_for_the_ib_diploma_third_edition_alternative.jpg" class="book-cover-img" alt="Chemistry for the IB Diploma (Third Edition) - Alternative Cover">
+
+<h4 class="book-title">Chemistry for the IB Diploma (Third Edition) - Alternative</h4>
+<strong>Author:</strong> Christopher Talbot, Chris Davison, David Fairley
+<strong>Publisher:</strong> Hodder Education
+<strong>Year:</strong> 2023
+
+<a href="https://drive.google.com/file/d/17LBi6ogaig8ja7p_he6YKQddgXTXfDNx/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_chem/chemistry_for_the_ib_myp_4_5_by_concept.jpg" class="book-cover-img" alt="Chemistry for the IB MYP 4 & 5: By Concept Cover">
+
+<h4 class="book-title">Chemistry for the IB MYP 4 & 5: By Concept</h4>
+<strong>Author:</strong> Annie Termaat, Christopher Talbot
+<strong>Publisher:</strong> Hodder Education
+<strong>Year:</strong> 2016
+
+<a href="https://drive.google.com/file/d/1v2oR7XPROOtlcPXif8dKlp_2xnCkcW1m/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_chem/ib_chemistry_hl_osc_study_guide.jpg" class="book-cover-img" alt="IB Chemistry HL (OSC Study Guide) Cover">
+
+<h4 class="book-title">IB Chemistry HL (OSC Study Guide)</h4>
+<strong>Author:</strong> Cameron Lumsden
+<strong>Publisher:</strong> OSC Publishing
+<strong>Year:</strong> 2015
+
+<a href="https://drive.google.com/file/d/1TMNqv7yn1zndejFpAmD03c6TNeEJIIUn/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_chem/ib_chemistry_hl_study_guide.jpg" class="book-cover-img" alt="IB Chemistry HL Study Guide Cover">
+
+<h4 class="book-title">IB Chemistry HL Study Guide</h4>
+<strong>Author:</strong> IB Academy
+<strong>Publisher:</strong> IB Academy
+<strong>Year:</strong> 2019
+
+<a href="https://drive.google.com/file/d/1g66vhuXfgHmwQSqfw9r1l_gkg-8VuawI/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_chem/ib_chemistry_options_standard_and_higher_levels.jpg" class="book-cover-img" alt="IB Chemistry Options: Standard and Higher Levels Cover">
+
+<h4 class="book-title">IB Chemistry Options: Standard and Higher Levels</h4>
+<strong>Author:</strong> Pearson Australia
+<strong>Publisher:</strong> Pearson Education
+<strong>Year:</strong> 2009
+
+<a href="https://drive.google.com/file/d/11lwnEAdQC64lPgm5ghmL6vTsoXfBzT4h/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_chem/ib_chemistry_sl_study_guide.jpg" class="book-cover-img" alt="IB Chemistry SL Study Guide Cover">
+
+<h4 class="book-title">IB Chemistry SL Study Guide</h4>
+<strong>Author:</strong> IB Academy
+<strong>Publisher:</strong> IB Academy
+<strong>Year:</strong> 2019
+
+<a href="https://drive.google.com/file/d/1uO06xJpEZUQa_7opowNzIjIOlOyEIito/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_chem/ib_chemistry_sl_and_hl_osc_study_guide.jpg" class="book-cover-img" alt="IB Chemistry SL and HL (OSC Study Guide) Cover">
+
+<h4 class="book-title">IB Chemistry SL and HL (OSC Study Guide)</h4>
+<strong>Author:</strong> Mina Lebitz
+<strong>Publisher:</strong> OSC Publishing
+<strong>Year:</strong> 2013
+
+<a href="https://drive.google.com/file/d/1yUC_iauf-2N1cYrNiitmWgpGXKCRAlVj/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_chem/pearson_baccalaureate_chemistry_higher_level.jpg" class="book-cover-img" alt="Pearson Baccalaureate Chemistry Higher Level Cover">
+
+<h4 class="book-title">Pearson Baccalaureate Chemistry Higher Level</h4>
+<strong>Author:</strong> Catrin Brown, Mike Ford
+<strong>Publisher:</strong> Pearson Education
+<strong>Year:</strong> 2008
+
+<a href="https://drive.google.com/file/d/1-20qn5lDJWdgMp9XwOg-kQgqDo1zFdqb/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_chem/oxford_ib_diploma_programme_chemistry_course_companion.jpg" class="book-cover-img" alt="Oxford IB Diploma Programme Chemistry Course Companion Cover">
+
+<h4 class="book-title">Oxford IB Diploma Programme Chemistry Course Companion</h4>
+<strong>Author:</strong> Sergey Bylikin, Gary Horner, Brian Murphy, David Tarcy
+<strong>Publisher:</strong> Oxford University Press
+<strong>Year:</strong> 2014
+
+<a href="https://drive.google.com/file/d/1mGSeK_af7HNrZyn4aXmnLpCFhOPuPyEd/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
+
+<img src="../../images/books/ib_chem/ib_middle_years_programme_chemistry_theory.png" class="book-cover-img" alt="IB Middle Years Programme Chemistry Theory Cover">
+
+<h4 class="book-title">IB Middle Years Programme Chemistry Theory</h4>
+<strong>Author:</strong> ZNotes
+<strong>Publisher:</strong> ZNotes
+<strong>Year:</strong> 2020
+
+<a href="https://drive.google.com/file/d/1Ah59U-h4s6Uz4uYuiysWivQZsOy73pGM/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
+  <i class="bi bi-download"></i> Download Book
+</a>
 
 
 
