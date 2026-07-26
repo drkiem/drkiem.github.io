@@ -52,19 +52,17 @@
 - [Edexcel Pure Mathematics 4 (P4)](/math/a-level/edexcel/p4.html): Pearson Edexcel International Advanced Level (IAL) Mathematics
 - [Edexcel Statistics 1 (S1)](/math/a-level/edexcel/s1.html): Pearson Edexcel International Advanced Level (IAL) Mathematics
 - [Edexcel Statistics 2 (S2)](/math/a-level/edexcel/s2.html): Pearson Edexcel International Advanced Level (IAL) Mathematics
-- [Other Exam Boards Mathematics](/math/a-level/others/index.html): Tài nguyên ôn tập Toán học A-Level cho các Hội đồng thi khác (AQA, OxfordAQA...)
+- [Other Exam Boards Mathematics](/math/a-level/others/index.html): Tài nguyên sách và giáo trình Toán học A-Level cho các Hội đồng thi khác (AQA, OCR & Australian VCE)
 
 ## A-Level Chemistry
 *Organic, physical, and inorganic chemistry preparation modules.*
 
 - [A-Level Chemistry Overview](/chem/a-level/index.html): Comprehensive Portal for International A-Level Chemistry Exam Boards
-- [AQA & OxfordAQA A2 Chemistry](/chem/a-level/others/a-level.html): Học Phần Bổ Trợ & Tài Nguyên Hóa Học A2 Level (Các Hội Đồng Thi Khác)
-- [AQA & OxfordAQA AS Chemistry](/chem/a-level/others/as.html): Học Phần Bổ Trợ & Tài Nguyên Hóa Học AS Level (Các Hội Đồng Thi Khác)
+- [AQA Chemistry (A-Level)](/chem/a-level/others/aqa.html): AQA AS & A-Level Chemistry (Specification Codes: 7404 / 7405)
 - [CIE Chemistry (A-Level)](/chem/a-level/cie/index.html): Chương Trình Hóa Học Cambridge International A-Level (Mã môn: 9701)
-- [Edexcel A2 Chemistry (A-Level)](/chem/a-level/edexcel/a-level.html): Chương Trình Hóa Học Pearson Edexcel International Advanced Level (IAL)
-- [Edexcel AS Chemistry (AS Level)](/chem/a-level/edexcel/as.html): Chương Trình Hóa Học Pearson Edexcel International Advanced Level (IAL)
-- [Edexcel Chemistry Overview](/chem/a-level/edexcel/index.html): Chương Trình Hóa Học Pearson Edexcel International Advanced Level (IAL)
-- [Other Exam Boards Chemistry](/chem/a-level/others/index.html): Tài nguyên ôn tập Hóa học A-Level cho các Hội đồng thi khác (AQA, OxfordAQA...)
+- [Edexcel Chemistry (A-Level)](/chem/a-level/edexcel/index.html): Pearson Edexcel International Advanced Level Chemistry (IAL)
+- [OCR Chemistry (A-Level)](/chem/a-level/others/ocr.html): OCR A-Level Chemistry A (Specification Codes: H032 / H432)
+- [Other Exam Boards Chemistry](/chem/a-level/others/index.html): Comprehensive Portal for AQA, OCR, and Advanced International Chemistry Exam Boards
 
 ## IGCSE Mathematics
 *Worksheets and exam guides for CIE 0580, CIE 0607, and Edexcel 4MA1.*

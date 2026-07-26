@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Edexcel Chemistry Overview – NKK-Education Hub</title>
+<title>Edexcel Chemistry (A-Level) – NKK-Education Hub</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -33,8 +33,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../../">
-<link href="../../../chem/a-level/edexcel/as.html" rel="next">
+<link href="../../../chem/a-level/others/index.html" rel="next">
 <link href="../../../chem/a-level/cie/index.html" rel="prev">
+<script src="../../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../../../site_libs/quarto-html/popper.min.js"></script>
@@ -76,6 +78,36 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-past-papers-list .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-year','listing-season','listing-paper','listing-variant','listing-qp','listing-ms',{ data: ['index'] },{ data: ['categories'] }],
+      page: 10,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-year","listing-season","listing-paper","listing-variant","listing-qp","listing-ms"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-past-papers-list'] = new List('listing-past-papers-list', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-Y5KN25P14N"></script>
 
 <script type="text/javascript">
@@ -88,6 +120,35 @@ gtag('config', 'G-Y5KN25P14N', { 'anonymize_ip': true});
 <meta name="google-site-verification" content="Iozm3ClmschZ1vxB0010gNz2pMSM3VodauctQS7urks">
 <link rel="llms" href="../../../llms.txt">
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../../styles.css">
 </head>
@@ -348,14 +409,14 @@ gtag('config', 'G-Y5KN25P14N', { 'anonymize_ip': true});
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../chem/a-level/edexcel/index.html">Edexcel A-Level</a></li><li class="breadcrumb-item"><a href="../../../chem/a-level/edexcel/index.html">Edexcel Chemistry Overview</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../chem/a-level/edexcel/index.html">Edexcel A-Level</a></li><li class="breadcrumb-item"><a href="../../../chem/a-level/edexcel/index.html">Edexcel Chemistry (A-Level)</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="sidebar-menu-container"> 
@@ -395,19 +456,7 @@ gtag('config', 'G-Y5KN25P14N', { 'anonymize_ip': true});
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../../chem/a-level/edexcel/index.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Edexcel Chemistry Overview</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../../chem/a-level/edexcel/as.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Edexcel AS Chemistry (AS Level)</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../../chem/a-level/edexcel/a-level.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Edexcel A2 Chemistry (A-Level)</span></a>
+ <span class="menu-text">Edexcel Chemistry (A-Level)</span></a>
   </div>
 </li>
       </ul>
@@ -429,14 +478,14 @@ gtag('config', 'G-Y5KN25P14N', { 'anonymize_ip': true});
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../chem/a-level/others/as.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">AQA &amp; OxfordAQA AS Chemistry</span></a>
+  <a href="../../../chem/a-level/others/aqa.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">AQA Chemistry (A-Level)</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../chem/a-level/others/a-level.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">AQA &amp; OxfordAQA A2 Chemistry</span></a>
+  <a href="../../../chem/a-level/others/ocr.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">OCR Chemistry (A-Level)</span></a>
   </div>
 </li>
       </ul>
@@ -451,24 +500,31 @@ gtag('config', 'G-Y5KN25P14N', { 'anonymize_ip': true});
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#lựa-chọn-cấp-độ-để-ôn-luyện-cụ-thể" id="toc-lựa-chọn-cấp-độ-để-ôn-luyện-cụ-thể" class="nav-link active" data-scroll-target="#lựa-chọn-cấp-độ-để-ôn-luyện-cụ-thể">Lựa Chọn Cấp Độ Để Ôn Luyện Cụ Thể</a></li>
-  <li><a href="#bí-quyết-ôn-tập-thành-công-edexcel-chemistry" id="toc-bí-quyết-ôn-tập-thành-công-edexcel-chemistry" class="nav-link" data-scroll-target="#bí-quyết-ôn-tập-thành-công-edexcel-chemistry">Bí quyết ôn tập thành công Edexcel Chemistry</a></li>
+  <li><a href="#course-overview-syllabus" id="toc-course-overview-syllabus" class="nav-link active" data-scroll-target="#course-overview-syllabus">1. COURSE OVERVIEW &amp; SYLLABUS</a>
+  <ul class="collapse">
+  <li><a href="#assessment-outline-units-1-to-6" id="toc-assessment-outline-units-1-to-6" class="nav-link" data-scroll-target="#assessment-outline-units-1-to-6">Assessment Outline (Units 1 to 6)</a></li>
+  <li><a href="#official-curriculum-documents" id="toc-official-curriculum-documents" class="nav-link" data-scroll-target="#official-curriculum-documents">Official Curriculum Documents</a></li>
+  </ul></li>
+  <li><a href="#lesson-resources-notes-practice" id="toc-lesson-resources-notes-practice" class="nav-link" data-scroll-target="#lesson-resources-notes-practice">2. LESSON RESOURCES (NOTES &amp; PRACTICE)</a></li>
+  <li><a href="#more-study-notes" id="toc-more-study-notes" class="nav-link" data-scroll-target="#more-study-notes">3. MORE STUDY NOTES</a></li>
+  <li><a href="#topical-past-papers" id="toc-topical-past-papers" class="nav-link" data-scroll-target="#topical-past-papers">4. TOPICAL PAST PAPERS</a></li>
+  <li><a href="#official-past-papers-bank" id="toc-official-past-papers-bank" class="nav-link" data-scroll-target="#official-past-papers-bank">5. OFFICIAL PAST PAPERS BANK</a></li>
   </ul>
 </nav>
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(88)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-body" id="quarto-document-content">
 
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../chem/a-level/edexcel/index.html">Edexcel A-Level</a></li><li class="breadcrumb-item"><a href="../../../chem/a-level/edexcel/index.html">Edexcel Chemistry Overview</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../chem/a-level/edexcel/index.html">Edexcel A-Level</a></li><li class="breadcrumb-item"><a href="../../../chem/a-level/edexcel/index.html">Edexcel Chemistry (A-Level)</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Edexcel Chemistry Overview</h1>
-<p class="subtitle lead">Chương Trình Hóa Học Pearson Edexcel International Advanced Level (IAL)</p>
+<h1 class="title">Edexcel Chemistry (A-Level)</h1>
+<p class="subtitle lead">Pearson Edexcel International Advanced Level Chemistry (IAL)</p>
 </div>
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-body">
 
     
   
@@ -486,40 +542,2149 @@ gtag('config', 'G-Y5KN25P14N', { 'anonymize_ip': true});
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Lộ Trình Chinh Phục Điểm Số A-Level Hóa Edexcel
+<span class="screen-reader-only">Note</span>Pearson Edexcel IAL Chemistry Comprehensive Dashboard
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Pearson Edexcel IAL Chemistry cung cấp một hệ thống học tập modular rất hiện đại, cập nhật liên tục các nghiên cứu ứng dụng thực tế. NKK-Education Hub cung cấp tài liệu đầy đủ chia thành 2 cấp độ học thuật chính giúp các em ôn tập đạt kết quả cao nhất.</p>
+<p>Welcome to the unified Pearson Edexcel International A-Level Chemistry resource center. Access official curriculum specifications, lesson-by-lesson revision notes, topical practice question papers (QP), mark schemes (MS), interactive flashcards, and official past papers bank for both AS Level and A2 Level.</p>
 </div>
 </div>
-<section id="lựa-chọn-cấp-độ-để-ôn-luyện-cụ-thể" class="level2">
-<h2 class="anchored" data-anchor-id="lựa-chọn-cấp-độ-để-ôn-luyện-cụ-thể">Lựa Chọn Cấp Độ Để Ôn Luyện Cụ Thể</h2>
-<p>Anh/chị hãy chọn đúng cấp độ học phần hiện tại để đi thẳng tới kho đề thi past papers, sơ đồ tóm tắt lý thuyết và phương pháp làm bài đạt điểm tối đa:</p>
-<div class="program-grid">
-<div class="program-card">
-<p><img src="../../../assets/images/chem/a-level/edexcel/as.svg" class="program-card-img" alt="AS Level Chemistry IAS"></p>
-<section id="as-level-chemistry-ias" class="level3">
-<h3 class="anchored" data-anchor-id="as-level-chemistry-ias">AS Level Chemistry (IAS)</h3>
-<p><strong>Cấp độ cơ bản (Năm thứ nhất A-Level)</strong> * Bao gồm các kiến thức nền tảng trong các Unit 1, Unit 2 và Unit 3 thực hành: Cấu tạo chất, liên kết hóa học, nhiệt động học cơ bản, hóa vô cơ nhóm 2 &amp; 7, ancol, dẫn xuất halogen và kỹ năng phòng thí nghiệm AS. * <a href="../../../chem/a-level/edexcel/as.html">Khám Phá Tài Nguyên AS Level →</a></p>
+<section id="course-overview-syllabus" class="level2">
+<h2 class="anchored" data-anchor-id="course-overview-syllabus">1. COURSE OVERVIEW &amp; SYLLABUS</h2>
+<p>Pearson Edexcel International Advanced Level (IAL) Chemistry provides a modular, flexible assessment structure designed to build deep conceptual understanding and practical analytical skills across physical, inorganic, and organic chemistry.</p>
+<section id="assessment-outline-units-1-to-6" class="level3">
+<h3 class="anchored" data-anchor-id="assessment-outline-units-1-to-6">Assessment Outline (Units 1 to 6)</h3>
+<p>The complete IAL Chemistry qualification consists of six modular examination units divided equally between IAS (Year 1) and IA2 (Year 2):</p>
+<div class="table-wrapper" style="margin-bottom: 2rem;">
+<table class="premium-table">
+<thead>
+<tr>
+<th style="width: 12%;">
+Level
+</th>
+<th style="width: 28%;">
+Unit / Component
+</th>
+<th style="width: 15%;">
+Duration
+</th>
+<th style="width: 25%;">
+Assessment Format
+</th>
+<th style="width: 10%;">
+Marks
+</th>
+<th style="text-align: right; width: 10%;">
+Weight (A-Level)
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3" style="font-weight: 600; background-color: rgba(37, 99, 235, 0.02); vertical-align: middle;">
+IAS Level<br><span style="font-size:0.8rem; font-weight: normal; color:#64748b;">(50% of A-Level)</span>
+</td>
+<td>
+<strong>Unit 1 (WCH11)</strong><br>Structure, Bonding &amp; Intro Organic Chemistry
+</td>
+<td>
+1h 30m
+</td>
+<td>
+Written paper (Section A: MCQs, Section B: Structured)
+</td>
+<td>
+80
+</td>
+<td style="text-align: right;">
+<strong>20%</strong>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Unit 2 (WCH12)</strong><br>Energetics, Group 2 &amp; 7, Redox &amp; Organic II
+</td>
+<td>
+1h 30m
+</td>
+<td>
+Written paper (Section A: MCQs, Section B: Structured)
+</td>
+<td>
+80
+</td>
+<td style="text-align: right;">
+<strong>20%</strong>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Unit 3 (WCH13)</strong><br>Practical Skills in Chemistry I
+</td>
+<td>
+1h 20m
+</td>
+<td>
+Written practical skills exam (Laboratory Techniques)
+</td>
+<td>
+50
+</td>
+<td style="text-align: right;">
+<strong>10%</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="3" style="font-weight: 600; background-color: rgba(16, 185, 129, 0.02); vertical-align: middle;">
+IA2 Level<br><span style="font-size:0.8rem; font-weight: normal; color:#64748b;">(50% of A-Level)</span>
+</td>
+<td>
+<strong>Unit 4 (WCH14)</strong><br>Rates, Equilibria &amp; Further Organic Chemistry
+</td>
+<td>
+1h 45m
+</td>
+<td>
+Written paper (Structured, Data &amp; Mechanism questions)
+</td>
+<td>
+90
+</td>
+<td style="text-align: right;">
+<strong>20%</strong>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Unit 5 (WCH15)</strong><br>Transition Metals &amp; Organic Nitrogen Chemistry
+</td>
+<td>
+1h 45m
+</td>
+<td>
+Written paper (Structured, Transition Metal &amp; Synthesis)
+</td>
+<td>
+90
+</td>
+<td style="text-align: right;">
+<strong>20%</strong>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Unit 6 (WCH16)</strong><br>Practical Skills in Chemistry II
+</td>
+<td>
+1h 20m
+</td>
+<td>
+Written practical skills exam (Advanced Analysis)
+</td>
+<td>
+50
+</td>
+<td style="text-align: right;">
+<strong>10%</strong>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
 </section>
+<section id="official-curriculum-documents" class="level3">
+<h3 class="anchored" data-anchor-id="official-curriculum-documents">Official Curriculum Documents</h3>
+<p>Download the official Pearson Edexcel International A-Level Chemistry specification for offline reference:</p>
+<div class="btn-group-download" style="margin-top: 1.5rem; margin-bottom: 2.5rem;">
+<p><a href="info/International-A-Level-Chemistry-Spec.pdf" target="_blank" class="btn-download btn-syllabus"> <span class="bi bi-file-earmark-pdf-fill" style="color: #ef4444;"></span> Edexcel IAL Chemistry Specification (PDF) </a></p>
 </div>
-<div class="program-card">
-<p><img src="../../../assets/images/chem/a-level/edexcel/a2.svg" class="program-card-img" alt="A Level Chemistry IA2"></p>
-<section id="a-level-chemistry-ia2" class="level3">
-<h3 class="anchored" data-anchor-id="a-level-chemistry-ia2">A Level Chemistry (IA2)</h3>
-<p><strong>Cấp độ nâng cao (Năm thứ hai A-Level)</strong> * Bao gồm các chuyên đề chuyên sâu trong các Unit 4, Unit 5 và Unit 6 thực hành: Tốc độ phản ứng và cân bằng hóa học nâng cao, hệ đệm pH, kim loại chuyển tiếp, hóa hữu cơ phức tạp (nitơ, amin, polime) và kỹ thuật phân tích phổ NMR/IR. * <a href="../../../chem/a-level/edexcel/a-level.html">Khám Phá Tài Nguyên A Level →</a></p>
 </section>
-</div>
-</div>
-<hr>
 </section>
-<section id="bí-quyết-ôn-tập-thành-công-edexcel-chemistry" class="level2">
-<h2 class="anchored" data-anchor-id="bí-quyết-ôn-tập-thành-công-edexcel-chemistry">Bí quyết ôn tập thành công Edexcel Chemistry</h2>
-<ol type="1">
-<li><strong>Ứng dụng công nghệ và máy tính (GDC)</strong>: Tận dụng máy tính đồ họa để giải nhanh các hệ phương trình toán hóa lý.</li>
-<li><strong>Kỹ năng giải bài tập cơ chế</strong>: Rèn luyện viết cơ chế phản ứng hữu cơ một cách trơn tru, ghi nhớ các bẫy điểm số về mặt cấu trúc lập thể (stereochemistry).</li>
-</ol>
+<section id="lesson-resources-notes-practice" class="level2">
+<h2 class="anchored" data-anchor-id="lesson-resources-notes-practice">2. LESSON RESOURCES (NOTES &amp; PRACTICE)</h2>
+<p>Explore comprehensive revision notes, topical practice question papers (QP), and mark schemes (MS) organized by syllabus units. Use the tabs below to switch between <strong>AS Level</strong> and <strong>A-Level (A2)</strong> content.</p>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" href="">AS Level Chemistry</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false" href="">A-Level Chemistry (A2)</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
+<div class="table-wrapper" style="max-height: 550px; overflow-y: auto;">
+<table class="premium-table">
+<thead>
+<tr>
+<th style="width: 55%;">
+Syllabus Topic &amp; Subtopic
+</th>
+<th style="text-align: center; width: 15%;">
+Note
+</th>
+<th style="text-align: center; width: 15%;">
+Struct QP
+</th>
+<th style="text-align: center; width: 15%;">
+Struct MS
+</th>
+</tr>
+</thead>
+<tbody>
+<tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+<td colspan="4" style="color: #1e3a8a;">
+<span class="bi bi-journal-richtext"></span> &nbsp;Topic 1 — Physical Chemistry
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+1.1 — Atomic Structure
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/14-kK9p68j-ysDB8P6BhXNzm_EDi8Huyb/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1l93FhAve9p3alrGb5bOsiQakp4V2Hbh3/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+1.2 — Ions &amp; Electrons
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1B8Cf0F8TlYuqUlwpSrfNvNhxCWaz_SUy/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1oQ0aSA1dgtz8mO-OazHzHjMPatt9xhvd/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+1.3 — The Periodic Table
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1d9D9KKnu67NMiWBD1UCRTwCA7yMTKU1h/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1PJFJUf9p4713QgdywGQc26fEP6O0cDHj/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+1.4 — Bonding
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1z3a2pEKB19XPzbdCAlGU8jtXiwwXu-nd/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1nDHUGm2ta7C-1P9RhNcqNIch9lT8bJK_/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+1.5 — Structure
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1FKR-ih-hcqijtRAkZUh4D2rzYcwCoIQF/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1NbtqU092rqpBN4YpZXd6GB9QnFJjkw5p/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+1.6 — Formulae, Equations &amp; Avogadro’s Constant
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1Ahm6c7ZcBeol6NkVeDYhp2vkraniVYW3/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1f2GxZTGM1qAMHChsuiwot23iNt8UoSQj/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+1.7 — Reaction Calculations
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/17CzFA7qHmzT6zmycrycLgS2xgwQVI12I/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1vEhezPGnUjdfeplH6FhgfSOFsUCmgEgq/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+1.8 — Energetics I
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/108HNhH1Ajxyp9VROAiLy3wGFXNkSZIXo/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/150wiuJm6wZh4qto6slvKcZ0ICGL2bwD7/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+1.9 — Kinetics I
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1naPuFhZHzHgC6i-SQV-JfXep-5AYkXpN/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1zp-YnXp4iDK3-70uyziqgHsxcJuPkL_V/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+1.10 — Equilibrium I
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1hA5V6eqW3XEWB4Z5vn0CTJa1o5H7rMGE/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1utHlsZcCuQbNCm7NfWyxv2sRC3LYnonf/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+<td colspan="4" style="color: #1e3a8a;">
+<span class="bi bi-journal-richtext"></span> &nbsp;Topic 2 — Inorganic Chemistry
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+2.1 — Redox I
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1JvCF0XloJgzYUnwG7rRB_zev9A6sq2Fz/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1f1FziDVveCBgpq0aI1iruqOVMAc0tWUt/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+2.2 — Groups 1 &amp; 2
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1WOj3Cci6TkMnY7Fz8tlcudKwduknJRhB/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1whDNW6kDQilz6C5CcOZ4AGA_-yZyC8UU/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+2.3 — Group 7
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1NjAXRDI22yQ7eplR3srN4XIFymbtAFYQ/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1mGNCdDJ1uhy3n64H7kmx7Ej6Nph6knLF/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+<td colspan="4" style="color: #1e3a8a;">
+<span class="bi bi-journal-richtext"></span> &nbsp;Topic 3 — Organic Chemistry
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+3.1 — Introduction to Organic Chemistry
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/19is4aTtNnzMRgk4agb2ABNNAlXlA1dk-/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1oFNwePUyJSSmnSp5PTBw77_3ahVPGbE7/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+3.2 — Alkanes
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1d2BgFE97XKBNvSqSLHR-79Vx1V12Ei6I/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1gtFrKj5ZzbXDMPxL8O0H2jRDII-NDYrt/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+3.3 — Alkenes
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/12gJy1X9aG3gtxz-xF2uE2f5SDg4bb2TK/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/17N2jvEpDRw94ewvWIHIqdV16n45paYck/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+3.4 — Halogenoalkanes
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1h090s85hcfUAk-kHXAdi5pmdalPsQLYT/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1HxSAlDooJPFxfx_d79vvbzLpEy8zmyLF/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+3.5 — Alcohols
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1UL4iPMRb_bzj_8g4Om71iRWbJ4dQfvwh/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/11a22BzdtXPVOY6OG1TW_awPyirqa2BSm/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+3.6 — Modern Analytical Techniques I
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1zJgCCev1dhpXR57qZWsFhlnscWb7Gd9L/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1RWSRXr4zN9OfdH0sdcIT9eVYcvaK_Bhe/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+<td colspan="4" style="color: #1e3a8a;">
+<span class="bi bi-journal-richtext"></span> &nbsp;Topic 4 — Core Chemistry Practicals
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+4.1 — Physical Chemistry Core Practicals
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/141Z0g-JYzualtuD6G6mdGcMnV6fKiND8/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1bjH-QsD-dhhjhcDEY7UdEQ2_JjZ8CH9q/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+4.2 — Inorganic &amp; Organic Chemistry Core Practicals
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/140OxmKcdGMTcgjuYMBOZQvX9Lej_Jsho/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1wp6NM4i5GmBYY7Qu-ZgV9VUpy4yCIYgf/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
+<div class="table-wrapper" style="max-height: 550px; overflow-y: auto;">
+<table class="premium-table">
+<thead>
+<tr>
+<th style="width: 55%;">
+Syllabus Topic &amp; Subtopic
+</th>
+<th style="text-align: center; width: 15%;">
+Note
+</th>
+<th style="text-align: center; width: 15%;">
+Struct QP
+</th>
+<th style="text-align: center; width: 15%;">
+Struct MS
+</th>
+</tr>
+</thead>
+<tbody>
+<tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+<td colspan="4" style="color: #1e3a8a;">
+<span class="bi bi-journal-richtext"></span> &nbsp;Topic 5 — Advanced Physical Chemistry
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+5.1 — Equilibrium II
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1fTMkTOVvJ7tMV_COMqtzeP02JUCPwHS2/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1Etaf8ZB7r_3ZdpFee3cWbdBUp7MwBGAv/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+5.2 — Acid-base Equilibria
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1n_qpXh4APh-DJkCIQ36r7Vb9amFDbD2_/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1Qpx9B5IBwpCw_3KfPlCb3QJM86azYuPN/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+5.3 — Energetics II: Born–Haber
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1G8Yppw0UZMLK8v_29KQ4ZGYnMNoFoxgc/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1yg-LnCUEJhzJZ67PBYi7eXovBgQDARNP/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+5.4 — Energetics II: Entropy
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1_5l_cg88xEL0ZomgJUvp3SuwNUr6CItY/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1RDxy99XoKxl6C6uKncxtrwbWD_YwVOCB/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+5.5 — Kinetics II
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1bzTbdfF6tbmwkC71980TglgZHZhEOv9B/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/11dULeSXpeeuJhNvvlMZeHK7VAr1VeS05/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+<td colspan="4" style="color: #1e3a8a;">
+<span class="bi bi-journal-richtext"></span> &nbsp;Topic 6 — Advanced Inorganic Chemistry
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+6.1 — Redox II
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1Pz7mWh0RINNYEZkIFxFLJko24OFk5HH8/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1vlynGDqtkKsFiGnoKWK1ryuXKd0kwLRx/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+6.2 — Principles of Transition Metal Chemistry
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/149Kk7R7qaUu9US3iauwAoHS9FdZPmFij/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1spi_W4KE4WRMbaJ3_-1oRQEVba7mkT2I/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+6.3 — Reactions of Transition Metal Elements
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1gf4BuzWDOZYW45QrP3ndQ_mWBnx6mZFO/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1xKwx6pjLKjKpeDhRWSCSXXA1fdbXzx2A/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+<td colspan="4" style="color: #1e3a8a;">
+<span class="bi bi-journal-richtext"></span> &nbsp;Topic 7 — Advanced Organic Chemistry
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+7.1 — Organic Chemistry II: Chirality
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/19rW7cMvuXOce2OVN6-hRBEYyc2_oeSGn/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1V8nBPucZ3OHNJSSP0zQ69DCm-nOU2f9Y/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+7.2 — Organic Chemistry II: Carbonyl Chemistry
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1-9UjEsCTwBznSqDUPimkjO0uFcI5rAAb/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1CN_8wf75x0bz7LM2ea6_eBaeMWBrFHOM/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+7.3 — Organic Chemistry II: Carboxylic Acids
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1_mukkhYrkKLR0tGBbP2tzQDdBhafmoAZ/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1wGp-gKtC4jp4usFuKApPJyQQqMw_Nyub/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+7.4 — Organic Chemistry III: Aromatic Chemistry
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1DhrC4qIfAOJCNMg_nYmzGb4xQx0pB6es/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1M1LEsCnZNG_Cvt-w9jYRU39fP1OODnGZ/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+7.5 — Organic Chemistry III: Nitrogen Chemistry
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1CMeihsOduZUlenMu1e5vs4vik4wzV3Q1/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1QD1sLF98HvHAMZESPPcBZDy2X6CTg7aD/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+7.6 — Organic Chemistry III: Organic Synthesis
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1otAIaq3S8Ye9xkHe_apUiIIL5qe6VS0p/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1hRaorhCSoxXL0iTGHuuilctzI-N1C1lD/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+7.7 — Modern Analytical Techniques II
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1EqdxAwYBSvrRu_5Mu5CPZDJwzpz6RLK3/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1hDub-bWU7QMtPD4JMD1-hj20ygf2hvPA/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+<tr class="cie-topic-hdr" style="background-color: rgba(37, 99, 235, 0.05); font-weight: bold;">
+<td colspan="4" style="color: #1e3a8a;">
+<span class="bi bi-journal-richtext"></span> &nbsp;Topic 8 — Advanced Core Practicals
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+8.1 — Advanced Physical Chemistry Core Practicals
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1kpi_4VHNS-VszZkMmsRpBHu4K5gy5shT/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1K9c8-GwO-sBD78p38QCqeXTQeNOs5vYW/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/10OGiDOAtd2kGDAEYsP5B-r0rINkS84Fi/view?usp=sharing" target="_blank" class="cie-btn-struct-ms"><span class="bi bi-check-circle"></span> MS</a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem;">
+8.2 — Advanced Inorganic &amp; Organic Chemistry Core Practicals
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1bsRh80t0c-e9Dr32884_Nt6gox6n-K2U/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1gyCbSZUatUg19xmAPmxnwXlem2NzpZqE/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-pencil-square"></span> QP</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1X45VpePE_TAL1ej5LTX3VfV9gbksrenq/view?usp=sharing" target="_blank" class="cie-btn-struct-ms"><span class="bi bi-check-circle"></span> MS</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="more-study-notes" class="level2">
+<h2 class="anchored" data-anchor-id="more-study-notes">3. MORE STUDY NOTES</h2>
+<p>This section contains supplementary reference guides, topic revision notes with flashcards, and comprehensive unit summaries for deep conceptual mastery.</p>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-2-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-1" role="tab" aria-controls="tabset-2-1" aria-selected="true" href="">Revision Notes &amp; Flashcards (Set 2)</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-2" role="tab" aria-controls="tabset-2-2" aria-selected="false" href="">Detailed Chapter Notes (Set 3)</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-3" role="tab" aria-controls="tabset-2-3" aria-selected="false" href="">Complete Unit Revision Guides (Set 4)</a></li></ul>
+<div class="tab-content">
+<div id="tabset-2-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-2-1-tab">
+<div class="table-wrapper" style="max-height: 500px; overflow-y: auto;">
+<table class="premium-table">
+<thead>
+<tr>
+<th style="width: 50%;">
+Topic / Syllabus Unit
+</th>
+<th style="text-align: center; width: 25%;">
+Revision Notes
+</th>
+<th style="text-align: center; width: 25%;">
+Flashcards
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<strong>1. Atomic Structure &amp; Periodic Table</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1ukJfZAwXsM6mXynCHqfhd3iZDAZxKeuB/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1eFhxAFJiTTNvlkwgUcsaJkYs-PyDQTw1/view?usp=sharing" target="_blank" class="cie-btn-flashcard"><span class="bi bi-card-text"></span> Flashcards</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>2. Bonding</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1fwNbSl3ki-RrjMGmPti2eryAMBE0-6I9/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1R7IJRZbiirQUYvv55hISzcJ-47y_gZVd/view?usp=sharing" target="_blank" class="cie-btn-flashcard"><span class="bi bi-card-text"></span> Flashcards</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>3. Redox</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1XP5e-CdVRU0Slp0LVW3ixLRIgmzJkaNd/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1n4rEZlz-Afnzy4inFjrieM-ck9yHgIDH/view?usp=sharing" target="_blank" class="cie-btn-flashcard"><span class="bi bi-card-text"></span> Flashcards</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>4. Inorganic Chemistry</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1PjbBmf5tHJqzJDrc9TOf7vvUwHbr2mHK/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1yqIbPtIHNldST3bP_LXln5bpgVr1euPu/view?usp=sharing" target="_blank" class="cie-btn-flashcard"><span class="bi bi-card-text"></span> Flashcards</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>5. Formulae Equations &amp; Amount</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/16bgrtHOIAAdnGd4WjHzCJ1PME0U-f5XU/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1hiDz8vZA4bkTtEEJf_Srt4WUS2v4cbQi/view?usp=sharing" target="_blank" class="cie-btn-flashcard"><span class="bi bi-card-text"></span> Flashcards</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>6. Organic Chemistry I</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1bwqMapM0dMLsgWNX2184kwuoM04V-iCa/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1xvnvXKV6J2qHS1Tkv1LW4D_bhBDoI3tr/view?usp=sharing" target="_blank" class="cie-btn-flashcard"><span class="bi bi-card-text"></span> Flashcards</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>7. Analysis</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/11MgJvz2RzfMT4J6X6DdDFOoU14bqHb0d/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1PODkTYuu-MQ0C9O8tiLYZ-1SDgKx6oHJ/view?usp=sharing" target="_blank" class="cie-btn-flashcard"><span class="bi bi-card-text"></span> Flashcards</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>8. Energetics I 1</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1NLPV2H-UKunAqHiXzH9sGxpDt3EcDshX/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1-8oERwJUX6HTLTZBzlSSWvsUQ05y51GL/view?usp=sharing" target="_blank" class="cie-btn-flashcard"><span class="bi bi-card-text"></span> Flashcards</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>9. Reaction Kinetics I</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/19ri5iKJviKG42eXM-L3bvfyQgbqLg6J8/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1cDonYEr9xMofq5q4DhrcLM08ogyOdtXh/view?usp=sharing" target="_blank" class="cie-btn-flashcard"><span class="bi bi-card-text"></span> Flashcards</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>10. Equilibria I</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1my3n0flYw7ALNCP5j96Ih82aBEqhM54A/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1ecojAchVpFNiShAKR5QVq9bNJC6fB5U6/view?usp=sharing" target="_blank" class="cie-btn-flashcard"><span class="bi bi-card-text"></span> Flashcards</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>11. Equilibria II Edexcel</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1LB1cfcKcQ8p7VDprgSO_FuVJ5bReXn2j/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1S5Zt7jdIO0wscNG7E2zhjNdhXsb9ZQXh/view?usp=sharing" target="_blank" class="cie-btn-flashcard"><span class="bi bi-card-text"></span> Flashcards</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>12. Acid Base Equilibria</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/17LMD1UYcBMMxLcpve_x-hgeA0i0LwJfw/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1p3jZ3gvGa-IsbzCpiXEVq48c-_5PFe00/view?usp=sharing" target="_blank" class="cie-btn-flashcard"><span class="bi bi-card-text"></span> Flashcards</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>13. Energetics II</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1gbMHXyINOkl4UKRJhvNsieZ5aC42D_1f/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/13duUOIHq4XkyhyFt6-DJa73yrU8oEZL9/view?usp=sharing" target="_blank" class="cie-btn-flashcard"><span class="bi bi-card-text"></span> Flashcards</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>14. Redox</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1SBE6ii1P9axon7oeh37js2Uc_apbTTNX/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1Kx-9EC0BY5LOmaGCK5EO6mwMo90OotAp/view?usp=sharing" target="_blank" class="cie-btn-flashcard"><span class="bi bi-card-text"></span> Flashcards</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>15. Transition Metals</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1tkSpFbvXmUP59S4hsqQhxdsQWp1yONOz/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1TWEt2iCV2omrOZBF4G-KNhM_oNY3tfC7/view?usp=sharing" target="_blank" class="cie-btn-flashcard"><span class="bi bi-card-text"></span> Flashcards</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>16. Reaction Kinetics II</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/12kV2hgacQqwgVu2dcyfU9mA_VlCMlKze/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1T_5h3_f5cPdkjhMdPYhhwmzdtcsYU59L/view?usp=sharing" target="_blank" class="cie-btn-flashcard"><span class="bi bi-card-text"></span> Flashcards</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>17. Organic Chemistry II</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/10zz3JRIPohQY4zs3I53J5KUysiOJy9GF/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1Ht_UWZvh3kZ6sWiYYiTMAQyieqzi9O27/view?usp=sharing" target="_blank" class="cie-btn-flashcard"><span class="bi bi-card-text"></span> Flashcards</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>18. Organic Chemistry IIi</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1SqMBV699XnIgVJTF7sZv7TyzV2a_GbYD/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1G3onOF6B_kqtpsgwyvffVXaxk4fKhnVr/view?usp=sharing" target="_blank" class="cie-btn-flashcard"><span class="bi bi-card-text"></span> Flashcards</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>19. Spectroscopy</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/19CyG3X2CE4k9JSgv7bJaIRAYSoPYkpXX/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1KOXFiyHFznhykjg2W3_CzAlUfLQMfteC/view?usp=sharing" target="_blank" class="cie-btn-flashcard"><span class="bi bi-card-text"></span> Flashcards</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Practical Chemistry Guide</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1eDcAccGrCnt-pzwnmDuuEQze_pInPUd1/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Revision Notes</a>
+</td>
+<td style="text-align: center;">
+<span style="color: #9ca3af; font-size: 0.8rem; font-style: italic;">—</span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="tabset-2-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-2-2-tab">
+<div class="table-wrapper" style="max-height: 500px; overflow-y: auto;">
+<table class="premium-table">
+<thead>
+<tr>
+<th style="width: 70%;">
+Chapter Title
+</th>
+<th style="text-align: center; width: 30%;">
+Resource Link
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<strong>1. Formulae Equations &amp; Amount Of Substance</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1mZXEQ5okDJkmo3dKVqPYKSGJR6ycptNQ/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>2. Atomic Structure &amp; Periodic Table</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1jm_GoWNBJ-Y26rfO_AlDm9Ot7bcvzZZx/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>3. Bonding</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1lfTCfEL2FpPpfJNp-Tb4K7k_rSvrYUyB/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>4. Introductory Organic Chemistry &amp; Alkanes</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1QXKPARq3mdICZJ_oAq8fKw2_HuZ9aUP1/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>5. Alkenes</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1bQCj7DcY8i5s6ETaDPP-tfLPI9gAn8Xk/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>6. Energetics 1</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1I1aWqS8a3OeAKRjf_LNIkQshe0KqcBZX/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>7. Intermolecular Forces</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/11xlXhZs9NFS8lauv7Xz6hS_nkFPSGpu1/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>8. Redox</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1g_xa9vIILiFDke-IGDD5Vs9e7K6unXb6/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>9. Introduction To Kinetics &amp; Equilibria</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/12xyghYVakDYtCjEM_ScKoyJVLGOBXVd2/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>10. Halogenoalkanes Alcohols Analysis</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1pZd7xnzrv1DFHQi4QSlyqm0ZuuLFeEhD/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>11. Reaction Kinetics</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1Uejm2v7VK349k_Nru1XonSnqFzJfByE2/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>12. Entropy &amp; Energetics</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1ciJ0zQasI3Iuy-RUFgpBaCXvzcC7xTk-/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>13. Chemical Equilibria</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/12LltUx7gEUfaXlqa2iHGJEApdPdpTsiD/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>14. Acid Base Equilibria</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1WTBgjnTB2pNEK0NDguHNABRm4xVS2Bff/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>15. Carbonyls Carboxylic Acids &amp; Chirality</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1lzMcB16guByC5SMYYdO-1pjWvYgnEBqj/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>16. Redox Equilibria</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1lNG5GnIXRrJj_ptWhj2sZk6j-nG6T2a0/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>17. Transition Metals</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1X4m5DN2caY2zECmDlM42wYbQT2LPnOHg/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>18. Organic Chemistry Arenes</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1BYXBOenSYyJXEg2n9-ia75KkDinp5bZS/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>19. Organic Nitrogen Compounds</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1lzHzHMGiRKdgzcZeKTW8DEpaSTv-oiWw/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>20. Organic Chemistry Synthesis</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1FyFkadFfDFUdSUWeVWrRfz0_HP10_CCx/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Practical Chemistry Guide</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1UKpZXl7mVJ7DH9XMtzyEIF0sB8fDhd6F/view?usp=sharing" target="_blank" class="cie-btn-struct"><span class="bi bi-file-earmark-pdf"></span> Chapter Notes</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="tabset-2-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-2-3-tab">
+<div class="table-wrapper" style="max-height: 500px; overflow-y: auto;">
+<table class="premium-table">
+<thead>
+<tr>
+<th style="width: 70%;">
+Unit Title
+</th>
+<th style="text-align: center; width: 30%;">
+Resource Link
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<strong>Unit 1: Structure, Bonding &amp; Intro Organic Chemistry</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1StNKhXBuF5vG_uDjyxs6xJ0XmGIfiNk3/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Complete Unit Guide</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Unit 2: Energetics, Group 2 &amp; 7, Redox &amp; Organic II</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1p8SLLqUzvH9-kVMR6_FTnF11jdOlGoZK/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Complete Unit Guide</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Unit 3: Practical Skills in Chemistry I</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1K9noy5pxV2g79NZMOaUuDjOhcF1-bI-i/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Complete Unit Guide</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Unit 4: Rates, Equilibria &amp; Further Organic Chemistry</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1HmHXlJMrEiF0ihwclhlYOQsCA33AzHn3/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Complete Unit Guide</a>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Unit 5: Transition Metals &amp; Organic Nitrogen Chemistry</strong>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/18YpfQUk95dFjzsZtO77O-esxy-lIZNSV/view?usp=sharing" target="_blank" class="cie-btn-note"><span class="bi bi-file-earmark-pdf"></span> Complete Unit Guide</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="topical-past-papers" class="level2">
+<h2 class="anchored" data-anchor-id="topical-past-papers">4. TOPICAL PAST PAPERS</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Topical Practice Question Papers (Coming Soon)
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Topical past paper packs for Edexcel IAL Chemistry Units 1 to 6 are currently being updated and categorized. Please check back soon!</p>
+</div>
+</div>
+</section>
+<section id="official-past-papers-bank" class="level2">
+<h2 class="anchored" data-anchor-id="official-past-papers-bank">5. OFFICIAL PAST PAPERS BANK</h2>
+<p>Search and download official Pearson Edexcel IAL Chemistry past exam papers, question papers (QP), and mark schemes (MS). Use the interactive filter controls below to refine by <strong>Unit</strong> or <strong>Year</strong>.</p>
+<div class="card p-3 mb-4 shadow-sm" style="border-radius: 12px; border: 1px solid rgba(0,0,0,0.08);">
+  <div class="card-body p-0">
+    <div class="d-flex align-items-center flex-wrap gap-4">
+      
+      <!-- Year Select Dropdown -->
+      <div class="d-flex align-items-center gap-2" style="min-width: 200px;">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Year:</span>
+        <select id="filter-year" class="form-select form-select-sm" onchange="selectYearDropdown(this)" style="max-width: 140px; display: inline-block;">
+          <option value="">All Years</option>
+        </select>
+      </div>
+      
+      <!-- Vertical Divider on desktop -->
+      <div class="d-none d-md-block" style="border-left: 1px solid rgba(0,0,0,0.1); height: 24px;"></div>
+      
+      <!-- Unit Pills -->
+      <div class="d-flex align-items-center gap-2 flex-grow-1">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Unit:</span>
+        <div id="paper-pills" class="d-flex flex-wrap gap-1">
+          <button class="btn btn-sm btn-primary smart-paper-btn active" data-paper="" onclick="selectPaper(this)">All</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="Unit 1" onclick="selectPaper(this)">Unit 1</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="Unit 2" onclick="selectPaper(this)">Unit 2</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="Unit 3" onclick="selectPaper(this)">Unit 3</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="Unit 4" onclick="selectPaper(this)">Unit 4</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="Unit 5" onclick="selectPaper(this)">Unit 5</button>
+          <button class="btn btn-sm btn-outline-secondary smart-paper-btn" data-paper="Unit 6" onclick="selectPaper(this)">Unit 6</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<script>
+let currentSelectedYear = '';
+let currentSelectedPaper = '';
+
+function applySmartFilters() {
+  const list = window['quarto-listings'] ? window['quarto-listings']['listing-past-papers-list'] : null;
+  if (!list) return;
+
+  list.filter(function(item) {
+    const itemValues = item.values();
+    
+    // Read values
+    const itemYear = itemValues['listing-year'] ? itemValues['listing-year'].trim() : '';
+    const itemPaper = itemValues['listing-paper'] ? itemValues['listing-paper'].trim() : '';
+    
+    // Match filters
+    const matchYear = !currentSelectedYear || itemYear === currentSelectedYear;
+    const matchPaper = !currentSelectedPaper || itemPaper === currentSelectedPaper;
+
+    return matchYear && matchPaper;
+  });
+}
+
+function selectYearDropdown(select) {
+  currentSelectedYear = select.value || '';
+  applySmartFilters();
+}
+
+function selectPaper(button) {
+  currentSelectedPaper = button.getAttribute('data-paper') || '';
+  
+  // Update button active state
+  const buttons = document.querySelectorAll('.smart-paper-btn');
+  buttons.forEach(btn => {
+    btn.classList.remove('btn-primary', 'active');
+    btn.classList.add('btn-outline-secondary');
+  });
+  button.classList.remove('btn-outline-secondary');
+  button.classList.add('btn-primary', 'active');
+  
+  applySmartFilters();
+}
+
+function populateYearDropdown() {
+  const list = window['quarto-listings'] ? window['quarto-listings']['listing-past-papers-list'] : null;
+  if (!list) return;
+
+  const yearSelect = document.getElementById('filter-year');
+  if (!yearSelect) return;
+
+  const years = new Set();
+  list.items.forEach(function(item) {
+    const year = item.values()['listing-year'];
+    if (year) years.add(year.trim());
+  });
+
+  const sortedYears = Array.from(years).sort((a, b) => parseInt(b) - parseInt(a));
+
+  yearSelect.innerHTML = '<option value="">All Years</option>';
+  
+  sortedYears.forEach(function(year) {
+    const option = document.createElement('option');
+    option.value = year;
+    option.textContent = year;
+    yearSelect.appendChild(option);
+  });
+}
+
+(function() {
+  function initSmartFilters() {
+    const list = window['quarto-listings'] ? window['quarto-listings']['listing-past-papers-list'] : null;
+    if (list && list.items && list.items.length > 0) {
+      populateYearDropdown();
+    } else {
+      setTimeout(initSmartFilters, 100);
+    }
+  }
+  
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initSmartFilters);
+  } else {
+    initSmartFilters();
+  }
+})();
+</script>
+<div id="listing-past-papers-list" class="quarto-listing quarto-listing-container-custom">
+<table class="quarto-listing-table table table-hover caption-top">
+<thead>
+<tr class="header">
+<th class="sort" data-quarto-table-cell-role="th" data-sort="listing-year">Year</th>
+<th class="sort" data-quarto-table-cell-role="th" data-sort="listing-season">Session</th>
+<th class="sort" data-quarto-table-cell-role="th" data-sort="listing-paper">Unit</th>
+<th class="sort" data-quarto-table-cell-role="th" data-sort="listing-variant">Variant</th>
+<th data-quarto-table-cell-role="th">QP</th>
+<th data-quarto-table-cell-role="th">MS</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr class="odd" data-index="0">
+<td class="listing-year">2026</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 1</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1ZRNgk5dgmFPHOnOiDCXS4DRYeAMyepIy/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1f6ZRehHVUDlS1sTC4kLWPdB6NYcRSYTC/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="1">
+<td class="listing-year">2026</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 1</td>
+<td class="listing-variant">a</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1rzoTagwa_eV2kDpQO1Jiv00ofdh828Je/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1I96oyfzbnUGUVzOe6lOqdJbIb7fhgOpz/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="2">
+<td class="listing-year">2026</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 2</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1xotCPzDdW3SVvKzEzRvKwJwh11HWO7qB/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1nZRtbnd86XkzsJvjd6O-zMGfIcPQDQF5/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="3">
+<td class="listing-year">2026</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 2</td>
+<td class="listing-variant">a</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1f8vGIqlVPMeqyxkssQY07mAk6sTnO4HM/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1aSV2SNalG4m_nSlkSkgZoqJWMSxWsVWy/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="4">
+<td class="listing-year">2026</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 3</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1CY8i2L4Vb1Tmtn0y3hd_KBjOs7Pbowlu/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/16-4kH3ZKV9PaFi7Bvzd44XrEcRpTEwd-/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="5">
+<td class="listing-year">2026</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 3</td>
+<td class="listing-variant">a</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1r0Ip7mjzce0fbj2M8swU8Lh5KJ9I85Gg/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1G1bE4t9YwncJGYxD1LGi4Gj2hVb0nZSZ/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="6">
+<td class="listing-year">2026</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 4</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1IPRbp0V92WhQeNuCtWBoRctQ3hvDoqn_/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1cvU00x1GTshls0QzQR8RFGo0Vxu-hATS/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="7">
+<td class="listing-year">2026</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 4</td>
+<td class="listing-variant">a</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/19tEv1PN2CBtnrabZV5kV2MbmS1z0S-1z/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1qeuFJ6rDXSLDlUf6guCTL-pmhtRv-OkK/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="8">
+<td class="listing-year">2026</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 5</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/18_Nc39an0e5eF5NnlPhNEAgMK2vFW_J4/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1TMT9DYET1NFdEjAXvNeaAdUIqRHdBI2K/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="9">
+<td class="listing-year">2026</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 5</td>
+<td class="listing-variant">a</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1-dac6KlPhdlrjSjcTCzCB4AmbNIjq1Wb/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1YIrl5svT1zMR1w6JTo__KExwjKdo1LXe/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="10">
+<td class="listing-year">2026</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 6</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/15NjlG1vjst6FUHpR6px-4pv7MPFlNR6i/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1r4n-CJ-gZglR6EBipBbE5iYlEvqLQ5TU/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="11">
+<td class="listing-year">2026</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 6</td>
+<td class="listing-variant">a</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1_Qg9LJXQj9fOea91npCZfCn18Fr83pm0/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/18Jxj1k-kZYcOeFukNOVSXbiVE8H4KnEr/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="12">
+<td class="listing-year">2025</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 1</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1E3Bd5aLTRZwyGvOkF0wKO1Nt_3TedYGr/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1FvR_U-Uwg7wcVSdOdlK338qT-r2wH5pX/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="13">
+<td class="listing-year">2025</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 2</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1rdsZ8Wz8NaNkGt-AXdYAQ1v-UeZXYFJl/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1sBop9tqifp5n5C2P8N1Ne1kof1RAQ8b8/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="14">
+<td class="listing-year">2025</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 3</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1pHpdmf9TJzPrfCXyK3yrKj41X3WlNDmf/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/18gzXv45yFfUYLSp00d4AzmdcuT-fO5Hm/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="15">
+<td class="listing-year">2025</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 4</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1v45t1xN4YE1zChLHBXUzd3h2LpBDP7ku/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1JaOgYnLFmh1zqxiebnYgXOkJSmM0LsfV/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="16">
+<td class="listing-year">2025</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 5</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1JvbsNEmLpib1l7DntRupb0y8JkBB16Wa/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1Nyv2C2kgIMXBJ460QXt7UonE-7nLzLM1/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="17">
+<td class="listing-year">2025</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 6</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1SfgBQP1YBXBPzkbM5pcYREdsLZyXGpfe/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1HvF9Gy-byHnE3n_1jwWh2G38TMxoe6xo/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="18">
+<td class="listing-year">2025</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 1</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/10DklXzC0HTgUngty6_Roobc3fNOoSgcU/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1yy4w4u0tmhc4gVTNBIPyb8Z3635rtsxd/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="19">
+<td class="listing-year">2025</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 2</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1E8-o42NN3UW11GRTUSze4UeAtFW9Myeg/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1VgbRDbfCOnO0FPgscHtvtAFHu5Auy24u/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="20">
+<td class="listing-year">2025</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 3</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1rkTRrzFcqSvHjwExX4fQ98G7yPutfpxu/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1p5wp5b98y2OyhzJY1GpmUzxUVU2Rkzix/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="21">
+<td class="listing-year">2025</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 4</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1kkbJSkjJaoSiWExGUEHi9vhw0BHpIush/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1n6upiYp-kPKKKlTyOkNLlC_fPT2w6IW1/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="22">
+<td class="listing-year">2025</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 5</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1Hfj2S9o_Wdj_an-5LfjKFp87VG8L9vrw/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1Dybk8v4UE7oBdljxjFZyMNMtkmUSyAvE/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="23">
+<td class="listing-year">2025</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 6</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1nCZ1Bt4E3oVEpMTTnTsKST2yjd3V2lTr/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1Pan6FiyYDMUMvOBKPuZSlv8oaZyGPy6C/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="24">
+<td class="listing-year">2024</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 1</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/18G2qM5qThjE3raFVxNim-_zypmFUKjlK/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1SJZZ2EFILBkVgxGOthtll7uW4yjfTFg7/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="25">
+<td class="listing-year">2024</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 2</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1HrTxe5Vx2v0kTnvbfwGoquaX-342Z3aJ/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1vT8PdiMLWchKkzRIu3TaOxR3dlo5VnER/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="26">
+<td class="listing-year">2024</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 2</td>
+<td class="listing-variant">r</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1xZCtQahS64YSklTxyueHAiJt01er2XmH/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1TfJP5WVImfNSyieTUzl4q01iOsXadqpP/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="27">
+<td class="listing-year">2024</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 3</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1MZuY_RcIj8UFLgalFxoj2FRdBZEMz_Wm/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/17_HEnK8ea-I5GM04N28RW7lyE-Y-CZQO/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="28">
+<td class="listing-year">2024</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 3</td>
+<td class="listing-variant">r</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1LYX1WumFXG3F35Uh6YVserVjIyznGrMN/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1AsjiLnnaxn-_U2nTcIN_I1fquPWnZWXO/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="29">
+<td class="listing-year">2024</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 4</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1MjWia0L3cJeOiWWS7U90SBDxWZNe0Xru/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1chfpp3GTMJ1AD2jFjdcYSSLVLGH1mUK3/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="30">
+<td class="listing-year">2024</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 5</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/133UOH01xNFW2fieCRrotkHn0zNGHL2gh/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1QVb3esa23_Hlmw_2jfdYuzwAKFvk5crH/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="31">
+<td class="listing-year">2024</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 6</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1yeZAV5RJ7IKEquP5GCoFNutDaUe7XC-1/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1N27fHuIhlVLSaIQthynhDVrCOgwLxO4G/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="32">
+<td class="listing-year">2024</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 1</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/12kBnNmZyzx8OiQFKItVvCUuE2WoSceIP/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/17efH3BBH7G3qs-p5ZX8ZJg50tgoYo9Ed/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="33">
+<td class="listing-year">2024</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 2</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1mo2qIA_0W5js1CAt7nmv5FoZuYk_x_o0/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/18ESXu2NB7u50U-RImeX56f3NY53jNS5S/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="34">
+<td class="listing-year">2024</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 3</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1BQ214eTNJt4bCjPog56RVfd1Pjo9xb62/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1QemlMMHz1AGGNo6VQnI4SAAPXBSokCmS/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="35">
+<td class="listing-year">2024</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 4</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/13sMGFlGNgGsDsT0dOddlTBgjUMVqGtRi/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1U8VKxRLgrwHN3ammz1LxZXzcVDd-RVjM/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="36">
+<td class="listing-year">2024</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 5</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/10NXwe3yfP2z5yvTvI_8NQhC8gtvKriez/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1J39-vVzBIsqqTUWceO0_tcBVE8kxl_3C/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="37">
+<td class="listing-year">2024</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 6</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1upqCA1EMQoGSeRv-Q4I6dDZ1dlNmYjtk/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1unqsfeH0l3V6P07rVcKg7bTzSGSSouH1/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="38">
+<td class="listing-year">2023</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 1</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1aZfv9RXcrrNcN29lECVbsXxB2I7A3Xld/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1Qo5YohuELpbfNAWWQmnn-4PHqLASlNc_/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="39">
+<td class="listing-year">2023</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 2</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1IA9tCpxeCAV3V-5GyHoD5TMNmyXCZp4T/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1IC74UX7TzKBTfPm85yU84WzumVSETR3Z/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="40">
+<td class="listing-year">2023</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 3</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/17_wpbEaxqhOkQq_L8ZZz-CFVJbqsoNwX/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1LInE2P_v0RqMMZgd-RGsNtC2mClyVkSY/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="41">
+<td class="listing-year">2023</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 4</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1II7kB-ANSrkV_s8M6GNoBdOUtHy_BTdT/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1aZBj-2XZdo_UkRlftk1ziymXf65WcShw/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="42">
+<td class="listing-year">2023</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 5</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1_shabmkDB-20zOWlwUIBrpXuRCUdCz4X/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/13b0GRgsiTt3KTRP8It88RMcSqNUsSDQA/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="43">
+<td class="listing-year">2023</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 6</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1Abno2CXXwSRN-wXH5IHQXdhtdFo5jw1e/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1L_u3n9h-_-x6x3CV3eD6q5BNgIIjn__i/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="44">
+<td class="listing-year">2023</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 1</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/16z04TW2HBF5buD7HK27BCo9iWjWx3xya/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1MGmPh8UcMH42BDhhGiSacSfkVIIk2wMF/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="45">
+<td class="listing-year">2023</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 2</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1arXln6-CvuWe1RR6b0Him5TMc2eb_S83/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1SM0F2y9Ek5035AxQy7bNZ1NX2hUwsnSN/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="46">
+<td class="listing-year">2023</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 3</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1ewoQ73RILC3N4__MI7BpulDX66m3NFcp/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1g4SeXblMwOxQsMOXpuu-XPK-CFDM6Pzd/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="47">
+<td class="listing-year">2023</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 4</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1jFNMImA9EABIDriAe2yya5PIjVLbJI4v/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/17I3Nm1R-GI898cgPvI3tLT4hFEj9okyG/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="48">
+<td class="listing-year">2023</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 5</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1-Csd7wmEpRfvLnXjQAK2cGSH9BnUB2jp/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1E9L0Cu20ebLQx5YT75rFzU9lzHk9ivSm/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="49">
+<td class="listing-year">2023</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 6</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1B_hsjP56j7g2KNBTOj2nSOHNIbRCtFT5/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/13TJCsuvvrx6GtNt6s21yKzXJGR0QgpM8/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="50">
+<td class="listing-year">2022</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 1</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1O434yKVdMuxUKzne_makdgZk4s5GXQqi/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1PDEUVS2djEik88ZindgAV4UPd0Jnuy2c/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="51">
+<td class="listing-year">2022</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 2</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1uSKvsOCrQvV6gsK8194h4cR7vZbHta2y/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/14X5dRTCgLSoz2E1wQynA8kg2SsCZPjbT/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="52">
+<td class="listing-year">2022</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 3</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1TJS2ryMWGW8VZgT8rYsefqZJP6JNzS8Y/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1viP79oTMpu4tD1gFuV-V7tS-0FgiuDjv/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="53">
+<td class="listing-year">2022</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 4</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1spCih6GQ95iTIhpofSw3-lDiX1OJtUht/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1jbO5qAfPH4_FE-nIQqxjUts6qhSXQ1me/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="54">
+<td class="listing-year">2022</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 5</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1JJJjMySoEryRJ6HeLKt3eI5LlMOMVOI3/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1yKJFmUjAX8d3RrrbtKZJO_Ao5jzvSXXb/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="55">
+<td class="listing-year">2022</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 6</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1kuH8MQ-w1J3mGye2Mnmz7e6nPX-J01Un/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/12A-mxTwQ-nbmkEhMxmmZtIdrgf2P_gmy/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="56">
+<td class="listing-year">2022</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 1</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1DWhc5tZDJQq4SjvSTv2YdM6M10PcEQSQ/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1OzEAHzQtuSCAMxfpnrkyKDzxjCnxAg6G/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="57">
+<td class="listing-year">2022</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 2</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1MESmZRbvu18yYiG5JKKfdM8H9it7F1eE/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1AsWss3m8a8ggQLlGN9ykGJpkFd4oORNB/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="58">
+<td class="listing-year">2022</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 3</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1-Ss6B08uoZYW0iCsIJRxUZ4Lr0_4FQ_o/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1Tp2kHNDXMfWWyJJNyJjLiLYwzr9Hhj4-/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="59">
+<td class="listing-year">2022</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 4</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/13o7CGTZXHP4pZjnGEALz4U1K7HVhlWGs/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/13JXqL0dQZB0-ApSWH4vMHvc9ko5S7IFw/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="60">
+<td class="listing-year">2022</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 5</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1ZkygcyNN6KZL4vntPPrhodht2_wNfOIB/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1iMniQMVqdcWUeZd_DIRArDB6cMU65vhW/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="61">
+<td class="listing-year">2022</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 6</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1nu-M13rbc0OlMPHEooDoDIdGxYsEHp99/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1106_Q8QtPhEWiqPOKmynkVhrWODe6-BN/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="62">
+<td class="listing-year">2021</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 1</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1bgdMCTMVBJKIenIX3sCqZfo8ww1ITat1/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1uKdCkMDkh7KJ3au1f2az0vOMCGNC9qph/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="63">
+<td class="listing-year">2021</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 2</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/13yoMPi8ZjGcAuwnqmdGwtg2KQfXEp_BR/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1RzWYXP6i4pQ5qAzRImIjXr53__hEMRB7/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="64">
+<td class="listing-year">2021</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 3</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/19w9lyzgU1SOtsURuUGxpJafqJbQcHJKn/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1uytetMBpiy_bae_NFiOMsRO0s9zMktlt/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="65">
+<td class="listing-year">2021</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 4</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1dn7KJxaG8HjhMhL-tFei8ZFq14e3U-5i/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1uY4etjzRDou6EEUGZd1w0wH7LHaw-YD9/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="66">
+<td class="listing-year">2021</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 5</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1a9cTOU7z4fkrzH7bh7k5-itObP44BmMo/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1h8lJebZ0QFvAn7mg-RXG9mWl9_l1N0Qi/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="67">
+<td class="listing-year">2021</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 6</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/10nOK4ZgLxN3nO9iRAuLaPZCFp8XaYs1F/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1XH7v2LYvBEYHMgEYgz1aTegkXWzTCWdU/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="68">
+<td class="listing-year">2021</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 1</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1rK56kbWf0ew0M5LDXgRf0sjUtRQzPA_Z/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1UJegC0hWF2dPMaPYg5G5GT4XsTmyiTH1/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="69">
+<td class="listing-year">2021</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 2</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1WEU6jf0lDf0YreOEpWU0KicPsTGySYfD/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1Ya-5zCZX4FNfD8otqOMLGS9L-N6lhzLu/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="70">
+<td class="listing-year">2021</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 3</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1mvCO56q0kN_w8feJMS0CgZ8qcLl-8zDz/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1p_lZNG0QX8URYRpm4Q32Rb3pcGMTkNtV/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="71">
+<td class="listing-year">2021</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 4</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1l5AFNSKM_a8OPXDYUm2REImWkg5G5G7I/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/17fz_G7VqidujpAwZ0cjz3eOxYBjkWNLD/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="72">
+<td class="listing-year">2021</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 5</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/19KhTLoHYGGMY_mxTzciE1hp3xX3IBLnu/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1NRYL3QbFmZntEM_07GqfqaOu0u7mjwcr/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="73">
+<td class="listing-year">2021</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 6</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1qPIQ2FUa2oGVlSrT6L24Wb0A-kb7fIxE/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1DfqG72nBRVL7hlrUO37ZRozhGE4POyfj/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="74">
+<td class="listing-year">2020</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 1</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1ynnvOX4wWiSIusWyfgfE0gepHll7xQKp/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1o0d4-wFPg8Z1vPojJh7R_EATk4aEavTr/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="75">
+<td class="listing-year">2020</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 2</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/11EOJRMIaYNsRflHtKeqsm4OxPXlOzKEd/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1rT9N7exvTlFymdm-UUnpKCIzS28hfNwC/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="76">
+<td class="listing-year">2020</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 3</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1d_NLoQg2TyGyS0Te1h_Q5DhpqKKSPJ3e/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1N5OJpQn53RM5K0bRgjaO7pIpJmW28zoB/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="77">
+<td class="listing-year">2020</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 4</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/104rEX-PnKo7HS6kqjrP13TZRpNC5m3H5/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/12Wz6ZaWXl8bHb6ixNRfMM6QEHUKim2bF/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="78">
+<td class="listing-year">2020</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 6</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1OgtG5N1vPSsGWQ3df7RFlvaHpWaC3l-i/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1kmnn1Rg71dzNRrASpY2-lvXHP9jKfW4p/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="79">
+<td class="listing-year">2020</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 1</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/15l0Cr-BUuEAt7YuMTSkUX-5KUnbMXM8_/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1SJta-UhKq04gekbkQk74hn2iSaSSAkYt/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="80">
+<td class="listing-year">2020</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 2</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1JGFtSc7DiF4AZw1ZORWDgSJAtmT20iZ-/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1XLeuSzn2X97JXKFbASM5R6QOuJQ8VuWx/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="81">
+<td class="listing-year">2020</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 3</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1uxU5q7aElTCmH4YPPlJfKZ_oe_r0wbvS/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/14D7_FFXxM-AoqWVedgAzRNF5XLzxcXsc/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="82">
+<td class="listing-year">2020</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 4</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1bzagH7ONjJ66c---C36egbAuWycdF6G2/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1fiCHxvhWFt0N-ShBK_CmuJuh0v0ErIHQ/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="83">
+<td class="listing-year">2019</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 1</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1JAOb0FnfIcnPvHpgXyG6iomeH1bceyZ3/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1xsEwMSfLuyHB2eE7Wj-xJKigRw0SPgmO/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="84">
+<td class="listing-year">2019</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 2</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1sbdwX1YHT2PL4zqOJDi53sTJRxY2gnGc/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1f8RCpMERRNENXQOjzwghvvpvN4PadWfj/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="85">
+<td class="listing-year">2019</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 3</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1-hCGx5HpeaU4gpPS_uwQRRP79-ALdvaL/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1_yVnXqSbpsR3ty-7XvPAA0100HTw0yX9/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="odd" data-index="86">
+<td class="listing-year">2019</td>
+<td class="listing-season">Spring (Jan)</td>
+<td class="listing-paper">Unit 1</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1VdSc8UGkaYudaaisTikIBYjpOIvlK8cX/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1NrJRjlQlz4qHJP0gZu9I9I4_B497DTuy/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+<tr class="even" data-index="87">
+<td class="listing-year">2010</td>
+<td class="listing-season">Summer (May/Jun)</td>
+<td class="listing-paper">Unit 5</td>
+<td class="listing-variant">-</td>
+<td class="listing-qp"><a href="https://drive.google.com/file/d/1DDLvQcm6aCnbHkarOS5e6IJtgZmo2ZQB/view?usp=sharing" class="btn btn-sm btn-primary bi bi-file-earmark-text" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Question Paper"></a></td>
+<td class="listing-ms"><a href="https://drive.google.com/file/d/1usXvusMsAjJkuplauV3iz1JzTJEUa59S/view?usp=sharing" class="btn btn-sm btn-success bi bi-key" target="_blank" style="padding: 0.35rem 0.5rem; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; width: 32px; height: 32px;" title="Download Mark Scheme"></a></td>
+</tr>
+</tbody>
+</table>
+<div class="listing-no-matching d-none">No matching items</div>
+<nav id="past-papers-list-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
+</div>
+
 
 
 </section>
@@ -938,15 +3103,15 @@ gtag('config', 'G-Y5KN25P14N', { 'anonymize_ip': true});
     }
   });
   </script>
-<nav class="page-navigation">
+<nav class="page-navigation column-body">
   <div class="nav-page nav-page-previous">
       <a href="../../../chem/a-level/cie/index.html" class="pagination-link" aria-label="CIE Chemistry (A-Level)">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">CIE Chemistry (A-Level)</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../../../chem/a-level/edexcel/as.html" class="pagination-link" aria-label="Edexcel AS Chemistry (AS Level)">
-        <span class="nav-page-text">Edexcel AS Chemistry (AS Level)</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../../../chem/a-level/others/index.html" class="pagination-link" aria-label="Other Exam Boards Chemistry">
+        <span class="nav-page-text">Other Exam Boards Chemistry</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

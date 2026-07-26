@@ -1462,6 +1462,40 @@ body.quarto-light .about-contact-list {
   background: rgba(0, 0, 0, 0.01);
 }
 
+/* CIE Resource Table Buttons */
+.cie-btn-flashcard {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.3rem 0.65rem;
+  font-size: 0.825rem;
+  font-weight: 500;
+  border-radius: 6px;
+  text-decoration: none;
+  background-color: rgba(245, 158, 11, 0.1);
+  color: #d97706;
+  border: 1px solid rgba(245, 158, 11, 0.25);
+  transition: all 0.2s ease;
+}
+
+.cie-btn-flashcard:hover {
+  background-color: #f59e0b;
+  color: #ffffff;
+  border-color: #f59e0b;
+}
+
+body.quarto-dark .cie-btn-flashcard {
+  background-color: rgba(251, 191, 36, 0.15);
+  color: #fbbf24;
+  border-color: rgba(251, 191, 36, 0.3);
+}
+
+body.quarto-dark .cie-btn-flashcard:hover {
+  background-color: #f59e0b;
+  color: #0f172a;
+}
+
+
 
 /* ==========================================================================
    CSS CHO MỤC SÁCH (IB MATHEMATICS BOOKS GRID)
