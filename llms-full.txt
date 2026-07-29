@@ -3,9 +3,9 @@ Path: /books.html
 Subtitle: Thư viện Sách Tham Khảo Toán & Hóa học Quốc Tế (IB, A-Level, AP, IGCSE, SAT)
 ----------------------------------------
 
-Với mục đích hỗ trợ học tập thực tế và nâng cao hiệu quả giảng dạy, NKK-Education Hub cung cấp kho sách tham khảo lớn được lập chỉ mục đầy đủ. Dưới đây là thống kê chi tiết các đầu sách hiện có trên hệ thống, phân loại theo từng lộ trình học tập. 
+Nhằm phục vụ tối đa nhu cầu học tập thực tế và nâng cao hiệu quả giảng dạy cho học sinh các trường quốc tế tại TP.HCM (Thủ Đức, Quận 2, Quận 7), **NKK-Education Hub** do **TS. Nguyễn Khắc Kiêm (Dr. Kiem Nguyen)** vận hành cung cấp kho giáo trình và sách tham khảo chuyên sâu với gần 500 đầu sách chuẩn quốc tế được lập chỉ mục chi tiết.
 
-Học sinh và giáo viên có thể tra cứu nhanh sách theo tiêu đề, tác giả, nhà xuất bản hoặc lọc theo chuyên môn tương ứng.
+Kho sách bao gồm đầy đủ giáo trình chính thức (Textbooks), sách bài tập (Workbooks), tài liệu ôn thi (Revision Guides, Past Papers Worked Solutions) cho các hệ chương trình: **Cambridge A-Level & IGCSE (CIE, Edexcel, AQA, OCR)**, **IB Diploma Program (Math AA/AI, Chemistry HL/SL)**, **AP Calculus AB/BC, AP Statistics, AP Chemistry**, **Digital SAT Math** và **US Common Core**. Học sinh và giáo viên có thể tra cứu nhanh sách theo tiêu đề, tác giả, nhà xuất bản hoặc lọc theo chuyên môn tương ứng.
 
 <script src="books_metadata.js"></script>
 
@@ -28,13 +28,18 @@ Path: /test_bank.html
 Subtitle: Exam Preparation Resources for International Mathematics & Chemistry
 ----------------------------------------
 
-Chào mừng các em học sinh đến với Test Bank của NKK-Education Hub. Dưới đây là hệ thống các bài test được thiết kế theo từng môn học, dùng để học sinh tự đánh giá khả năng của mình và cũng là nơi để thầy giao bài tập cho học sinh. Mỗi bài test sẽ có hai format là pdf để các bạn có thể download về và forms dùng để học sinh nộp bài.
+Chào mừng các em học sinh và quý phụ huynh đến với **Test Bank & Exam Resources** của **NKK-Education Hub** — Cổng luyện thi Toán & Hóa học Trường Quốc tế tại TP.HCM (Thảo Điền, An Phú, Q2 & Phú Mỹ Hưng, Q7) do **TS. Nguyễn Khắc Kiêm (Dr. Kiem Nguyen)** biên soạn. 
+
+Hệ thống cung cấp ngân hàng bài test, **Past Papers**, **Topical Question Packs**, **Mark Schemes**, **Formula Booklets** và lời giải chi tiết (**Past Paper Worked Solutions**) bám sát theo từng lộ trình Curriculum của các trường quốc tế hàng đầu (BIS, ISHCMC, AIS, TAS, EIS, SSIS, CIS, Renaissance, BVIS). Mỗi bài test hỗ trợ 2 định dạng: file PDF đề thi / đáp án để tải về và Google Forms trực tuyến để học sinh nộp bài làm và tự đánh giá năng lực.
 
 ------------------------------------------------------------------------
 
 ## Subject Index
 
 ## IB (International Baccalaureate)
+
+## IB Diploma Program (IB DP) Test Bank & Exam Resources
+Hệ thống ngân hàng đề thi thử, **Past Papers**, **Topical Question Packs**, **Mark Schemes**, **Formula Booklets** và **Past Paper Worked Solutions** môn **IB Math AA & AI (HL/SL)** và **IB Chemistry (HL/SL)** chuẩn khung IBO (2016 & 2025). Thiết kế bám sát chương trình giảng dạy của các trường quốc tế uy tín tại TP.HCM như **BIS HCMC**, **ISHCMC**, **AIS**, **TAS**, **EIS**, **SSIS**, **CIS**, **Renaissance**.
 
 ### IB Mathematics {#ib-math}
 
@@ -113,6 +118,12 @@ Các chuyên đề cốt lõi tập trung vào hai trục chính cấu trúc và
 ------------------------------------------------------------------------
 
 ## A-Level (Cambridge Advanced)
+
+## Cambridge & Edexcel A-Level Test Bank & Exam Resources
+Tổng hợp kho đề thi thực luyện, **Past Papers**, **Mark Schemes**, **Formula Booklets** và lời giải chi tiết cho chương trình pre-university chuẩn Anh Quốc:
+* **A-Level Mathematics:** Cấu trúc bài tập cho **CIE 9709** và **Pearson Edexcel IAL** bao gồm Pure Mathematics (P1, P2, P3, P4), Mechanics (M1, M2), Probability & Statistics (S1, S2) và Further Mathematics.
+* **A-Level Chemistry:** Ngân hàng đề thi hóa lý, hóa vô cơ và cơ chế phản ứng cho **CIE 9701**, **Edexcel Chemistry**, **AQA (7404/7405)** và **OCR Chemistry A**.
+Giúp học sinh trường **BVIS HCMC**, **BIS HCMC**, **AIS** bứt phá điểm A*.
 
 ### A-Level Mathematics CIE (Syllabus 9709) {#alevel-math-cie}
 
@@ -284,6 +295,12 @@ Các chuyên đề cốt lõi tập trung vào hai trục chính cấu trúc và
 
 ## IGCSE
 
+## International GCSE (IGCSE) Test Bank & Exam Resources
+Kho tài liệu bài tập, đề kiểm tra định kỳ, **Past Papers**, **Mark Schemes** và **Worked Solutions** bậc trung học IGCSE:
+* **IGCSE Mathematics:** Đầy đủ dạng bài cho **CIE IGCSE Math 0580**, **CIE International Math 0607**, **CIE Additional Math 0606** và **Pearson Edexcel IGCSE Math 4MA1**.
+* **IGCSE Chemistry & Sciences:** Đề thi **CIE Chemistry 0620**, **Edexcel Chemistry 4CH1**, cùng các phần Hóa học thuộc **CIE Combined Science (0653)**, **Co-ordinated Sciences (0654)** và **Edexcel Double Award (4SD0)**.
+Phù hợp cho học sinh các trường **BIS**, **AIS**, **SIKS**, **Renaissance**, **BVIS** củng cố nền tảng vững chắc.
+
 ### IGCSE CIE {#igcse-cie}
 
 #### IGCSE Mathematics (Syllabus 0580) {#igcse-cie-0580}
@@ -351,6 +368,13 @@ Các chuyên đề cốt lõi tập trung vào hai trục chính cấu trúc và
 ------------------------------------------------------------------------
 
 ## US Curriculum, SAT & AP
+
+## US High School, AP & Standardized Tests Exam Resources
+Hệ thống bài test chuẩn hóa và ngân hàng câu hỏi phân loại cho lộ trình trung học Mỹ và nộp đơn đại học (US College Admissions):
+* **Standardized Tests:** Đề luyện thi **Digital SAT Math** (tích hợp tuyệt chiêu bấm máy Desmos Hacks), **Digital PSAT 8/9 & PSAT 10**, và **Digital SSAT Quantitative**.
+* **Advanced Placement (AP):** Ngân hàng đề thi FRQ & MCQ cho **AP Calculus AB/BC**, **AP Statistics**, và **AP Chemistry**.
+* **Common Core High School Math:** Bộ test chuyên đề **Math Grade 6-8**, **Algebra 1 & 2**, **Geometry**, và **Pre-Calculus**.
+Đáp ứng hoàn hảo tiêu chuẩn đánh giá tại **SSIS (Saigon South)**, **ISHCMC - American Academy**, **TAS**, **AmNot** và **CIS**.
 
 ### US High School Math {#us-hs-math}
 
@@ -444,27 +468,27 @@ Các chuyên đề cốt lõi tập trung vào hai trục chính cấu trúc và
 
 # PAGE: NKK-Education Hub
 Path: /index.html
-Subtitle: Professional Academic Portals for International Mathematics & Chemistry
+Subtitle: Premium Academic Gateways for International Mathematics & Chemistry
 ----------------------------------------
 
 # NKK-Education Hub
-## Professional Portal for International Mathematics & Chemistry
+## Premium Academic Gateways for International Mathematics & Chemistry
 
-An organized digital archive of high-yield study notes, formula directories, and structured past exam papers. Designed to support students in international schools mastering advanced sciences and achieving top academic marks.
+High-yield study resources, past paper databases, and structured exam preparation designed specifically for students in international schools in Ho Chi Minh City. Covering **IB Diploma Program** (Math AA/AI, Chemistry HL/SL), **Cambridge IGCSE & A-Level** (CIE, Edexcel, AQA, OCR), **AP Calculus/Statistics**, and **Digital SAT Math**.
 
-* **Cambridge Curricula** (IGCSE, AS & A-Level modular)
-* **IB Diploma Program** (Mathematics AA & AI, Chemistry HL/SL)
-* **Standardized Admissions** (Digital SAT Math, AP Calculus AB/BC, AP Statistics)
+* **Cambridge Curricula** (IGCSE 0580/0607/4MA1, AS & A-Level P1-P4, S1-S2, M1-M2)
+* **IB Diploma Program** (Mathematics AA & AI HL/SL, Chemistry HL/SL)
+* **US & Standardized Tests** (Digital SAT Math, AP Calculus AB/BC, AP Statistics, Common Core)
 
 [Explore Academic Portals](#academic-gateways)
 [Explore Reference Books](books.html)
 
-  <i class="bi bi-tags-fill"></i> Past Papers Databases:<br>
-  Toán: <a href="math/ib/index.html" style="color: #38bdf8; text-decoration: none; font-weight: 500;">IB Math</a> | <a href="math/a-level/index.html" style="color: #38bdf8; text-decoration: none; font-weight: 500;">A-Level Math</a> | <a href="math/igcse/index.html" style="color: #38bdf8; text-decoration: none; font-weight: 500;">IGCSE Math</a> | <a href="math/common-core/index.html" style="color: #38bdf8; text-decoration: none; font-weight: 500;">Common Core</a> | <a href="math/sat-ap/index.html" style="color: #38bdf8; text-decoration: none; font-weight: 500;">AP & SAT Math</a>
+  <i class="bi bi-tags-fill"></i> Fast Past Paper Search:<br>
+  Toán: <a href="math/ib/index.html" style="color: #38bdf8; text-decoration: none; font-weight: 500;">IB Math AA/AI</a> | <a href="math/a-level/index.html" style="color: #38bdf8; text-decoration: none; font-weight: 500;">A-Level Math (CIE/Edexcel)</a> | <a href="math/igcse/index.html" style="color: #38bdf8; text-decoration: none; font-weight: 500;">IGCSE Math (0580/4MA1)</a> | <a href="math/common-core/index.html" style="color: #38bdf8; text-decoration: none; font-weight: 500;">Common Core</a> | <a href="math/sat-ap/index.html" style="color: #38bdf8; text-decoration: none; font-weight: 500;">Digital SAT & AP Math</a>
   <br>
-  Hóa: <a href="chem/ib/index.html" style="color: #10b981; text-decoration: none; font-weight: 500;">IB Chemistry</a> | <a href="chem/a-level/index.html" style="color: #10b981; text-decoration: none; font-weight: 500;">A-Level Chemistry</a> | <a href="chem/igcse/index.html" style="color: #10b981; text-decoration: none; font-weight: 500;">IGCSE Chemistry</a>
+  Hóa: <a href="chem/ib/index.html" style="color: #10b981; text-decoration: none; font-weight: 500;">IB Chemistry HL/SL</a> | <a href="chem/a-level/index.html" style="color: #10b981; text-decoration: none; font-weight: 500;">A-Level Chem (CIE/Edexcel/AQA/OCR)</a> | <a href="chem/igcse/index.html" style="color: #10b981; text-decoration: none; font-weight: 500;">IGCSE Chemistry (0620/4CH1)</a>
 
-![](images/academic_workspace.png)
+![](images/favicon1.webp)
 
 ### 60
 Dedicated Academic Pages
@@ -497,7 +521,7 @@ Please select any of the curriculum cards below to navigate directly to the resp
 ### IB Chemistry
 **International Baccalaureate Chemistry Portal**
 
-- Focus: Conceptual study notes structured around the core axes of **Structure** and **Reactivity**.
+- Focus: Conceptual study notes for **Higher Level (HL)** & **Standard Level (SL)** structured around **Structure** and **Reactivity**.
 - Contains detailed topic checklists, past papers, and formula guides tailored to the new IBO syllabus.
 - [Explore Now &rarr;](chem/ib/index.html)
 
@@ -507,7 +531,7 @@ Please select any of the curriculum cards below to navigate directly to the resp
 **Advanced Level Mathematics (British System)**
 
 - Focus: Specialized resources for major boards including **CIE**, **Edexcel**, and others.
-- Fully supports modular structures across **Pure Mathematics**, **Mechanics**, and **Probability & Statistics**.
+- Fully supports modular structures across **Pure Mathematics (P1-P4)**, **Mechanics (M1-M2)**, **Statistics (S1-S2)**, and **Further Math**.
 - [Explore Now &rarr;](math/a-level/index.html)
 
 <img src="images/a_level_chem.webp" class="gateway-card-img" alt="A-Level Chemistry">
@@ -515,8 +539,8 @@ Please select any of the curriculum cards below to navigate directly to the resp
 ### A-Level Chemistry
 **Advanced Level Chemistry (British System)**
 
-- Focus: Structured revision notes for **Physical**, **Inorganic**, and **Organic Chemistry** modules.
-- Supports comprehensive preparation for CIE and Edexcel boards with reaction mechanisms and practical guides.
+- Focus: Structured revision notes for **CIE 9701**, **Edexcel IAL**, **AQA (7404/7405)**, and **OCR Chemistry A**.
+- Supports comprehensive preparation for Physical, Inorganic, and Organic modules with reaction mechanisms and practical handbooks.
 - [Explore Now &rarr;](chem/a-level/index.html)
 
 <img src="images/igcse_math.webp" class="gateway-card-img" alt="IGCSE Mathematics">
@@ -15802,7 +15826,7 @@ Select your specific exam board below to access actual past papers, syllabus-ali
 * Navigate the modular exam structure from IAS (Units 1-3) to IA2 (Units 4-6). Focus on mechanisms and thermodynamics notes.
 * [Explore Edexcel Resources →](edexcel/index.html)
 
-<img src="../../images/a_level_chem_other_exam_boards.webp" class="program-card-img" alt="AQA Chemistry A-Level">
+<img src="../../images/a_level_aqa_chem.webp" class="program-card-img" alt="AQA Chemistry A-Level">
 
 ### A-Level AQA Chemistry
 **AQA (Specification 7404 / 7405)**
@@ -15810,7 +15834,7 @@ Select your specific exam board below to access actual past papers, syllabus-ali
 * Topic-by-topic revision notes, Chemrevise guides, flashcards, mind maps, and topical practice question papers.
 * [Explore AQA Resources →](others/aqa.html)
 
-<img src="../../images/a_level_chem_other_exam_boards.webp" class="program-card-img" alt="OCR Chemistry A-Level">
+<img src="../../images/a_level_ocr_chem.webp" class="program-card-img" alt="OCR Chemistry A-Level">
 
 ### A-Level OCR Chemistry
 **OCR Chemistry A (H032 / H432)**
@@ -18390,7 +18414,7 @@ Welcome, students! This specialized IB Chemistry learning portal provides compre
 
 Select the appropriate program level below to access detailed study notes, syllabus-mapped practice questions, and key chemical formula guides:
 
-<img src="../../images/ib_chem_hl.png" class="program-card-img" alt="IB Chemistry HL">
+<img src="../../images/ib_chem_hl.webp" class="program-card-img" alt="IB Chemistry HL">
 
 ### IB Chemistry HL
 **Higher Level**
@@ -18398,7 +18422,7 @@ Select the appropriate program level below to access detailed study notes, sylla
 * Covers all SL core topics plus Advanced Higher Level (AHL) modules in kinetics, equilibrium, thermodynamics, and complex organic chemistry.
 * [Explore Resources →](hl.html)
 
-<img src="../../images/ib_chem_sl.png" class="program-card-img" alt="IB Chemistry SL">
+<img src="../../images/ib_chem_sl.webp" class="program-card-img" alt="IB Chemistry SL">
 
 ### IB Chemistry SL
 **Standard Level**
@@ -18408,7 +18432,7 @@ Select the appropriate program level below to access detailed study notes, sylla
 
 ---
 
-## Level 3 Syllabus Mapping (2016 vs 2025)
+## Syllabus Mapping (2016 vs 2025)
 
 This guide maps the specific 3rd-level learning objectives (Understandings, Applications, and Skills) of the 2025 IB Chemistry syllabus back to the legacy 2016 topics. This granular breakdown allows for exact file tagging (Notes, MCQs, Structured Questions) when migrating resource databases.
 
