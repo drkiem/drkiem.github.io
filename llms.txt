@@ -8,9 +8,9 @@
 *General overview and introductory pages of the portal.*
 
 - [AP Chemistry Prep](/chem/sat-ap.html): Chương Trình Luyện Thi Hóa Học Advanced Placement (College Board)
-- [AP Physics & Special Advanced Placement Subjects](/others/ap.html): Chương Trình Luyện Thi Các Môn AP Đặc Biệt Phục Vụ Du Học Mỹ
 - [About Me & Philosophy](/about.html): Detailed course resources and past papers.
-- [NKK-Education Hub](/index.html): Premium Academic Gateways for International Mathematics & Chemistry
+- [NKK-Education Hub](/index.html): Professional Academic Portals for International Mathematics & Chemistry
+- [Reference Books](/books.html): Thư viện Sách Tham Khảo Toán & Hóa học Quốc Tế (IB, A-Level, AP, IGCSE, SAT)
 - [Test Bank](/test_bank.html): Exam Preparation Resources for International Mathematics & Chemistry
 
 ## IB Mathematics
@@ -28,12 +28,11 @@
 - [IB Chemistry Higher Level (HL)](/chem/ib/hl.html): International Baccalaureate (IB) Diploma Programme Chemistry - Higher Level
 - [IB Chemistry Overview](/chem/ib/index.html): International Baccalaureate (IB) Chemistry Program
 - [IB Chemistry Standard Level (SL)](/chem/ib/sl.html): International Baccalaureate (IB) Diploma Programme Chemistry - Standard Level
-- [Level 3 Syllabus Mapping: IB Chemistry (2016 vs 2025)](/chem/ib/syllabus.html): A granular 3rd-level mapping of legacy 2016 resources to the new 2025 Structure & Reactivity framework.
 
 ## A-Level Mathematics
 *Comprehensive resources for CIE, Edexcel, and other boards (Pure, Statistics, Mechanics).*
 
-- [A-Level Math Practice Papers (Other Boards)](/math/a-level/others/papers.html): Detailed course resources and past papers.
+- [A-Level Math Practice Papers (Other Boards)](/math/a-level/others/papers.html): AQA, OxfordAQA & Supplementary Exam Practice Resource Bank
 - [A-Level Mathematics Overview](/math/a-level/index.html): Comprehensive resources, modular syllabus guidance, and exam portals for CIE, Edexcel, and other boards
 - [CIE A-Level Further Mathematics](/math/a-level/cie/further.html): Chương Trình Toán Học Cao Cấp Cambridge International A-Level (Mã môn: 9231)
 - [CIE A-Level Mathematics Overview](/math/a-level/cie/index.html): Cambridge International AS & A Level Mathematics (9709) Portal

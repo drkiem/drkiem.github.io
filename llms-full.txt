@@ -1,3 +1,28 @@
+# PAGE: Reference Books
+Path: /books.html
+Subtitle: Thư viện Sách Tham Khảo Toán & Hóa học Quốc Tế (IB, A-Level, AP, IGCSE, SAT)
+----------------------------------------
+
+Với mục đích hỗ trợ học tập thực tế và nâng cao hiệu quả giảng dạy, NKK-Education Hub cung cấp kho sách tham khảo lớn được lập chỉ mục đầy đủ. Dưới đây là thống kê chi tiết các đầu sách hiện có trên hệ thống, phân loại theo từng lộ trình học tập. 
+
+Học sinh và giáo viên có thể tra cứu nhanh sách theo tiêu đề, tác giả, nhà xuất bản hoặc lọc theo chuyên môn tương ứng.
+
+<script src="books_metadata.js"></script>
+
+<style>
+/* CSS adjustment specifically for Disabled buttons */
+.book-download-btn.disabled {
+  background-color: var(--border) !important;
+  color: var(--text-muted) !important;
+  border-color: var(--border) !important;
+  cursor: not-allowed;
+  opacity: 0.65;
+  pointer-events: none;
+}
+</style>
+
+
+
 # PAGE: Test Bank
 Path: /test_bank.html
 Subtitle: Exam Preparation Resources for International Mathematics & Chemistry
@@ -419,17 +444,44 @@ Các chuyên đề cốt lõi tập trung vào hai trục chính cấu trúc và
 
 # PAGE: NKK-Education Hub
 Path: /index.html
-Subtitle: Premium Academic Gateways for International Mathematics & Chemistry
+Subtitle: Professional Academic Portals for International Mathematics & Chemistry
 ----------------------------------------
 
-# Welcome to NKK-Education Hub!
+# NKK-Education Hub
+## Professional Portal for International Mathematics & Chemistry
 
-High-yield digital portals, interactive databases, and structured exam preparation resources designed specifically for students in international curricula.
+An organized digital archive of high-yield study notes, formula directories, and structured past exam papers. Designed to support students in international schools mastering advanced sciences and achieving top academic marks.
+
+* **Cambridge Curricula** (IGCSE, AS & A-Level modular)
+* **IB Diploma Program** (Mathematics AA & AI, Chemistry HL/SL)
+* **Standardized Admissions** (Digital SAT Math, AP Calculus AB/BC, AP Statistics)
+
+[Explore Academic Portals](#academic-gateways)
+[Explore Reference Books](books.html)
+
+  <i class="bi bi-tags-fill"></i> Past Papers Databases:<br>
+  Toán: <a href="math/ib/index.html" style="color: #38bdf8; text-decoration: none; font-weight: 500;">IB Math</a> | <a href="math/a-level/index.html" style="color: #38bdf8; text-decoration: none; font-weight: 500;">A-Level Math</a> | <a href="math/igcse/index.html" style="color: #38bdf8; text-decoration: none; font-weight: 500;">IGCSE Math</a> | <a href="math/common-core/index.html" style="color: #38bdf8; text-decoration: none; font-weight: 500;">Common Core</a> | <a href="math/sat-ap/index.html" style="color: #38bdf8; text-decoration: none; font-weight: 500;">AP & SAT Math</a>
+  <br>
+  Hóa: <a href="chem/ib/index.html" style="color: #10b981; text-decoration: none; font-weight: 500;">IB Chemistry</a> | <a href="chem/a-level/index.html" style="color: #10b981; text-decoration: none; font-weight: 500;">A-Level Chemistry</a> | <a href="chem/igcse/index.html" style="color: #10b981; text-decoration: none; font-weight: 500;">IGCSE Chemistry</a>
+
+![](images/academic_workspace.png)
+
+### 60
+Dedicated Academic Pages
+
+### 15,000+
+Indexed Past Exam Papers
+
+### 490+
+Reference Books & Guides
+
+### 11
+Syllabus Pathways Covered
 
 ## Student Navigation Guide:
 Please select any of the curriculum cards below to navigate directly to the respective lecture notes, formula guides, and past paper databases curated for international assessments.
 
-## Academic Gateways
+## Academic Gateways {#academic-gateways}
 
 <img src="images/ib_math.webp" class="gateway-card-img" alt="IB Mathematics">
 
@@ -503,6 +555,40 @@ Please select any of the curriculum cards below to navigate directly to the resp
 - High-yield exam strategies, formula sheets, and past paper search databases.
 - [Explore Now &rarr;](math/sat-ap/index.html)
 
+---
+
+## Why Choose K-Education Hub?
+
+#### 🎯 Structured Syllabus Alignment
+Detailed revision notes built strictly around current Cambridge, IBO, and US Common Core syllabi. We skip the fluff and present core theories clearly.
+
+#### 📄 Dynamic Past Exam Databases
+Instant query tables to search, filter, and fetch past papers by year, timezone, and paper type. Over 15,000 links loaded dynamically.
+
+#### 📈 Interactive Student Progress
+Topic-by-topic checklists and GDC calculator guides that help students assess their weaknesses and log their own study progression.
+
+#### 💡 Direct Classroom Support
+Complementing structured teaching with downloadable formula booklets, solved mathematical induction proofs, and organic reaction pathways.
+
+---
+
+## International Academic Pathways Roadmap
+
+A visual progression showing how secondary science and math syllabi connect to build advanced conceptual skills:
+
+##### 1. Secondary Foundation
+**IGCSE Mathematics & Chemistry**
+Core secondary qualification (CIE 0580/0607, Edexcel 4MA1, CIE 0620, Edexcel 4CH1). Establishing fundamental structures in algebra, trigonometry, inorganic stoichiometry, and introductory organic chemistry.
+
+##### 2. Pre-University Modulars
+**AS & A-Level / IB Diploma (HL & SL)**
+Rigorous, proof-based mathematics (Pure Math, Calculus modules, Vectors, Mechanics) and physical chemical kinetics, thermodynamics, and complex reaction mechanisms.
+
+##### 3. Higher Academic Credits
+**AP Calculus, AP Statistics & Digital SAT**
+Advanced university-level credits, statistical distributions, probability variables, and advanced precalculus.
+
 
 
 # PAGE: About Me & Philosophy
@@ -569,88 +655,6 @@ Please feel free to reach out via any of the channels below for admissions, clas
   <li><strong>Telegram</strong> <a href="https://t.me/+84815113114" target="_blank">+84 815 113 114</a></li>
   <li><strong>Facebook</strong> <a href="https://www.facebook.com/share/1EX9cfmDD3/" target="_blank">Dr. Kiem Nguyen</a></li>
 </ul>
-
-
-
-# PAGE: AP Physics & Special Advanced Placement Subjects
-Path: /others/ap.html
-Subtitle: Chương Trình Luyện Thi Các Môn AP Đặc Biệt Phục Vụ Du Học Mỹ
-----------------------------------------
-
-## Tài nguyên ôn tập bổ trợ: AP Physics & Special Subjects
-Chào mừng các em học sinh! Đây là khu vực học tập bổ trợ đặc biệt, cung cấp Sơ đồ kiến thức cốt lõi, tóm tắt các phương trình cơ học và điện từ học bằng LaTeX sắc nét cùng ngân hàng tài liệu luyện thi cho cả 4 môn AP Physics độc quyền giúp các em chinh phục điểm số tuyệt đối 5/5.
-
-## 1. GIỚI THIỆU HỆ THỐNG MÔN AP PHYSICS
-
-<strong>Advanced Placement (AP) Physics</strong> là các môn học chuẩn vật lý đại cương đại học của College Board Mỹ. Kỳ thi đòi hỏi tư duy giải quyết vấn đề toán học vật lý cực mạnh. Hệ thống môn AP Physics được chia thành 4 môn thi độc lập chuyên biệt:
-
-1. **AP Physics 1: Algebra-Based:** Môn học nền tảng cơ học cơ bản, bao gồm động học, lực, chuyển động tròn, năng lượng, động lượng và dao động cơ học (không dùng giải tích).
-2. **AP Physics 2: Algebra-Based:** Phân hệ vật lý nâng cao gồm cơ học chất lưu (fluids), nhiệt động lực học (thermodynamics), tĩnh điện học, mạch điện, từ trường, quang học và vật lý hiện đại.
-3. **AP Physics C: Mechanics:** Môn cơ học đại cương chuẩn kỹ thuật chuyên sâu, **bắt buộc sử dụng công cụ Toán giải tích (Calculus)** để đạo hàm và tích phân các đại lượng động học và mô-men lực quán tính.
-4. **AP Physics C: Electricity and Magnetism:** Môn điện từ học đại cương chuẩn kỹ thuật chuyên sâu, **bắt buộc sử dụng Toán giải tích (Calculus)** để tính toán tích phân đường, tích phân mặt điện trường Gauss, định luật Ampere và Faraday.
-
----
-
-## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (SYLLABUS CORE)
-
-### Các chuyên đề cốt lõi của AP Physics C: Mechanics:
-* **Kinematics (Động học):** Chuyển động một chiều và hai chiều phẳng sử dụng đạo hàm tích phân: $v = \frac{ds}{dt}$, $a = \frac{dv}{dt}$.
-* **Newton's Laws of Motion (Lực và động lực học):** Phương trình vi phân chuyển động lực cản môi trường.
-* **Work, Energy, and Power (Năng lượng):** Tính công cơ học bằng tích phân lực dời dải $W = \int F \, dx$.
-* **Systems of Particles & Linear Momentum (Động lượng):** Hệ nhiều hạt, tọa độ trọng tâm chất điểm.
-* **Rotation (Chuyển động quay vật rắn):** Mô-men quán tính (moment of inertia $I = \int r^2 \, dm$), mô-men lực $\tau = I\alpha$, định luật bảo toàn mô-men động lượng.
-* **Gravitation (Vũ trụ học):** Định luật vạn vật hấp dẫn Kepler.
-
-### Các chuyên đề cốt lõi của AP Physics C: Electricity & Magnetism:
-* **Electrostatics (Tĩnh điện học):** Định luật Coulomb, cường độ điện trường. Định luật Gauss tính thông lượng điện tích phân mặt kín.
-* **Conductors, Capacitors, Dielectrics (Vật dẫn & Tụ điện):** Điện dung $C$, điện thế, năng lượng tích lũy tụ điện.
-* **Electric Circuits (Mạch điện):** Định luật Ohm, định luật Kirchhoff, mạch chứa tụ và điện trở (RC circuits) phương trình vi phân nạp/xả điện.
-* **Magnetic Fields (Từ trường):** Lực Lorentz tác dụng lên điện tích di chuyển, định luật Biot-Savart, định luật Ampere tích phân đường kín.
-* **Electromagnetism (Cảm ứng điện từ):** Định luật cảm ứng Faraday, định luật Lenz chỉ chiều dòng điện cảm ứng, mạch tự cảm (LR circuits).
-
----
-
-## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
-
-Công thức vật lý đại cương hiển thị sắc nét bằng LaTeX:
-
-### Định luật Gauss cho Điện trường (Gauss's Law)
-Thông lượng điện trường đi qua một mặt kín $S$ tỷ lệ thuận với tổng điện tích chứa trong mặt kín đó:
-$$\oint_{S} \vec{E} \cdot d\vec{A} = \frac{Q_{enclosed}}{\epsilon_0}$$
-*Trong đó $\epsilon_0 \approx 8.85 \times 10^{-12} \text{ C}^2\cdot\text{N}^{-1}\cdot\text{m}^{-2}$ là hằng số điện môi chân không.*
-
-### Mô-men quán tính của Vật rắn quay (Moment of Inertia)
-Tính toán sự phân bố khối lượng đối với trục quay của vật thể liên tục:
-$$I = \int r^2 \, dm$$
-$$\text{Ví dụ mô-men quán tính của đĩa tròn đồng chất bán kính } R \text{, khối lượng } M: \quad I = \frac{1}{2}MR^2$$
-
----
-
-## 4. BẪY ĐIỂM SỐ & PHƯƠNG PHÁP LÀM BÀI (EXAM TIPS)
-
-### Các lưu ý tránh mất điểm ở đề thi AP Physics:
-* **⚠️ Sử dụng Calculus nhuần nhuyễn ở Physics C:** Đối với hai môn Physics C, học sinh rất hay mắc lỗi dùng SUVAT cho gia tốc biến đổi. Hãy nhớ rằng khi lực cản môi trường phụ thuộc vận tốc ($F_{drag} = -kv$), gia tốc thay đổi liên tục. Bạn bắt buộc phải thiết lập phương trình vi phân bậc một và giải bằng cách tách biến tích phân để tìm ra quy luật vận tốc theo thời gian!
-* **⚠️ Chiều dòng điện cảm ứng định luật Lenz:** Khi làm bài toán cảm ứng từ định luật Faraday, luôn dùng định luật Lenz để xác định chiều dòng điện cảm ứng: *"Dòng điện cảm ứng phải có chiều sao cho từ trường do nó sinh ra có tác dụng chống lại sự biến thiên của từ thông sinh ra nó."*
-
----
-
-## 5. KHO ĐỀ FRQ THEO CHUYÊN ĐỀ AP PHYSICS
-
-### Topic 1: AP Physics 1 & C Mechanics (Kinematics)
-* Động học chuyển động thẳng dốc nghiêng, chuyển động tròn ném xiên và đạo hàm vi phân tìm gia tốc biến đổi.
-* [**Tải đề luyện chuyên đề 1 →**](#)
-
-### Topic 2: Rotation & Angular Momentum
-* Tính toán mô-men quán tính vật rắn hình đĩa trục thanh dầm, bảo toàn mô-men động lượng va chạm quay.
-* [**Tải đề luyện chuyên đề 2 →**](#)
-
-### Topic 3: Electrostatics & Gauss's Law
-* Áp dụng định luật Gauss tính toán điện trường vỏ cầu, dây dẫn dài vô hạn và năng lượng tụ điện phẳng.
-* [**Tải đề luyện chuyên đề 3 →**](#)
-
-### Topic 4: Circuits & Electromagnetism
-* Định luật Kirchhoff dòng điện mạch RC/LR, cảm ứng điện từ Faraday và lực từ Lorentz chuyển động hạt.
-* [**Tải đề luyện chuyên đề 4 →**](#)
 
 
 
@@ -2020,7 +2024,7 @@ Subtitle: Chương Trình Toán Quốc Tế Cambridge IGCSE (GDC heavy & Paper 6
 ## Tài nguyên ôn tập & Luyện thi: CIE International Mathematics (0607)
 Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức toán học quốc tế chuyên sâu, hướng dẫn sử dụng máy tính đồ họa (GDC) và các công thức toán lượng giác hiển thị bằng LaTeX sắc nét cùng ngân hàng tài liệu luyện thi Paper 6 (Mathematical Investigation) độc quyền.
 
-## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+## 1. Giới Thiệu Chương Trình
 
 <strong>CIE IGCSE International Mathematics (Mã môn: 0607)</strong> được thiết kế đặc biệt cho học sinh tại các trường quốc tế sử dụng máy tính đồ họa (GDC - Casio fx-CG50 hoặc TI-Nspire) từ sớm. Chương trình này là sự chuẩn bị hoàn hảo nhất cho phân hệ IB Mathematics ở cấp học trung học phổ thông.
 
@@ -2034,7 +2038,7 @@ Khác với chương trình 0580, đề thi 0607 Extended bao gồm 3 Papers thi
 
 ---
 
-## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (SYLLABUS CORE)
+## 2. Khung Chương Trình Chi Tiết (Syllabus Core)
 
 ### Các chuyên đề cốt lõi của IGCSE 0607:
 1. **Number (Số học):** Các phép toán số học cơ bản, lũy thừa, căn thức, hệ đếm, lãi suất.
@@ -2050,7 +2054,7 @@ Khác với chương trình 0580, đề thi 0607 Extended bao gồm 3 Papers thi
 
 ---
 
-## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+## 3. Ví Dụ Minh Họa & Công Thức Trọng Tâm
 
 Công thức hình học tọa độ hiển thị sắc nét bằng LaTeX:
 
@@ -2064,7 +2068,7 @@ $$y = ax + b$$
 
 ---
 
-## 4. BẪY ĐIỂM SỐ & PHƯƠNG PHÁP LÀM BÀI (EXAM TIPS)
+## 4. Bẫy Điểm Số & Phương Pháp Làm Bài (Exam Tips)
 
 ### Các bẫy cần tránh ở đề thi 0607:
 * **⚠️ Rèn luyện kỹ năng viết lời giải Paper 6:** Đề thi Paper 6 chấm điểm rất mạnh ở quá trình lập luận và khả năng khái quát hóa công thức (generalisations). Hãy viết rõ ràng các bước tìm quy luật dãy số từ các dữ liệu ban đầu, tránh việc chỉ ghi mỗi đáp án cuối cùng.
@@ -2072,7 +2076,7 @@ $$y = ax + b$$
 
 ---
 
-## 5. KHO ĐỀ PAST PAPERS THEO CHUYÊN ĐỀ
+## 5. Kho Đề Past Papers Theo Chuyên Đề
 
 ### Topic 1: GDC Algebra & Functions
 * Luyện giải các phương trình phi tuyến tính, tìm giao điểm và cực trị đồ thị bằng máy tính GDC.
@@ -3442,16 +3446,17 @@ Select your specific exam board to access modular lesson sheets, step-by-step re
 
 # PAGE: A-Level Math Practice Papers (Other Boards)
 Path: /math/a-level/others/papers.html
+Subtitle: AQA, OxfordAQA & Supplementary Exam Practice Resource Bank
 ----------------------------------------
 
 ## Ngân hàng đề luyện thi tổng hợp bổ trợ
 Khu vực này tổng hợp các đề thi thử chất lượng từ AQA, OxfordAQA và các nguồn tài liệu học thuật chọn lọc giúp học sinh mở rộng tư duy giải toán.
 
-## THÔNG TIN LUYỆN ĐỀ
+## Thông Tin Luyện Đề
 
 Học sinh nên rèn luyện kỹ năng phân tích đề bài, nhận diện phương pháp giải toán tối ưu và ghi điểm tối đa theo từng barem thi cụ thể.
 
-## PAST PAPER QUESTIONS BY TOPIC
+## Past Paper Questions by Topic
 
 <!-- 
   K-EDUCATION-HUB GATEWAY
@@ -5211,13 +5216,13 @@ Subtitle: Chương Trình Toán Học Cao Cấp Cambridge International A-Level 
 ## Tài nguyên tự học & Luyện thi: CIE A-Level Further Mathematics (9231)
 Chào mừng các em học sinh xuất sắc! Khu vực học thuật chuyên sâu này chứa Sơ đồ kiến thức toán học cao cấp, công thức ma trận nâng cao và phương trình vi phân cấp hai hiển thị bằng LaTeX sắc nét cùng ngân hàng tài liệu giúp các em tự tin chinh phục điểm số tuyệt đối A* môn Further Math phục vụ ứng tuyển đại học hàng đầu thế giới (Ivy League, Oxbridge).
 
-## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+## 1. Giới Thiệu Chương Trình
 
 <strong>CIE A-Level Further Mathematics (9231)</strong> là môn học tự chọn nâng cao dành cho những học sinh có năng khiếu toán học đặc biệt xuất sắc. Môn học này cung cấp cái nhìn sâu sắc và hàn lâm vượt bậc vào thế giới toán đại học, trang bị các công cụ tư duy sắc bén nhất cho các ngành Khoa học Máy tính, Kỹ thuật và Vật lý lý thuyết.
 
 ---
 
-## 2. CẤU TRÚC ĐỒNG BỘ 4 PAPERS THI
+## 2. Cấu Trúc Đồng Bộ 4 Papers Thi
 
 Đề thi Further Mathematics được chia thành 4 thành phần thi độc lập:
 
@@ -5260,7 +5265,7 @@ Chào mừng các em học sinh xuất sắc! Khu vực học thuật chuyên s�
 
 ---
 
-## 3. KHUNG CHƯƠNG TRÌNH CHI TIẾT (SYLLABUS CORE)
+## 3. Khung Chương Trình Chi Tiết (Syllabus Core)
 
 ### Các chuyên đề cốt lõi của Further Math:
 1. **Further Pure Mathematics 1 (Toán thuần túy cao cấp 1):**
@@ -5280,7 +5285,7 @@ Chào mừng các em học sinh xuất sắc! Khu vực học thuật chuyên s�
 
 ---
 
-## 4. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+## 4. Ví Dụ Minh Họa & Công Thức Trọng Tâm
 
 Các công thức toán đại học hiển thị sắc nét bằng LaTeX:
 
@@ -5295,7 +5300,7 @@ $$A = \frac{1}{2} \int_{\alpha}^{\beta} r^2 \, d\theta$$
 
 ---
 
-## 5. BẪY ĐIỂM SỐ & PHƯƠNG PHÁP LÀM BÀI (EXAM TIPS)
+## 5. Bẫy Điểm Số & Phương Pháp Làm Bài (Exam Tips)
 
 ### Lời khuyên vượt qua kỳ thi Further Math:
 * **⚠️ Cẩn thận khi tính toán giá trị riêng (Eigenvalues):** Việc tìm eigenvalues thông qua phương trình đặc trưng $\det(A - \lambda I) = 0$ đòi hỏi kỹ năng biến đổi định thức ma trận $3 \times 3$ không sai số. Chỉ một lỗi dấu nhỏ sẽ dẫn đến việc tìm sai vector riêng ở các câu tiếp theo.
@@ -5303,7 +5308,7 @@ $$A = \frac{1}{2} \int_{\alpha}^{\beta} r^2 \, d\theta$$
 
 ---
 
-## 6. KHO ĐỀ PAST PAPERS THEO CHUYÊN ĐỀ
+## 6. Kho Đề Past Papers Theo Chuyên Đề
 
 ### Topic 1: Further Pure 1 (Induction & Polar)
 * Luyện giải các bài toán chứng minh quy nạp chuỗi số phức tạp, vẽ và tính diện tích đường cong cực.
@@ -5323,7 +5328,7 @@ $$A = \frac{1}{2} \int_{\alpha}^{\beta} r^2 \, d\theta$$
 
 ---
 
-## 7. NGÂN HÀNG ĐỀ THI (PAST PAPERS BANK)
+## 7. Ngân Hàng Đề Thi (Past Papers Bank)
 
 *Tìm kiếm và lọc đề thi chính thức. Sử dụng bảng điều khiển bên dưới để lọc theo năm và thành phần đề thi:*
 
@@ -7732,13 +7737,13 @@ Subtitle: Chương Trình Toán Học Cao Cấp Pearson Edexcel International Ad
 ## Tài nguyên ôn tập & Luyện thi: Edexcel Further Pure Mathematics (FP1 - FP3)
 Chào mừng các em học sinh xuất sắc! Khu vực học thuật chuyên sâu này chứa Sơ đồ kiến thức toán học cao cấp bậc nhất của Edexcel, tóm tắt các công thức ma trận, đa thức đặc trưng và vi phân cấp hai hiển thị bằng LaTeX sắc nét cùng ngân hàng đề thi thử giúp các em đạt điểm tối đa.
 
-## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+## 1. Giới Thiệu Chương Trình
 
 <strong>Pearson Edexcel Further Pure Mathematics (FP1 - FP3)</strong> là phân hệ toán học cao cấp tự chọn. Phân môn này đòi hỏi năng khiếu và sự tập trung cao độ của học sinh, giới thiệu các khái niệm ma trận nâng cao, tọa độ cực, hyperbolic functions, phép biến hình ma trận và giải tích tích phân phức tạp.
 
 ---
 
-## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (SYLLABUS CORE)
+## 2. Khung Chương Trình Chi Tiết (Syllabus Core)
 
 Syllabus Further Pure của Edexcel được chia nhỏ thành các học phần độc lập sau:
 
@@ -7759,7 +7764,7 @@ Syllabus Further Pure của Edexcel được chia nhỏ thành các học phần
 
 ---
 
-## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+## 3. Ví Dụ Minh Họa & Công Thức Trọng Tâm
 
 Công thức toán học chuyên sâu hiển thị sắc nét bằng LaTeX:
 
@@ -7776,7 +7781,7 @@ $$\frac{d}{dx} \left[ y \cdot I(x) \right] = Q(x) \cdot I(x) \quad \Rightarrow \
 
 ---
 
-## 4. BẪY ĐIỂM SỐ & PHƯƠNG PHÁP LÀM BÀI (EXAM TIPS)
+## 4. Bẫy Điểm Số & Phương Pháp Làm Bài (Exam Tips)
 
 ### Các bẫy cần tránh ở đề thi Further Pure:
 * **⚠️ Sai dấu của các đẳng thức Hyperbolic:** Tránh việc áp dụng máy móc các công thức lượng giác thông thường sang lượng giác Hyperbolic. Ví dụ, đẳng thức lượng giác thường là $\cos^2 x + \sin^2 x = 1$, nhưng đối với Hyperbolic thì bắt buộc phải là $\cosh^2 x - \sinh^2 x = 1$.
@@ -7784,7 +7789,7 @@ $$\frac{d}{dx} \left[ y \cdot I(x) \right] = Q(x) \cdot I(x) \quad \Rightarrow \
 
 ---
 
-## 5. KHO ĐỀ PAST PAPERS THEO CHUYÊN ĐỀ
+## 5. Kho Đề Past Papers Theo Chuyên Đề
 
 ### Topic 1: FP1 (Matrices & Induction)
 * Quy nạp toán học ma trận, phép biến hình ma trận, số phức căn bậc n.
@@ -8138,7 +8143,7 @@ Subtitle: Chương Trình Xác Suất Thống Kê Advanced Placement (College Bo
 ## Tài nguyên ôn tập & Luyện thi: AP Statistics
 Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức thống kê chuẩn đại học, công thức tính khoảng tin cậy và kiểm định z-test, t-test bằng LaTeX sắc nét cùng ngân hàng tài liệu luyện viết lập luận FRQ (Free Response Questions) độc quyền giúp đạt điểm tuyệt đối 5/5.
 
-## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+## 1. Giới Thiệu Chương Trình
 
 <strong>Advanced Placement (AP) Statistics</strong> là kỳ thi chuẩn hóa quốc tế của College Board tương đương một học kỳ xác suất thống kê đại cương tại đại học. Khác với các môn toán thông thường, AP Stats đòi hỏi khả năng diễn dịch số liệu bằng ngôn từ thực tế vô cùng chuẩn xác và logic.
 
@@ -8176,7 +8181,7 @@ Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức t
 
 ---
 
-## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (SYLLABUS CORE)
+## 2. Khung Chương Trình Chi Tiết (Syllabus Core)
 
 Syllabus AP Statistics được chia thành 9 Units lớn theo cấu trúc của College Board:
 
@@ -8197,7 +8202,7 @@ Syllabus AP Statistics được chia thành 9 Units lớn theo cấu trúc của
 
 ---
 
-## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+## 3. Ví Dụ Minh Họa & Công Thức Trọng Tâm
 
 Công thức kiểm định thống kê hiển thị sắc nét bằng LaTeX:
 
@@ -8213,7 +8218,7 @@ $$\text{Ví dụ kiểm định t-test cho } \mu: \quad t = \frac{\bar{x} - \mu_
 
 ---
 
-## 4. BẪY ĐIỂM SỐ & PHƯƠNG PHÁP LÀM BÀI FRQ (FRQ EXAM TIPS)
+## 4. Bẫy Điểm Số & Phương Pháp Làm Bài FRQ (FRQ Exam Tips)
 
 ### Các quy tắc lập luận bắt buộc để đạt điểm tuyệt đối (E - Essentially Correct):
 * **⚠️ Viết đầy đủ 3 bước kiểm tra điều kiện (Conditions Check):** Đối với bất kỳ bài toán FRQ yêu cầu tính khoảng tin cậy hay kiểm định giả thuyết, bạn bắt buộc phải kiểm tra và xác nhận 3 điều kiện:
@@ -8224,7 +8229,7 @@ $$\text{Ví dụ kiểm định t-test cho } \mu: \quad t = \frac{\bar{x} - \mu_
 
 ---
 
-## 5. KHO ĐỀ FRQ/MCQ THEO CHUYÊN ĐỀ
+## 5. Kho Đề FRQ/MCQ Theo Chuyên Đề
 
 ### Topic 1: Describing & Collecting Data
 * Biểu diễn dữ liệu Boxplot Skewness, viết phương trình đường hồi quy, thiết kế chọn mẫu không thiên lệch.
@@ -8410,7 +8415,7 @@ Subtitle: Chương Trình Luyện Thi Toán SAT Công Nghệ Mới (College Boar
 ## Tài nguyên ôn tập & Luyện thi: Digital SAT Math
 Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức cốt lõi, ví dụ minh họa bằng công thức LaTeX sắc nét, các chiến thuật giải nhanh bằng phần mềm đồ họa Desmos được nhúng trực tiếp trong kỳ thi và ngân hàng câu hỏi luyện thi SAT chất lượng cao giúp các em đạt điểm tuyệt đối 800/800.
 
-## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+## 1. Giới Thiệu Chương Trình
 
 <strong>Digital SAT Mathematics</strong> là phần thi trắc nghiệm toán học chuẩn hóa quốc tế của College Board phục vụ tuyển sinh đại học Mỹ và các trường đại học quốc tế. Kỳ thi Digital SAT cho phép sử dụng phần mềm đồ họa Desmos tích hợp xuyên suốt bài thi, mở ra các chiến thuật giải toán công nghệ nhanh chóng và đột phá.
 
@@ -8439,7 +8444,7 @@ Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức c
 
 ---
 
-## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (SYLLABUS CORE)
+## 2. Khung Chương Trình Chi Tiết (Syllabus Core)
 
 Nội dung toán SAT được chia làm 4 mảng kiến thức lớn theo chuẩn College Board:
 
@@ -8459,7 +8464,7 @@ Nội dung toán SAT được chia làm 4 mảng kiến thức lớn theo chuẩ
 
 ---
 
-## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+## 3. Ví Dụ Minh Họa & Công Thức Trọng Tâm
 
 Công thức đại số hiển thị sắc nét bằng LaTeX:
 
@@ -8473,7 +8478,7 @@ $$A(t) = P \cdot (1 \pm r)^{\frac{t}{T}}$$
 
 ---
 
-## 4. BẪY ĐIỂM SỐ & CHIẾN THUẬT SỬ DỤNG DESMOS (DESMOS HACKS)
+## 4. Bẫy Điểm Số & Chiến Thuật Sử Dụng Desmos (Desmos Hacks)
 
 ### Các bí quyết giải toán SAT bằng Desmos:
 * **⚠️ Tận dụng tối đa Desmos để tìm nghiệm:**
@@ -8483,7 +8488,7 @@ $$A(t) = P \cdot (1 \pm r)^{\frac{t}{T}}$$
 
 ---
 
-## 5. KHO ĐỀ PAST PAPERS THEO CHUYÊN ĐỀ
+## 5. Kho Đề Past Papers Theo Chuyên Đề
 
 ### Topic 1: Heart of Algebra
 * Luyện giải hệ phương trình tuyến tính trắc nghiệm tốc độ cao, bất phương trình phẳng.
@@ -9007,7 +9012,7 @@ Subtitle: Chương Trình Toán Học Giải Tích Advanced Placement (College B
 ## Tài nguyên ôn tập & Luyện thi: AP Calculus AB & BC
 Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức giải tích chuyên sâu bậc đại học, công thức đạo hàm đạo hàm và tích phân hiển thị bằng LaTeX sắc nét cùng ngân hàng tài liệu luyện viết tự luận FRQ (Free Response Questions) độc quyền giúp đạt điểm tuyệt đối 5/5.
 
-## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+## 1. Giới Thiệu Chương Trình
 
 <strong>Advanced Placement (AP) Calculus</strong> là kỳ thi giải tích chuẩn đại học dành cho học sinh trung học phổ thông định hướng du học Mỹ. Chương trình chia làm hai phân hệ:
 
@@ -9048,7 +9053,7 @@ Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức g
 
 ---
 
-## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (SYLLABUS CORE)
+## 2. Khung Chương Trình Chi Tiết (Syllabus Core)
 
 ### Các chuyên đề cốt lõi của AP Calculus BC:
 1. **Limits and Continuity (Giới hạn & Tính liên tục):**
@@ -9068,7 +9073,7 @@ Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức g
 
 ---
 
-## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+## 3. Ví Dụ Minh Họa & Công Thức Trọng Tâm
 
 Công thức giải tích hiển thị sắc nét bằng LaTeX:
 
@@ -9084,7 +9089,7 @@ $$\cos x = \sum_{n=0}^{\infty} \frac{(-1)^n x^{2n}}{(2n)!} = 1 - \frac{x^2}{2!} 
 
 ---
 
-## 4. BẪY ĐIỂM SỐ & PHƯƠNG PHÁP LÀM BÀI FRQ (FRQ EXAM TIPS)
+## 4. Bẫy Điểm Số & Phương Pháp Làm Bài FRQ (FRQ Exam Tips)
 
 ### Các lưu ý sống còn để giành trọn vẹn điểm FRQ:
 * **⚠️ Viết đầy đủ điều kiện áp dụng định lý:** Điểm số lập luận FRQ bắt buộc học sinh phải chứng minh điều kiện trước khi viết công thức. Ví dụ: trước khi áp dụng **Định lý giá trị trung bình (MVT)**, bạn bắt buộc phải ghi câu mở đầu: *"Since $f(x)$ is continuous on $[a, b]$ and differentiable on $(a, b)$, then by MVT..."*. Thiếu câu này sẽ mất sạch điểm lập luận.
@@ -9093,7 +9098,7 @@ $$\cos x = \sum_{n=0}^{\infty} \frac{(-1)^n x^{2n}}{(2n)!} = 1 - \frac{x^2}{2!} 
 
 ---
 
-## 5. KHO ĐỀ FRQ/MCQ THEO CHUYÊN ĐỀ
+## 5. Kho Đề FRQ/MCQ Theo Chuyên Đề
 
 ### Topic 1: Limits & Continuity
 * Tính giới hạn dạng vô định, kiểm định tính liên tục tại một điểm và áp dụng quy tắc L'Hopital.
@@ -12813,13 +12818,13 @@ Subtitle: Chương Trình Đại Số 1 Phổ Thông Hệ Mỹ (High School)
 ## Tài nguyên tự học: Common Core Algebra 1
 Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức Đại số 1 cơ bản, ví dụ minh họa công thức LaTeX sắc nét, bài tập tự luyện và ngân hàng câu hỏi củng cố. Đây là nền tảng đại số cốt lõi nhất bắt buộc phải nắm vững cho mọi môn học toán học tiếp theo.
 
-## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+## 1. Giới Thiệu Chương Trình
 
 <strong>Algebra 1</strong> là học phần đại số đầu tiên bậc High School của hệ thống giáo dục Mỹ (Common Core State Standards). Môn học tập trung phát triển tư duy chuyển dịch từ số học cụ thể sang đại số biến số trừu tượng, giải quyết các phương trình tuyến tính và phi tuyến cơ bản.
 
 ---
 
-## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (SYLLABUS CORE)
+## 2. Khung Chương Trình Chi Tiết (Syllabus Core)
 
 ### Các chuyên đề cốt lõi của Algebra 1:
 1. **Linear Equations and Inequalities (Phương trình & Bất phương trình tuyến tính):**
@@ -12835,7 +12840,7 @@ Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức �
 
 ---
 
-## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+## 3. Ví Dụ Minh Họa & Công Thức Trọng Tâm
 
 Công thức đại số hiển thị sắc nét bằng LaTeX:
 
@@ -12849,7 +12854,7 @@ $$m = \frac{y_2 - y_1}{x_2 - x_1}$$
 
 ---
 
-## 4. BẪY ĐIỂM SỐ & PHƯƠNG PHÁP LÀM BÀI (EXAM TIPS)
+## 4. Bẫy Điểm Số & Phương Pháp Làm Bài (Exam Tips)
 
 ### Các lỗi phổ biến học sinh cần tránh ở Algebra 1:
 * **⚠️ Đảo chiều bất đẳng thức khi nhân/chia số âm:** Đây là lỗi kinh điển nhất của học sinh. Khi nhân hoặc chia cả hai vế của một bất đẳng thức với một **số âm**, ta bắt buộc phải **đảo ngược chiều** của bất đẳng thức (ví dụ: $-2x < 6 \Leftrightarrow x > -3$).
@@ -12857,7 +12862,7 @@ $$m = \frac{y_2 - y_1}{x_2 - x_1}$$
 
 ---
 
-## 5. KHO ĐỀ PAST PAPERS THEO CHUYÊN ĐỀ
+## 5. Kho Đề Past Papers Theo Chuyên Đề
 
 ### Topic 1: Linear Systems
 * Giải hệ phương trình tuyến tính hai ẩn, bất phương trình và biểu diễn trục số.
@@ -13076,13 +13081,13 @@ Subtitle: Chương Trình Đại Số 2 Phổ Thông Hệ Mỹ (High School)
 ## Tài nguyên tự học: Common Core Algebra 2
 Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức Đại số 2 nâng cao, ví dụ minh họa bằng công thức mũ, số phức và logarithm bằng LaTeX sắc nét cùng ngân hàng bài tập tự luyện chọn lọc.
 
-## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+## 1. Giới Thiệu Chương Trình
 
 <strong>Algebra 2</strong> mở rộng sâu sắc các khái niệm của Algebra 1, đưa học sinh tiếp cận với hệ số ảo và số phức (complex numbers), khảo sát các đa thức bậc cao, phương trình phi tuyến phức tạp và giới thiệu sâu về hàm mũ & hàm logarithm.
 
 ---
 
-## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (SYLLABUS CORE)
+## 2. Khung Chương Trình Chi Tiết (Syllabus Core)
 
 ### Các chuyên đề cốt lõi của Algebra 2:
 1. **The Complex Number System (Hệ thống số phức):**
@@ -13096,7 +13101,7 @@ Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức �
 
 ---
 
-## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+## 3. Ví Dụ Minh Họa & Công Thức Trọng Tâm
 
 Công thức số phức và lượng giác hiển thị sắc nét bằng LaTeX:
 
@@ -13112,7 +13117,7 @@ $$\ln(e^x) = x \quad \text{và} \quad e^{\ln x} = x$$
 
 ---
 
-## 4. BẪY ĐIỂM SỐ & PHƯƠNG PHÁP LÀM BÀI (EXAM TIPS)
+## 4. Bẫy Điểm Số & Phương Pháp Làm Bài (Exam Tips)
 
 ### Các lỗi phổ biến học sinh cần tránh ở Algebra 2:
 * **⚠️ Sai dấu khi nhân hai số ảo:** Hãy luôn nhớ $i^2 = -1$. Do đó: $3i \cdot 2i = 6i^2 = -6$. Học sinh rất hay quên đổi dấu thành dấu âm.
@@ -13120,7 +13125,7 @@ $$\ln(e^x) = x \quad \text{và} \quad e^{\ln x} = x$$
 
 ---
 
-## 5. KHO ĐỀ PAST PAPERS THEO CHUYÊN ĐỀ
+## 5. Kho Đề Past Papers Theo Chuyên Đề
 
 ### Topic 1: Complex Arithmetic
 * Phép tính cộng, trừ, nhân, chia số phức dạng đại số $a+bi$, số phức liên hợp.
@@ -13207,13 +13212,13 @@ Subtitle: Chương Trình Hình Học Phổ Thông Hệ Mỹ (High School)
 ## Tài nguyên tự học: Common Core Geometry
 Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức hình học phẳng và không gian, các công thức lượng giác lượng hóa và thể tích hiển thị bằng LaTeX sắc nét cùng các bài giải mẫu chứng minh hình học.
 
-## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+## 1. Giới Thiệu Chương Trình
 
 <strong>Geometry</strong> là học phần hình học cốt lõi bậc trung học Mỹ. Môn học rèn luyện tư duy lập luận logic chặt chẽ thông qua các bài toán chứng minh tam giác bằng nhau/đồng dạng, tọa độ hình học phẳng, lượng giác cơ bản và tính toán thể tích/diện tích các khối hình 3D.
 
 ---
 
-## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (SYLLABUS CORE)
+## 2. Khung Chương Trình Chi Tiết (Syllabus Core)
 
 ### Các chuyên đề cốt lõi của Common Core Geometry:
 1. **Congruence and Similarity (Bằng nhau & Đồng dạng):**
@@ -13229,7 +13234,7 @@ Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức h
 
 ---
 
-## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+## 3. Ví Dụ Minh Họa & Công Thức Trọng Tâm
 
 Công thức hình học và lượng giác hiển thị sắc nét bằng LaTeX:
 
@@ -13242,7 +13247,7 @@ $$V = \frac{1}{3}\pi r^2 h$$
 
 ---
 
-## 4. BẪY ĐIỂM SỐ & PHƯƠNG PHÁP LÀM BÀI (EXAM TIPS)
+## 4. Bẫy Điểm Số & Phương Pháp Làm Bài (Exam Tips)
 
 ### Các lỗi phổ biến học sinh cần tránh ở môn Geometry:
 * **⚠️ Viết sai thứ tự đỉnh đồng dạng:** Khi viết kết luận hai tam giác đồng dạng hoặc bằng nhau, bạn bắt buộc phải viết đúng thứ tự đỉnh tương ứng (ví dụ: $\Delta ABC \sim \Delta DEF$). Viết sai thứ tự đỉnh tương ứng sẽ bị coi là sai lập luận hình học.
@@ -13250,7 +13255,7 @@ $$V = \frac{1}{3}\pi r^2 h$$
 
 ---
 
-## 5. KHO ĐỀ PAST PAPERS THEO CHUYÊN ĐỀ
+## 5. Kho Đề Past Papers Theo Chuyên Đề
 
 ### Topic 1: Triangle Proofs
 * Luyện giải các bài toán viết lập luận chứng minh tam giác bằng nhau, tam giác đồng dạng.
@@ -14525,13 +14530,13 @@ Subtitle: Chương Trình Tiền Giải Tích Phổ Thông Hệ Mỹ (High Schoo
 ## Tài nguyên tự học: Common Core Pre-Calculus
 Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức Tiền Giải Tích, ví dụ minh họa bằng công thức giới hạn và lượng giác bằng LaTeX sắc nét cùng các bài giải mẫu chuẩn bị cho kỳ thi AP Calculus.
 
-## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+## 1. Giới Thiệu Chương Trình
 
 <strong>Pre-Calculus</strong> là học phần nâng cao bậc High School hệ Mỹ. Đây là môn học bắc cầu quan trọng nhất chuẩn bị cho học sinh lên học các chương trình giải tích nâng cao của College Board như AP Calculus AB/BC.
 
 ---
 
-## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (SYLLABUS CORE)
+## 2. Khung Chương Trình Chi Tiết (Syllabus Core)
 
 ### Các chuyên đề cốt lõi của Pre-Calculus:
 1. **Trigonometric Identities (Lượng giác nâng cao):**
@@ -14545,7 +14550,7 @@ Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức T
 
 ---
 
-## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+## 3. Ví Dụ Minh Họa & Công Thức Trọng Tâm
 
 Công thức giới hạn lượng giác hiển thị sắc nét bằng LaTeX:
 
@@ -14560,7 +14565,7 @@ $$r^2 = x^2 + y^2 \quad \text{và} \quad \theta = \arctan\left(\frac{y}{x}\right
 
 ---
 
-## 4. BẪY ĐIỂM SỐ & PHƯƠNG PHÁP LÀM BÀI (EXAM TIPS)
+## 4. Bẫy Điểm Số & Phương Pháp Làm Bài (Exam Tips)
 
 ### Các lưu ý tránh mất điểm ở Pre-Calculus:
 * **⚠️ Điều kiện chia cho không khi tính giới hạn:** Khi tính giới hạn dạng vô định $\frac{0}{0}$ hoặc $\frac{\infty}{\infty}$, hãy luôn nhớ sử dụng các kỹ thuật đại số để triệt tiêu nhân tử vô định ở mẫu số (như phân tích nhân tử hoặc nhân liên hợp) trước khi thay giá trị trực tiếp vào.
@@ -14568,7 +14573,7 @@ $$r^2 = x^2 + y^2 \quad \text{và} \quad \theta = \arctan\left(\frac{y}{x}\right
 
 ---
 
-## 5. KHO ĐỀ PAST PAPERS THEO CHUYÊN ĐỀ
+## 5. Kho Đề Past Papers Theo Chuyên Đề
 
 ### Topic 1: Advanced Trigonometry
 * Chứng minh đẳng thức lượng giác, giải phương trình lượng giác nâng cao góc nhân đôi nhân ba.
@@ -14850,12 +14855,12 @@ Path: /chem/sat-ap.html
 Subtitle: Chương Trình Luyện Thi Hóa Học Advanced Placement (College Board)
 ----------------------------------------
 
-## Tài nguyên ôn tập & Luyện thi: AP Chemistry Prep
+## Course Portal: AP Chemistry Prep
 Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức hóa học chuẩn đại học Mỹ, tóm tắt các phương trình điện hóa học, nhiệt hóa và cân bằng pH bằng LaTeX sắc nét cùng ngân hàng tài liệu luyện viết tự luận FRQ giúp đạt điểm tuyệt đối 5/5.
 
-## 1. GIỚI THIỆU CHƯƠNG TRÌNH
+## 1. Course Overview & Assessment
 
-<strong>Advanced Placement (AP) Chemistry</strong> là kỳ thi hóa học chuẩn hóa quốc tế cấp đại cương của College Board Mỹ. Kỳ thi đòi hỏi tư duy giải quyết vấn đề định lượng cực mạnh, phân tích sâu sắc bản chất cấu trúc vật chất, động học, năng lượng phản ứng, cân bằng dung dịch axit-bazơ phức tạp và kỹ năng thí nghiệm thực tiễn.
+<strong>Advanced Placement (AP) Chemistry</strong> là kỳ thi hóa học chuẩn hóa quốc tế cấp đại cương của College Board Mỹ. Kỳ thi đòi hỏi tư tư duy giải quyết vấn đề định lượng cực mạnh, phân tích sâu sắc bản chất cấu trúc vật chất, động học, năng lượng phản ứng, cân bằng dung dịch axit-bazơ phức tạp và kỹ năng thí nghiệm thực tiễn.
 
 ### Cấu Trúc Đề Thi (Assessment Outline)
 
@@ -14891,7 +14896,7 @@ Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức h
 
 ---
 
-## 2. KHUNG CHƯƠNG TRÌNH CHI TIẾT (AP CHEMISTRY CORE UNITS)
+## 2. Detailed Curriculum Framework (Core Units)
 
 Chương trình học gồm 9 Units cốt lõi theo chuẩn sơ đồ của College Board:
 
@@ -14908,7 +14913,7 @@ Chương trình học gồm 9 Units cốt lõi theo chuẩn sơ đồ của Coll
 
 ---
 
-## 3. VÍ DỤ MINH HỌA & CÔNG THỨC TRỌNG TÂM
+## 3. Key Formulas & Worked Examples
 
 Công thức hóa học hiển thị sắc nét bằng LaTeX:
 
@@ -14924,17 +14929,15 @@ $$\text{Chu kỳ bán rã (Half-life): } t_{1/2} = \frac{\ln 2}{k} \approx \frac
 
 ---
 
-## 4. BẪY ĐIỂM SỐ & CHIẾN THUẬT LÀM BÀI FRQ (FRQ EXAM TIPS)
+## 4. FRQ Strategies & Common Pitfalls
 
 ### Các bí quyết giành điểm tuyệt đối FRQ AP Chem:
-* **⚠️ Lý giải bằng lực liên phân tử (IMF) chứ không ghi tên liên kết:** Khi được yêu cầu so sánh nhiệt độ sôi (boiling points) hay áp suất hơi (vapor pressure) của các phân tử hữu cơ, học sinh rất hay mắc lỗi ghi tên lực liên kết. Hãy luôn viết rõ ràng: *"Phân tử $C_2H_5OH$ có lực liên kết hydrogen liên phân tử mạnh mẽ hơn lực London phân tán liên phân tử của $CH_3OCH_3$, dẫn đến đòi hỏi nhiều năng lượng hơn để bứt phá liên kết, nên nhiệt độ sôi cao hơn."*
+* **⚠️ Lý giải bằng lực liên phân tử (IMF) chứ không ghi tên liên kết:** Khi được yêu cầu so sánh nhiệt độ sôi (boiling points) hay áp suất hơi (vapor pressure) của các phân tử hữu cơ, học sinh rất hay mắc lỗi ghi tên liên kết. Hãy luôn viết rõ ràng: *"Phân tử $C_2H_5OH$ có lực liên kết hydrogen liên phân tử mạnh mẽ hơn lực London phân tán liên phân tử của $CH_3OCH_3$, dẫn đến đòi hỏi nhiều năng lượng hơn để bứt phá liên kết, nên nhiệt độ sôi cao hơn."*
 * **⚠️ Phân biệt khái niệm thế khử và pin tự phát:**
   * Sức điện động của pin tự phát $E_{cell}^{\ominus} > 0$ thì năng lượng tự do Gibbs $\Delta G^{\ominus} = -nFE_{cell}^{\ominus} < 0$.
   * Hãy luôn nhớ kiểm tra dấu âm/dương của hai đại lượng này để tránh mất điểm logic.
 
----
-
-## 5. KHO ĐỀ FRQ THEO CHUYÊN ĐỀ AP
+## 5. Topical Practice Questions (AP FRQ Bank)
 
 ### Topic 1: Atomic Bonding & Beer's Law
 * Đọc quang phổ PES, thuyết lai hóa orbital VSEPR và bài toán tính nồng độ quang phổ Beer-Lambert.
@@ -15788,7 +15791,7 @@ Select your specific exam board below to access actual past papers, syllabus-ali
 ### A-Level CIE Chemistry (9701)
 **Cambridge Assessment International Education**
 
-* Access academic notes and exam resources mapped from Paper 1 (Multiple Choice) to Paper 5 (Planning, Analysis and Evaluation of experimental data).
+* Access academic notes and exam resources mapped from Paper 1 (Multiple Choice) to Paper 5 (Practical & Synoptic data).
 * [Explore CIE Resources →](cie/index.html)
 
 <img src="../../images/a_level_edexcel_chem.webp" class="program-card-img" alt="A-Level Edexcel Chemistry">
@@ -15796,16 +15799,24 @@ Select your specific exam board below to access actual past papers, syllabus-ali
 ### A-Level Edexcel Chemistry
 **Pearson Edexcel International Advanced Level (IAL)**
 
-* Navigate the modular exam structure from IAS (Units 1-3) to IA2 (Units 4-6). Focus on mechanisms, thermodynamics, and laboratory investigation notes.
+* Navigate the modular exam structure from IAS (Units 1-3) to IA2 (Units 4-6). Focus on mechanisms and thermodynamics notes.
 * [Explore Edexcel Resources →](edexcel/index.html)
 
-<img src="../../images/a_level_chem_other_exam_boards.webp" class="program-card-img" alt="Other Exam Boards Chemistry">
+<img src="../../images/a_level_chem_other_exam_boards.webp" class="program-card-img" alt="AQA Chemistry A-Level">
 
-### Other Exam Boards (Others)
-**AQA, OxfordAQA, and Advanced Supplementary Resources**
+### A-Level AQA Chemistry
+**AQA (Specification 7404 / 7405)**
 
-* Find supplementary topic worksheets, advanced physical chemistry calculations, and unified organic reaction mechanism reference guides.
-* [Explore Other Resources →](others/index.html)
+* Topic-by-topic revision notes, Chemrevise guides, flashcards, mind maps, and topical practice question papers.
+* [Explore AQA Resources →](others/aqa.html)
+
+<img src="../../images/a_level_chem_other_exam_boards.webp" class="program-card-img" alt="OCR Chemistry A-Level">
+
+### A-Level OCR Chemistry
+**OCR Chemistry A (H032 / H432)**
+
+* Module-by-module revision guides, flashcards, PAG practical handbooks, summary notes, and topical practice question packs.
+* [Explore OCR Resources →](others/ocr.html)
 
 ## A-Level Chemistry Books
 
@@ -15986,7 +15997,7 @@ Subtitle: AQA AS & A-Level Chemistry (Specification Codes: 7404 / 7405)
 ## AQA A-Level Chemistry Learning Dashboard
 Welcome to the AQA A-Level Chemistry study center. Access official curriculum specifications, comprehensive revision notes, flashcards, mind maps, key definitions, Chemrevise study guides, and topical practice question packs with mark schemes across Physical, Inorganic, and Organic Chemistry.
 
-## 1. COURSE OVERVIEW & SYLLABUS
+## 1. Course Overview & Syllabus
 
 The AQA A-Level Chemistry specification (7404 for AS Level, 7405 for A-Level) features a linear structure with three key subject areas: Physical Chemistry, Inorganic Chemistry, and Organic Chemistry, alongside 12 Required Practicals.
 
@@ -16052,7 +16063,7 @@ Download the official AQA AS & A-Level Chemistry specification for offline refer
      AQA A-Level Chemistry Specification (PDF)
   </a>
 
-## 2. REVISION NOTES, FLASHCARDS & MIND MAPS (PMT SET)
+## 2. Revision Notes, Flashcards & Mind Maps (PMT Set)
 
 Explore lesson revision notes, flashcards, and mind maps categorized by main syllabus sections:
 
@@ -16064,7 +16075,7 @@ Explore lesson revision notes, flashcards, and mind maps categorized by main syl
 
 ## Practical Skills & Glossaries
 
-## 3. CHEMREVISE REVISION GUIDES & FLASHCARDS
+## 3. Chemrevise Revision Guides & Flashcards
 
 Access concise Chemrevise topic guides and flashcard decks mapped to AQA A-Level Chemistry syllabus units:
 
@@ -16076,7 +16087,7 @@ Access concise Chemrevise topic guides and flashcard decks mapped to AQA A-Level
 
 ## Reaction Mechanisms & Practicals
 
-## 4. TOPICAL PRACTICE QUESTION PACKS
+## 4. Topical Practice Question Packs
 
 Access practice question papers (QP) and mark schemes (MS) grouped by subtopics:
 
@@ -16132,7 +16143,7 @@ Subtitle: OCR A-Level Chemistry A (Specification Codes: H032 / H432)
 ## OCR A-Level Chemistry Learning Dashboard
 Welcome to the OCR A-Level Chemistry study center. Access official specification documents, module-by-module revision guides, flashcards, practical skills handbooks (PAGs), and topical practice question packs with mark schemes across Modules 1 to 6.
 
-## 1. COURSE OVERVIEW & SYLLABUS
+## 1. Course Overview & Syllabus
 
 The OCR A-Level Chemistry A specification (H032 for AS Level, H432 for A-Level) features a modular structure divided into six core modules: Practical Skills, Foundations in Chemistry, Periodic Table and Energy, Core Organic Chemistry, Physical Chemistry and Transition Elements, and Organic Chemistry and Analysis.
 
@@ -16196,13 +16207,13 @@ The OCR A-Level Chemistry A specification (H032 for AS Level, H432 for A-Level) 
      OCR A-Level Chemistry A Specification (PDF)
   </a>
 
-## 2. STUDY NOTES
+## 2. Study Notes
 
 ## PMT Summary Notes & Definitions
 
 ## Revision Guides & Flashcards
 
-## 3. TOPICAL PRACTICE QUESTIONS
+## 3. Topical Practice Questions
 
 ## Module 2
 
@@ -16224,7 +16235,7 @@ Subtitle: Chương Trình Hóa Học Cambridge International A-Level (Mã môn: 
 ## CIE Chemistry (9701) Comprehensive Dashboard
 Welcome to the unified Cambridge International A-Level Chemistry resource center. Here you can find syllabus materials, lesson-by-lesson notes, topical practice questions (QP & MS), structured past papers, and our interactive exam search engine.
 
-## 1. COURSE OVERVIEW & SYLLABUS
+## 1. Course Overview & Syllabus
 
 Cambridge International AS & A Level Chemistry (Syllabus Code: **9701**) provides a comprehensive foundation in physical, inorganic, and organic chemistry. The course is structured into two main stages: AS Level (typically taken in the first year) and A2 Level (taken in the second year).
 
@@ -16300,7 +16311,7 @@ Download the official Cambridge International syllabus and support documents for
 
 ---
 
-## 2. LESSON RESOURCES (NOTES & PRACTICE)
+## 2. Lesson Resources (Notes & Practice)
 
 Explore our comprehensive notes and practice questions organized by syllabus topics. Use the tabs below to switch between **AS Level** and **A-Level (A2)** content.
 
@@ -17091,7 +17102,7 @@ Explore our comprehensive notes and practice questions organized by syllabus top
 
 ---
 
-## 3. MORE STUDY NOTES
+## 3. More Study Notes
 
 This section contains supplementary reference guides and specialized revision notes for deep conceptual understanding.
 
@@ -17339,7 +17350,7 @@ This section contains supplementary reference guides and specialized revision no
 
 ---
 
-## 4. TOPICAL PAST PAPERS
+## 4. Topical Past Papers
 
 Test your understanding of specific syllabus areas with compiled past exam questions categorized by chemistry branches.
 
@@ -17382,7 +17393,7 @@ Test your understanding of specific syllabus areas with compiled past exam quest
 
 ---
 
-## 5. OFFICIAL PAST PAPERS BANK
+## 5. Official Past Papers Bank
 
 <!-- rebuild trigger -->
 
@@ -17396,7 +17407,7 @@ Subtitle: Pearson Edexcel International Advanced Level Chemistry (IAL)
 ## Pearson Edexcel IAL Chemistry Comprehensive Dashboard
 Welcome to the unified Pearson Edexcel International A-Level Chemistry resource center. Access official curriculum specifications, lesson-by-lesson revision notes, topical practice question papers (QP), mark schemes (MS), interactive flashcards, and official past papers bank for both AS Level and A2 Level.
 
-## 1. COURSE OVERVIEW & SYLLABUS
+## 1. Course Overview & Syllabus
 
 Pearson Edexcel International Advanced Level (IAL) Chemistry provides a modular, flexible assessment structure designed to build deep conceptual understanding and practical analytical skills across physical, inorganic, and organic chemistry.
 
@@ -17471,7 +17482,7 @@ Download the official Pearson Edexcel International A-Level Chemistry specificat
      Edexcel IAL Chemistry Specification (PDF)
   </a>
 
-## 2. LESSON RESOURCES (NOTES & PRACTICE)
+## 2. Lesson Resources (Notes & Practice)
 
 Explore comprehensive revision notes, topical practice question papers (QP), and mark schemes (MS) organized by syllabus units. Use the tabs below to switch between **AS Level** and **A-Level (A2)** content.
 
@@ -17757,7 +17768,7 @@ Explore comprehensive revision notes, topical practice question papers (QP), and
     </tbody>
   </table>
 
-## 3. MORE STUDY NOTES
+## 3. More Study Notes
 
 This section contains supplementary reference guides, topic revision notes with flashcards, and comprehensive unit summaries for deep conceptual mastery.
 
@@ -18005,12 +18016,12 @@ This section contains supplementary reference guides, topic revision notes with 
     </tbody>
   </table>
 
-## 4. TOPICAL PAST PAPERS
+## 4. Topical Past Papers
 
 ## Topical Practice Question Papers (Coming Soon)
 Topical past paper packs for Edexcel IAL Chemistry Units 1 to 6 are currently being updated and categorized. Please check back soon!
 
-## 5. OFFICIAL PAST PAPERS BANK
+## 5. Official Past Papers Bank
 
 Search and download official Pearson Edexcel IAL Chemistry past exam papers, question papers (QP), and mark schemes (MS). Use the interactive filter controls below to refine by **Unit** or **Year**.
 
@@ -18312,7 +18323,7 @@ Students are encouraged to print out these worksheets, solve them under timed co
 
 ---
 
-## 4. Topical past paper questions
+## 4. Topical Past Paper Questions
 
 *Topical collection of past exam questions sorted by syllabus and paper to help you focus on specific areas of the curriculum:*
 
@@ -18394,6 +18405,109 @@ Select the appropriate program level below to access detailed study notes, sylla
 * Ideal for students seeking a fundamental natural science foundation or applying to business and social science programs.
 * Covers core concepts in atomic structure, chemical bonding, kinetics, and a basic introduction to organic chemistry.
 * [Explore Resources →](sl.html)
+
+---
+
+## Level 3 Syllabus Mapping (2016 vs 2025)
+
+This guide maps the specific 3rd-level learning objectives (Understandings, Applications, and Skills) of the 2025 IB Chemistry syllabus back to the legacy 2016 topics. This granular breakdown allows for exact file tagging (Notes, MCQs, Structured Questions) when migrating resource databases.
+
+*Note: Topics starting with 1x or 2x (e.g., 12, 13, 20) represent Higher Level (HL) material.*
+
+### Structure
+
+<details style="margin-bottom: 10px; border: 1px solid var(--border); padding: 10px; border-radius: 5px;">
+<summary style="font-weight: bold; cursor: pointer;">Structure 1: Models of the particulate nature of matter</summary>
+
+| 2025 Level 3 | Specific Concept | 2016 Topic Source | Resource Mapping Details |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| **S 1.1.1** | Elements, mixtures, and compounds | **1.1** | Definitions of pure substances, homogenous/heterogenous mixtures. |
+| **S 1.1.2** | Kinetic molecular theory & state changes | **1.1** | Heating/cooling curves, phase state characteristics. |
+| **S 1.2.1** | The nuclear atom and isotopes | **2.1** | Protons, neutrons, electrons, isotope properties. |
+| **S 1.2.2** | Relative atomic mass & mass spectrometry | **2.1, 12.1** | Calculating $A_r$, interpreting mass spectra (HL fragmentation). |
+| **S 1.3.1** | Emission spectra and energy levels | **2.2** | Hydrogen emission spectrum, photon energy calculations. |
+| **S 1.3.2** | Sublevels (s, p, d, f) & orbital diagrams | **2.2** | Aufbau principle, Hund's rule, Pauli exclusion principle. |
+| **S 1.3.3** | Ionization energy and spectral data (HL) | **12.1** | Successive ionization energies, deducing group numbers. |
+| **S 1.4.1** | The mole and Avogadro's constant | **1.2** | $N_A$, converting between mass, moles, and particles. |
+| **S 1.4.2** | Empirical and molecular formulas | **1.2** | Percentage composition and combustion analysis calculations. |
+| **S 1.5.1** | Ideal gas model and assumptions | **1.2** | Kinetic theory of gases, deviations from ideal behavior. |
+| **S 1.5.2** | Gas laws and calculations | **1.2** | $PV = nRT$, Boyle's, Charles's, and Gay-Lussac's laws. |
+
+</details>
+
+<details style="margin-bottom: 10px; border: 1px solid var(--border); padding: 10px; border-radius: 5px;">
+<summary style="font-weight: bold; cursor: pointer;">Structure 2: Models of bonding and structure</summary>
+
+| 2025 Level 3 | Specific Concept | 2016 Topic Source | Resource Mapping Details |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| **S 2.1.1** | Ionic bonding and lattices | **4.1, 14.1** | Formation of ions, lattice enthalpy, physical properties. |
+| **S 2.2.1** | Covalent bonds and Lewis structures | **4.2, 4.3, 14.1** | Octet rule, resonance, formal charge (HL), bond length/strength. |
+| **S 2.2.2** | VSEPR theory and molecular shapes | **4.3, 14.1** | Predicting geometry (2 to 6 electron domains), hybridization ($sp, sp^2, sp^3$). |
+| **S 2.2.3** | Intermolecular forces | **4.4** | London dispersion, dipole-dipole, hydrogen bonding. |
+| **S 2.3.1** | Metallic bonding and alloys | **4.4** | Sea of electrons, non-directional bonding, alloy properties. |
+| **S 2.4.1** | Giant covalent structures & polymers | **4.3, Option A** | Giant covalent structures (macromolecular) such as diamond, graphite, graphene, polymers, and nanotubes. |
+
+</details>
+
+<details style="margin-bottom: 10px; border: 1px solid var(--border); padding: 10px; border-radius: 5px;">
+<summary style="font-weight: bold; cursor: pointer;">Structure 3: Classification of matter</summary>
+
+| 2025 Level 3 | Specific Concept | 2016 Topic Source | Resource Mapping Details |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| **S 3.1.1** | Periodic table organization | **3.1** | Groups, periods, blocks (s, p, d, f), metals vs non-metals. |
+| **S 3.1.2** | Periodic trends | **3.2, 13.1** | Atomic radius, electronegativity, electron affinity, oxide nature. |
+| **S 3.1.3** | Transition metals (HL) | **13.1, 13.2** | Variable oxidation states, catalytic properties, colored complexes. |
+| **S 3.2.1** | Organic functional groups & nomenclature | **10.1** | Alkanes, alkenes, alkynes, alcohols, aldehydes, ketones, acids. |
+| **S 3.2.2** | Isomerism | **10.1, 20.1** | Structural isomers, stereoisomers (conformational, optical/chiral). |
+
+</details>
+
+### Reactivity
+
+<details style="margin-bottom: 10px; border: 1px solid var(--border); padding: 10px; border-radius: 5px;">
+<summary style="font-weight: bold; cursor: pointer;">Reactivity 1: What drives chemical reactions?</summary>
+
+| 2025 Level 3 | Specific Concept | 2016 Topic Source | Resource Mapping Details |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| **R 1.1.1** | Calorimetry and enthalpy change | **5.1** | Exothermic/endothermic, $q = mc\Delta T$, standard enthalpy states. |
+| **R 1.2.1** | Bond enthalpies and Hess's Law | **5.2, 5.3** | Calculating $\Delta H$ using bond energies and standard formation data. |
+| **R 1.2.2** | Born-Haber cycles (HL) | **15.1** | Lattice enthalpy calculations, hydration enthalpy. |
+| **R 1.4.1** | Entropy and Gibbs free energy (HL) | **15.2** | Calculating $\Delta S$ and $\Delta G$, predicting reaction spontaneity. |
+
+</details>
+
+<details style="margin-bottom: 10px; border: 1px solid var(--border); padding: 10px; border-radius: 5px;">
+<summary style="font-weight: bold; cursor: pointer;">Reactivity 2: How much, how fast and how far?</summary>
+
+| 2025 Level 3 | Specific Concept | 2016 Topic Source | Resource Mapping Details |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| **R 2.1.1** | Reacting masses and limiting reactants | **1.3** | Stoichiometry, theoretical yield, percentage yield. |
+| **R 2.1.2** | Solutions and titrations | **1.3** | Concentration ($mol/dm^3$), dilutions, volumetric analysis. |
+| **R 2.2.1** | Collision theory and reaction rates | **6.1** | Factors affecting rate (concentration, surface area, temperature). |
+| **R 2.2.2** | Rate laws and mechanisms (HL) | **16.1** | Order of reaction, rate constant ($k$), rate-determining step. |
+| **R 2.2.3** | Activation energy and Arrhenius (HL) | **6.1, 16.2** | Maxwell-Boltzmann distribution, Arrhenius equation graphs. |
+| **R 2.3.1** | Equilibrium state and Le Chatelier | **7.1** | Dynamic equilibrium, shifting equilibrium position. |
+| **R 2.3.2** | Equilibrium constants | **7.1, 17.1** | Calculating $K_c$, reaction quotient ($Q$), relationship with $\Delta G$. |
+
+</details>
+
+<details style="margin-bottom: 10px; border: 1px solid var(--border); padding: 10px; border-radius: 5px;">
+<summary style="font-weight: bold; cursor: pointer;">Reactivity 3: What are the mechanisms of chemical change?</summary>
+
+| 2025 Level 3 | Specific Concept | 2016 Topic Source | Resource Mapping Details |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| **R 3.1.1** | Bronsted-Lowry acids and bases | **8.1, 8.2** | Proton transfer, conjugate acid-base pairs, amphiprotic species. |
+| **R 3.1.2** | pH scale and strong/weak acids | **8.3, 8.4** | Calculating pH, $K_w$, comparing dissociation levels. |
+| **R 3.1.3** | Acid-base calculations & buffers (HL) | **18.1, 18.2, 18.3** | $K_a$, $K_b$, buffer composition, titration curves, indicators. |
+| **R 3.2.1** | Oxidation states and redox equations | **9.1** | Assigning oxidation numbers, half-equations, Winkler method. |
+| **R 3.2.2** | Voltaic and electrolytic cells | **9.2, 9.3** | Anode/cathode reactions, salt bridge, electroplating. |
+| **R 3.2.3** | Standard electrode potentials (HL) | **19.1** | $E^\theta$ values, calculating cell potential, predicting spontaneity. |
+| **R 3.3.1** | Lewis acids and bases | **8.1** | Electron-pair donors and acceptors. |
+| **R 3.3.2** | Transition metal complexes (HL) | **13.2** | Ligands, coordinate covalent bonds, splitting of d-orbitals. |
+| **R 3.4.1** | Nucleophilic substitution (HL) | **20.1** | $S_N1$ vs $S_N2$ mechanisms, primary/secondary/tertiary halogenoalkanes. |
+| **R 3.4.2** | Electrophilic addition & substitution (HL) | **20.1** | Markovnikov's rule, nitration of benzene, organic reduction. |
+
+</details>
 
 ---
 
@@ -18615,116 +18729,6 @@ Select the appropriate program level below to access detailed study notes, sylla
 <a href="https://drive.google.com/file/d/1Ah59U-h4s6Uz4uYuiysWivQZsOy73pGM/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn">
   <i class="bi bi-download"></i> Download Book
 </a>
-
-
-
-# PAGE: Level 3 Syllabus Mapping: IB Chemistry (2016 vs 2025)
-Path: /chem/ib/syllabus.html
-Subtitle: A granular 3rd-level mapping of legacy 2016 resources to the new 2025 Structure & Reactivity framework.
-----------------------------------------
-
-# Introduction
-
-This guide maps the specific 3rd-level learning objectives (Understandings, Applications, and Skills) of the 2025 IB Chemistry syllabus back to the legacy 2016 topics. This granular breakdown allows for exact file tagging (Notes, MCQs, Structured Questions) when migrating resource databases.
-
-*Note: Topics starting with 1x or 2x (e.g., 12, 13, 20) represent Higher Level (HL) material.*
-
-------------------------------------------------------------------------
-
-## 1. Structure
-
-<details style="margin-bottom: 10px; border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
-<summary style="font-weight: bold; cursor: pointer;">Structure 1: Models of the particulate nature of matter</summary>
-
-| 2025 Level 3 | Specific Concept | 2016 Topic Source | Resource Mapping Details |
-|:-----------------|:-----------------|:-----------------|:-----------------|
-| **S 1.1.1** | Elements, mixtures, and compounds | **1.1** | Definitions of pure substances, homogenous/heterogenous mixtures. |
-| **S 1.1.2** | Kinetic molecular theory & state changes | **1.1** | Heating/cooling curves, phase state characteristics. |
-| **S 1.2.1** | The nuclear atom and isotopes | **2.1** | Protons, neutrons, electrons, isotope properties. |
-| **S 1.2.2** | Relative atomic mass & mass spectrometry | **2.1, 12.1** | Calculating $A_r$, interpreting mass spectra (HL fragmentation). |
-| **S 1.3.1** | Emission spectra and energy levels | **2.2** | Hydrogen emission spectrum, photon energy calculations. |
-| **S 1.3.2** | Sublevels (s, p, d, f) & orbital diagrams | **2.2** | Aufbau principle, Hund's rule, Pauli exclusion principle. |
-| **S 1.3.3** | Ionization energy and spectral data (HL) | **12.1** | Successive ionization energies, deducing group numbers. |
-| **S 1.4.1** | The mole and Avogadro's constant | **1.2** | $N_A$, converting between mass, moles, and particles. |
-| **S 1.4.2** | Empirical and molecular formulas | **1.2** | Percentage composition and combustion analysis calculations. |
-| **S 1.5.1** | Ideal gas model and assumptions | **1.2** | Kinetic theory of gases, deviations from ideal behavior. |
-| **S 1.5.2** | Gas laws and calculations | **1.2** | $PV = nRT$, Boyle's, Charles's, and Gay-Lussac's laws. |
-
-</details>
-
-<details style="margin-bottom: 10px; border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
-<summary style="font-weight: bold; cursor: pointer;">Structure 2: Models of bonding and structure</summary>
-
-| 2025 Level 3 | Specific Concept | 2016 Topic Source | Resource Mapping Details |
-|:-----------------|:-----------------|:-----------------|:-----------------|
-| **S 2.1.1** | Ionic bonding and lattices | **4.1, 14.1** | Formation of ions, lattice enthalpy, physical properties. |
-| **S 2.2.1** | Covalent bonds and Lewis structures | **4.2, 4.3, 14.1** | Octet rule, resonance, formal charge (HL), bond length/strength. |
-| **S 2.2.2** | VSEPR theory and molecular shapes | **4.3, 14.1** | Predicting geometry (2 to 6 electron domains), hybridization ($sp, sp^2, sp^3$). |
-| **S 2.2.3** | Intermolecular forces | **4.4** | London dispersion, dipole-dipole, hydrogen bonding. |
-| **S 2.3.1** | Metallic bonding and alloys | **4.4** | Sea of electrons, non-directional bonding, alloy properties. |
-| **S 2.4.1** | Giant covalent structures & polymers | **4.3, Option A** | Giant covalent structures (macromolecular) such as diamond, graphite, graphene, polymers, and nanotubes. |
-
-</details>
-
-<details style="margin-bottom: 10px; border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
-<summary style="font-weight: bold; cursor: pointer;">Structure 3: Classification of matter</summary>
-
-| 2025 Level 3 | Specific Concept | 2016 Topic Source | Resource Mapping Details |
-|:-----------------|:-----------------|:-----------------|:-----------------|
-| **S 3.1.1** | Periodic table organization | **3.1** | Groups, periods, blocks (s, p, d, f), metals vs non-metals. |
-| **S 3.1.2** | Periodic trends | **3.2, 13.1** | Atomic radius, electronegativity, electron affinity, oxide nature. |
-| **S 3.1.3** | Transition metals (HL) | **13.1, 13.2** | Variable oxidation states, catalytic properties, colored complexes. |
-| **S 3.2.1** | Organic functional groups & nomenclature | **10.1** | Alkanes, alkenes, alkynes, alcohols, aldehydes, ketones, acids. |
-| **S 3.2.2** | Isomerism | **10.1, 20.1** | Structural isomers, stereoisomers (conformational, optical/chiral). |
-
-</details>
-
-## 2. Reactivity
-
-<details style="margin-bottom: 10px; border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
-<summary style="font-weight: bold; cursor: pointer;">Reactivity 1: What drives chemical reactions?</summary>
-
-| 2025 Level 3 | Specific Concept | 2016 Topic Source | Resource Mapping Details |
-|:-----------------|:-----------------|:-----------------|:-----------------|
-| **R 1.1.1** | Calorimetry and enthalpy change | **5.1** | Exothermic/endothermic, $q = mc\Delta T$, standard enthalpy states. |
-| **R 1.2.1** | Bond enthalpies and Hess's Law | **5.2, 5.3** | Calculating $\Delta H$ using bond energies and standard formation data. |
-| **R 1.2.2** | Born-Haber cycles (HL) | **15.1** | Lattice enthalpy calculations, hydration enthalpy. |
-| **R 1.4.1** | Entropy and Gibbs free energy (HL) | **15.2** | Calculating $\Delta S$ and $\Delta G$, predicting reaction spontaneity. |
-
-</details>
-
-<details style="margin-bottom: 10px; border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
-<summary style="font-weight: bold; cursor: pointer;">Reactivity 2: How much, how fast and how far?</summary>
-
-| 2025 Level 3 | Specific Concept | 2016 Topic Source | Resource Mapping Details |
-|:-----------------|:-----------------|:-----------------|:-----------------|
-| **R 2.1.1** | Reacting masses and limiting reactants | **1.3** | Stoichiometry, theoretical yield, percentage yield. |
-| **R 2.1.2** | Solutions and titrations | **1.3** | Concentration ($mol/dm^3$), dilutions, volumetric analysis. |
-| **R 2.2.1** | Collision theory and reaction rates | **6.1** | Factors affecting rate (concentration, surface area, temperature). |
-| **R 2.2.2** | Rate laws and mechanisms (HL) | **16.1** | Order of reaction, rate constant ($k$), rate-determining step. |
-| **R 2.2.3** | Activation energy and Arrhenius (HL) | **6.1, 16.2** | Maxwell-Boltzmann distribution, Arrhenius equation graphs. |
-| **R 2.3.1** | Equilibrium state and Le Chatelier | **7.1** | Dynamic equilibrium, shifting equilibrium position. |
-| **R 2.3.2** | Equilibrium constants | **7.1, 17.1** | Calculating $K_c$, reaction quotient ($Q$), relationship with $\Delta G$. |
-
-</details>
-
-<details style="margin-bottom: 10px; border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
-<summary style="font-weight: bold; cursor: pointer;">Reactivity 3: What are the mechanisms of chemical change?</summary>
-
-| 2025 Level 3 | Specific Concept | 2016 Topic Source | Resource Mapping Details |
-|:-----------------|:-----------------|:-----------------|:-----------------|
-| **R 3.1.1** | Bronsted-Lowry acids and bases | **8.1, 8.2** | Proton transfer, conjugate acid-base pairs, amphiprotic species. |
-| **R 3.1.2** | pH scale and strong/weak acids | **8.3, 8.4** | Calculating pH, $K_w$, comparing dissociation levels. |
-| **R 3.1.3** | Acid-base calculations & buffers (HL) | **18.1, 18.2, 18.3** | $K_a$, $K_b$, buffer composition, titration curves, indicators. |
-| **R 3.2.1** | Oxidation states and redox equations | **9.1** | Assigning oxidation numbers, half-equations, Winkler method. |
-| **R 3.2.2** | Voltaic and electrolytic cells | **9.2, 9.3** | Anode/cathode reactions, salt bridge, electroplating. |
-| **R 3.2.3** | Standard electrode potentials (HL) | **19.1** | $E^\theta$ values, calculating cell potential, predicting spontaneity. |
-| **R 3.3.1** | Lewis acids and bases | **8.1** | Electron-pair donors and acceptors. |
-| **R 3.3.2** | Transition metal complexes (HL) | **13.2** | Ligands, coordinate covalent bonds, splitting of d-orbitals. |
-| **R 3.4.1** | Nucleophilic substitution (HL) | **20.1** | $S_N1$ vs $S_N2$ mechanisms, primary/secondary/tertiary halogenoalkanes. |
-| **R 3.4.2** | Electrophilic addition & substitution (HL) | **20.1** | Markovnikov's rule, nitration of benzene, organic reduction. |
-
-</details>
 
 
 
@@ -18962,7 +18966,7 @@ Students are encouraged to print out these worksheets, solve them under timed co
 
 ---
 
-## 4. Topical past paper questions
+## 4. Topical Past Paper Questions
 
 *Topical collection of past exam questions sorted by syllabus and paper to help you focus on specific areas of the curriculum:*
 

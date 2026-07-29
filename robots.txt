@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Sitemap: https://nkk-education-hub.com/sitemap.xml
+Sitemap: https://drkiem.vn/sitemap.xml
 
 # AI crawler optimizations
 User-agent: GPTBot
