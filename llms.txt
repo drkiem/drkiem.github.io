@@ -41,7 +41,7 @@
 - [CIE Probability & Statistics 2 (S2)](/math/a-level/cie/s2.html): Cambridge International AS & A Level Mathematics (9709)
 - [CIE Pure Mathematics 1 (P1)](/math/a-level/cie/p1.html): Cambridge International AS & A Level Mathematics (9709)
 - [CIE Pure Mathematics 2 & 3 (P2 & P3)](/math/a-level/cie/p3.html): Cambridge International AS & A Level Mathematics (9709)
-- [Edexcel Further Pure Mathematics](/math/a-level/edexcel/further.html): Chương Trình Toán Học Cao Cấp Pearson Edexcel International Advanced Level (IAL)
+- [Edexcel Further Pure Mathematics](/math/a-level/edexcel/further.html): Pearson Edexcel International Advanced Level Further Mathematics (IAL)
 - [Edexcel Mathematics Overview](/math/a-level/edexcel/index.html): Pearson Edexcel International Advanced Level (IAL) Mathematics Portal
 - [Edexcel Mechanics 1 (M1)](/math/a-level/edexcel/m1.html): Pearson Edexcel International Advanced Level (IAL) Mathematics
 - [Edexcel Mechanics 2 (M2)](/math/a-level/edexcel/m2.html): Pearson Edexcel International Advanced Level (IAL) Mathematics
