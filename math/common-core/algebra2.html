@@ -113,7 +113,7 @@ gtag('config', 'G-Y5KN25P14N', { 'anonymize_ip': true});
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="NKK-Education Hub">
 <meta property="og:title" content="Common Core Algebra 2 – NKK-Education Hub">
-<meta property="og:description" content="Chương Trình Đại Số 2 Phổ Thông Hệ Mỹ (High School)">
+<meta property="og:description" content="Comprehensive High School Mathematics Practice Questions, Topic Worksheets &amp; Reference Textbooks">
 <meta property="og:url" content="https://drkiem.vn">
 <meta property="og:image" content="https://drkiem.vn/images/academic_workspace.png">
 
@@ -172,35 +172,6 @@ gtag('config', 'G-Y5KN25P14N', { 'anonymize_ip': true});
 }
 </script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -449,6 +420,10 @@ window.Quarto = {
 <span class="menu-text">Books</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../../news.html"> 
+<span class="menu-text">News &amp; Updates</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
@@ -472,7 +447,7 @@ window.Quarto = {
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="sidebar-menu-container"> 
@@ -510,7 +485,7 @@ window.Quarto = {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../math/common-core/pre-calculus.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Common Core Pre-Calculus</span></a>
+ <span class="menu-text">Common Core Pre-Calculus &amp; Calculus Foundations</span></a>
   </div>
 </li>
     </ul>
@@ -523,31 +498,27 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#giới-thiệu-chương-trình" id="toc-giới-thiệu-chương-trình" class="nav-link active" data-scroll-target="#giới-thiệu-chương-trình">1. Giới Thiệu Chương Trình</a></li>
-  <li><a href="#khung-chương-trình-chi-tiết-syllabus-core" id="toc-khung-chương-trình-chi-tiết-syllabus-core" class="nav-link" data-scroll-target="#khung-chương-trình-chi-tiết-syllabus-core">2. Khung Chương Trình Chi Tiết (Syllabus Core)</a></li>
-  <li><a href="#ví-dụ-minh-họa-công-thức-trọng-tâm" id="toc-ví-dụ-minh-họa-công-thức-trọng-tâm" class="nav-link" data-scroll-target="#ví-dụ-minh-họa-công-thức-trọng-tâm">3. Ví Dụ Minh Họa &amp; Công Thức Trọng Tâm</a>
+  <li><a href="#algebra-2-practice-questions-worksheets-by-topic" id="toc-algebra-2-practice-questions-worksheets-by-topic" class="nav-link active" data-scroll-target="#algebra-2-practice-questions-worksheets-by-topic">1. Algebra 2 Practice Questions &amp; Worksheets by Topic</a>
   <ul class="collapse">
-  <li><a href="#khái-niệm-số-phức-cơ-bản-complex-numbers" id="toc-khái-niệm-số-phức-cơ-bản-complex-numbers" class="nav-link" data-scroll-target="#khái-niệm-số-phức-cơ-bản-complex-numbers">Khái niệm số phức cơ bản (Complex numbers)</a></li>
-  <li><a href="#quy-luật-logarithm-cơ-số-tự-nhiên-natural-logarithm-laws" id="toc-quy-luật-logarithm-cơ-số-tự-nhiên-natural-logarithm-laws" class="nav-link" data-scroll-target="#quy-luật-logarithm-cơ-số-tự-nhiên-natural-logarithm-laws">Quy luật Logarithm cơ số tự nhiên (Natural Logarithm laws)</a></li>
+  <li><a href="#official-nys-high-school-regents-examination-papers" id="toc-official-nys-high-school-regents-examination-papers" class="nav-link" data-scroll-target="#official-nys-high-school-regents-examination-papers">1.3 Official NYS High School Regents Examination Papers</a></li>
   </ul></li>
-  <li><a href="#bẫy-điểm-số-phương-pháp-làm-bài-exam-tips" id="toc-bẫy-điểm-số-phương-pháp-làm-bài-exam-tips" class="nav-link" data-scroll-target="#bẫy-điểm-số-phương-pháp-làm-bài-exam-tips">4. Bẫy Điểm Số &amp; Phương Pháp Làm Bài (Exam Tips)</a></li>
-  <li><a href="#kho-đề-past-papers-theo-chuyên-đề" id="toc-kho-đề-past-papers-theo-chuyên-đề" class="nav-link" data-scroll-target="#kho-đề-past-papers-theo-chuyên-đề">5. Kho Đề Past Papers Theo Chuyên Đề</a></li>
+  <li><a href="#recommended-algebra-2-textbooks-study-guides" id="toc-recommended-algebra-2-textbooks-study-guides" class="nav-link" data-scroll-target="#recommended-algebra-2-textbooks-study-guides">2. Recommended Algebra 2 Textbooks &amp; Study Guides</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-body" id="quarto-document-content">
 
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Common Core Algebra 2</h1>
-<p class="subtitle lead">Chương Trình Đại Số 2 Phổ Thông Hệ Mỹ (High School)</p>
+<p class="subtitle lead">Comprehensive High School Mathematics Practice Questions, Topic Worksheets &amp; Reference Textbooks</p>
 </div>
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-body">
 
     
   
@@ -565,118 +536,486 @@ window.Quarto = {
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Tài nguyên tự học: Common Core Algebra 2
+<span class="screen-reader-only">Note</span>High School Mathematics Study Guidance: Common Core Algebra 2
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức Đại số 2 nâng cao, ví dụ minh họa bằng công thức mũ, số phức và logarithm bằng LaTeX sắc nét cùng ngân hàng bài tập tự luyện chọn lọc.</p>
+<p>Welcome to the <strong>Common Core Algebra 2</strong> study portal! Algebra 2 builds upon foundational concepts from Algebra 1 and Geometry under the <strong>Common Core State Standards (CCSS)</strong>. It establishes advanced algebraic fluency indispensable for Pre-Calculus, AP Calculus, SAT Subject Tests, and university STEM majors.</p>
+<p>Below you will find our curated collection of <strong>131 topic-specific practice worksheets</strong> covering 16 core Algebra 2 units—including complex numbers, systems of equations, matrix operations, logarithmic &amp; exponential functions, polynomial factoring, conic sections, sequences &amp; series, and trigonometry. Use the interactive practice bank and reference textbooks to strengthen your advanced algebraic problem-solving skills.</p>
 </div>
 </div>
-<section id="giới-thiệu-chương-trình" class="level2">
-<h2 class="anchored" data-anchor-id="giới-thiệu-chương-trình">1. Giới Thiệu Chương Trình</h2>
-<p>
-<strong>Algebra 2</strong> mở rộng sâu sắc các khái niệm của Algebra 1, đưa học sinh tiếp cận với hệ số ảo và số phức (complex numbers), khảo sát các đa thức bậc cao, phương trình phi tuyến phức tạp và giới thiệu sâu về hàm mũ &amp; hàm logarithm.
-</p>
+<section id="algebra-2-practice-questions-worksheets-by-topic" class="level2">
+<h2 class="anchored" data-anchor-id="algebra-2-practice-questions-worksheets-by-topic">1. Algebra 2 Practice Questions &amp; Worksheets by Topic</h2>
+<p><em>Select a specific topic unit or type keywords to search through 131 printable practice worksheets with step-by-step solutions:</em></p>
+<div class="search-engine-box">
+<div class="card p-3 mb-4 shadow-sm" style="border-radius: 12px; border: 1px solid rgba(0,0,0,0.08); background: var(--bs-card-bg, #ffffff);">
+  <div class="card-body p-0">
+    <div class="d-flex align-items-center flex-wrap gap-3">
+      
+      <div class="d-flex align-items-center gap-2" style="min-width: 280px;">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Topic Unit:</span>
+        <select id="filter-alg2-topic" class="form-select form-select-sm" onchange="window.filterAlg2Worksheets()" style="display: inline-block;">
+          <option value="" selected="">All Topics (16 Units)</option>
+        </select>
+      </div>
+
+      <div class="d-none d-md-block" style="border-left: 1px solid rgba(0,0,0,0.1); height: 24px;"></div>
+      
+      <div class="d-flex align-items-center gap-2 flex-grow-1" style="min-width: 240px;">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Search Title:</span>
+        <input type="text" id="search-alg2-keyword" class="form-control form-control-sm" placeholder="e.g. Logarithms, Matrices, Complex, Polynomials..." oninput="window.filterAlg2Worksheets()">
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div id="alg2-table-container">
+  <p><i class="bi bi-hourglass-split"></i> Loading Algebra 2 practice worksheets...</p>
+</div>
+
+<script>
+(function() {
+  let alg2Db = [];
+  let currentPage = 1;
+  const pageSize = 15;
+  let filteredItems = [];
+
+  async function loadAlg2Db() {
+    if (alg2Db.length > 0) return alg2Db;
+    try {
+      const response = await fetch('algebra2_kuta_math_metadata.json');
+      if (!response.ok) throw new Error('Network response was not ok');
+      alg2Db = await response.json();
+    } catch (error) {
+      console.error('Failed to load Algebra 2 worksheets metadata:', error);
+    }
+    return alg2Db;
+  }
+
+  function populateTopicDropdown() {
+    const topicEl = document.getElementById('filter-alg2-topic');
+    if (!topicEl) return;
+    
+    const topicsMap = new Map();
+    alg2Db.forEach(item => {
+      const key = `${item.topic_id}`;
+      if (!topicsMap.has(key)) {
+        topicsMap.set(key, item.topic_name);
+      }
+    });
+
+    const sortedKeys = Array.from(topicsMap.keys()).sort((a, b) => parseInt(a) - parseInt(b));
+
+    topicEl.innerHTML = '<option value="">All Topics (16 Units)</option>';
+    sortedKeys.forEach(tId => {
+      const option = document.createElement('option');
+      option.value = tId;
+      option.textContent = `${tId}. ${topicsMap.get(tId)}`;
+      topicEl.appendChild(option);
+    });
+  }
+
+  function renderTableData() {
+    const container = document.getElementById('alg2-table-container');
+    if (!container) return;
+
+    if (filteredItems.length === 0) {
+      container.innerHTML = '<p style="padding: 1rem; text-align: center; color: #9ca3af;"><i class="bi bi-info-circle"></i> No matching practice worksheets found for your search criteria.</p>';
+      return;
+    }
+
+    const totalPages = Math.ceil(filteredItems.length / pageSize);
+    if (currentPage > totalPages) currentPage = Math.max(1, totalPages);
+
+    const start = (currentPage - 1) * pageSize;
+    const end = start + pageSize;
+    const pageItems = filteredItems.slice(start, end);
+
+    let html = `
+      <div class="table-wrapper">
+        <table class="premium-table">
+          <thead>
+            <tr>
+              <th style="width: 260px;">Topic Unit</th>
+              <th>Worksheet Practice Title</th>
+              <th style="text-align: center; width: 130px;">Download</th>
+            </tr>
+          </thead>
+          <tbody>
+    `;
+
+    pageItems.forEach(item => {
+      const driveLink = item.google_drive_link || '#';
+      const topicLabel = `${item.topic_id}. ${item.topic_name}`;
+      
+      html += `
+        <tr>
+          <td><strong style="color: #6b21a8;">${topicLabel}</strong></td>
+          <td>${item.title}</td>
+          <td style="text-align: center;">
+            <a href="${driveLink}" target="_blank" title="Download Worksheet PDF" class="btn btn-sm btn-primary bi bi-file-earmark-pdf" style="padding: 0.35rem 0.65rem; font-size: 0.9rem; border-radius: 6px;"> PDF</a>
+          </td>
+        </tr>
+      `;
+    });
+
+    html += `
+          </tbody>
+        </table>
+      </div>
+      <div class="d-flex justify-content-center align-items-center gap-2 mt-3" id="alg2-pagination-controls"></div>
+    `;
+
+    container.innerHTML = html;
+
+    const paginationContainer = document.getElementById('alg2-pagination-controls');
+    if (!paginationContainer) return;
+
+    if (totalPages <= 1) {
+      paginationContainer.innerHTML = '';
+      return;
+    }
+
+    let pagHtml = `<button class="btn btn-sm btn-outline-primary" ${currentPage === 1 ? 'disabled' : ''} onclick="window.changeAlg2Page(${currentPage - 1})">Prev</button>`;
+    for (let i = 1; i <= totalPages; i++) {
+      if (i === currentPage) {
+        pagHtml += `<button class="btn btn-sm btn-primary active">${i}</button>`;
+      } else if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= 1) {
+        pagHtml += `<button class="btn btn-sm btn-outline-primary" onclick="window.changeAlg2Page(${i})">${i}</button>`;
+      } else if (i === 2 || i === totalPages - 1) {
+        pagHtml += `<span class="text-muted px-1">...</span>`;
+      }
+    }
+    pagHtml += `<button class="btn btn-sm btn-outline-primary" ${currentPage === totalPages ? 'disabled' : ''} onclick="window.changeAlg2Page(${currentPage + 1})">Next</button>`;
+    
+    paginationContainer.innerHTML = pagHtml;
+  }
+
+  window.changeAlg2Page = function(page) {
+    currentPage = page;
+    renderTableData();
+  };
+
+  window.filterAlg2Worksheets = function() {
+    const topicEl = document.getElementById('filter-alg2-topic');
+    const keywordEl = document.getElementById('search-alg2-keyword');
+    
+    const selectedTopic = topicEl ? (topicEl.value || '') : '';
+    const keyword = keywordEl ? (keywordEl.value || '').trim().toLowerCase() : '';
+
+    filteredItems = alg2Db.filter(item => {
+      let matchesTopic = true;
+      if (selectedTopic) {
+        matchesTopic = item.topic_id.toString() === selectedTopic;
+      }
+      
+      let matchesKeyword = true;
+      if (keyword) {
+        const titleMatch = item.title.toLowerCase().includes(keyword);
+        const topicMatch = item.topic_name.toLowerCase().includes(keyword);
+        matchesKeyword = titleMatch || topicMatch;
+      }
+
+      return matchesTopic && matchesKeyword;
+    });
+
+    currentPage = 1;
+    renderTableData();
+  };
+
+  async function initAlg2Table() {
+    const container = document.getElementById('alg2-table-container');
+    if (!container) return;
+
+    const db = await loadAlg2Db();
+    if (!db || db.length === 0) {
+      container.innerHTML = '<p><i class="bi bi-exclamation-triangle-fill" style="color: #ef4444;"></i> Error: Failed to load Algebra 2 worksheets metadata.</p>';
+      return;
+    }
+
+    filteredItems = db;
+    populateTopicDropdown();
+    currentPage = 1;
+    renderTableData();
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initAlg2Table);
+  } else {
+    initAlg2Table();
+  }
+})();
+</script>
+</div>
 <hr>
-</section>
-<section id="khung-chương-trình-chi-tiết-syllabus-core" class="level2">
-<h2 class="anchored" data-anchor-id="khung-chương-trình-chi-tiết-syllabus-core">2. Khung Chương Trình Chi Tiết (Syllabus Core)</h2>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
+<section id="official-nys-high-school-regents-examination-papers" class="level3">
+<h3 class="anchored" data-anchor-id="official-nys-high-school-regents-examination-papers">1.3 Official NYS High School Regents Examination Papers</h3>
+<p>Access official New York State (NYS) Regents High School Examination papers, scoring keys, rating guides, and model student response sets. Select exam year or search by keyword to download official PDFs.</p>
+<div class="kuta-search-container my-4 p-4 rounded-3 shadow-sm bg-body-tertiary" style="border: 1px solid rgba(0,0,0,0.08);">
+<div class="row g-3 align-items-center mb-3">
+<div class="col-md-4">
+<label for="regents-filter-year" class="form-label fw-semibold mb-1 small text-uppercase">Filter by Exam Year</label>
+<select id="regents-filter-year" class="form-select form-select-sm" onchange="selectRegentsYearDropdown()">
+<option value="">All Years</option>
+</select>
 </div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span>Các chuyên đề cốt lõi của Algebra 2:
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ol type="1">
-<li><strong>The Complex Number System (Hệ thống số phức):</strong>
-<ul>
-<li>Số ảo <span class="math inline">\(i^2 = -1\)</span>. Phép toán cộng, trừ, nhân, chia số phức dạng <span class="math inline">\(a+bi\)</span>.</li>
-</ul></li>
-<li><strong>Polynomial, Rational, and Radical Equations (Phương trình bậc cao):</strong>
-<ul>
-<li>Nghiệm phức của phương trình bậc hai, giải phương trình chứa căn thức và bất phương trình phân thức phi tuyến.</li>
-</ul></li>
-<li><strong>Exponential and Logarithmic Functions (Hàm mũ và Logarithm):</strong>
-<ul>
-<li>Các tính chất cơ bản của logarithm, đồ thị hàm logarithm, giải phương trình cơ số tự nhiên <span class="math inline">\(e\)</span> và <span class="math inline">\(\ln\)</span>.</li>
-</ul></li>
-<li><strong>Trigonometric Functions (Hàm lượng giác nâng cao):</strong>
-<ul>
-<li>Vòng tròn lượng giác (Unit Circle), số đo góc radian, đồ thị dạng sóng hình sin biến đổi.</li>
-</ul></li>
-</ol>
+<div class="col-md-8">
+<label for="regents-search-input" class="form-label fw-semibold mb-1 small text-uppercase">Search Keyword</label>
+<div class="input-group input-group-sm">
+<span class="input-group-text"><i class="bi bi-search"></i></span>
+<input type="text" id="regents-search-input" class="form-control" placeholder="Search by year, month session, or document..." onkeyup="filterRegentsExams()">
 </div>
 </div>
-<hr>
+</div>
+
+<div id="regents-table-container">
+<div class="text-center py-4 text-muted">
+<div class="spinner-border spinner-border-sm text-primary me-2" role="status"></div>
+Loading Regents examination database...
+</div>
+</div>
+</div>
+
+<script>
+(function() {
+  let regentsDb = [];
+  let regentsSelectedYear = '';
+  let regentsKeyword = '';
+  let regentsPage = 1;
+  const regentsPageSize = 10;
+  let filteredRegentsSessions = [];
+  const targetSubject = 'algebra_2';
+
+  async function loadRegentsDb() {
+    if (regentsDb.length > 0) return regentsDb;
+    try {
+      const response = await fetch('regents_metadata.json');
+      if (!response.ok) throw new Error('Network response was not ok');
+      regentsDb = await response.json();
+    } catch (error) {
+      console.error('Failed to load Regents metadata:', error);
+    }
+    return regentsDb;
+  }
+
+  function populateRegentsYearDropdown(db) {
+    const yearSelect = document.getElementById('regents-filter-year');
+    if (!yearSelect) return;
+
+    const years = new Set();
+    db.forEach(item => {
+      if (item.subject === targetSubject && item.year) {
+        years.add(item.year.toString().trim());
+      }
+    });
+
+    const sortedYears = Array.from(years).sort((a, b) => parseInt(b) - parseInt(a));
+
+    yearSelect.innerHTML = '<option value="">All Years</option>';
+    sortedYears.forEach(year => {
+      const option = document.createElement('option');
+      option.value = year;
+      option.textContent = year;
+      yearSelect.appendChild(option);
+    });
+  }
+
+  function renderRegentsTableData() {
+    const container = document.getElementById('regents-table-container');
+    if (!container) return;
+
+    if (filteredRegentsSessions.length === 0) {
+      container.innerHTML = '<p style="padding: 1rem; text-align: center; color: #9ca3af;"><i class="bi bi-info-circle"></i> No matching Regents examination papers found.</p>';
+      return;
+    }
+
+    const totalPages = Math.ceil(filteredRegentsSessions.length / regentsPageSize);
+    if (regentsPage > totalPages) regentsPage = Math.max(1, totalPages);
+
+    const start = (regentsPage - 1) * regentsPageSize;
+    const end = start + regentsPageSize;
+    const pageItems = filteredRegentsSessions.slice(start, end);
+
+    let html = `
+      <div class="table-wrapper">
+        <table class="premium-table">
+          <thead>
+            <tr>
+              <th>Year</th>
+              <th>Session / Month</th>
+              <th style="text-align: center; width: 100px;">Question Paper</th>
+              <th style="text-align: center; width: 100px;">Scoring Key</th>
+              <th style="text-align: center; width: 110px;">Model Answers</th>
+            </tr>
+          </thead>
+          <tbody>
+    `;
+
+    pageItems.forEach(session => {
+      let monthFull = session.month;
+      if (session.month === 'Jan') monthFull = 'January';
+      else if (session.month === 'Jun') monthFull = 'June';
+      else if (session.month === 'Aug') monthFull = 'August';
+
+      let qpHtml = session.qp 
+        ? `<a href="${session.qp}" target="_blank" title="Download Question Paper" class="btn btn-sm btn-primary bi bi-file-earmark-text" style="padding: 0.35rem 0.6rem; font-size: 0.85rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px;"> Exam</a>`
+        : `<span class="text-muted" style="font-size: 0.85rem;">N/A</span>`;
+
+      let skHtml = session.sk 
+        ? `<a href="${session.sk}" target="_blank" title="Download Scoring Key" class="btn btn-sm btn-success bi bi-key" style="padding: 0.35rem 0.6rem; font-size: 0.85rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px;"> Key</a>`
+        : `<span class="text-muted" style="font-size: 0.85rem;">N/A</span>`;
+
+      let mrsHtml = session.mrs 
+        ? `<a href="${session.mrs}" target="_blank" title="Download Model Response Set" class="btn btn-sm btn-info text-white bi bi-award" style="padding: 0.35rem 0.6rem; font-size: 0.85rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px;"> Model</a>`
+        : `<span class="text-muted" style="font-size: 0.85rem;">N/A</span>`;
+
+      html += `
+        <tr>
+          <td><strong>${session.year}</strong></td>
+          <td><span class="badge bg-secondary">${monthFull || 'Annual'}</span></td>
+          <td style="text-align: center;">${qpHtml}</td>
+          <td style="text-align: center;">${skHtml}</td>
+          <td style="text-align: center;">${mrsHtml}</td>
+        </tr>
+      `;
+    });
+
+    html += `
+          </tbody>
+        </table>
+      </div>
+      <div class="d-flex justify-content-center align-items-center gap-2 mt-3" id="regents-pagination-controls"></div>
+    `;
+
+    container.innerHTML = html;
+
+    const paginationContainer = document.getElementById('regents-pagination-controls');
+    if (totalPages <= 1 || !paginationContainer) return;
+
+    let pagHtml = '';
+    pagHtml += `<button class="btn btn-sm btn-outline-primary" ${regentsPage === 1 ? 'disabled' : ''} onclick="window.changeRegentsPage(${regentsPage - 1})">Prev</button>`;
+    
+    for (let i = 1; i <= totalPages; i++) {
+      if (i === regentsPage) {
+        pagHtml += `<button class="btn btn-sm btn-primary active">${i}</button>`;
+      } else {
+        if (i === 1 || i === totalPages || Math.abs(i - regentsPage) <= 1) {
+          pagHtml += `<button class="btn btn-sm btn-outline-primary" onclick="window.changeRegentsPage(${i})">${i}</button>`;
+        } else if (i === 2 || i === totalPages - 1) {
+          pagHtml += `<span class="text-muted px-1">...</span>`;
+        }
+      }
+    }
+
+    pagHtml += `<button class="btn btn-sm btn-outline-primary" ${regentsPage === totalPages ? 'disabled' : ''} onclick="window.changeRegentsPage(${regentsPage + 1})">Next</button>`;
+    
+    paginationContainer.innerHTML = pagHtml.replace(/(<span class="text-muted px-1">\.\.\.<\/span>\s*){2,}/g, '<span class="text-muted px-1">...</span>');
+  }
+
+  window.changeRegentsPage = function(page) {
+    regentsPage = page;
+    renderRegentsTableData();
+    const elem = document.getElementById('regents-table-container');
+    if (elem) elem.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  };
+
+  function applyRegentsFilters() {
+    let rawFiltered = regentsDb.filter(item => item.subject === targetSubject);
+
+    if (regentsSelectedYear) {
+      rawFiltered = rawFiltered.filter(item => item.year.toString() === regentsSelectedYear);
+    }
+    if (regentsKeyword) {
+      const kw = regentsKeyword.toLowerCase();
+      rawFiltered = rawFiltered.filter(item => 
+        item.year.toString().toLowerCase().includes(kw) ||
+        item.month.toLowerCase().includes(kw) ||
+        item.doc_type.toLowerCase().includes(kw) ||
+        item.filename.toLowerCase().includes(kw)
+      );
+    }
+
+    const sessions = {};
+    rawFiltered.forEach(item => {
+      const key = `${item.year}_${item.month}`;
+      if (!sessions[key]) {
+        sessions[key] = {
+          year: item.year,
+          month: item.month,
+          qp: null,
+          sk: null,
+          mrs: null
+        };
+      }
+      if (item.doc_type === 'question') {
+        sessions[key].qp = item.link;
+      } else if (item.doc_type === 'scoring-key') {
+        sessions[key].sk = item.link;
+      } else if (item.doc_type === 'model response set') {
+        sessions[key].mrs = item.link;
+      }
+    });
+
+    filteredRegentsSessions = Object.values(sessions);
+    filteredRegentsSessions.sort((a, b) => {
+      if (a.year !== b.year) return parseInt(b.year) - parseInt(a.year);
+      return a.month.localeCompare(b.month);
+    });
+
+    regentsPage = 1;
+    renderRegentsTableData();
+  }
+
+  window.selectRegentsYearDropdown = function() {
+    const yearSelect = document.getElementById('regents-filter-year');
+    regentsSelectedYear = yearSelect ? (yearSelect.value || '') : '';
+    applyRegentsFilters();
+  };
+
+  window.filterRegentsExams = function() {
+    const input = document.getElementById('regents-search-input');
+    regentsKeyword = input ? (input.value || '') : '';
+    applyRegentsFilters();
+  };
+
+  async function initRegentsTable() {
+    const container = document.getElementById('regents-table-container');
+    const db = await loadRegentsDb();
+    
+    if (!db || db.length === 0) {
+      if (container) container.innerHTML = '<p><i class="bi bi-exclamation-triangle-fill" style="color: #ef4444;"></i> Error: Failed to load Regents examination database. Please try again later.</p>';
+      return;
+    }
+
+    populateRegentsYearDropdown(db);
+    applyRegentsFilters();
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initRegentsTable);
+  } else {
+    initRegentsTable();
+  }
+})();
+</script>
 </section>
-<section id="ví-dụ-minh-họa-công-thức-trọng-tâm" class="level2">
-<h2 class="anchored" data-anchor-id="ví-dụ-minh-họa-công-thức-trọng-tâm">3. Ví Dụ Minh Họa &amp; Công Thức Trọng Tâm</h2>
-<p>Công thức số phức và lượng giác hiển thị sắc nét bằng LaTeX:</p>
-<section id="khái-niệm-số-phức-cơ-bản-complex-numbers" class="level3">
-<h3 class="anchored" data-anchor-id="khái-niệm-số-phức-cơ-bản-complex-numbers">Khái niệm số phức cơ bản (Complex numbers)</h3>
-<p>Mọi số phức <span class="math inline">\(z\)</span> đều có dạng đại số gồm phần thực <span class="math inline">\(a\)</span> và phần ảo <span class="math inline">\(b\)</span>: <span class="math display">\[z = a + bi \quad \text{với } i^2 = -1\]</span> <span class="math display">\[\text{Số phức liên hợp (Conjugate): } \bar{z} = a - bi\]</span></p>
 </section>
-<section id="quy-luật-logarithm-cơ-số-tự-nhiên-natural-logarithm-laws" class="level3">
-<h3 class="anchored" data-anchor-id="quy-luật-logarithm-cơ-số-tự-nhiên-natural-logarithm-laws">Quy luật Logarithm cơ số tự nhiên (Natural Logarithm laws)</h3>
-<p>Nếu cơ số là hằng số tự nhiên Euler <span class="math inline">\(e \approx 2.718\)</span>: <span class="math display">\[y = e^x \quad \Leftrightarrow \quad x = \ln y\]</span> <span class="math display">\[\ln(e^x) = x \quad \text{và} \quad e^{\ln x} = x\]</span></p>
-<hr>
-</section>
-</section>
-<section id="bẫy-điểm-số-phương-pháp-làm-bài-exam-tips" class="level2">
-<h2 class="anchored" data-anchor-id="bẫy-điểm-số-phương-pháp-làm-bài-exam-tips">4. Bẫy Điểm Số &amp; Phương Pháp Làm Bài (Exam Tips)</h2>
+<section id="recommended-algebra-2-textbooks-study-guides" class="level2">
+<h2 class="anchored" data-anchor-id="recommended-algebra-2-textbooks-study-guides">2. Recommended Algebra 2 Textbooks &amp; Study Guides</h2>
+<p><em>Access official High School Algebra 2 textbooks, workbooks, and study guides:</em></p>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Các lỗi phổ biến học sinh cần tránh ở Algebra 2:
+<span class="screen-reader-only">Tip</span>High School Mathematics Reference Library
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<ul>
-<li><strong>⚠️ Sai dấu khi nhân hai số ảo:</strong> Hãy luôn nhớ <span class="math inline">\(i^2 = -1\)</span>. Do đó: <span class="math inline">\(3i \cdot 2i = 6i^2 = -6\)</span>. Học sinh rất hay quên đổi dấu thành dấu âm.</li>
-<li><strong>⚠️ Loại bỏ nghiệm ngoại lai (Extraneous Solutions):</strong> Khi giải các phương trình chứa căn thức (<span class="math inline">\(\sqrt{f(x)} = g(x)\)</span>) hoặc phương trình chứa logarithm (<span class="math inline">\(\log(f(x)) = g(x)\)</span>), bạn bắt buộc phải kiểm tra điều kiện tập xác định và thay nghiệm ngược lại phương trình ban đầu để loại bỏ nghiệm ngoại lai vô lý.</li>
-</ul>
+<p>Explore core textbooks for advanced High School Mathematics, AP Calculus preparation, and SAT Subject Test mastery. Direct PDF download links and full textbook specifications are available in our central <a href="../../books.html">Mathematics Books Hub</a>.</p>
 </div>
-</div>
-<hr>
-</section>
-<section id="kho-đề-past-papers-theo-chuyên-đề" class="level2">
-<h2 class="anchored" data-anchor-id="kho-đề-past-papers-theo-chuyên-đề">5. Kho Đề Past Papers Theo Chuyên Đề</h2>
-<div class="program-grid">
-<section id="topic-1-complex-arithmetic" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-1-complex-arithmetic">Topic 1: Complex Arithmetic</h3>
-<ul>
-<li>Phép tính cộng, trừ, nhân, chia số phức dạng đại số <span class="math inline">\(a+bi\)</span>, số phức liên hợp.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 1 →</strong></a></li>
-</ul>
-</section>
-<section id="topic-2-radical-rational-equations" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-2-radical-rational-equations">Topic 2: Radical &amp; Rational Equations</h3>
-<ul>
-<li>Giải phương trình có chứa căn thức, phân thức đại số bậc cao và bất phương trình phi tuyến.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 2 →</strong></a></li>
-</ul>
-</section>
-<section id="topic-3-logarithmic-systems" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-3-logarithmic-systems">Topic 3: Logarithmic Systems</h3>
-<ul>
-<li>Biến đổi logarithm, giải phương trình hệ phương trình chứa hàm mũ cơ số tự nhiên <span class="math inline">\(e\)</span> và <span class="math inline">\(\ln\)</span>.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 3 →</strong></a></li>
-</ul>
-</section>
-<section id="topic-4-unit-circle-trig" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-4-unit-circle-trig">Topic 4: Unit Circle Trig</h3>
-<ul>
-<li>Vòng tròn lượng giác đơn vị, đổi góc độ sang radian, đồ thị biên độ chu kỳ hàm sin/cos.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 4 →</strong></a></li>
-</ul>
-</section>
 </div>
 
 
@@ -1096,15 +1435,15 @@ window.Quarto = {
     }
   });
   </script>
-<nav class="page-navigation">
+<nav class="page-navigation column-body">
   <div class="nav-page nav-page-previous">
       <a href="../../math/common-core/geometry.html" class="pagination-link" aria-label="Common Core Geometry">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Common Core Geometry</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../../math/common-core/pre-calculus.html" class="pagination-link" aria-label="Common Core Pre-Calculus">
-        <span class="nav-page-text">Common Core Pre-Calculus</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../../math/common-core/pre-calculus.html" class="pagination-link" aria-label="Common Core Pre-Calculus &amp; Calculus Foundations">
+        <span class="nav-page-text">Common Core Pre-Calculus &amp; Calculus Foundations</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -1112,10 +1451,10 @@ window.Quarto = {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Copyright © 2026 Dr.&nbsp;Kiem Nguyen</p>
+<p>Copyright © 2026 Dr.&nbsp;Kiem Nguyen. All rights reserved.</p>
 </div>   
     <div class="nav-footer-center">
-<p><a href="../../index.html">Home</a> | <a href="../../math/ib/index.html">Mathematics</a> | <a href="../../chem/ib/index.html">Chemistry</a></p>
+<p><a href="../../index.html">Home</a> | <a href="../../math/ib/index.html">Mathematics</a> | <a href="../../chem/ib/index.html">Chemistry</a> | <a href="../../test_bank.html">Test Bank</a> | <a href="../../books.html">Books</a> | <a href="../../news.html">News &amp; Updates</a> | <a href="../../about.html">About</a></p>
 </div>
     <div class="nav-footer-right">
 <p><a href="mailto:khackiemnguyen@gmail.com" class="text-white me-3" style="text-decoration: none;" title="Email"><i class="bi bi-envelope-fill"></i></a> <a href="tel:0815113114" class="text-white me-3" style="text-decoration: none;" title="Gọi điện"><i class="bi bi-telephone-fill"></i></a> <a href="https://zalo.me/0815113114" target="_blank" class="text-white me-3" style="text-decoration: none;" title="Zalo"><i class="bi bi-chat-dots-fill"></i> Zalo</a> <a href="https://wa.me/84815113114" target="_blank" class="text-white me-3" style="text-decoration: none;" title="WhatsApp"><i class="bi bi-whatsapp"></i></a> <a href="https://line.me/ti/p/~141173314" target="_blank" class="text-white me-3" style="text-decoration: none;" title="Line"><i class="bi bi-line"></i></a> <a href="https://t.me/+84815113114" target="_blank" class="text-white me-3" style="text-decoration: none;" title="Telegram"><i class="bi bi-telegram"></i></a> <a href="https://www.facebook.com/share/1EX9cfmDD3/" target="_blank" class="text-white" style="text-decoration: none;" title="Fanpage"><i class="bi bi-facebook"></i></a></p>

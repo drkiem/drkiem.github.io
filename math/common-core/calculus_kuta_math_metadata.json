@@ -1,0 +1,554 @@
+[
+  {
+    "grade": "Calculus",
+    "topic_id": 1,
+    "topic_name": "Limits",
+    "file_name": "01 - Limits at Essential Discontinuities.pdf",
+    "title": "Limits at Essential Discontinuities",
+    "google_drive_link": "https://drive.google.com/file/d/1Vr93FZ9xhFzzbb4aZUPW9AQYWScykT4E/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 1,
+    "topic_name": "Limits",
+    "file_name": "01 - Limits at Infinity.pdf",
+    "title": "Limits at Infinity",
+    "google_drive_link": "https://drive.google.com/file/d/19O8InFYYdCU0A3sqeuGZzaXJJ846YH-y/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 1,
+    "topic_name": "Limits",
+    "file_name": "01 - Limits at Jump Discontinuities and Kinks.pdf",
+    "title": "Limits at Jump Discontinuities and Kinks",
+    "google_drive_link": "https://drive.google.com/file/d/1e_EGeKgPxLhwZfj1oSNdHEdDq2pv9FSB/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 1,
+    "topic_name": "Limits",
+    "file_name": "01 - Limits at Removable Discontinuities Trig.pdf",
+    "title": "Limits at Removable Discontinuities Trig",
+    "google_drive_link": "https://drive.google.com/file/d/1btgcSOxzGLnPYeoku4Op-QMAkzy43nJB/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 1,
+    "topic_name": "Limits",
+    "file_name": "01 - Limits at Removable Discontinuities.pdf",
+    "title": "Limits at Removable Discontinuities",
+    "google_drive_link": "https://drive.google.com/file/d/1DoRTxjGgIAiZqXOOqXTYNpuCIM4ZPWG6/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 1,
+    "topic_name": "Limits",
+    "file_name": "01 - Limits by Direct Evaluation.pdf",
+    "title": "Limits by Direct Evaluation",
+    "google_drive_link": "https://drive.google.com/file/d/1oxjAD7qcBye9BGJ0tZxW49rv9YhFLOgM/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 2,
+    "topic_name": "Continuity",
+    "file_name": "02 - Continuity.pdf",
+    "title": "Continuity",
+    "google_drive_link": "https://drive.google.com/file/d/1OopA-n1eGAjuy3WYyrnZbOmC94buN79E/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 3,
+    "topic_name": "Differentiation",
+    "file_name": "03 - Average Rates of Change.pdf",
+    "title": "Average Rates of Change",
+    "google_drive_link": "https://drive.google.com/file/d/174Vtsz2Xv0xHHJR1uF7Y8htq7MDoIGwJ/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 3,
+    "topic_name": "Differentiation",
+    "file_name": "03 - Chain Rule with Inverse Trig.pdf",
+    "title": "Chain Rule with Inverse Trig",
+    "google_drive_link": "https://drive.google.com/file/d/1cgp42WScugZrkvEyogZngwb7pjfjdo6x/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 3,
+    "topic_name": "Differentiation",
+    "file_name": "03 - Chain Rule with Logs Exponentials.pdf",
+    "title": "Chain Rule with Logs Exponentials",
+    "google_drive_link": "https://drive.google.com/file/d/1dV1NE2yEQZQwxjxW5ezeJydpzilttAVE/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 3,
+    "topic_name": "Differentiation",
+    "file_name": "03 - Chain Rule with Natural Logs Exps.pdf",
+    "title": "Chain Rule with Natural Logs Exps",
+    "google_drive_link": "https://drive.google.com/file/d/1L3eQYzfkb0eocF5cpfh1hgnKWGtGtUm1/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 3,
+    "topic_name": "Differentiation",
+    "file_name": "03 - Chain Rule with Trig.pdf",
+    "title": "Chain Rule with Trig",
+    "google_drive_link": "https://drive.google.com/file/d/1SKlfiO2JzOfGbJ0S4kV1CUfwamqCxBle/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 3,
+    "topic_name": "Differentiation",
+    "file_name": "03 - Chain Rule.pdf",
+    "title": "Chain Rule",
+    "google_drive_link": "https://drive.google.com/file/d/1o6tIxE8FQmBc2el83-KtFLhfBsYLe1_e/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 3,
+    "topic_name": "Differentiation",
+    "file_name": "03 - Definition of the Derivative.pdf",
+    "title": "Definition of the Derivative",
+    "google_drive_link": "https://drive.google.com/file/d/1k-DmlbXtbwcnIKdisJ3xUGYeSYyph65-/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 3,
+    "topic_name": "Differentiation",
+    "file_name": "03 - Derivatives of Inverse Functions.pdf",
+    "title": "Derivatives of Inverse Functions",
+    "google_drive_link": "https://drive.google.com/file/d/1NVnFzdfimuWQpQ0WRustO-Ennd9zjUYS/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 3,
+    "topic_name": "Differentiation",
+    "file_name": "03 - Differentiation Rules with Tables.pdf",
+    "title": "Differentiation Rules with Tables",
+    "google_drive_link": "https://drive.google.com/file/d/1p-AM6kcMvfbuPfrUhlL53bC8xRF61muO/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 3,
+    "topic_name": "Differentiation",
+    "file_name": "03 - Higher Order Derivatives.pdf",
+    "title": "Higher Order Derivatives",
+    "google_drive_link": "https://drive.google.com/file/d/1J5izM5HRkUZgJbP3TZbJzKS2XnFmVXde/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 3,
+    "topic_name": "Differentiation",
+    "file_name": "03 - Implicit Differentiation.pdf",
+    "title": "Implicit Differentiation",
+    "google_drive_link": "https://drive.google.com/file/d/10l1wFNAQmT0qQEdxjqXfW2cf77lxqWHX/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 3,
+    "topic_name": "Differentiation",
+    "file_name": "03 - Instantaneous Rates of Change.pdf",
+    "title": "Instantaneous Rates of Change",
+    "google_drive_link": "https://drive.google.com/file/d/14DY90eJ-bdbtnhMvtY3jWLebyYm45Wu3/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 3,
+    "topic_name": "Differentiation",
+    "file_name": "03 - Logarithmic Differentiation.pdf",
+    "title": "Logarithmic Differentiation",
+    "google_drive_link": "https://drive.google.com/file/d/1hb1JXV55Bcnmz2UacxyD-uVB_Dfu7a3G/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 3,
+    "topic_name": "Differentiation",
+    "file_name": "03 - Power Constant and Sum Rules.pdf",
+    "title": "Power Constant and Sum Rules",
+    "google_drive_link": "https://drive.google.com/file/d/162Utq5C4IxG7RUzfuC71bPOwpyOLEmRs/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 3,
+    "topic_name": "Differentiation",
+    "file_name": "03 - Product Rule.pdf",
+    "title": "Product Rule",
+    "google_drive_link": "https://drive.google.com/file/d/1oR-zNHGsn8L7PamDjRzLMI635KXEYruu/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 3,
+    "topic_name": "Differentiation",
+    "file_name": "03 - Quotient Rule.pdf",
+    "title": "Quotient Rule",
+    "google_drive_link": "https://drive.google.com/file/d/1Xpe4YDT_sTPIvcko1TIuxhva1UXGa1dq/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 4,
+    "topic_name": "Applications of Differentiation",
+    "file_name": "04 - Absolute Extrema.pdf",
+    "title": "Absolute Extrema",
+    "google_drive_link": "https://drive.google.com/file/d/1EoYxqF4KvGvgbsjuaECtLjKR-jrSsTgO/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 4,
+    "topic_name": "Applications of Differentiation",
+    "file_name": "04 - Comparing Function and Derivs.pdf",
+    "title": "Comparing Function and Derivs",
+    "google_drive_link": "https://drive.google.com/file/d/1SrdDB7V9eyMKdk3BsY5STj2PQKTye7jO/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 4,
+    "topic_name": "Applications of Differentiation",
+    "file_name": "04 - Curve Sketching.pdf",
+    "title": "Curve Sketching",
+    "google_drive_link": "https://drive.google.com/file/d/1qSsE0Zvi6jYusPuYpN4BNSNMa1LN0931/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 4,
+    "topic_name": "Applications of Differentiation",
+    "file_name": "04 - Derivative at a Value.pdf",
+    "title": "Derivative at a Value",
+    "google_drive_link": "https://drive.google.com/file/d/15vlpvWUHNySHVbEqBuD6DFyIu0EsZrDV/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 4,
+    "topic_name": "Applications of Differentiation",
+    "file_name": "04 - Differentials.pdf",
+    "title": "Differentials",
+    "google_drive_link": "https://drive.google.com/file/d/1SQcH-GAoNWpV_8rBDV9QVWrj_Dfbr1M6/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 4,
+    "topic_name": "Applications of Differentiation",
+    "file_name": "04 - Horizontal Tangents.pdf",
+    "title": "Horizontal Tangents",
+    "google_drive_link": "https://drive.google.com/file/d/16JA_pB9ZffHYBoDCmUzxX_OqrZTOiE5G/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 4,
+    "topic_name": "Applications of Differentiation",
+    "file_name": "04 - Intervals of Concavity.pdf",
+    "title": "Intervals of Concavity",
+    "google_drive_link": "https://drive.google.com/file/d/1BhxiwdlkO11BCQVEkZtXHZWTSDVEoaFC/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 4,
+    "topic_name": "Applications of Differentiation",
+    "file_name": "04 - Intervals of Increase and Decrease.pdf",
+    "title": "Intervals of Increase and Decrease",
+    "google_drive_link": "https://drive.google.com/file/d/1L7rA9R6PvOk2bVHDWUZYBIb8GkWpiYm5/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 4,
+    "topic_name": "Applications of Differentiation",
+    "file_name": "04 - LHopitals Rule.pdf",
+    "title": "LHopitals Rule",
+    "google_drive_link": "https://drive.google.com/file/d/1_XbGDQKfsAUwwy7I0GSLAIbHatRPiuJ8/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 4,
+    "topic_name": "Applications of Differentiation",
+    "file_name": "04 - Limits in Form of Definition of Derivative.pdf",
+    "title": "Limits in Form of Definition of Derivative",
+    "google_drive_link": "https://drive.google.com/file/d/1UmZToQZut1qA_1lZuCAaKlPSnuokDHfy/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 4,
+    "topic_name": "Applications of Differentiation",
+    "file_name": "04 - Mean Value Theorem.pdf",
+    "title": "Mean Value Theorem",
+    "google_drive_link": "https://drive.google.com/file/d/1xIKE4rAlehAbcMNHOBoDn-0D1U5Sz-81/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 4,
+    "topic_name": "Applications of Differentiation",
+    "file_name": "04 - Motion Along a Line.pdf",
+    "title": "Motion Along a Line",
+    "google_drive_link": "https://drive.google.com/file/d/1KsPJgYQVjKCniydqC4bDM4EdMW9two2F/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 4,
+    "topic_name": "Applications of Differentiation",
+    "file_name": "04 - Newtons Method.pdf",
+    "title": "Newtons Method",
+    "google_drive_link": "https://drive.google.com/file/d/1m5C-ANIgXvEZ7_CcCOPLtyGxRy0dEu2p/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 4,
+    "topic_name": "Applications of Differentiation",
+    "file_name": "04 - Normal Lines.pdf",
+    "title": "Normal Lines",
+    "google_drive_link": "https://drive.google.com/file/d/1EKRYPXhTUnOrmMKEWlZGpTG1JH2rsdvs/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 4,
+    "topic_name": "Applications of Differentiation",
+    "file_name": "04 - Optimization.pdf",
+    "title": "Optimization",
+    "google_drive_link": "https://drive.google.com/file/d/1IPH5DBep0fP1qJtxt1I00IFYxGeBhu-V/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 4,
+    "topic_name": "Applications of Differentiation",
+    "file_name": "04 - Related Rates.pdf",
+    "title": "Related Rates",
+    "google_drive_link": "https://drive.google.com/file/d/16Z9oA6gTFJT9S1RBw70h134_CIyznFKC/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 4,
+    "topic_name": "Applications of Differentiation",
+    "file_name": "04 - Relative Extrema.pdf",
+    "title": "Relative Extrema",
+    "google_drive_link": "https://drive.google.com/file/d/1XIzjd3OSdaHvaBJXmAp6D5JdC7zYscqI/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 4,
+    "topic_name": "Applications of Differentiation",
+    "file_name": "04 - Rolles Theorem.pdf",
+    "title": "Rolles Theorem",
+    "google_drive_link": "https://drive.google.com/file/d/1cUoGEOjk6ZRQMbqeLTA65_RxwPxki81I/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 4,
+    "topic_name": "Applications of Differentiation",
+    "file_name": "04 - Slope at a Value.pdf",
+    "title": "Slope at a Value",
+    "google_drive_link": "https://drive.google.com/file/d/1iE9kGqnJ-UiYDA33hi5Ud0joIrzblHGB/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 4,
+    "topic_name": "Applications of Differentiation",
+    "file_name": "04 - Tangent Lines.pdf",
+    "title": "Tangent Lines",
+    "google_drive_link": "https://drive.google.com/file/d/1rNAG_eHLAyd3qhkwxLMnwTCKF65oqse8/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 5,
+    "topic_name": "Integration",
+    "file_name": "05 - Integration Inverse Trig.pdf",
+    "title": "Integration Inverse Trig",
+    "google_drive_link": "https://drive.google.com/file/d/1jx7BSTuDUGAKfngxXd8apypo4FeVVnXl/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 5,
+    "topic_name": "Integration",
+    "file_name": "05 - Integration Log Rule and Exponentials.pdf",
+    "title": "Integration Log Rule and Exponentials",
+    "google_drive_link": "https://drive.google.com/file/d/1eBW3khxhS_n4MPGFEGLMclac9YqVqcEk/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 5,
+    "topic_name": "Integration",
+    "file_name": "05 - Integration Power Rule.pdf",
+    "title": "Integration Power Rule",
+    "google_drive_link": "https://drive.google.com/file/d/1tSNQ0ZuSsJrM0iYx0Y6C7jMaHDtl8_DG/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 5,
+    "topic_name": "Integration",
+    "file_name": "05 - Integration Substitution Inv Trig.pdf",
+    "title": "Integration Substitution Inv Trig",
+    "google_drive_link": "https://drive.google.com/file/d/1N9jES-sM5x-44jWclis02n89rSaHLdhi/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 5,
+    "topic_name": "Integration",
+    "file_name": "05 - Integration Substitution Log Exp.pdf",
+    "title": "Integration Substitution Log Exp",
+    "google_drive_link": "https://drive.google.com/file/d/1GrO6KbFGKl6IfzZtCvOcR_rr1wHPLwX-/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 5,
+    "topic_name": "Integration",
+    "file_name": "05 - Integration Substitution Power Rule.pdf",
+    "title": "Integration Substitution Power Rule",
+    "google_drive_link": "https://drive.google.com/file/d/1CGignemRTIC5Sjh0lms6a_N4uVgWk2gs/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 5,
+    "topic_name": "Integration",
+    "file_name": "05 - Integration Substitution Trig.pdf",
+    "title": "Integration Substitution Trig",
+    "google_drive_link": "https://drive.google.com/file/d/1NWQLljG3PMzZR3BD_5n85iE2MhodJyrV/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 5,
+    "topic_name": "Integration",
+    "file_name": "05 - Integration Trig.pdf",
+    "title": "Integration Trig",
+    "google_drive_link": "https://drive.google.com/file/d/1CCg_0XkDsW5eJ9w9QcI14H3LLdEzuhkL/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 5,
+    "topic_name": "Integration",
+    "file_name": "05 - Integration by Parts.pdf",
+    "title": "Integration by Parts",
+    "google_drive_link": "https://drive.google.com/file/d/1-p2Tb8U8r-6rbZsXGFG6sCEwHz9jYmg8/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 6,
+    "topic_name": "Definite Integrals",
+    "file_name": "06 - Approximating Area Under Curve.pdf",
+    "title": "Approximating Area Under Curve",
+    "google_drive_link": "https://drive.google.com/file/d/1oJQbw4vSpBW2vJlRvv_2mozf4XRXVFdj/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 6,
+    "topic_name": "Definite Integrals",
+    "file_name": "06 - Area Under a Curve Using Limits.pdf",
+    "title": "Area Under a Curve Using Limits",
+    "google_drive_link": "https://drive.google.com/file/d/1-QDd5mz2BMLjhzGE1b8kKhiQtC60Nw59/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 6,
+    "topic_name": "Definite Integrals",
+    "file_name": "06 - First Fundamental Theorem.pdf",
+    "title": "First Fundamental Theorem",
+    "google_drive_link": "https://drive.google.com/file/d/1WKJJBcVo-9RVsA0DjrZzTRE1KSSczV6d/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 6,
+    "topic_name": "Definite Integrals",
+    "file_name": "06 - Mean Value Theorem for Integrals.pdf",
+    "title": "Mean Value Theorem for Integrals",
+    "google_drive_link": "https://drive.google.com/file/d/1-jpfQiGKo-Sb2b1SbvmqBCIHnnhMSKFc/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 6,
+    "topic_name": "Definite Integrals",
+    "file_name": "06 - Riemann Sum Tables.pdf",
+    "title": "Riemann Sum Tables",
+    "google_drive_link": "https://drive.google.com/file/d/14hStV8cMUfDNMXTfr7cWLKDeuPYvbd1K/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 6,
+    "topic_name": "Definite Integrals",
+    "file_name": "06 - Second Fundamental Theorem.pdf",
+    "title": "Second Fundamental Theorem",
+    "google_drive_link": "https://drive.google.com/file/d/1DjQ8mRUVk1s2868832S2ogfxkLX5kkbR/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 6,
+    "topic_name": "Definite Integrals",
+    "file_name": "06 - Substitution for Definite Integrals.pdf",
+    "title": "Substitution for Definite Integrals",
+    "google_drive_link": "https://drive.google.com/file/d/1T5cPLMiH-P_Rem1F_ZCWWxShbN_igKfV/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 7,
+    "topic_name": "Applications of Definite Integrals",
+    "file_name": "07 - Area Between Curves.pdf",
+    "title": "Area Between Curves",
+    "google_drive_link": "https://drive.google.com/file/d/1VB0ZYbjTQB4h3YMB5_T0xwnqY4EYsvwb/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 7,
+    "topic_name": "Applications of Definite Integrals",
+    "file_name": "07 - Area Under a Curve.pdf",
+    "title": "Area Under a Curve",
+    "google_drive_link": "https://drive.google.com/file/d/1DBF9xgxUVGgKSUYOo3vYJB9yKJMbrKwc/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 7,
+    "topic_name": "Applications of Definite Integrals",
+    "file_name": "07 - Motion Along a Line Revisited.pdf",
+    "title": "Motion Along a Line Revisited",
+    "google_drive_link": "https://drive.google.com/file/d/1nrAzreVqZ0CxCW5IZvg9Ci7LLruFWoVS/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 7,
+    "topic_name": "Applications of Definite Integrals",
+    "file_name": "07 - Volume Cylinders.pdf",
+    "title": "Volume Cylinders",
+    "google_drive_link": "https://drive.google.com/file/d/1Kxw9lVszn0TWnIBhRL-IybjC2PxGg2QR/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 7,
+    "topic_name": "Applications of Definite Integrals",
+    "file_name": "07 - Volume Known Cross Sections.pdf",
+    "title": "Volume Known Cross Sections",
+    "google_drive_link": "https://drive.google.com/file/d/1bzGklHEizVlT-4T3hXEN4P_ZrRgZZgvf/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 7,
+    "topic_name": "Applications of Definite Integrals",
+    "file_name": "07 - Volume Washers and Disks.pdf",
+    "title": "Volume Washers and Disks",
+    "google_drive_link": "https://drive.google.com/file/d/17H3-OrxobGIkGctd8jbvafjXji80Ixu_/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 8,
+    "topic_name": "Differential Equations",
+    "file_name": "08 - Exponential Growth and Decay.pdf",
+    "title": "Exponential Growth and Decay",
+    "google_drive_link": "https://drive.google.com/file/d/1rIoX8WbJK1xy672HMhsHl6jfCVvTL49G/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 8,
+    "topic_name": "Differential Equations",
+    "file_name": "08 - Intro Differential Equations.pdf",
+    "title": "Intro Differential Equations",
+    "google_drive_link": "https://drive.google.com/file/d/1RqP3RCmEa_Wj6PMq3y9zGHyvEAgTuUme/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 8,
+    "topic_name": "Differential Equations",
+    "file_name": "08 - Separable Differential Equations.pdf",
+    "title": "Separable Differential Equations",
+    "google_drive_link": "https://drive.google.com/file/d/1V08C8Um5TFK34ED-EAzCU7tgMbXd8IXa/view?usp=sharing"
+  },
+  {
+    "grade": "Calculus",
+    "topic_id": 8,
+    "topic_name": "Differential Equations",
+    "file_name": "08 - Slope Fields.pdf",
+    "title": "Slope Fields",
+    "google_drive_link": "https://drive.google.com/file/d/1WH9-6WwS2gpvr8lptDkYxUGp8wjjt3yD/view?usp=sharing"
+  }
+]

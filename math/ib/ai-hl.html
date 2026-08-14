@@ -420,6 +420,10 @@ gtag('config', 'G-Y5KN25P14N', { 'anonymize_ip': true});
 <span class="menu-text">Books</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../../news.html"> 
+<span class="menu-text">News &amp; Updates</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
@@ -2710,7 +2714,8 @@ let currentSelectedPaper = '';
 let currentPage = 1;
 const pageSize = 10;
 let filteredExams = [];
-const currentLevel = 'ai_hl';
+const targetVariant = 'ai';
+const targetLevel = 'hl';
 
 async function loadPastPapersDb() {
   if (pastPapersDb.length > 0) return pastPapersDb;
@@ -2724,13 +2729,13 @@ async function loadPastPapersDb() {
   return pastPapersDb;
 }
 
-function populateYearDropdown(db, level) {
+function populateYearDropdown(db, variant, level) {
   const yearSelect = document.getElementById('filter-year');
   if (!yearSelect) return;
 
   const years = new Set();
   db.forEach(item => {
-    if (item.level === level && item.year) {
+    if (item.course_variant === variant && item.level === level && item.year) {
       years.add(item.year.toString().trim());
     }
   });
@@ -2791,7 +2796,6 @@ function renderTableData() {
   });
   tableBody.innerHTML = html;
 
-  // Render pagination controls
   if (totalPages <= 1) {
     paginationContainer.innerHTML = '';
     return;
@@ -2823,8 +2827,8 @@ function changePage(page) {
   document.getElementById('past-papers-table-container').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
 }
 
-function applyFilters(level) {
-  let filtered = pastPapersDb.filter(item => item.level === level);
+function applyFilters(variant, level) {
+  let filtered = pastPapersDb.filter(item => item.course_variant === variant && item.level === level);
 
   if (currentSelectedYear) {
     filtered = filtered.filter(item => item.year.toString() === currentSelectedYear);
@@ -2856,7 +2860,7 @@ function applyFilters(level) {
   filteredExams = Object.values(exams);
   filteredExams.sort((a, b) => {
     if (a.year !== b.year) return parseInt(b.year) - parseInt(a.year);
-    if (a.season !== b.season) return b.season.localeCompare(a.season); // 'winter' > 'summer'
+    if (a.season !== b.season) return b.season.localeCompare(a.season);
     if (a.timezone !== b.timezone) return a.timezone.localeCompare(b.timezone);
     return a.paper.localeCompare(b.paper);
   });
@@ -2896,7 +2900,7 @@ function applyFilters(level) {
 function selectYearDropdown() {
   const yearSelect = document.getElementById('filter-year');
   currentSelectedYear = yearSelect.value || '';
-  applyFilters(currentLevel);
+  applyFilters(targetVariant, targetLevel);
 }
 
 function selectPaper(button) {
@@ -2910,7 +2914,7 @@ function selectPaper(button) {
   button.classList.remove('btn-outline-secondary');
   button.classList.add('btn-primary', 'active');
 
-  applyFilters(currentLevel);
+  applyFilters(targetVariant, targetLevel);
 }
 
 async function initPastPapersTable() {
@@ -2922,13 +2926,15 @@ async function initPastPapersTable() {
     return;
   }
 
-  populateYearDropdown(db, currentLevel);
-  applyFilters(currentLevel);
+  populateYearDropdown(db, targetVariant, targetLevel);
+  applyFilters(targetVariant, targetLevel);
 }
 
-document.addEventListener('DOMContentLoaded', () => {
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initPastPapersTable);
+} else {
   initPastPapersTable();
-});
+}
 </script>
 </section>
 
@@ -3365,10 +3371,10 @@ document.addEventListener('DOMContentLoaded', () => {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Copyright © 2026 Dr.&nbsp;Kiem Nguyen</p>
+<p>Copyright © 2026 Dr.&nbsp;Kiem Nguyen. All rights reserved.</p>
 </div>   
     <div class="nav-footer-center">
-<p><a href="../../index.html">Home</a> | <a href="../../math/ib/index.html">Mathematics</a> | <a href="../../chem/ib/index.html">Chemistry</a></p>
+<p><a href="../../index.html">Home</a> | <a href="../../math/ib/index.html">Mathematics</a> | <a href="../../chem/ib/index.html">Chemistry</a> | <a href="../../test_bank.html">Test Bank</a> | <a href="../../books.html">Books</a> | <a href="../../news.html">News &amp; Updates</a> | <a href="../../about.html">About</a></p>
 </div>
     <div class="nav-footer-right">
 <p><a href="mailto:khackiemnguyen@gmail.com" class="text-white me-3" style="text-decoration: none;" title="Email"><i class="bi bi-envelope-fill"></i></a> <a href="tel:0815113114" class="text-white me-3" style="text-decoration: none;" title="Gọi điện"><i class="bi bi-telephone-fill"></i></a> <a href="https://zalo.me/0815113114" target="_blank" class="text-white me-3" style="text-decoration: none;" title="Zalo"><i class="bi bi-chat-dots-fill"></i> Zalo</a> <a href="https://wa.me/84815113114" target="_blank" class="text-white me-3" style="text-decoration: none;" title="WhatsApp"><i class="bi bi-whatsapp"></i></a> <a href="https://line.me/ti/p/~141173314" target="_blank" class="text-white me-3" style="text-decoration: none;" title="Line"><i class="bi bi-line"></i></a> <a href="https://t.me/+84815113114" target="_blank" class="text-white me-3" style="text-decoration: none;" title="Telegram"><i class="bi bi-telegram"></i></a> <a href="https://www.facebook.com/share/1EX9cfmDD3/" target="_blank" class="text-white" style="text-decoration: none;" title="Fanpage"><i class="bi bi-facebook"></i></a></p>

@@ -11413,114 +11413,50 @@ $$\frac{dy}{dx} + P(x)y = Q(x)$$
 # Common Core Algebra 1
 Path: math/common-core/algebra1.html
 
-## Tài nguyên tự học: Common Core Algebra 1
-Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức Đại số 1 cơ bản, ví dụ minh họa công thức LaTeX sắc nét, bài tập tự luyện và ngân hàng câu hỏi củng cố. Đây là nền tảng đại số cốt lõi nhất bắt buộc phải nắm vững cho mọi môn học toán học tiếp theo.
+## High School Mathematics Study Guidance: Common Core Algebra 1
+Welcome to the **Common Core Algebra 1** study portal! Algebra 1 is the essential gateway course in High School Mathematics designed under the **Common Core State Standards (CCSS)**. It establishes critical mathematical thinking by transitioning from concrete arithmetic to abstract algebraic reasoning. 
 
-## 1. Giới Thiệu Chương Trình
+Below you will find our curated collection of **96 topic-specific practice worksheets** covering 14 core algebraic units—including linear equations, inequalities, quadratic functions, polynomials, radical expressions, and statistical data analysis. Use the interactive practice bank and reference textbooks to strengthen your problem-solving skills and prepare for high school end-of-course exams, Regents, SAT, and AP Mathematics.
 
-Algebra 1 là học phần đại số đầu tiên bậc High School của hệ thống giáo dục Mỹ (Common Core State Standards). Môn học tập trung phát triển tư duy chuyển dịch từ số học cụ thể sang đại số biến số trừu tượng, giải quyết các phương trình tuyến tính và phi tuyến cơ bản.
+## 1. Algebra 1 Practice Questions & Worksheets by Topic
 
----
-
-## 2. Khung Chương Trình Chi Tiết (Syllabus Core)
-
-### Các chuyên đề cốt lõi của Algebra 1:
-1. **Linear Equations and Inequalities (Phương trình & Bất phương trình tuyến tính):**
-   * Giải phương trình 1 ẩn, hệ phương trình tuyến tính 2 ẩn bằng phương pháp thế hoặc cộng đại số.
-   * Giải và biểu diễn tập nghiệm bất phương trình tuyến tính trên trục số.
-2. **Linear Functions and Graphs (Hàm số tuyến tính):**
-   * Hệ số góc (slope) $m = \frac{y_2-y_1}{x_2-x_1}$. Viết phương trình đường thẳng dạng $y=mx+b$ hoặc dạng tiêu chuẩn.
-3. **Quadratic Functions (Hàm số bậc hai):**
-   * Biến đổi đa thức bậc hai dạng khai triển sang dạng nhân tử (factoring) và dạng bình phương hoàn chỉnh.
-   * Sử dụng công thức nghiệm bậc hai (quadratic formula) để tìm nghiệm.
-4. **Exponents and Exponential Functions (Hàm số mũ cơ bản):**
-   * Các quy luật mũ nguyên, vẽ đồ thị hàm số mũ cơ bản tăng trưởng/suy giảm.
+*Select a specific topic from the dropdown menu or type keywords to search through 96 printable practice worksheets with answers:*
 
 ---
 
-## 3. Ví Dụ Minh Họa & Công Thức Trọng Tâm
+### 1.3 Official NYS High School Regents Examination Papers
 
-Công thức đại số hiển thị sắc nét bằng LaTeX:
+Access official New York State (NYS) Regents High School Examination papers, scoring keys, rating guides, and model student response sets. Select exam year or search by keyword to download official PDFs.
 
-### Công thức nghiệm phương trình bậc hai (Quadratic Formula)
-Nghiệm của phương trình bậc hai tổng quát $ax^2 + bx + c = 0$ ($a \neq 0$):
-$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+## 2. Recommended Algebra 1 Textbooks & Study Guides
 
-### Hệ số góc của đường thẳng (Slope formula)
-Hệ số góc $m$ của đường thẳng đi qua hai điểm $A(x_1, y_1)$ và $B(x_2, y_2)$:
-$$m = \frac{y_2 - y_1}{x_2 - x_1}$$
+*Access official High School Algebra 1 textbooks, practice workbooks, and comprehensive reference materials:*
 
----
-
-## 4. Bẫy Điểm Số & Phương Pháp Làm Bài (Exam Tips)
-
-### Các lỗi phổ biến học sinh cần tránh ở Algebra 1:
-* **⚠️ Đảo chiều bất đẳng thức khi nhân/chia số âm:** Đây là lỗi kinh điển nhất của học sinh. Khi nhân hoặc chia cả hai vế của một bất đẳng thức với một **số âm**, ta bắt buộc phải **đảo ngược chiều** của bất đẳng thức (ví dụ: $-2x  -3$).
-* **⚠️ Rút gọn đa thức sai quy tắc phân phối:** Hãy cẩn thận khi nhân phá ngoặc có dấu trừ phía trước, ví dụ: $-(x - 3) = -x + 3$.
-
----
-
-## 5. Kho Đề Past Papers Theo Chuyên Đề
-
-### Topic 1: Linear Systems
-* Giải hệ phương trình tuyến tính hai ẩn, bất phương trình và biểu diễn trục số.
-* [**Tải đề luyện chuyên đề 1 →**](#){.btn-gateway}
-
-### Topic 2: Slope & Linear Graphs
-* Tính hệ số góc đường thẳng, viết phương trình đường thẳng và vẽ đồ thị.
-* [**Tải đề luyện chuyên đề 2 →**](#){.btn-gateway}
-
-### Topic 3: Quadratic Factoring
-* Phương pháp phân tích nhân tử bậc hai, giải phương trình bậc hai bằng công thức nghiệm.
-* [**Tải đề luyện chuyên đề 3 →**](#){.btn-gateway}
-
-### Topic 4: Exponents Laws
-* Rút gọn biểu thức chứa lũy thừa mũ nguyên dương/âm và giải phương trình mũ cơ bản.
-* [**Tải đề luyện chuyên đề 4 →**](#){.btn-gateway}
-
-## 6. Algebra 1 Books
-
-Access core textbooks, workbooks, and practice guides for Common Core Algebra 1 below:
-
-1,001 Algebra I Practice Problems For Dummies
-Author: Mary Jane Sterling
-Publisher: For Dummies (John Wiley & Sons)
-Year: 2013
+Algebra 1: Common Core (Student Edition)
+Author: Randall I. Charles, Basia Hall, Dan Kennedy
+Publisher: Pearson
+Year: 2015
 
    Download Book
 
-Algebra I Workbook For Dummies (2nd Edition)
+Algebra I Workbook For Dummies (3rd Edition)
 Author: Mary Jane Sterling
 Publisher: John Wiley & Sons
-Year: 2011
+Year: 2017
 
    Download Book
 
-Elementary Algebra (9th Edition)
-Author: Charles P. McKeague
-Publisher: Brooks/Cole Cengage Learning
+Practice Makes Perfect: Algebra
+Author: Carolyn Wheater
+Publisher: McGraw-Hill
 Year: 2010
 
    Download Book
 
-Basic Math & Pre-Algebra All-in-One For Dummies
-Author: Mark Zegarelli
-Publisher: John Wiley & Sons
-Year: 2022
-
-   Download Book
-
-CliffsNotes Basic Math and Pre-Algebra Quick Review
-Author: Jerry Bobrow
-Publisher: Wiley Publishing
-Year: 2001
-
-   Download Book
-
-CliffsNotes Algebra I Quick Review (2nd Edition)
-Author: Jerry Bobrow, Edward Kohn
-Publisher: John Wiley & Sons
-Year: 2011
+Algebra 1: Concepts and Skills (Student Edition)
+Author: Ron Larson, Laurie Boswell, Timothy D. Kanold, Lee Stiff
+Publisher: McDougal Littell
+Year: 2010
 
    Download Book
 
@@ -11538,34 +11474,6 @@ Year: 2007
 
    Download Book
 
-Algebra I Workbook For Dummies (3rd Edition)
-Author: Mary Jane Sterling
-Publisher: John Wiley & Sons
-Year: 2017
-
-   Download Book
-
-Algebra 1: Concepts and Skills (Student Edition)
-Author: Ron Larson, Laurie Boswell, Timothy D. Kanold, Lee Stiff
-Publisher: McDougal Littell
-Year: 2010
-
-   Download Book
-
-Algebra 1: Concepts and Skills (Student Edition)
-Author: Ron Larson, Laurie Boswell, Timothy D. Kanold, Lee Stiff
-Publisher: McDougal Littell
-Year: 2004
-
-   Download Book
-
-Express Review Guides: Algebra I
-Author: LearningExpress Editors
-Publisher: LearningExpress
-Year: 2007
-
-   Download Book
-
 Beginning and Intermediate Algebra (5th Edition)
 Author: Margaret L. Lial, John Hornsby, Terry McGinnis
 Publisher: Pearson Addison-Wesley
@@ -11573,31 +11481,10 @@ Year: 2012
 
    Download Book
 
-Beginning & Intermediate Algebra (5th Edition, Custom Edition for Los Angeles Mission College)
+Beginning & Intermediate Algebra (5th Edition, Custom Edition)
 Author: Elayn Martin-Gay
 Publisher: Pearson
 Year: 2013
-
-   Download Book
-
-Practice Makes Perfect: Algebra
-Author: Carolyn Wheater
-Publisher: McGraw-Hill
-Year: 2010
-
-   Download Book
-
-Algebra 1: Common Core (Student Edition)
-Author: Randall I. Charles, Basia Hall, Dan Kennedy
-Publisher: Pearson
-Year: 2015
-
-   Download Book
-
-Algebra 1 (Student Edition)
-Author: Ron Larson, Laurie Boswell, Timothy D. Kanold, Lee Stiff
-Publisher: McDougal Littell
-Year: 2004
 
    Download Book
 
@@ -11606,146 +11493,54 @@ Year: 2004
 # Common Core Algebra 2
 Path: math/common-core/algebra2.html
 
-## Tài nguyên tự học: Common Core Algebra 2
-Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức Đại số 2 nâng cao, ví dụ minh họa bằng công thức mũ, số phức và logarithm bằng LaTeX sắc nét cùng ngân hàng bài tập tự luyện chọn lọc.
+## High School Mathematics Study Guidance: Common Core Algebra 2
+Welcome to the **Common Core Algebra 2** study portal! Algebra 2 builds upon foundational concepts from Algebra 1 and Geometry under the **Common Core State Standards (CCSS)**. It establishes advanced algebraic fluency indispensable for Pre-Calculus, AP Calculus, SAT Subject Tests, and university STEM majors.
 
-## 1. Giới Thiệu Chương Trình
+Below you will find our curated collection of **131 topic-specific practice worksheets** covering 16 core Algebra 2 units—including complex numbers, systems of equations, matrix operations, logarithmic & exponential functions, polynomial factoring, conic sections, sequences & series, and trigonometry. Use the interactive practice bank and reference textbooks to strengthen your advanced algebraic problem-solving skills.
 
-Algebra 2 mở rộng sâu sắc các khái niệm của Algebra 1, đưa học sinh tiếp cận với hệ số ảo và số phức (complex numbers), khảo sát các đa thức bậc cao, phương trình phi tuyến phức tạp và giới thiệu sâu về hàm mũ & hàm logarithm.
+## 1. Algebra 2 Practice Questions & Worksheets by Topic
 
----
-
-## 2. Khung Chương Trình Chi Tiết (Syllabus Core)
-
-### Các chuyên đề cốt lõi của Algebra 2:
-1. **The Complex Number System (Hệ thống số phức):**
-   * Số ảo $i^2 = -1$. Phép toán cộng, trừ, nhân, chia số phức dạng $a+bi$.
-2. **Polynomial, Rational, and Radical Equations (Phương trình bậc cao):**
-   * Nghiệm phức của phương trình bậc hai, giải phương trình chứa căn thức và bất phương trình phân thức phi tuyến.
-3. **Exponential and Logarithmic Functions (Hàm mũ và Logarithm):**
-   * Các tính chất cơ bản của logarithm, đồ thị hàm logarithm, giải phương trình cơ số tự nhiên $e$ và $\ln$.
-4. **Trigonometric Functions (Hàm lượng giác nâng cao):**
-   * Vòng tròn lượng giác (Unit Circle), số đo góc radian, đồ thị dạng sóng hình sin biến đổi.
+*Select a specific topic unit or type keywords to search through 131 printable practice worksheets with step-by-step solutions:*
 
 ---
 
-## 3. Ví Dụ Minh Họa & Công Thức Trọng Tâm
+### 1.3 Official NYS High School Regents Examination Papers
 
-Công thức số phức và lượng giác hiển thị sắc nét bằng LaTeX:
+Access official New York State (NYS) Regents High School Examination papers, scoring keys, rating guides, and model student response sets. Select exam year or search by keyword to download official PDFs.
 
-### Khái niệm số phức cơ bản (Complex numbers)
-Mọi số phức $z$ đều có dạng đại số gồm phần thực $a$ và phần ảo $b$:
-$$z = a + bi \quad \text{với } i^2 = -1$$
-$$\text{Số phức liên hợp (Conjugate): } \bar{z} = a - bi$$
+## 2. Recommended Algebra 2 Textbooks & Study Guides
 
-### Quy luật Logarithm cơ số tự nhiên (Natural Logarithm laws)
-Nếu cơ số là hằng số tự nhiên Euler $e \approx 2.718$:
-$$y = e^x \quad \Leftrightarrow \quad x = \ln y$$
-$$\ln(e^x) = x \quad \text{và} \quad e^{\ln x} = x$$
+*Access official High School Algebra 2 textbooks, workbooks, and study guides:*
 
----
-
-## 4. Bẫy Điểm Số & Phương Pháp Làm Bài (Exam Tips)
-
-### Các lỗi phổ biến học sinh cần tránh ở Algebra 2:
-* **⚠️ Sai dấu khi nhân hai số ảo:** Hãy luôn nhớ $i^2 = -1$. Do đó: $3i \cdot 2i = 6i^2 = -6$. Học sinh rất hay quên đổi dấu thành dấu âm.
-* **⚠️ Loại bỏ nghiệm ngoại lai (Extraneous Solutions):** Khi giải các phương trình chứa căn thức ($\sqrt{f(x)} = g(x)$) hoặc phương trình chứa logarithm ($\log(f(x)) = g(x)$), bạn bắt buộc phải kiểm tra điều kiện tập xác định và thay nghiệm ngược lại phương trình ban đầu để loại bỏ nghiệm ngoại lai vô lý.
-
----
-
-## 5. Kho Đề Past Papers Theo Chuyên Đề
-
-### Topic 1: Complex Arithmetic
-* Phép tính cộng, trừ, nhân, chia số phức dạng đại số $a+bi$, số phức liên hợp.
-* [**Tải đề luyện chuyên đề 1 →**](#){.btn-gateway}
-
-### Topic 2: Radical & Rational Equations
-* Giải phương trình có chứa căn thức, phân thức đại số bậc cao và bất phương trình phi tuyến.
-* [**Tải đề luyện chuyên đề 2 →**](#){.btn-gateway}
-
-### Topic 3: Logarithmic Systems
-* Biến đổi logarithm, giải phương trình hệ phương trình chứa hàm mũ cơ số tự nhiên $e$ và $\ln$.
-* [**Tải đề luyện chuyên đề 3 →**](#){.btn-gateway}
-
-### Topic 4: Unit Circle Trig
-* Vòng tròn lượng giác đơn vị, đổi góc độ sang radian, đồ thị biên độ chu kỳ hàm sin/cos.
-* [**Tải đề luyện chuyên đề 4 →**](#){.btn-gateway}
+### High School Mathematics Reference Library
+Explore core textbooks for advanced High School Mathematics, AP Calculus preparation, and SAT Subject Test mastery. Direct PDF download links and full textbook specifications are available in our central [Mathematics Books Hub](../../books.qmd).
 
 ================================================================================
 
 # Common Core Geometry
 Path: math/common-core/geometry.html
 
-## Tài nguyên tự học: Common Core Geometry
-Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức hình học phẳng và không gian, các công thức lượng giác lượng hóa và thể tích hiển thị bằng LaTeX sắc nét cùng các bài giải mẫu chứng minh hình học.
+## High School Mathematics Study Guidance: Common Core Geometry
+Welcome to the **Common Core Geometry** study portal! Geometry is a cornerstone of US High School Mathematics aligned with the **Common Core State Standards (CCSS)**. It bridges spatial reasoning, geometric proofs, coordinate geometry, right-triangle trigonometry, and 3D measurement.
 
-## 1. Giới Thiệu Chương Trình
+Below you will find our curated collection of **97 topic-specific practice worksheets** covering 14 essential units—including geometric proofs, parallel line transversals, triangle congruence, similarity, circles, surface area & volume, transformations, and geometric constructions. Use the interactive practice search engine and reference textbooks to strengthen your geometric proof techniques and prepare for high school end-of-course assessments, Regents, SAT, and AP Mathematics.
 
-Geometry là học phần hình học cốt lõi bậc trung học Mỹ. Môn học rèn luyện tư duy lập luận logic chặt chẽ thông qua các bài toán chứng minh tam giác bằng nhau/đồng dạng, tọa độ hình học phẳng, lượng giác cơ bản và tính toán thể tích/diện tích các khối hình 3D.
+## 1. Geometry Practice Questions & Worksheets by Topic
 
----
-
-## 2. Khung Chương Trình Chi Tiết (Syllabus Core)
-
-### Các chuyên đề cốt lõi của Common Core Geometry:
-1. **Congruence and Similarity (Bằng nhau & Đồng dạng):**
-   * Chứng minh tam giác bằng nhau bằng các trường hợp SSS, SAS, ASA, AAS, HL.
-   * Định lý tỉ lệ tam giác đồng dạng, định lý Thales.
-2. **Right Triangles and Trigonometry (Tam giác vuông & Lượng giác):**
-   * Lượng giác góc nhọn SOH-CAH-TOA, định lý Pythagoras.
-   * Tính chất tam giác đặc biệt: Tam giác vuông cân ($45^{\circ}-45^{\circ}-90^{\circ}$) và tam giác nửa đều ($30^{\circ}-60^{\circ}-90^{\circ}$).
-3. **Circles (Đường tròn):**
-   * Các tính chất góc nội tiếp, dây cung, tiếp tuyến đường tròn. Độ dài cung và diện tích hình quạt.
-4. **Geometric Measurement and Dimension (Đo lường hình học 3D):**
-   * Tính diện tích xung quanh, thể tích các khối hình: hình lăng trụ, hình trụ, hình chóp, hình nón, hình cầu.
+*Select a specific topic unit from the dropdown menu or type keywords to search through 97 printable geometry worksheets with answers:*
 
 ---
 
-## 3. Ví Dụ Minh Họa & Công Thức Trọng Tâm
+### 1.3 Official NYS High School Regents Examination Papers
 
-Công thức hình học và lượng giác hiển thị sắc nét bằng LaTeX:
+Access official New York State (NYS) Regents High School Examination papers, scoring keys, rating guides, and model student response sets. Select exam year or search by keyword to download official PDFs.
 
-### Hệ thức lượng giác trong tam giác vuông (SOH-CAH-TOA)
-$$\sin\theta = \frac{\text{Opposite}}{\text{Hypotenuse}} \quad \cos\theta = \frac{\text{Adjacent}}{\text{Hypotenuse}} \quad \tan\theta = \frac{\text{Opposite}}{\text{Adjacent}}$$
+## 2. Recommended Geometry Textbooks & Study Guides
 
-### Thể tích hình nón tròn xoay (Volume of a Cone)
-Thể tích khối nón có bán kính đáy $r$ và chiều cao tương ứng $h$:
-$$V = \frac{1}{3}\pi r^2 h$$
-
----
-
-## 4. Bẫy Điểm Số & Phương Pháp Làm Bài (Exam Tips)
-
-### Các lỗi phổ biến học sinh cần tránh ở môn Geometry:
-* **⚠️ Viết sai thứ tự đỉnh đồng dạng:** Khi viết kết luận hai tam giác đồng dạng hoặc bằng nhau, bạn bắt buộc phải viết đúng thứ tự đỉnh tương ứng (ví dụ: $\Delta ABC \sim \Delta DEF$). Viết sai thứ tự đỉnh tương ứng sẽ bị coi là sai lập luận hình học.
-* **⚠️ Nhầm lẫn công thức diện tích xung quanh và thể tích:** Hãy đọc kỹ đề bài yêu cầu tìm Volume (Thể tích) hay Surface Area (Diện tích bề mặt) để áp dụng đúng công thức.
-
----
-
-## 5. Kho Đề Past Papers Theo Chuyên Đề
-
-### Topic 1: Triangle Proofs
-* Luyện giải các bài toán viết lập luận chứng minh tam giác bằng nhau, tam giác đồng dạng.
-* [**Tải đề luyện chuyên đề 1 →**](#){.btn-gateway}
-
-### Topic 2: Trigonometry Special Triangles
-* Các bài toán tam giác vuông lượng giác, tam giác đặc biệt $30-60-90$ và định lý Pythagoras.
-* [**Tải đề luyện chuyên đề 2 →**](#){.btn-gateway}
-
-### Topic 3: Circle Geometry
-* Tính diện tích hình quạt tròn, độ dài cung, góc nội tiếp và tiếp tuyến cắt đường tròn.
-* [**Tải đề luyện chuyên đề 3 →**](#){.btn-gateway}
-
-### Topic 4: 3D Solid Mensuration
-* Tính toán thể tích và diện tích bề mặt của hình nón, hình cầu, lăng trụ và khối chóp ghép.
-* [**Tải đề luyện chuyên đề 4 →**](#){.btn-gateway}
-
-## 6. Geometry Books
-
-Access core textbooks and practice guides for Common Core Geometry below:
+*Access official High School Geometry textbooks, practice workbooks, and comprehensive reference materials:*
 
 California Geometry: Concepts, Skills, and Problem Solving
-Author: Cindy J. Boyd, Jerry Cummins, Carol E. Malloy, John A. Carter, Alfinio Flores
+Author: Cindy J. Boyd, Jerry Cummins, Carol E. Malloy
 Publisher: Glencoe/McGraw-Hill
 Year: 2008
 
@@ -11780,7 +11575,7 @@ Year: 2007
    Download Book
 
 Holt California Geometry
-Author: Edward B. Burger, David J. Chard, Paul A. Kennedy, Steven J. Leinwand
+Author: Edward B. Burger, David J. Chard, Paul A. Kennedy
 Publisher: Holt, Rinehart and Winston
 Year: 2008
 
@@ -12158,7 +11953,9 @@ Year: 2008
 
 ## 3. Practice Questions
 
-*Access topic-focused practice workbooks modeled after the MathMatters series for Grades 6, 7, and 8 middle school mathematics:*
+*Access topic-focused practice workbooks modeled after the MathMatters series and Kuta Math topic worksheets for Grades 6, 7, and 8 middle school mathematics:*
+
+### 3.1 MathMatters Series Practice Worksheets
 
 ## MathMatters 1
 
@@ -12467,6 +12264,14 @@ Year: 2008
 |  | 14.4 | Experiment with the Sine Function |  Open PDF |
 |  | 14.5 | Graphing Trigonometric Functions |  Open PDF |
 
+---
+
+### 3.2 Kuta Math Topic Worksheets
+
+*Select Grade Level (Grade 6 or Pre-Algebra / Grade 8), choose a specific topic, or search keywords to access 182 printable practice worksheets:*
+
+---
+
 ## 4. Regents Past Papers
 
 *Search and filter official New York Regents state exam papers. Use the control panel below to filter by exam year and middle school grade level:*
@@ -12710,237 +12515,34 @@ Year: 2012
 
 ================================================================================
 
-# Common Core Pre-Calculus
+# Common Core Pre-Calculus & Calculus Foundations
 Path: math/common-core/pre-calculus.html
 
-## Tài nguyên tự học: Common Core Pre-Calculus
-Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức Tiền Giải Tích, ví dụ minh họa bằng công thức giới hạn và lượng giác bằng LaTeX sắc nét cùng các bài giải mẫu chuẩn bị cho kỳ thi AP Calculus.
+## High School Mathematics Study Guidance: Pre-Calculus & Calculus Foundations
+Welcome to the **Common Core Pre-Calculus & Calculus Foundations** portal! Pre-Calculus serves as the critical bridge connecting advanced algebra and geometry with university-level AP Calculus (AB/BC) and STEM higher education.
 
-## 1. Giới Thiệu Chương Trình
+Below you will find **162 curated printable practice worksheets** organized into two dedicated tabs:
+- **Pre-Calculus Worksheets**: 93 topic-focused worksheets across 14 units (functions, trigonometry, vectors, polar coordinates, matrices, conic sections, combinatorics, and series).
+- **Calculus Worksheets**: 69 topic-focused worksheets across 8 units (limits, continuity, differentiation, applications of derivatives, integration, definite integrals, differential equations).
 
-Pre-Calculus là học phần nâng cao bậc High School hệ Mỹ. Đây là môn học bắc cầu quan trọng nhất chuẩn bị cho học sinh lên học các chương trình giải tích nâng cao của College Board như AP Calculus AB/BC.
+## 1. Practice Questions & Worksheets by Topic
 
----
+## Pre-Calculus Worksheets
 
-## 2. Khung Chương Trình Chi Tiết (Syllabus Core)
+*Select a specific Pre-Calculus topic unit or search keywords to access 93 printable practice worksheets:*
 
-### Các chuyên đề cốt lõi của Pre-Calculus:
-1. **Trigonometric Identities (Lượng giác nâng cao):**
-   * Công thức cộng góc, nhân đôi, lượng giác ngược ($\arcsin, \arccos, \arctan$).
-2. **Vectors & Polar Coordinates (Vector & Tọa độ cực):**
-   * Biểu diễn điểm và đường cong cực dạng $r=f(\theta)$, tích vô hướng vector phẳng.
-3. **Sequences & Series (Chuỗi số & Cấp số):**
-   * Giới hạn chuỗi vô hạn hội tụ, tổng Riemann giới thiệu tích phân.
-4. **Limits & Intro to Derivatives (Giới hạn & Đạo hàm):**
-   * Định nghĩa và cách tính giới hạn hàm số (Limits), đạo hàm bằng định nghĩa gia tăng.
+## Calculus Worksheets
+
+*Select a specific Calculus topic unit or search keywords to access 69 printable practice worksheets:*
 
 ---
 
-## 3. Ví Dụ Minh Họa & Công Thức Trọng Tâm
+## 2. Recommended Pre-Calculus & Calculus Textbooks
 
-Công thức giới hạn lượng giác hiển thị sắc nét bằng LaTeX:
+*Access official High School Pre-Calculus and AP Calculus textbooks, workbooks, and study guides:*
 
-### Định nghĩa giới hạn của Đạo hàm hàm số
-Gia tốc tốc độ thay đổi tức thời của hàm số $y=f(x)$ tại điểm $x$:
-$$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
-
-### Biến đổi tọa độ Descartes sang Tọa độ cực (Polar conversion)
-Mối liên hệ giữa tọa độ cực $(r, \theta)$ và tọa độ Descartes $(x, y)$:
-$$x = r\cos\theta \quad \text{và} \quad y = r\sin\theta$$
-$$r^2 = x^2 + y^2 \quad \text{và} \quad \theta = \arctan\left(\frac{y}{x}\right)$$
-
----
-
-## 4. Bẫy Điểm Số & Phương Pháp Làm Bài (Exam Tips)
-
-### Các lưu ý tránh mất điểm ở Pre-Calculus:
-* **⚠️ Điều kiện chia cho không khi tính giới hạn:** Khi tính giới hạn dạng vô định $\frac{0}{0}$ hoặc $\frac{\infty}{\infty}$, hãy luôn nhớ sử dụng các kỹ thuật đại số để triệt tiêu nhân tử vô định ở mẫu số (như phân tích nhân tử hoặc nhân liên hợp) trước khi thay giá trị trực tiếp vào.
-* **⚠️ Góc argument trong tọa độ cực:** Tương tự số phức, hãy vẽ hình để xác định chính xác góc $\theta$ nằm ở góc phần tư tương ứng, tránh việc phụ thuộc hoàn toàn vào máy tính bỏ túi.
-
----
-
-## 5. Kho Đề Past Papers Theo Chuyên Đề
-
-### Topic 1: Advanced Trigonometry
-* Chứng minh đẳng thức lượng giác, giải phương trình lượng giác nâng cao góc nhân đôi nhân ba.
-* [**Tải đề luyện chuyên đề 1 →**](#){.btn-gateway}
-
-### Topic 2: Polar Curves
-* Vẽ đồ thị hàm số đường cực, chuyển đổi tọa độ cực sang tọa độ phẳng Oxy và ngược lại.
-* [**Tải đề luyện chuyên đề 2 →**](#){.btn-gateway}
-
-### Topic 3: Infinite Series Limits
-* Tổng chuỗi vô hạn cấp số nhân hội tụ, tìm giới hạn vô cực hàm số đa thức.
-* [**Tải đề luyện chuyên đề 3 →**](#){.btn-gateway}
-
-### Topic 4: Limit Calculations
-* Giải các bài toán tìm giới hạn dạng vô định, giới thiệu đạo hàm bằng định nghĩa gia tăng.
-* [**Tải đề luyện chuyên đề 4 →**](#){.btn-gateway}
-
-## 6. Pre-Calculus Books
-
-Access core textbooks, practice books, and study guides for the Common Core Pre-Calculus curriculum. Select any book to view or download:
-
-Precalculus: Functions and Graphs (4th Edition)
-Author: Mark Dugopolski
-Publisher: Pearson
-Year: 2012
-
-   Download Book
-
-Precalculus Practice Problems, Methods, and Solutions
-Author: Mehdi Rahmani-Andebili
-Publisher: Springer
-Year: 2021
-
-   Download Book
-
-Must Know High School Pre-Calculus
-Author: Christopher True
-Publisher: McGraw-Hill Education
-Year: 2020
-
-   Download Book
-
-Pre-Calculus Workbook For Dummies (2nd Edition)
-Author: Yang Kuang, Michelle Rose Gilman
-Publisher: Wiley
-Year: 2011
-
-   Download Book
-
-Pre-Calculus All-in-One For Dummies
-Author: Mary Jane Sterling
-Publisher: Wiley
-Year: 2023
-
-   Download Book
-
-Pre-Calculus: 1,001 Practice Problems For Dummies
-Author: Mary Jane Sterling
-Publisher: Wiley
-Year: 2014
-
-   Download Book
-
-Precalculus Practice Problems, Methods, and Solutions
-Author: Mehdi Rahmani-Andebili
-Publisher: Springer
-Year: 2024
-
-   Download Book
-
-Precalculus (2nd Edition)
-Author: Cynthia Y. Young
-Publisher: Wiley
-Year: 2011
-
-   Download Book
-
-Precalculus
-Author: Thomas W. Hungerford
-Publisher: Holt, Rinehart and Winston
-Year: 2006
-
-   Download Book
-
-Precalculus (7th Edition)
-Author: Ron Larson, Robert Hostetler
-Publisher: Houghton Mifflin Company
-Year: 2007
-
-   Download Book
-
-Pre-Calculus 12
-Author: Bruce McAskill, Wayne Watt, Eric Balzarini, Blaise Johnson, Ron Kennedy, Terry Melnyk, Chris Zarski
-Publisher: McGraw-Hill Ryerson
-Year: 2012
-
-   Download Book
-
-Precalculus: Graphical, Numerical, Algebraic (8th Edition)
-Author: Franklin D. Demana, Bert K. Waits, Gregory D. Foley, Daniel Kennedy
-Publisher: Pearson
-Year: 2011
-
-   Download Book
-
-Precalculus: Mathematics for Calculus (7th Edition)
-Author: James Stewart, Lothar Redlin, Saleem Watson
-Publisher: Cengage Learning
-Year: 2016
-
-   Download Book
-
-Precalculus (10th Edition)
-Author: Michael Sullivan
-Publisher: Pearson
-Year: 2016
-
-   Download Book
-
-Precalculus: Graphical, Numerical, Algebraic (10th Edition Global Edition)
-Author: Franklin D. Demana, Bert K. Waits, Gregory D. Foley, Daniel Kennedy, David E. Bock
-Publisher: Pearson
-Year: 2023
-
-   Download Book
-
-Precalculus (10th Edition Global Edition)
-Author: Michael Sullivan
-Publisher: Pearson
-Year: 2016
-
-   Download Book
-
-Precalculus with Applications
-Author: Berchie Holliday, Gilbert J. Cuevas, Beatrice McClure, John A. Carter, Daniel Marks
-Publisher: Glencoe/McGraw-Hill
-Year: 2005
-
-   Download Book
-
-Precalculus
-Author: Jay Abramson
-Publisher: OpenStax (Rice University)
-Year: 2014
-
-   Download Book
-
-Precalculus: Graphical, Numerical, Algebraic (10th Edition Global Edition)
-Author: Franklin D. Demana, Bert K. Waits, Gregory D. Foley, Daniel Kennedy, David E. Bock
-Publisher: Pearson
-Year: 2023
-
-   Download Book
-
-McGraw-Hill's 500 College Precalculus Questions
-Author: Sandra McCune, William Clark
-Publisher: McGraw-Hill Education
-Year: 2012
-
-   Download Book
-
-Schaum's Outline of Precalculus (4th Edition)
-Author: Fred Safier
-Publisher: McGraw-Hill Education
-Year: 2019
-
-   Download Book
-
-Precalculus: A Prelude to Calculus
-Author: Sheldon Axler
-Publisher: Wiley
-Year: 2012
-
-   Download Book
-
-Algebra & Trigonometry
-Author: Sheldon Axler
-Publisher: Wiley
-Year: 2012
-
-   Download Book
+### High School & AP Mathematics Reference Library
+Explore core textbooks for advanced High School Mathematics, AP Calculus (AB/BC) preparation, and SAT Subject Test mastery. Direct PDF download links and full textbook specifications are available in our central [Mathematics Books Hub](../../books.qmd).
 
 ================================================================================
 
@@ -21991,6 +21593,777 @@ Publisher: The Princeton Review
 Year: 2022
 
    Download Book
+
+================================================================================
+
+# News & Updates
+Path: news.html
+
+## Welcome to NKK-Education Hub News & Portal Updates
+Stay up to date with the latest exam paper uploads, curriculum mapping changes, study resources, and announcement notes for IB, A-Level, IGCSE, SAT, and AP programs.
+
+================================================================================
+
+# Cập nhật hệ thống đề thi IB Chemistry & IB Mathematics 2025 (Winter Update)
+Path: posts/2026-08-09-ib-past-papers-update/index.html
+
+## Thông báo cập nhật dữ liệu quan trọng
+Hệ thống **NKK-Education Hub** vừa hoàn thành đợt đồng bộ và cập nhật lớn cho toàn bộ kho tài liệu past papers chương trình **IB Diploma (Chemistry & Mathematics)**. Bộ đề thi mới nhất kỳ **Winter 2025** đã được tích hợp đầy đủ cùng hệ thống tra cứu tương tác thông minh.
+
+## 📊 Thống kê chi tiết kho đề thi IB
+
+### 🧪 1. IB Chemistry Past Papers Bank
+Hiện tại, trang [IB Chemistry Overview](../../chem/ib/index.qmd) đã lưu trữ tổng cộng **546 tệp** đề thi (QP) và đáp án (MS) chính thức:
+
+* **Higher Level (HL)**: **270 tệp**
+* **Standard Level (SL)**: **276 tệp**
+* **Cập nhật mới nhất**: Bổ sung **186 tệp QP và MS** cho cả 2 hệ HL & SL trong đợt cập nhật vừa qua.
+
+---
+
+### 📐 2. IB Mathematics Past Papers Bank
+Hệ thống tra cứu tại [IB Mathematics Overview](../../math/ib/index.qmd) hiện lưu trữ tổng cộng **1,099 tệp** đề thi và đáp án:
+
+#### 🔹 Chương trình hiện hành (Syllabus 2021+): **354 tệp**
+* **Analysis & Approaches (AA) HL**: **106 tệp**
+* **Analysis & Approaches (AA) SL**: **76 tệp**
+* **Applications & Interpretation (AI) HL**: **96 tệp**
+* **Applications & Interpretation (AI) SL**: **76 tệp**
+*(Trong đó vừa bổ sung và chuẩn hóa **34 tệp mới** thuộc kỳ thi **2025 Winter** cho cả 4 phân môn).*
+
+#### 🔹 Chương trình Legacy (Syllabus trước 2021): **745 tệp**
+* Bao gồm đầy đủ các môn: *Math HL, Math SL, Math Studies, Further Math HL/SL* cùng các môn chuyên đề HL Options (Calculus, Statistics, Discrete Math, Sets & Groups).
+
+---
+
+## 🎯 Hướng dẫn tra cứu đề thi trên Website
+
+Học sinh và giáo viên có thể tra cứu và tải về các bộ đề thi hoàn toàn miễn phí thông qua công cụ tìm kiếm trực quan:
+1. Truy cập trang **[IB Chemistry Overview](../../chem/ib/index.qmd)** hoặc **[IB Mathematics Overview](../../math/ib/index.qmd)**.
+2. Sử dụng bộ lọc thông minh theo **Năm (Year)**, **Cấp độ (Pathway/Level)**, và **Tờ đề (Paper 1, Paper 2, Paper 3)**.
+3. Nhấp trực tiếp vào biểu tượng **QP (Question Paper)** hoặc **MS (Mark Scheme)** để mở và tải file từ Google Drive.
+
+Chúc các em học sinh ôn luyện hiệu quả và đạt kết quả cao nhất trong các kỳ thi IB sắp tới!
+
+================================================================================
+
+# IB Mathematics (AA & AI) Study Guide for International School Students in District 2
+Path: posts/2026-08-10-ib-math-guide-district-2/index.html
+
+## 📍 Dedicated Academic Support in Thao Dien, District 2
+This study guide is designed to assist students from international schools in District 2, Ho Chi Minh City — including **British International School (BIS)**, **International School Ho Chi Minh City (ISHCMC)**, **Australian International School (AIS)**, and **European International School (EIS)**. 
+
+To help students build confidence and master the curriculum, **NKK-Education Hub** provides structured access to **1,099 IB Mathematics past exam files**, topical test banks, and reference textbooks curated by **Dr. Kiem Nguyen**.
+
+---
+
+## 🎯 Understanding the IB Mathematics Pathways: Analysis & Approaches (AA) vs. Applications & Interpretation (AI)
+
+Selecting the right mathematics pathway and level (Higher Level vs. Standard Level) is an essential step in preparing for university admissions:
+
+| Pathway | Level | Primary Academic Focus | Recommended University Majors |
+|---|---|---|---|
+| **IB Math AA** | **HL** | Analytical proofs, rigorous calculus, algebraic structures | Engineering, Physics, Computer Science, Mathematics |
+| **IB Math AA** | **SL** | Core algebra, functions, introduction to calculus | Medicine, Biochemistry, Environmental Science, Architecture |
+| **IB Math AI** | **HL** | Advanced statistics, mathematical modeling, matrices, graph theory | Data Science, Economics, Finance, Business Analytics |
+| **IB Math AI** | **SL** | Practical statistics, function modeling, probability distributions | Psychology, Humanities, Social Sciences, General Business |
+
+---
+
+## 📐 Essential Topics & Mathematical Concepts
+
+### 1. Proof by Mathematical Induction (IB Math AA HL)
+Proof by induction requires a clear three-step structure: establishing the base step ($n=1$), stating the inductive hypothesis ($n=k$), and completing the inductive step ($n=k+1$):
+
+\[
+\text{Prove that } P(n): \sum_{i=1}^{n} i^3 = \left[\frac{n(n+1)}{2}\right]^2 \text{ holds for all } n \in \mathbb{Z}^+
+\]
+
+### 2. Complex Numbers in Euler and Polar Form (IB Math AA HL)
+Expressing complex numbers in exponential form simplifies multiplication, division, and applying De Moivre's Theorem:
+
+\[
+z = r(\cos\theta + i\sin\theta) = r e^{i\theta} \implies z^n = r^n e^{in\theta}
+\]
+
+### 3. Differential Equations (IB Math AA/AI HL)
+Solving first-order linear differential equations by integrating factors or separation of variables:
+
+\[
+\frac{dy}{dx} + P(x)y = Q(x)
+\]
+
+### 4. Hypothesis Testing & Chi-Squared Tests (IB Math AI HL/SL)
+Utilizing Graphic Display Calculators (GDC like Casio fx-CG50 or TI-Nspire CX II) to evaluate test statistics, degrees of freedom, and $p$-values against significance levels ($\alpha = 0.05$).
+
+### 5. The Binomial Theorem (IB Math AA SL/HL)
+Expanding expressions of the form $(a + b)^n$ using combination notation:
+
+\[
+(a + b)^n = \sum_{k=0}^{n} \binom{n}{k} a^{n-k} b^k
+\]
+
+---
+
+## 📊 Accessing IB Mathematics Past Papers & Test Banks
+
+Students are welcome to explore and download study materials directly from our portal:
+
+1. **Curriculum Overview**: Visit **[IB Mathematics Overview](../../math/ib/index.qmd)** for topic breakdowns and syllabus guidance.
+2. **Topical Test Banks**: 
+   * Practice structured questions at **[IB Math AA HL Test Bank](../../test_bank/ib_math_aa_hl.qmd)**.
+   * Access statistics and modeling packs at **[IB Math AI HL Test Bank](../../test_bank/ib_math_ai_hl.qmd)**.
+3. **Reference Textbooks**: Browse official coursebooks from Haese, Hodder, and Oxford at **[Reference Books](../../books.qmd)**.
+
+---
+
+## 👨‍🏫 Academic Mentorship with Dr. Kiem Nguyen in Thao Dien, District 2
+
+With 20 years of academic experience and over 15 years mentoring international school students, **Dr. Kiem Nguyen** offers structured guidance tailored to each student's learning pace:
+
+* Developing effective Graphic Display Calculator (GDC) techniques for Paper 2 and Paper 3.
+* Clarifying mark scheme expectations for Paper 1 (Non-Calculator) and Paper 2 (Calculator).
+* Providing constructive feedback on IB Mathematics Internal Assessments (IA).
+* Flexible learning options: In-person sessions in **Thao Dien, District 2** or online 1-on-1 tutorials.
+
+---
+
+## 📞 Contact Information & Academic Inquiries
+
+If you have any questions regarding IB Mathematics support or course planning in District 2 (Thao Dien, An Phu):
+
+* **Location**: Thao Dien Ward, District 2, Thu Duc City, HCMC
+* **Phone / Zalo**: [0815 113 114](https://zalo.me/0815113114)
+* **WhatsApp**: [+84 815 113 114](https://wa.me/84815113114)
+* **Email**: [khackiemnguyen@gmail.com](mailto:khackiemnguyen@gmail.com)
+* **Instructor Profile**: Read more at **[About Dr. Kiem Nguyen](../../about.qmd)**.
+
+================================================================================
+
+# IB Chemistry (HL & SL) Study Guide & Syllabus Breakdown for International Students in District 2
+Path: posts/2026-08-13-ib-chem-guide-district-2/index.html
+
+## 🧪 IB Chemistry Academic Support in Thao Dien, District 2
+This study guide is tailored for students pursuing the **IB Diploma Program (IB DP)** at international schools in District 2, Ho Chi Minh City — such as **British International School (BIS)**, **International School Ho Chi Minh City (ISHCMC)**, and **European International School (EIS)**.
+
+To help students build a solid conceptual foundation, **NKK-Education Hub** offers organized access to **546 IB Chemistry past paper files**, topical revision worksheets, and reference guides curated by **Dr. Kiem Nguyen**.
+
+---
+
+## 🔬 Understanding the New IB Chemistry Curriculum Framework (2025+)
+
+The current IB Chemistry syllabus organizes physical, inorganic, and organic chemistry into two interconnected themes: **Structure** and **Reactivity**.
+
+### 1. Theme: Structure
+* **Structure 1: Models of the particulate nature of matter** (Kinetic molecular theory, gas laws).
+* **Structure 2: Atomic structure** (Mass spectrometry, electron configurations, emission spectra).
+* **Structure 3: Counting particles by mass - The mole concept** (Stoichiometry, limiting reactants, molar volume).
+* **Structure 4: Periodicity & Bonding** (VSEPR theory, intermolecular forces, metallic and ionic lattices).
+
+### 2. Theme: Reactivity
+* **Reactivity 1: What drives chemical reactions?** (Thermodynamics, enthalpy changes $\Delta H$, entropy $\Delta S$, Gibbs free energy $\Delta G$).
+* **Reactivity 2: How fast do chemical reactions go?** (Kinetics, rate equations, reaction mechanisms, $S_N1$ vs. $S_N2$).
+* **Reactivity 3: How far do chemical reactions go?** (Equilibrium constants $K_c$, Le Chatelier's principle, electrochemical cells $E^\theta$).
+
+---
+
+## ⚗️ Key Chemical Concepts & Mathematical Formulas
+
+### 1. Gibbs Free Energy & Spontaneity ($\Delta G^\theta$)
+
+\[
+\Delta G^\theta = \Delta H^\theta - T\Delta S^\theta
+\]
+
+A reaction is thermodynamically spontaneous when $\Delta G^\theta < 0$. Remember to convert $\Delta S^\theta$ from $\text{J}\cdot\text{K}^{-1}\cdot\text{mol}^{-1}$ to $\text{kJ}\cdot\text{K}^{-1}\cdot\text{mol}^{-1}$.
+
+### 2. The Arrhenius Equation & Activation Energy ($E_a$)
+
+\[
+k = A e^{-\frac{E_a}{RT}} \implies \ln k = -\frac{E_a}{R} \left(\frac{1}{T}\right) + \ln A
+\]
+
+Plotting $\ln k$ against $\frac{1}{T}$ yields a straight line with a gradient of $-\frac{E_a}{R}$.
+
+### 3. Nucleophilic Substitution Mechanisms ($S_N1$ vs. $S_N2$)
+* **$S_N1$**: Two-step mechanism involving a carbocation intermediate; favored by tertiary halogenoalkanes. Rate equation: $\text{Rate} = k[\text{R-X}]$.
+* **$S_N2$**: One-step concerted mechanism involving a transition state; favored by primary halogenoalkanes. Rate equation: $\text{Rate} = k[\text{R-X}][\text{Nu}^-]$.
+
+---
+
+## 📈 Accessing IB Chemistry Resources & Test Banks
+
+Students are encouraged to utilize our curated resources for exam preparation:
+
+1. **Course Overview**: Visit **[IB Chemistry Overview](../../chem/ib/index.qmd)** for detailed module guides.
+2. **Topical Test Banks**:
+   * Practice higher-level question sets at **[IB Chem HL Test Bank](../../test_bank/ib_chem_hl.qmd)**.
+   * Review core concepts at **[IB Chem SL Test Bank](../../test_bank/ib_chem_sl.qmd)**.
+3. **Reference Textbooks**: Explore coursebooks and revision guides at **[Reference Books](../../books.qmd)**.
+
+---
+
+## 🎓 Mentorship with Dr. Kiem Nguyen in Thao Dien, District 2
+
+With 20 years of research and teaching experience, **Dr. Kiem Nguyen** provides structured academic support:
+
+* Developing clear explanations for organic reaction mechanisms and physical chemistry calculations.
+* Practicing examination techniques for Paper 1A (Multiple Choice), Paper 1B (Data-based), and Paper 2 (Extended Response).
+* Assisting students with research design and scientific writing for Chemistry Internal Assessments (IA).
+* Flexible learning formats: In-person sessions in **Thao Dien, District 2** or online 1-on-1 tutorials.
+
+---
+
+## 📞 Academic Inquiries & Contact
+
+If you would like to learn more about IB Chemistry support in District 2 (Thao Dien, An Phu):
+
+* **Location**: Thao Dien Ward, District 2, Thu Duc City, HCMC
+* **Phone / Zalo**: [0815 113 114](https://zalo.me/0815113114)
+* **WhatsApp**: [+84 815 113 114](https://wa.me/84815113114)
+* **Email**: [khackiemnguyen@gmail.com](mailto:khackiemnguyen@gmail.com)
+* **Instructor Profile**: Read more at **[About Dr. Kiem Nguyen](../../about.qmd)**.
+
+================================================================================
+
+# A-Level Mathematics (CIE 9709 & Edexcel IAL) Study Guide for District 2 Students
+Path: posts/2026-08-16-alevel-math-guide-district-2/index.html
+
+## 📐 A-Level Mathematics Academic Support in Thao Dien, District 2
+This study guide is designed for students preparing for **Cambridge International A-Level (CIE 9709)** and **Pearson Edexcel International A-Level (IAL)** examinations at international schools in District 2, Ho Chi Minh City — including **British International School (BIS)** and **Australian International School (AIS)**.
+
+**NKK-Education Hub** provides structured access to past paper archives, topical test banks, and worked solution guides curated by **Dr. Kiem Nguyen**.
+
+---
+
+## 📚 Curriculum Structure: CIE 9709 vs. Edexcel IAL
+
+### 1. Cambridge Assessment International Education (CIE 9709)
+* **Pure Mathematics 1 (P1)**: Quadratics, functions, coordinate geometry, circular measure, trigonometry, series, differentiation, and integration.
+* **Pure Mathematics 3 (P3)**: Algebra, logarithmic/exponential functions, trigonometry, numerical solutions, vectors, differential equations, and complex numbers.
+* **Mechanics (Paper 4 / M1)**: Forces and equilibrium, kinematics of motion, Newton's laws of motion, work, energy, and power.
+* **Probability & Statistics 1 (Paper 5 / S1)**: Representation of data, probability, discrete random variables, and normal distribution.
+* **Probability & Statistics 2 (Paper 6 / S2)**: Poisson distribution, linear combinations of random variables, continuous random variables, sampling, and hypothesis testing.
+
+### 2. Pearson Edexcel International A-Level (IAL)
+Modular qualification structure comprising **P1, P2, P3, P4** (Pure Mathematics), **M1, M2** (Mechanics), **S1, S2** (Statistics), and **FP1–FP3** (Further Pure Mathematics).
+
+---
+
+## 📝 Essential Problem-Solving Methods for A-Level Mathematics
+
+### 1. Integration by Parts & Partial Fractions (P3 / P4)
+Decomposing complex rational expressions into partial fractions prior to integrating by parts:
+
+\[
+\int u \frac{dv}{dx} \, dx = uv - \int v \frac{du}{dx} \, dx
+\]
+
+### 2. Kinematics & Newton's Laws on Inclined Planes (Mechanics M1)
+Resolving forces parallel and perpendicular to an inclined plane with coefficient of friction $\mu$:
+
+\[
+F_{\text{net}} = m a \implies m g \sin\theta - \mu (m g \cos\theta) = m a
+\]
+
+### 3. Normal Distribution & Hypothesis Testing (Statistics S1 / S2)
+Standardizing a continuous random variable $X \sim N(\mu, \sigma^2)$ into standard normal form $Z \sim N(0, 1)$:
+
+\[
+Z = \frac{X - \mu}{\sigma}
+\]
+
+---
+
+## 🔗 Accessing A-Level Mathematics Test Banks & Resources
+
+Students are welcome to explore our academic resources:
+
+1. **Course Overview**: Visit **[A-Level Mathematics Overview](../../math/a-level/index.qmd)**.
+2. **CIE 9709 Portal**: Access past paper sets at **[CIE Math Portal](../../math/a-level/cie/index.qmd)** and **[CIE Math Test Bank](../../test_bank/alevel_math_cie.qmd)**.
+3. **Edexcel IAL Portal**: Access modular practice packs at **[Edexcel Math Portal](../../math/a-level/edexcel/index.qmd)** and **[Edexcel Math Test Bank](../../test_bank/alevel_math_edexcel.qmd)**.
+4. **Reference Books**: Browse official textbooks at **[Reference Books](../../books.qmd)**.
+
+---
+
+## 👨‍🏫 Mentorship with Dr. Kiem Nguyen in Thao Dien, District 2
+
+**Dr. Kiem Nguyen** provides dedicated academic guidance for A-Level students:
+
+* Developing clear mathematical reasoning aligned with mark scheme standards.
+* Practicing topical past paper questions to improve accuracy and speed.
+* Advising on subject choices for UK (Oxbridge, Russell Group), US, and Australian university entry.
+* Flexible learning formats: In-person tutorials in **Thao Dien, District 2** or online 1-on-1 sessions.
+
+---
+
+## 📞 Academic Inquiries & Contact
+
+* **Location**: Thao Dien Ward, District 2, Thu Duc City, HCMC
+* **Phone / Zalo**: [0815 113 114](https://zalo.me/0815113114)
+* **WhatsApp**: [+84 815 113 114](https://wa.me/84815113114)
+* **Email**: [khackiemnguyen@gmail.com](mailto:khackiemnguyen@gmail.com)
+* **Instructor Profile**: Read more at **[About Dr. Kiem Nguyen](../../about.qmd)**.
+
+================================================================================
+
+# A-Level Chemistry (CIE 9701 & Edexcel IAL) Study Guide for District 2 Students
+Path: posts/2026-08-19-alevel-chem-guide-district-2/index.html
+
+## 🧪 A-Level Chemistry Academic Support in Thao Dien, District 2
+Mastering **A-Level Chemistry (CIE 9701 & Edexcel IAL)** requires a thorough understanding of core concepts, reaction mechanisms, and practical skills.
+
+This study guide, curated by **Dr. Kiem Nguyen**, helps students from international schools in District 2 (such as **BIS** and **AIS**) prepare systematically for AS & A2 Level assessments.
+
+---
+
+## 🔬 Key Branches of A-Level Chemistry
+
+### 1. Physical Chemistry
+* **Chemical Energetics**: Constructing Born-Haber cycles to calculate lattice energies ($\Delta H_{\text{lat}}^\theta$) and hydration enthalpies.
+* **Electrochemistry**: Standard electrode potentials $E^\theta$, the Nernst equation, and electrochemical cells.
+* **Equilibria & Buffers**: Calculating the pH of buffer solutions using the Henderson-Hasselbalch equation:
+
+\[
+\text{pH} = \text{p}K_a + \log\left(\frac{[\text{A}^-]}{[\text{HA}]}\right)
+\]
+
+### 2. Inorganic Chemistry
+* **Periodicity & Group Trends**: Group 2 sulfates and hydroxides solubility trends; halogens oxidizing ability.
+* **Transition Elements**: Formation of complex ions, $d$-$d$ orbital splitting, ligand exchange reactions, and variable oxidation states.
+
+### 3. Organic Chemistry
+* **Reaction Mechanisms**: Electrophilic addition of alkenes, electrophilic substitution of benzene, and nucleophilic substitution of acyl chlorides.
+* **Analytical Techniques**: Interpreting $^1\text{H}$ and $^{13}\text{C}$ NMR spectra, Infra-Red (IR) spectroscopy, and Mass Spectrometry to elucidate unknown organic structures.
+
+---
+
+## 🧪 Developing Practical & Experimental Skills (Paper 3 & Paper 5)
+
+* **Paper 3 (Advanced Practical Skills)**: Focuses on volumetric analysis (titrations), enthalpy determination (calorimetry), and qualitative analysis of inorganic ions.
+* **Paper 5 (Planning, Analysis and Evaluation)**: Focuses on experimental design, identifying variables, uncertainty evaluation, and graphical data analysis.
+
+---
+
+## 📊 Accessing A-Level Chemistry Test Banks & Resources
+
+Students can access study materials directly on our site:
+
+1. **Course Overview**: Visit **[A-Level Chemistry Overview](../../chem/a-level/index.qmd)**.
+2. **CIE Chemistry Portal**: Explore **[CIE 9701 Chem Portal](../../chem/a-level/cie/index.qmd)** and **[CIE Chem Test Bank](../../test_bank/alevel_chem_cie.qmd)**.
+3. **Edexcel Chemistry Portal**: Explore **[Edexcel Chem Portal](../../chem/a-level/edexcel/index.qmd)** and **[Edexcel Chem Test Bank](../../test_bank/alevel_chem_edexcel.qmd)**.
+4. **Reference Books**: Browse official coursebooks at **[Reference Books](../../books.qmd)**.
+
+---
+
+## 👨‍🏫 Mentorship with Dr. Kiem Nguyen in Thao Dien, District 2
+
+With 20 years of academic experience and a PhD in science, **Dr. Kiem Nguyen** offers structured tutoring:
+
+* Clarifying organic synthesis pathways and physical chemistry derivations.
+* Practicing structured questions from past examination papers.
+* Flexible learning formats: In-person tutorials in **Thao Dien, District 2** or online 1-on-1 sessions.
+
+---
+
+## 📞 Academic Inquiries & Contact
+
+* **Location**: Thao Dien Ward, District 2, Thu Duc City, HCMC
+* **Phone / Zalo**: [0815 113 114](https://zalo.me/0815113114)
+* **WhatsApp**: [+84 815 113 114](https://wa.me/84815113114)
+* **Email**: [khackiemnguyen@gmail.com](mailto:khackiemnguyen@gmail.com)
+* **Instructor Profile**: Read more at **[About Dr. Kiem Nguyen](../../about.qmd)**.
+
+================================================================================
+
+# Official Exam Release: IB Mathematics Analysis & Approaches HL Paper 1 (May 2026)
+Path: posts/2026-08-20-ib-math-aa-hl-may-2026-paper-1/index.html
+
+## 📍 Cập Nhật Đề Thi Tốt Nghiệp IB Mathematics AA HL May 2026 Mới Nhất
+Nhằm hỗ trợ học sinh các trường quốc tế tại khu vực Quận 2 (**BIS**, **ISHCMC**, **AIS**, **EIS**) cập nhật cấu trúc đề thi mới nhất để chủ động ôn tập, **NKK-Education Hub** đăng tải nguyên văn bản **Full PDF** đề thi chính thức **IB Mathematics Analysis & Approaches (AA) Higher Level Paper 1 (Kỳ thi May 2026)**.
+
+Học sinh có thể xem trực tiếp toàn bộ các trang đề thi ngay bên dưới hoặc tải tệp PDF về thiết bị để luyện tập.
+
+---
+
+### 📄 Examination Document Details
+
+* **Qualification**: International Baccalaureate Diploma Program (IB DP)
+* **Subject**: Mathematics: Analysis and Approaches
+* **Level**: Higher Level (HL)
+* **Paper**: Paper 1 (Non-Calculator Examination)
+* **Session**: May 2026
+* **Duration**: 2 Hours (120 minutes) | **Total Marks**: 110 marks
+
+---
+
+### 📥 PDF Viewer & Download
+
+---
+
+## 🔗 Liên Kết Học Tập Tại NKK-Education Hub
+
+* **Ngân Hàng Đề Thi IB Math**: Tra cứu các bộ đề thi thử phân dạng tại **[IB Math AA HL Test Bank](../../test_bank/ib_math_aa_hl.qmd)**.
+* **Tổng Quan Môn Học**: Khám phá **[IB Mathematics Overview](../../math/ib/index.qmd)**.
+* **Thư Viện Sách Tham Khảo**: Xem danh mục sách giáo trình tại **[Reference Books Portal](../../books.qmd)**.
+
+---
+
+## 📞 Hỗ Trợ Học Tập & Thông Tin Liên Hệ
+
+Nếu học sinh và phụ huynh khu vực Quận 2 (Thảo Điền, An Phú) cần tư vấn định hướng môn học IB Mathematics:
+
+* **Địa chỉ**: Khu vực Thảo Điền, Quận 2, TP. Thủ Đức, TP.HCM
+* **Hotline / Zalo**: [0815 113 114](https://zalo.me/0815113114)
+* **WhatsApp**: [+84 815 113 114](https://wa.me/84815113114)
+* **Email**: [khackiemnguyen@gmail.com](mailto:khackiemnguyen@gmail.com)
+* **Thông tin thầy giáo**: Xem tại **[About Dr. Kiem Nguyen](../../about.qmd)**.
+
+================================================================================
+
+# Official Exam Release: IB Mathematics Analysis & Approaches HL Paper 2 (May 2026)
+Path: posts/2026-08-21-ib-math-aa-hl-may-2026-paper-2/index.html
+
+## 📍 Cập Nhật Đề Thi Tốt Nghiệp IB Mathematics AA HL May 2026 Mới Nhất
+Nhằm hỗ trợ học sinh các trường quốc tế tại khu vực Quận 2 (**BIS**, **ISHCMC**, **AIS**, **EIS**) cập nhật cấu trúc đề thi mới nhất để chủ động ôn tập, **NKK-Education Hub** đăng tải nguyên văn bản **Full PDF** đề thi chính thức **IB Mathematics Analysis & Approaches (AA) Higher Level Paper 2 (Kỳ thi May 2026)**.
+
+Học sinh có thể xem trực tiếp toàn bộ các trang đề thi ngay bên dưới hoặc tải tệp PDF về thiết bị để luyện tập.
+
+---
+
+### 📄 Examination Document Details
+
+* **Qualification**: International Baccalaureate Diploma Program (IB DP)
+* **Subject**: Mathematics: Analysis and Approaches
+* **Level**: Higher Level (HL)
+* **Paper**: Paper 2 (Calculator Examination)
+* **Session**: May 2026
+* **Duration**: 2 Hours (120 minutes) | **Total Marks**: 110 marks
+
+---
+
+### 📥 PDF Viewer & Download
+
+---
+
+## 🔗 Liên Kết Học Tập Tại NKK-Education Hub
+
+* **Ngân Hàng Đề Thi IB Math**: Tra cứu các bộ đề thi thử phân dạng tại **[IB Math AA HL Test Bank](../../test_bank/ib_math_aa_hl.qmd)**.
+* **Tổng Quan Môn Học**: Khám phá **[IB Mathematics Overview](../../math/ib/index.qmd)**.
+* **Thư Viện Sách Tham Khảo**: Xem danh mục sách giáo trình tại **[Reference Books Portal](../../books.qmd)**.
+
+---
+
+## 📞 Hỗ Trợ Học Tập & Thông Tin Liên Hệ
+
+Nếu học sinh và phụ huynh khu vực Quận 2 (Thảo Điền, An Phú) cần tư vấn định hướng môn học IB Mathematics:
+
+* **Địa chỉ**: Khu vực Thảo Điền, Quận 2, TP. Thủ Đức, TP.HCM
+* **Hotline / Zalo**: [0815 113 114](https://zalo.me/0815113114)
+* **WhatsApp**: [+84 815 113 114](https://wa.me/84815113114)
+* **Email**: [khackiemnguyen@gmail.com](mailto:khackiemnguyen@gmail.com)
+* **Thông tin thầy giáo**: Xem tại **[About Dr. Kiem Nguyen](../../about.qmd)**.
+
+================================================================================
+
+# IB Mathematics: Analysis and Approaches Higher Level Paper 1 (May 2026)
+Path: posts/data_post/Mathematics analysis and approaches Higher level Paper 1.html
+
+## 📝 Thông Tin Đề Thi IB Math AA HL Paper 1 (May 2026)
+* **Thời gian làm bài**: 2 giờ (120 phút)
+* **Tổng điểm**: 110 marks
+* **Quy định**: Không sử dụng máy tính bỏ túi (Non-Calculator Paper).
+* **Cấu trúc**: Section A (9 câu hỏi ngắn, 68 điểm) & Section B (3 câu hỏi mở rộng, 52 điểm).
+
+---
+
+# Section A
+
+### **Question 1 [Maximum mark: 5]**
+
+Consider the function $f(x)=3(x-2)(x-q)$, where $x \in \mathbb{R}$ and $q$ is a real constant.
+
+The axis of symmetry of the graph of $f$ has equation $x=4$.
+
+(a) Show that $q=6$. **[2 marks]**
+
+(b) Find the coordinates of the vertex of the graph of $f$. **[2 marks]**
+
+(c) Hence, write down the range of $f$. **[1 mark]**
+
+---
+
+### **Question 2 [Maximum mark: 5]**
+
+A particle P is travelling along a straight line, with displacement measured relative to a point O on the line. The velocity, $v \text{ m s}^{-1}$, of the particle at time $t$ seconds is given by
+
+$$v=\frac{1}{t+1}+e^{-t}$$
+
+where $t \ge 0$.
+
+(a) Find $\int\left(\frac{1}{t+1}+e^{-t}\right)dt$. **[2 marks]**
+
+Initially the particle is at O.
+
+(b) Find an expression for the displacement, $s$ metres, in terms of $t$. **[3 marks]**
+
+---
+
+### **Question 3 [Maximum mark: 6]**
+
+Consider a geometric sequence, $u_n$, with common ratio $r$, where each term in the sequence is positive.
+
+It is given that $u_6=1.6 \times 10^5$ and $u_8=6.4 \times 10^5$.
+
+(a) Find the value of $r$. **[3 marks]**
+
+(b) Find the value of $u_1$, giving your answer in the form $a \times 10^k$, where $1 \le a 0$. **[4 marks]**
+
+(b) Hence, solve the equation $\log_5{\sqrt[3]{x}}=\log_{25}(81x^2)-\log_5{4}$ where $x>0$. **[3 marks]**
+
+---
+
+### **Question 5 [Maximum mark: 9]**
+
+Consider two events, A and B.
+
+It is given that $P(A' \cap B)=\frac{1}{6}$, $P(A \cap B)=\frac{7-x}{12}$ and $P(A \cap B')=\frac{5+x}{24}$, where $0 \le x \le 7$.
+
+(a) Show that $P(A)=\frac{19-x}{24}$. **[3 marks]**
+
+It is given that A and B are independent.
+
+(b) Find the possible values of $x$. **[6 marks]**
+
+---
+
+### **Question 6 [Maximum mark: 4]**
+
+Consider a piece of paper in the shape of a circle with centre O and radius $r$ cm, where $r>6$. A second circle with centre O and radius 6 cm is drawn inside the first and shaded.
+
+The points A and B are on the circumference of the larger circle such that the acute angle $A\hat{O}B=\frac{\pi}{3}$. The paper is cut along the lines AO and BO and the sector AOB with a central angle of $\frac{\pi}{3}$ is removed.
+
+After removing the sector, it is now given that
+
+$$\frac{\text{the area of the unshaded region}}{\text{the area of the shaded region}}=\frac{2}{3}$$
+
+Find the value of $r$, giving your answer in the form $\sqrt{k}$, where $k \in \mathbb{Z}$.
+
+---
+
+### **Question 7 [Maximum mark: 6]**
+
+Reyn is investigating the fertility of a group of adult female foxes. He has developed a clinical test that aims to identify whether or not a given fox is pregnant, and he wants to evaluate the reliability of this test.
+
+Reyn knows that:
+
+- 40% of the foxes in the group are pregnant
+- if a fox is pregnant, the probability that it will test positive is 90%
+- if a fox is not pregnant, the probability it will test positive is 20%.
+
+(a) Find the probability that a randomly selected fox from the group will test positive. **[3 marks]**
+
+(b) Find the probability that a randomly selected fox from the group is pregnant, given that it tested positive. **[3 marks]**
+
+---
+
+### **Question 8 [Maximum mark: 8]**
+
+Consider the polynomial $p(z)=3z^5-7z^4+cz^3+dz^2+ez-26$ where $z \in \mathbb{C}$ and $c, d, e \in \mathbb{R}$.
+
+Three of the roots of $p(z)$ are $\frac{1}{3}$, $a-i$, $2+bi$, where $a, b \in \mathbb{R}$, $b>1$.
+
+(a) By considering the sum and the product of the roots of $p(z)$,
+    (i) show that $a=-1$;
+    (ii) find the value of $b$. **[5 marks]**
+
+(b) Show that $p(z)=(Az+B)(z^2+Cz+D)(z^2+Ez+F)$, where $A, B, C, D, E, F$ are integers to be determined. **[3 marks]**
+
+---
+
+### **Question 9 [Maximum mark: 8]**
+
+Consider non-zero vectors $\mathbf{a}$, $\mathbf{b}$ and $\mathbf{c}$ in three-dimensional space.
+
+The non-zero vector $\mathbf{v}$ is defined as $\mathbf{v}=(\mathbf{a} \cdot \mathbf{c})\mathbf{b}-(\mathbf{a} \cdot \mathbf{b})\mathbf{c}$.
+
+(a) Show that $\mathbf{v} \cdot \mathbf{a}=0$. **[2 marks]**
+
+It is given that $\mathbf{b} \times \mathbf{c}$ and $\mathbf{a} \times (\mathbf{b} \times \mathbf{c})$ are non-zero vectors.
+
+(b) 
+    (i) Justify why $\mathbf{b} \cdot (\mathbf{b} \times \mathbf{c})=0$.
+    (ii) Show that $\mathbf{v} \cdot (\mathbf{b} \times \mathbf{c})=0$. **[4 marks]**
+
+(c) Hence, state the geometrical relationship between $\mathbf{v}$ and $\mathbf{a} \times (\mathbf{b} \times \mathbf{c})$, briefly justifying your answer. **[2 marks]**
+
+---
+
+# Section B
+
+### **Question 10 [Maximum mark: 15]**
+
+Consider the function $f(x)=ax^3+bx^2+cx+d$, where $x \in \mathbb{R}$ and where $a, b, c$ and $d$ are real constants.
+
+The graph of $f$ has a point of inflexion at $(-2,-2c+d+24)$.
+
+(a) Show that $a=\frac{3}{2}$ and $b=9$. **[6 marks]**
+
+It is given that the tangents to the graph of $f$ at $x=-3$ and $x=k$ are horizontal.
+
+(b) 
+    (i) Show that $c=\frac{27}{2}$.
+    (ii) Find the value of $k$.
+    (iii) State whether $f$ has a local maximum or a local minimum at $x=k$, justifying your answer. **[7 marks]**
+
+The graph of $f$ intersects the y-axis at the point P.
+
+(c) Show that the tangent to the graph of $f$ at $x=-3$ passes through P. **[2 marks]**
+
+---
+
+### **Question 11 [Maximum mark: 19]**
+
+(a) Prove the identity $\cot{2\theta} \equiv \frac{1}{2}\left(\cot{\theta}-\frac{1}{\cot{\theta}}\right)$. **[3 marks]**
+
+(b) Hence, solve the equation $\cot{2\theta}=\frac{3}{2}\cot{\theta}(\cot^2{\theta}-1)$ for $0 < \theta < \pi$ where $\theta \ne \frac{\pi}{2}$. **[6 marks]**
+
+(c) By differentiating both sides of the identity in part (a), show that $4\csc^2{2\theta} \equiv \csc^2{\theta}+\sec^2{\theta}$. **[5 marks]**
+
+Consider the right-angled triangle $\Delta PQR$, where $R\hat{P}Q=\frac{\pi}{2}$, $PR=\csc{\theta}$ and $QR=2\csc{2\theta}$, where $0 < \theta < \frac{\pi}{2}$ and all lengths are given in metres.
+
+QR has length $L$ metres and $\Delta PQR$ has area $A$ square metres.
+
+(d) Calculate the ratio $L:A$ in the form $n:1$ where $n \in \mathbb{Z}^+$. **[5 marks]**
+
+---
+
+### **Question 12 [Maximum mark: 18]**
+
+Rowan is investigating the spread of an infection through a population of rabbits. He models $N$, the number (in thousands) of infected rabbits in the population, at time $t$ days.
+
+Rowan models the spread of the infection by the differential equation
+
+$$\frac{dN}{dt}=k(-3+4N-N^2)$$
+
+where $t \ge 0$ and $k \in \mathbb{R}^+$.
+
+Initially, 1500 rabbits are infected.
+
+(a) Express $\frac{1}{-3+4x-x^2}$ in the form $\frac{A}{x-1}+\frac{B}{3-x}$, where $A, B \in \mathbb{R}$. **[3 marks]**
+
+(b) Hence, show that $\ln\left(\frac{N-1}{3-N}\right)=2kt-\ln{p}$, where $p \in \mathbb{R}^+$ is a constant to be determined. **[8 marks]**
+
+(c) Find an expression for $N$ in the form $N=\frac{a+be^{-2kt}}{1+ce^{-2kt}}$ where $a, b, c \in \mathbb{Z}$. **[5 marks]**
+
+According to Rowan’s model, the number of infected rabbits approaches a limit, $L$, over the long term.
+
+(d) Find the value of $L$. **[2 marks]**
+
+================================================================================
+
+# IB Mathematics: Analysis and Approaches Higher Level Paper 2 (May 2026)
+Path: posts/data_post/Mathematics- analysis and approaches Higher level Paper 2.html
+
+## 📝 Thông Tin Đề Thi IB Math AA HL Paper 2 (May 2026)
+* **Thời gian làm bài**: 2 giờ (120 phút)
+* **Tổng điểm**: 110 marks
+* **Quy định**: Đội ngũ học sinh được phép sử dụng máy tính đồ họa (Graphic Display Calculator - GDC).
+* **Cấu trúc**: Section A (9 câu hỏi ngắn, 64 điểm) & Section B (3 câu hỏi mở rộng, 46 điểm).
+
+---
+
+# Section A
+
+### **Question 1 [Maximum mark: 7]**
+
+A group of 52 students have their heights measured in cm.
+
+(a) Use the cumulative frequency data to find an estimate of the median height. **[2 marks]**
+
+The heights of the students are shown in the following frequency table where $p, q \in \mathbb{N}$.
+
+| Height ($h$ cm) | Frequency |
+| :--- | :--- |
+| $155 \le h 2$.
+
+The region enclosed by the curve is rotated through $2\pi$ radians around the y-axis to form a solid, S.
+
+(a) Show that the volume of S is given by $4\pi d\int_{0}^{4}\sqrt{4-(y-2)^2}dy$. **[6 marks]**
+
+It is given that the volume of S is $50\pi^2 \text{ cm}^3$.
+
+(b) Find the value of $d$. **[2 marks]**
+
+---
+
+# Section B
+
+### **Question 10 [Maximum mark: 13]**
+
+At the start of 2026, Lavinia receives a gift of $\$15000$. She wants to buy a boat which costs $\$28000$ so she decides to invest her money.
+
+On 1 January 2026 Lavinia invests her money in a bank account which pays interest at a nominal annual rate of 4.8%, compounded quarterly. The interest is paid into her account on the last day of each quarter. She makes no further deposits to, or withdrawals from, the account.
+
+(a) Find the amount of money Lavinia will have in her bank account on 1 January 2031. Give your answer correct to the nearest dollar. **[3 marks]**
+
+(b) Show that Lavinia will first have more than $\$28000$ in her bank account during the year 2039. **[3 marks]**
+
+The cost of the boat at the start of 2026 was $\$28000$, and it depreciates at a constant annual rate of $r\%$. After one year the cost of the boat is $\$26222$.
+
+(c) Find the value of $r$. **[2 marks]**
+
+Due to this depreciation, Lavinia will be able to buy the boat before 2039. She will buy the boat as soon as she has enough money in her bank account to pay for it.
+
+(d) Determine the year during which Lavinia will buy the boat. **[5 marks]**
+
+---
+
+### **Question 11 [Maximum mark: 19]**
+
+A child's toy is made from a solid right cone and a solid hemisphere of equal radius. The circular faces of each solid are joined to form a single circle C. The point P lies on the circumference of C, and the point V is the vertex of the cone.
+
+All units are given in cm.
+
+The toy is positioned so that the circle C lies completely within the plane defined by $x+2y-z=5$.
+
+The point P has coordinates $(-3, 6, 4)$ and the point V has coordinates $(4, 16, -5)$.
+
+(a) Find a vector equation for the line passing through V and the centre of C. **[3 marks]**
+
+(b) Find the coordinates of the centre of C. **[3 marks]**
+
+(c) (i) Show that the radius of C is $\sqrt{14}$ cm.
+    (ii) Find the total surface area of the toy. **[6 marks]**
+
+The toy is rotated so that the position of the vertex is fixed at V and the image $P'$ of the point P has coordinates $(-9, 11, 1)$.
+
+(d) Find angle $P\hat{V}P'$ giving your answer in degrees. **[3 marks]**
+
+(e) Find an equation of the plane containing the points P, V and $P'$, giving your answer in the form $ax+by+cz=d$, where $a, b, c, d \in \mathbb{Z}$. **[4 marks]**
+
+---
+
+### **Question 12 [Maximum mark: 21]**
+
+The function $f$ is defined as $f(x)=\frac{x^2+ax+b}{x+1}$, where $x \ne -1$ and $a, b \in \mathbb{Z}$.
+
+First consider the case where $\lim_{x \to -1}f(x)$ is finite.
+
+(a) (i) Show that $b=a-1$.
+    (ii) Find $\lim_{x \to -1}f(x)$ in terms of $a$. **[4 marks]**
+
+Now consider the case where the graph of $f$ has a vertical asymptote, an oblique asymptote with equation $y=x-4$, and at least one point of zero gradient.
+
+(b) Write down the equation of the vertical asymptote. **[1 mark]**
+
+(c) Show that $a=-3$. **[3 marks]**
+
+(d) Show that $b \ge -3$. **[6 marks]**
+
+(e) In the case where $a=-3$ and $b=1$
+    (i) sketch the graph of $y=f(|x|)$, showing any asymptotes with their equations, the value of the intercept with the y-axis, and the coordinates of any local maximum or minimum points;
+    (ii) solve $f(|x|) < f(x)$. **[7 marks]**
 
 ================================================================================
 

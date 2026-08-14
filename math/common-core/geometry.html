@@ -113,7 +113,7 @@ gtag('config', 'G-Y5KN25P14N', { 'anonymize_ip': true});
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="NKK-Education Hub">
 <meta property="og:title" content="Common Core Geometry – NKK-Education Hub">
-<meta property="og:description" content="Chương Trình Hình Học Phổ Thông Hệ Mỹ (High School)">
+<meta property="og:description" content="Comprehensive High School Geometry Practice Questions, Topic Worksheets &amp; Reference Textbooks">
 <meta property="og:url" content="https://drkiem.vn">
 <meta property="og:image" content="https://drkiem.vn/images/academic_workspace.png">
 
@@ -172,35 +172,6 @@ gtag('config', 'G-Y5KN25P14N', { 'anonymize_ip': true});
 }
 </script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -449,6 +420,10 @@ window.Quarto = {
 <span class="menu-text">Books</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../../news.html"> 
+<span class="menu-text">News &amp; Updates</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
@@ -472,7 +447,7 @@ window.Quarto = {
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="sidebar-menu-container"> 
@@ -510,7 +485,7 @@ window.Quarto = {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../math/common-core/pre-calculus.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Common Core Pre-Calculus</span></a>
+ <span class="menu-text">Common Core Pre-Calculus &amp; Calculus Foundations</span></a>
   </div>
 </li>
     </ul>
@@ -523,32 +498,27 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#giới-thiệu-chương-trình" id="toc-giới-thiệu-chương-trình" class="nav-link active" data-scroll-target="#giới-thiệu-chương-trình">1. Giới Thiệu Chương Trình</a></li>
-  <li><a href="#khung-chương-trình-chi-tiết-syllabus-core" id="toc-khung-chương-trình-chi-tiết-syllabus-core" class="nav-link" data-scroll-target="#khung-chương-trình-chi-tiết-syllabus-core">2. Khung Chương Trình Chi Tiết (Syllabus Core)</a></li>
-  <li><a href="#ví-dụ-minh-họa-công-thức-trọng-tâm" id="toc-ví-dụ-minh-họa-công-thức-trọng-tâm" class="nav-link" data-scroll-target="#ví-dụ-minh-họa-công-thức-trọng-tâm">3. Ví Dụ Minh Họa &amp; Công Thức Trọng Tâm</a>
+  <li><a href="#geometry-practice-questions-worksheets-by-topic" id="toc-geometry-practice-questions-worksheets-by-topic" class="nav-link active" data-scroll-target="#geometry-practice-questions-worksheets-by-topic">1. Geometry Practice Questions &amp; Worksheets by Topic</a>
   <ul class="collapse">
-  <li><a href="#hệ-thức-lượng-giác-trong-tam-giác-vuông-soh-cah-toa" id="toc-hệ-thức-lượng-giác-trong-tam-giác-vuông-soh-cah-toa" class="nav-link" data-scroll-target="#hệ-thức-lượng-giác-trong-tam-giác-vuông-soh-cah-toa">Hệ thức lượng giác trong tam giác vuông (SOH-CAH-TOA)</a></li>
-  <li><a href="#thể-tích-hình-nón-tròn-xoay-volume-of-a-cone" id="toc-thể-tích-hình-nón-tròn-xoay-volume-of-a-cone" class="nav-link" data-scroll-target="#thể-tích-hình-nón-tròn-xoay-volume-of-a-cone">Thể tích hình nón tròn xoay (Volume of a Cone)</a></li>
+  <li><a href="#official-nys-high-school-regents-examination-papers" id="toc-official-nys-high-school-regents-examination-papers" class="nav-link" data-scroll-target="#official-nys-high-school-regents-examination-papers">1.3 Official NYS High School Regents Examination Papers</a></li>
   </ul></li>
-  <li><a href="#bẫy-điểm-số-phương-pháp-làm-bài-exam-tips" id="toc-bẫy-điểm-số-phương-pháp-làm-bài-exam-tips" class="nav-link" data-scroll-target="#bẫy-điểm-số-phương-pháp-làm-bài-exam-tips">4. Bẫy Điểm Số &amp; Phương Pháp Làm Bài (Exam Tips)</a></li>
-  <li><a href="#kho-đề-past-papers-theo-chuyên-đề" id="toc-kho-đề-past-papers-theo-chuyên-đề" class="nav-link" data-scroll-target="#kho-đề-past-papers-theo-chuyên-đề">5. Kho Đề Past Papers Theo Chuyên Đề</a></li>
-  <li><a href="#geometry-books" id="toc-geometry-books" class="nav-link" data-scroll-target="#geometry-books">6. Geometry Books</a></li>
+  <li><a href="#recommended-geometry-textbooks-study-guides" id="toc-recommended-geometry-textbooks-study-guides" class="nav-link" data-scroll-target="#recommended-geometry-textbooks-study-guides">2. Recommended Geometry Textbooks &amp; Study Guides</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-body" id="quarto-document-content">
 
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Common Core Geometry</h1>
-<p class="subtitle lead">Chương Trình Hình Học Phổ Thông Hệ Mỹ (High School)</p>
+<p class="subtitle lead">Comprehensive High School Geometry Practice Questions, Topic Worksheets &amp; Reference Textbooks</p>
 </div>
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-body">
 
     
   
@@ -566,125 +536,464 @@ window.Quarto = {
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Tài nguyên tự học: Common Core Geometry
+<span class="screen-reader-only">Note</span>High School Mathematics Study Guidance: Common Core Geometry
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức hình học phẳng và không gian, các công thức lượng giác lượng hóa và thể tích hiển thị bằng LaTeX sắc nét cùng các bài giải mẫu chứng minh hình học.</p>
+<p>Welcome to the <strong>Common Core Geometry</strong> study portal! Geometry is a cornerstone of US High School Mathematics aligned with the <strong>Common Core State Standards (CCSS)</strong>. It bridges spatial reasoning, geometric proofs, coordinate geometry, right-triangle trigonometry, and 3D measurement.</p>
+<p>Below you will find our curated collection of <strong>97 topic-specific practice worksheets</strong> covering 14 essential units—including geometric proofs, parallel line transversals, triangle congruence, similarity, circles, surface area &amp; volume, transformations, and geometric constructions. Use the interactive practice search engine and reference textbooks to strengthen your geometric proof techniques and prepare for high school end-of-course assessments, Regents, SAT, and AP Mathematics.</p>
 </div>
 </div>
-<section id="giới-thiệu-chương-trình" class="level2">
-<h2 class="anchored" data-anchor-id="giới-thiệu-chương-trình">1. Giới Thiệu Chương Trình</h2>
-<p>
-<strong>Geometry</strong> là học phần hình học cốt lõi bậc trung học Mỹ. Môn học rèn luyện tư duy lập luận logic chặt chẽ thông qua các bài toán chứng minh tam giác bằng nhau/đồng dạng, tọa độ hình học phẳng, lượng giác cơ bản và tính toán thể tích/diện tích các khối hình 3D.
-</p>
+<section id="geometry-practice-questions-worksheets-by-topic" class="level2">
+<h2 class="anchored" data-anchor-id="geometry-practice-questions-worksheets-by-topic">1. Geometry Practice Questions &amp; Worksheets by Topic</h2>
+<p><em>Select a specific topic unit from the dropdown menu or type keywords to search through 97 printable geometry worksheets with answers:</em></p>
+<div class="search-engine-box">
+<div class="card p-3 mb-4 shadow-sm" style="border-radius: 12px; border: 1px solid rgba(0,0,0,0.08); background: var(--bs-card-bg, #ffffff);">
+  <div class="card-body p-0">
+    <div class="d-flex align-items-center flex-wrap gap-3">
+      
+      <div class="d-flex align-items-center gap-2" style="min-width: 260px;">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Topic Unit:</span>
+        <select id="filter-geo-topic" class="form-select form-select-sm" onchange="window.filterGeometryWorksheets()" style="display: inline-block;">
+          <option value="" selected="">All 14 Topics (97 Worksheets)</option>
+          <option value="1">1. Review of Algebra</option>
+          <option value="2">2. Basics of Geometry</option>
+          <option value="3">3. Parallel Lines &amp; Coordinate Plane</option>
+          <option value="4">4. Congruent Triangles</option>
+          <option value="5">5. Properties of Triangles</option>
+          <option value="6">6. Quadrilaterals &amp; Polygons</option>
+          <option value="7">7. Similarity</option>
+          <option value="8">8. Right Triangles</option>
+          <option value="10">10. Trigonometry</option>
+          <option value="11">11. Surface Area &amp; Volume</option>
+          <option value="12">12. Circles</option>
+          <option value="13">13. Transformations</option>
+          <option value="14">14. Statistics &amp; Probability</option>
+          <option value="15">15. Constructions</option>
+        </select>
+      </div>
+
+      <div class="d-none d-md-block" style="border-left: 1px solid rgba(0,0,0,0.1); height: 24px;"></div>
+      
+      <div class="d-flex align-items-center gap-2 flex-grow-1" style="min-width: 240px;">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Search Title:</span>
+        <input type="text" id="search-geo-keyword" class="form-control form-control-sm" placeholder="e.g. Pythagorean, Angles, Circles, Transformations..." oninput="window.filterGeometryWorksheets()">
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div id="geo-table-container">
+  <p><i class="bi bi-hourglass-split"></i> Loading Geometry practice worksheets...</p>
+</div>
+
+<script>
+(function() {
+  let geoDb = [];
+  let currentPage = 1;
+  const pageSize = 15;
+  let filteredItems = [];
+
+  async function loadGeoDb() {
+    if (geoDb.length > 0) return geoDb;
+    try {
+      const response = await fetch('geometry_kuta_math_metadata.json');
+      if (!response.ok) throw new Error('Network response was not ok');
+      geoDb = await response.json();
+    } catch (error) {
+      console.error('Failed to load Geometry worksheets metadata:', error);
+    }
+    return geoDb;
+  }
+
+  function renderTableData() {
+    const container = document.getElementById('geo-table-container');
+    if (!container) return;
+
+    if (filteredItems.length === 0) {
+      container.innerHTML = '<p style="padding: 1rem; text-align: center; color: #9ca3af;"><i class="bi bi-info-circle"></i> No matching practice worksheets found for your search criteria.</p>';
+      return;
+    }
+
+    const totalPages = Math.ceil(filteredItems.length / pageSize);
+    if (currentPage > totalPages) currentPage = Math.max(1, totalPages);
+
+    const start = (currentPage - 1) * pageSize;
+    const end = start + pageSize;
+    const pageItems = filteredItems.slice(start, end);
+
+    let html = `
+      <div class="table-wrapper">
+        <table class="premium-table">
+          <thead>
+            <tr>
+              <th style="width: 260px;">Topic Unit</th>
+              <th>Worksheet Practice Title</th>
+              <th style="text-align: center; width: 120px;">Download</th>
+            </tr>
+          </thead>
+          <tbody>
+    `;
+
+    pageItems.forEach(item => {
+      const driveLink = item.google_drive_link || '#';
+      const topicLabel = `${item.topic_id}. ${item.topic_name}`;
+      
+      html += `
+        <tr>
+          <td><span class="badge" style="background-color: #059669; color: #ffffff; font-weight: 600; font-size: 0.8rem; padding: 0.35em 0.7em;">${topicLabel}</span></td>
+          <td><strong>${item.title}</strong></td>
+          <td style="text-align: center;">
+            <a href="${driveLink}" target="_blank" title="Download Worksheet PDF" class="btn btn-sm btn-primary bi bi-file-earmark-pdf" style="padding: 0.35rem 0.65rem; font-size: 0.9rem; border-radius: 6px;"> PDF</a>
+          </td>
+        </tr>
+      `;
+    });
+
+    html += `
+          </tbody>
+        </table>
+      </div>
+      <div class="d-flex justify-content-center align-items-center gap-2 mt-3" id="geo-pagination-controls"></div>
+    `;
+
+    container.innerHTML = html;
+
+    const paginationContainer = document.getElementById('geo-pagination-controls');
+    if (!paginationContainer) return;
+
+    if (totalPages <= 1) {
+      paginationContainer.innerHTML = '';
+      return;
+    }
+
+    let pagHtml = `<button class="btn btn-sm btn-outline-primary" ${currentPage === 1 ? 'disabled' : ''} onclick="window.changeGeoPage(${currentPage - 1})">Prev</button>`;
+    for (let i = 1; i <= totalPages; i++) {
+      if (i === currentPage) {
+        pagHtml += `<button class="btn btn-sm btn-primary active">${i}</button>`;
+      } else if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= 1) {
+        pagHtml += `<button class="btn btn-sm btn-outline-primary" onclick="window.changeGeoPage(${i})">${i}</button>`;
+      } else if (i === 2 || i === totalPages - 1) {
+        pagHtml += `<span class="text-muted px-1">...</span>`;
+      }
+    }
+    pagHtml += `<button class="btn btn-sm btn-outline-primary" ${currentPage === totalPages ? 'disabled' : ''} onclick="window.changeGeoPage(${currentPage + 1})">Next</button>`;
+    
+    paginationContainer.innerHTML = pagHtml.replace(/(<span class="text-muted px-1">\.\.\.<\/span>\s*){2,}/g, '<span class="text-muted px-1">...</span>');
+  }
+
+  window.changeGeoPage = function(page) {
+    currentPage = page;
+    renderTableData();
+  };
+
+  window.filterGeometryWorksheets = function() {
+    const topicEl = document.getElementById('filter-geo-topic');
+    const keywordEl = document.getElementById('search-geo-keyword');
+    
+    const selectedTopic = topicEl ? (topicEl.value || '') : '';
+    const keyword = keywordEl ? (keywordEl.value || '').trim().toLowerCase() : '';
+
+    filteredItems = geoDb.filter(item => {
+      let matchesTopic = true;
+      if (selectedTopic) {
+        matchesTopic = item.topic_id.toString() === selectedTopic;
+      }
+      
+      let matchesKeyword = true;
+      if (keyword) {
+        const titleMatch = item.title.toLowerCase().includes(keyword);
+        const topicMatch = item.topic_name.toLowerCase().includes(keyword);
+        matchesKeyword = titleMatch || topicMatch;
+      }
+
+      return matchesTopic && matchesKeyword;
+    });
+
+    currentPage = 1;
+    renderTableData();
+  };
+
+  async function initGeoTable() {
+    const container = document.getElementById('geo-table-container');
+    if (!container) return;
+
+    const db = await loadGeoDb();
+    if (!db || db.length === 0) {
+      container.innerHTML = '<p><i class="bi bi-exclamation-triangle-fill" style="color: #ef4444;"></i> Error: Failed to load Geometry metadata.</p>';
+      return;
+    }
+
+    filteredItems = db;
+    currentPage = 1;
+    renderTableData();
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initGeoTable);
+  } else {
+    initGeoTable();
+  }
+})();
+</script>
+</div>
 <hr>
-</section>
-<section id="khung-chương-trình-chi-tiết-syllabus-core" class="level2">
-<h2 class="anchored" data-anchor-id="khung-chương-trình-chi-tiết-syllabus-core">2. Khung Chương Trình Chi Tiết (Syllabus Core)</h2>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
+<section id="official-nys-high-school-regents-examination-papers" class="level3">
+<h3 class="anchored" data-anchor-id="official-nys-high-school-regents-examination-papers">1.3 Official NYS High School Regents Examination Papers</h3>
+<p>Access official New York State (NYS) Regents High School Examination papers, scoring keys, rating guides, and model student response sets. Select exam year or search by keyword to download official PDFs.</p>
+<div class="kuta-search-container my-4 p-4 rounded-3 shadow-sm bg-body-tertiary" style="border: 1px solid rgba(0,0,0,0.08);">
+<div class="row g-3 align-items-center mb-3">
+<div class="col-md-4">
+<label for="regents-filter-year" class="form-label fw-semibold mb-1 small text-uppercase">Filter by Exam Year</label>
+<select id="regents-filter-year" class="form-select form-select-sm" onchange="selectRegentsYearDropdown()">
+<option value="">All Years</option>
+</select>
 </div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span>Các chuyên đề cốt lõi của Common Core Geometry:
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ol type="1">
-<li><strong>Congruence and Similarity (Bằng nhau &amp; Đồng dạng):</strong>
-<ul>
-<li>Chứng minh tam giác bằng nhau bằng các trường hợp SSS, SAS, ASA, AAS, HL.</li>
-<li>Định lý tỉ lệ tam giác đồng dạng, định lý Thales.</li>
-</ul></li>
-<li><strong>Right Triangles and Trigonometry (Tam giác vuông &amp; Lượng giác):</strong>
-<ul>
-<li>Lượng giác góc nhọn SOH-CAH-TOA, định lý Pythagoras.</li>
-<li>Tính chất tam giác đặc biệt: Tam giác vuông cân (<span class="math inline">\(45^{\circ}-45^{\circ}-90^{\circ}\)</span>) và tam giác nửa đều (<span class="math inline">\(30^{\circ}-60^{\circ}-90^{\circ}\)</span>).</li>
-</ul></li>
-<li><strong>Circles (Đường tròn):</strong>
-<ul>
-<li>Các tính chất góc nội tiếp, dây cung, tiếp tuyến đường tròn. Độ dài cung và diện tích hình quạt.</li>
-</ul></li>
-<li><strong>Geometric Measurement and Dimension (Đo lường hình học 3D):</strong>
-<ul>
-<li>Tính diện tích xung quanh, thể tích các khối hình: hình lăng trụ, hình trụ, hình chóp, hình nón, hình cầu.</li>
-</ul></li>
-</ol>
+<div class="col-md-8">
+<label for="regents-search-input" class="form-label fw-semibold mb-1 small text-uppercase">Search Keyword</label>
+<div class="input-group input-group-sm">
+<span class="input-group-text"><i class="bi bi-search"></i></span>
+<input type="text" id="regents-search-input" class="form-control" placeholder="Search by year, month session, or document..." onkeyup="filterRegentsExams()">
 </div>
 </div>
-<hr>
-</section>
-<section id="ví-dụ-minh-họa-công-thức-trọng-tâm" class="level2">
-<h2 class="anchored" data-anchor-id="ví-dụ-minh-họa-công-thức-trọng-tâm">3. Ví Dụ Minh Họa &amp; Công Thức Trọng Tâm</h2>
-<p>Công thức hình học và lượng giác hiển thị sắc nét bằng LaTeX:</p>
-<section id="hệ-thức-lượng-giác-trong-tam-giác-vuông-soh-cah-toa" class="level3">
-<h3 class="anchored" data-anchor-id="hệ-thức-lượng-giác-trong-tam-giác-vuông-soh-cah-toa">Hệ thức lượng giác trong tam giác vuông (SOH-CAH-TOA)</h3>
-<p><span class="math display">\[\sin\theta = \frac{\text{Opposite}}{\text{Hypotenuse}} \quad \cos\theta = \frac{\text{Adjacent}}{\text{Hypotenuse}} \quad \tan\theta = \frac{\text{Opposite}}{\text{Adjacent}}\]</span></p>
-</section>
-<section id="thể-tích-hình-nón-tròn-xoay-volume-of-a-cone" class="level3">
-<h3 class="anchored" data-anchor-id="thể-tích-hình-nón-tròn-xoay-volume-of-a-cone">Thể tích hình nón tròn xoay (Volume of a Cone)</h3>
-<p>Thể tích khối nón có bán kính đáy <span class="math inline">\(r\)</span> và chiều cao tương ứng <span class="math inline">\(h\)</span>: <span class="math display">\[V = \frac{1}{3}\pi r^2 h\]</span></p>
-<hr>
-</section>
-</section>
-<section id="bẫy-điểm-số-phương-pháp-làm-bài-exam-tips" class="level2">
-<h2 class="anchored" data-anchor-id="bẫy-điểm-số-phương-pháp-làm-bài-exam-tips">4. Bẫy Điểm Số &amp; Phương Pháp Làm Bài (Exam Tips)</h2>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
 </div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Các lỗi phổ biến học sinh cần tránh ở môn Geometry:
+
+<div id="regents-table-container">
+<div class="text-center py-4 text-muted">
+<div class="spinner-border spinner-border-sm text-primary me-2" role="status"></div>
+Loading Regents examination database...
 </div>
 </div>
-<div class="callout-body-container callout-body">
-<ul>
-<li><strong>⚠️ Viết sai thứ tự đỉnh đồng dạng:</strong> Khi viết kết luận hai tam giác đồng dạng hoặc bằng nhau, bạn bắt buộc phải viết đúng thứ tự đỉnh tương ứng (ví dụ: <span class="math inline">\(\Delta ABC \sim \Delta DEF\)</span>). Viết sai thứ tự đỉnh tương ứng sẽ bị coi là sai lập luận hình học.</li>
-<li><strong>⚠️ Nhầm lẫn công thức diện tích xung quanh và thể tích:</strong> Hãy đọc kỹ đề bài yêu cầu tìm Volume (Thể tích) hay Surface Area (Diện tích bề mặt) để áp dụng đúng công thức.</li>
-</ul>
 </div>
-</div>
-<hr>
+
+<script>
+(function() {
+  let regentsDb = [];
+  let regentsSelectedYear = '';
+  let regentsKeyword = '';
+  let regentsPage = 1;
+  const regentsPageSize = 10;
+  let filteredRegentsSessions = [];
+  const targetSubject = 'geometry';
+
+  async function loadRegentsDb() {
+    if (regentsDb.length > 0) return regentsDb;
+    try {
+      const response = await fetch('regents_metadata.json');
+      if (!response.ok) throw new Error('Network response was not ok');
+      regentsDb = await response.json();
+    } catch (error) {
+      console.error('Failed to load Regents metadata:', error);
+    }
+    return regentsDb;
+  }
+
+  function populateRegentsYearDropdown(db) {
+    const yearSelect = document.getElementById('regents-filter-year');
+    if (!yearSelect) return;
+
+    const years = new Set();
+    db.forEach(item => {
+      if (item.subject === targetSubject && item.year) {
+        years.add(item.year.toString().trim());
+      }
+    });
+
+    const sortedYears = Array.from(years).sort((a, b) => parseInt(b) - parseInt(a));
+
+    yearSelect.innerHTML = '<option value="">All Years</option>';
+    sortedYears.forEach(year => {
+      const option = document.createElement('option');
+      option.value = year;
+      option.textContent = year;
+      yearSelect.appendChild(option);
+    });
+  }
+
+  function renderRegentsTableData() {
+    const container = document.getElementById('regents-table-container');
+    if (!container) return;
+
+    if (filteredRegentsSessions.length === 0) {
+      container.innerHTML = '<p style="padding: 1rem; text-align: center; color: #9ca3af;"><i class="bi bi-info-circle"></i> No matching Regents examination papers found.</p>';
+      return;
+    }
+
+    const totalPages = Math.ceil(filteredRegentsSessions.length / regentsPageSize);
+    if (regentsPage > totalPages) regentsPage = Math.max(1, totalPages);
+
+    const start = (regentsPage - 1) * regentsPageSize;
+    const end = start + regentsPageSize;
+    const pageItems = filteredRegentsSessions.slice(start, end);
+
+    let html = `
+      <div class="table-wrapper">
+        <table class="premium-table">
+          <thead>
+            <tr>
+              <th>Year</th>
+              <th>Session / Month</th>
+              <th style="text-align: center; width: 100px;">Question Paper</th>
+              <th style="text-align: center; width: 100px;">Scoring Key</th>
+              <th style="text-align: center; width: 110px;">Model Answers</th>
+            </tr>
+          </thead>
+          <tbody>
+    `;
+
+    pageItems.forEach(session => {
+      let monthFull = session.month;
+      if (session.month === 'Jan') monthFull = 'January';
+      else if (session.month === 'Jun') monthFull = 'June';
+      else if (session.month === 'Aug') monthFull = 'August';
+
+      let qpHtml = session.qp 
+        ? `<a href="${session.qp}" target="_blank" title="Download Question Paper" class="btn btn-sm btn-primary bi bi-file-earmark-text" style="padding: 0.35rem 0.6rem; font-size: 0.85rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px;"> Exam</a>`
+        : `<span class="text-muted" style="font-size: 0.85rem;">N/A</span>`;
+
+      let skHtml = session.sk 
+        ? `<a href="${session.sk}" target="_blank" title="Download Scoring Key" class="btn btn-sm btn-success bi bi-key" style="padding: 0.35rem 0.6rem; font-size: 0.85rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px;"> Key</a>`
+        : `<span class="text-muted" style="font-size: 0.85rem;">N/A</span>`;
+
+      let mrsHtml = session.mrs 
+        ? `<a href="${session.mrs}" target="_blank" title="Download Model Response Set" class="btn btn-sm btn-info text-white bi bi-award" style="padding: 0.35rem 0.6rem; font-size: 0.85rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px;"> Model</a>`
+        : `<span class="text-muted" style="font-size: 0.85rem;">N/A</span>`;
+
+      html += `
+        <tr>
+          <td><strong>${session.year}</strong></td>
+          <td><span class="badge bg-secondary">${monthFull || 'Annual'}</span></td>
+          <td style="text-align: center;">${qpHtml}</td>
+          <td style="text-align: center;">${skHtml}</td>
+          <td style="text-align: center;">${mrsHtml}</td>
+        </tr>
+      `;
+    });
+
+    html += `
+          </tbody>
+        </table>
+      </div>
+      <div class="d-flex justify-content-center align-items-center gap-2 mt-3" id="regents-pagination-controls"></div>
+    `;
+
+    container.innerHTML = html;
+
+    const paginationContainer = document.getElementById('regents-pagination-controls');
+    if (totalPages <= 1 || !paginationContainer) return;
+
+    let pagHtml = '';
+    pagHtml += `<button class="btn btn-sm btn-outline-primary" ${regentsPage === 1 ? 'disabled' : ''} onclick="window.changeRegentsPage(${regentsPage - 1})">Prev</button>`;
+    
+    for (let i = 1; i <= totalPages; i++) {
+      if (i === regentsPage) {
+        pagHtml += `<button class="btn btn-sm btn-primary active">${i}</button>`;
+      } else {
+        if (i === 1 || i === totalPages || Math.abs(i - regentsPage) <= 1) {
+          pagHtml += `<button class="btn btn-sm btn-outline-primary" onclick="window.changeRegentsPage(${i})">${i}</button>`;
+        } else if (i === 2 || i === totalPages - 1) {
+          pagHtml += `<span class="text-muted px-1">...</span>`;
+        }
+      }
+    }
+
+    pagHtml += `<button class="btn btn-sm btn-outline-primary" ${regentsPage === totalPages ? 'disabled' : ''} onclick="window.changeRegentsPage(${regentsPage + 1})">Next</button>`;
+    
+    paginationContainer.innerHTML = pagHtml.replace(/(<span class="text-muted px-1">\.\.\.<\/span>\s*){2,}/g, '<span class="text-muted px-1">...</span>');
+  }
+
+  window.changeRegentsPage = function(page) {
+    regentsPage = page;
+    renderRegentsTableData();
+    const elem = document.getElementById('regents-table-container');
+    if (elem) elem.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  };
+
+  function applyRegentsFilters() {
+    let rawFiltered = regentsDb.filter(item => item.subject === targetSubject);
+
+    if (regentsSelectedYear) {
+      rawFiltered = rawFiltered.filter(item => item.year.toString() === regentsSelectedYear);
+    }
+    if (regentsKeyword) {
+      const kw = regentsKeyword.toLowerCase();
+      rawFiltered = rawFiltered.filter(item => 
+        item.year.toString().toLowerCase().includes(kw) ||
+        item.month.toLowerCase().includes(kw) ||
+        item.doc_type.toLowerCase().includes(kw) ||
+        item.filename.toLowerCase().includes(kw)
+      );
+    }
+
+    const sessions = {};
+    rawFiltered.forEach(item => {
+      const key = `${item.year}_${item.month}`;
+      if (!sessions[key]) {
+        sessions[key] = {
+          year: item.year,
+          month: item.month,
+          qp: null,
+          sk: null,
+          mrs: null
+        };
+      }
+      if (item.doc_type === 'question') {
+        sessions[key].qp = item.link;
+      } else if (item.doc_type === 'scoring-key') {
+        sessions[key].sk = item.link;
+      } else if (item.doc_type === 'model response set') {
+        sessions[key].mrs = item.link;
+      }
+    });
+
+    filteredRegentsSessions = Object.values(sessions);
+    filteredRegentsSessions.sort((a, b) => {
+      if (a.year !== b.year) return parseInt(b.year) - parseInt(a.year);
+      return a.month.localeCompare(b.month);
+    });
+
+    regentsPage = 1;
+    renderRegentsTableData();
+  }
+
+  window.selectRegentsYearDropdown = function() {
+    const yearSelect = document.getElementById('regents-filter-year');
+    regentsSelectedYear = yearSelect ? (yearSelect.value || '') : '';
+    applyRegentsFilters();
+  };
+
+  window.filterRegentsExams = function() {
+    const input = document.getElementById('regents-search-input');
+    regentsKeyword = input ? (input.value || '') : '';
+    applyRegentsFilters();
+  };
+
+  async function initRegentsTable() {
+    const container = document.getElementById('regents-table-container');
+    const db = await loadRegentsDb();
+    
+    if (!db || db.length === 0) {
+      if (container) container.innerHTML = '<p><i class="bi bi-exclamation-triangle-fill" style="color: #ef4444;"></i> Error: Failed to load Regents examination database. Please try again later.</p>';
+      return;
+    }
+
+    populateRegentsYearDropdown(db);
+    applyRegentsFilters();
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initRegentsTable);
+  } else {
+    initRegentsTable();
+  }
+})();
+</script>
 </section>
-<section id="kho-đề-past-papers-theo-chuyên-đề" class="level2">
-<h2 class="anchored" data-anchor-id="kho-đề-past-papers-theo-chuyên-đề">5. Kho Đề Past Papers Theo Chuyên Đề</h2>
-<div class="program-grid">
-<section id="topic-1-triangle-proofs" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-1-triangle-proofs">Topic 1: Triangle Proofs</h3>
-<ul>
-<li>Luyện giải các bài toán viết lập luận chứng minh tam giác bằng nhau, tam giác đồng dạng.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 1 →</strong></a></li>
-</ul>
 </section>
-<section id="topic-2-trigonometry-special-triangles" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-2-trigonometry-special-triangles">Topic 2: Trigonometry Special Triangles</h3>
-<ul>
-<li>Các bài toán tam giác vuông lượng giác, tam giác đặc biệt <span class="math inline">\(30-60-90\)</span> và định lý Pythagoras.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 2 →</strong></a></li>
-</ul>
-</section>
-<section id="topic-3-circle-geometry" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-3-circle-geometry">Topic 3: Circle Geometry</h3>
-<ul>
-<li>Tính diện tích hình quạt tròn, độ dài cung, góc nội tiếp và tiếp tuyến cắt đường tròn.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 3 →</strong></a></li>
-</ul>
-</section>
-<section id="topic-4-3d-solid-mensuration" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-4-3d-solid-mensuration">Topic 4: 3D Solid Mensuration</h3>
-<ul>
-<li>Tính toán thể tích và diện tích bề mặt của hình nón, hình cầu, lăng trụ và khối chóp ghép.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 4 →</strong></a></li>
-</ul>
-</section>
-</div>
-</section>
-<section id="geometry-books" class="level2">
-<h2 class="anchored" data-anchor-id="geometry-books">6. Geometry Books</h2>
-<p>Access core textbooks and practice guides for Common Core Geometry below:</p>
+<section id="recommended-geometry-textbooks-study-guides" class="level2">
+<h2 class="anchored" data-anchor-id="recommended-geometry-textbooks-study-guides">2. Recommended Geometry Textbooks &amp; Study Guides</h2>
+<p><em>Access official High School Geometry textbooks, practice workbooks, and comprehensive reference materials:</em></p>
 <div class="book-grid">
 <div class="book-card">
 <div class="book-cover-container">
@@ -695,7 +1004,7 @@ window.Quarto = {
 California Geometry: Concepts, Skills, and Problem Solving
 </h4>
 <div class="book-meta">
-<strong>Author:</strong> Cindy J. Boyd, Jerry Cummins, Carol E. Malloy, John A. Carter, Alfinio Flores
+<strong>Author:</strong> Cindy J. Boyd, Jerry Cummins, Carol E. Malloy
 </div>
 <div class="book-meta">
 <strong>Publisher:</strong> Glencoe/McGraw-Hill
@@ -708,7 +1017,7 @@ California Geometry: Concepts, Skills, and Problem Solving
 </div>
 <div class="book-card">
 <div class="book-cover-container">
-<p><img src="../../images/books/us_math/geometry/geometry-concepts-and-applications-student-edition-glencoe-mathematics-.png" class="book-cover-img" alt="Geometry: Concepts and Applications (Student Edition) Cover"></p>
+<p><img src="../../images/books/us_math/geometry/geometry-concepts-and-applications-student-edition-glencoe-mathematics-.png" class="book-cover-img" alt="Geometry: Concepts and Applications Cover"></p>
 </div>
 <div class="book-info">
 <h4 class="book-title anchored">
@@ -728,7 +1037,7 @@ Geometry: Concepts and Applications (Student Edition)
 </div>
 <div class="book-card">
 <div class="book-cover-container">
-<p><img src="../../images/books/us_math/geometry/geometry-success-in-20-minutes-a-day.png" class="book-cover-img" alt="Geometry Success in 20 Minutes a Day (2nd Edition) Cover"></p>
+<p><img src="../../images/books/us_math/geometry/geometry-success-in-20-minutes-a-day.png" class="book-cover-img" alt="Geometry Success in 20 Minutes a Day Cover"></p>
 </div>
 <div class="book-info">
 <h4 class="book-title anchored">
@@ -795,7 +1104,7 @@ Holt McDougal Larson Geometry
 Holt California Geometry
 </h4>
 <div class="book-meta">
-<strong>Author:</strong> Edward B. Burger, David J. Chard, Paul A. Kennedy, Steven J. Leinwand
+<strong>Author:</strong> Edward B. Burger, David J. Chard, Paul A. Kennedy
 </div>
 <div class="book-meta">
 <strong>Publisher:</strong> Holt, Rinehart and Winston
@@ -808,7 +1117,7 @@ Holt California Geometry
 </div>
 <div class="book-card">
 <div class="book-cover-container">
-<p><img src="../../images/books/us_math/geometry/learningexpress-editors-501-geometry-questions-answers-learningexpress-llc-2007-.png" class="book-cover-img" alt="501 Geometry Questions (2nd Edition) Cover"></p>
+<p><img src="../../images/books/us_math/geometry/learningexpress-editors-501-geometry-questions-answers-learningexpress-llc-2007-.png" class="book-cover-img" alt="501 Geometry Questions Cover"></p>
 </div>
 <div class="book-info">
 <h4 class="book-title anchored">
@@ -828,7 +1137,7 @@ Holt California Geometry
 </div>
 <div class="book-card">
 <div class="book-cover-container">
-<p><img src="../../images/books/us_math/geometry/michael-buckley-geometry-curriculum-binders-reproducibles-2006-.png" class="book-cover-img" alt="Geometry (Curriculum Binders) Cover"></p>
+<p><img src="../../images/books/us_math/geometry/michael-buckley-geometry-curriculum-binders-reproducibles-2006-.png" class="book-cover-img" alt="Geometry Curriculum Binders Cover"></p>
 </div>
 <div class="book-info">
 <h4 class="book-title anchored">
@@ -1265,7 +1574,7 @@ Geometry (Curriculum Binders)
     }
   });
   </script>
-<nav class="page-navigation">
+<nav class="page-navigation column-body">
   <div class="nav-page nav-page-previous">
       <a href="../../math/common-core/algebra1.html" class="pagination-link" aria-label="Common Core Algebra 1">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Common Core Algebra 1</span>
@@ -1281,10 +1590,10 @@ Geometry (Curriculum Binders)
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Copyright © 2026 Dr.&nbsp;Kiem Nguyen</p>
+<p>Copyright © 2026 Dr.&nbsp;Kiem Nguyen. All rights reserved.</p>
 </div>   
     <div class="nav-footer-center">
-<p><a href="../../index.html">Home</a> | <a href="../../math/ib/index.html">Mathematics</a> | <a href="../../chem/ib/index.html">Chemistry</a></p>
+<p><a href="../../index.html">Home</a> | <a href="../../math/ib/index.html">Mathematics</a> | <a href="../../chem/ib/index.html">Chemistry</a> | <a href="../../test_bank.html">Test Bank</a> | <a href="../../books.html">Books</a> | <a href="../../news.html">News &amp; Updates</a> | <a href="../../about.html">About</a></p>
 </div>
     <div class="nav-footer-right">
 <p><a href="mailto:khackiemnguyen@gmail.com" class="text-white me-3" style="text-decoration: none;" title="Email"><i class="bi bi-envelope-fill"></i></a> <a href="tel:0815113114" class="text-white me-3" style="text-decoration: none;" title="Gọi điện"><i class="bi bi-telephone-fill"></i></a> <a href="https://zalo.me/0815113114" target="_blank" class="text-white me-3" style="text-decoration: none;" title="Zalo"><i class="bi bi-chat-dots-fill"></i> Zalo</a> <a href="https://wa.me/84815113114" target="_blank" class="text-white me-3" style="text-decoration: none;" title="WhatsApp"><i class="bi bi-whatsapp"></i></a> <a href="https://line.me/ti/p/~141173314" target="_blank" class="text-white me-3" style="text-decoration: none;" title="Line"><i class="bi bi-line"></i></a> <a href="https://t.me/+84815113114" target="_blank" class="text-white me-3" style="text-decoration: none;" title="Telegram"><i class="bi bi-telegram"></i></a> <a href="https://www.facebook.com/share/1EX9cfmDD3/" target="_blank" class="text-white" style="text-decoration: none;" title="Fanpage"><i class="bi bi-facebook"></i></a></p>

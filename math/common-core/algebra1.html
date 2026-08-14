@@ -113,7 +113,7 @@ gtag('config', 'G-Y5KN25P14N', { 'anonymize_ip': true});
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="NKK-Education Hub">
 <meta property="og:title" content="Common Core Algebra 1 – NKK-Education Hub">
-<meta property="og:description" content="Chương Trình Đại Số 1 Phổ Thông Hệ Mỹ (High School)">
+<meta property="og:description" content="Comprehensive High School Mathematics Practice Questions, Topic Worksheets &amp; Reference Textbooks">
 <meta property="og:url" content="https://drkiem.vn">
 <meta property="og:image" content="https://drkiem.vn/images/academic_workspace.png">
 
@@ -172,35 +172,6 @@ gtag('config', 'G-Y5KN25P14N', { 'anonymize_ip': true});
 }
 </script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -449,6 +420,10 @@ window.Quarto = {
 <span class="menu-text">Books</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../../news.html"> 
+<span class="menu-text">News &amp; Updates</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
@@ -472,7 +447,7 @@ window.Quarto = {
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="sidebar-menu-container"> 
@@ -510,7 +485,7 @@ window.Quarto = {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../math/common-core/pre-calculus.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Common Core Pre-Calculus</span></a>
+ <span class="menu-text">Common Core Pre-Calculus &amp; Calculus Foundations</span></a>
   </div>
 </li>
     </ul>
@@ -523,32 +498,27 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#giới-thiệu-chương-trình" id="toc-giới-thiệu-chương-trình" class="nav-link active" data-scroll-target="#giới-thiệu-chương-trình">1. Giới Thiệu Chương Trình</a></li>
-  <li><a href="#khung-chương-trình-chi-tiết-syllabus-core" id="toc-khung-chương-trình-chi-tiết-syllabus-core" class="nav-link" data-scroll-target="#khung-chương-trình-chi-tiết-syllabus-core">2. Khung Chương Trình Chi Tiết (Syllabus Core)</a></li>
-  <li><a href="#ví-dụ-minh-họa-công-thức-trọng-tâm" id="toc-ví-dụ-minh-họa-công-thức-trọng-tâm" class="nav-link" data-scroll-target="#ví-dụ-minh-họa-công-thức-trọng-tâm">3. Ví Dụ Minh Họa &amp; Công Thức Trọng Tâm</a>
+  <li><a href="#algebra-1-practice-questions-worksheets-by-topic" id="toc-algebra-1-practice-questions-worksheets-by-topic" class="nav-link active" data-scroll-target="#algebra-1-practice-questions-worksheets-by-topic">1. Algebra 1 Practice Questions &amp; Worksheets by Topic</a>
   <ul class="collapse">
-  <li><a href="#công-thức-nghiệm-phương-trình-bậc-hai-quadratic-formula" id="toc-công-thức-nghiệm-phương-trình-bậc-hai-quadratic-formula" class="nav-link" data-scroll-target="#công-thức-nghiệm-phương-trình-bậc-hai-quadratic-formula">Công thức nghiệm phương trình bậc hai (Quadratic Formula)</a></li>
-  <li><a href="#hệ-số-góc-của-đường-thẳng-slope-formula" id="toc-hệ-số-góc-của-đường-thẳng-slope-formula" class="nav-link" data-scroll-target="#hệ-số-góc-của-đường-thẳng-slope-formula">Hệ số góc của đường thẳng (Slope formula)</a></li>
+  <li><a href="#official-nys-high-school-regents-examination-papers" id="toc-official-nys-high-school-regents-examination-papers" class="nav-link" data-scroll-target="#official-nys-high-school-regents-examination-papers">1.3 Official NYS High School Regents Examination Papers</a></li>
   </ul></li>
-  <li><a href="#bẫy-điểm-số-phương-pháp-làm-bài-exam-tips" id="toc-bẫy-điểm-số-phương-pháp-làm-bài-exam-tips" class="nav-link" data-scroll-target="#bẫy-điểm-số-phương-pháp-làm-bài-exam-tips">4. Bẫy Điểm Số &amp; Phương Pháp Làm Bài (Exam Tips)</a></li>
-  <li><a href="#kho-đề-past-papers-theo-chuyên-đề" id="toc-kho-đề-past-papers-theo-chuyên-đề" class="nav-link" data-scroll-target="#kho-đề-past-papers-theo-chuyên-đề">5. Kho Đề Past Papers Theo Chuyên Đề</a></li>
-  <li><a href="#algebra-1-books" id="toc-algebra-1-books" class="nav-link" data-scroll-target="#algebra-1-books">6. Algebra 1 Books</a></li>
+  <li><a href="#recommended-algebra-1-textbooks-study-guides" id="toc-recommended-algebra-1-textbooks-study-guides" class="nav-link" data-scroll-target="#recommended-algebra-1-textbooks-study-guides">2. Recommended Algebra 1 Textbooks &amp; Study Guides</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-body" id="quarto-document-content">
 
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Common Core Algebra 1</h1>
-<p class="subtitle lead">Chương Trình Đại Số 1 Phổ Thông Hệ Mỹ (High School)</p>
+<p class="subtitle lead">Comprehensive High School Mathematics Practice Questions, Topic Worksheets &amp; Reference Textbooks</p>
 </div>
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-body">
 
     
   
@@ -566,289 +536,488 @@ window.Quarto = {
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Tài nguyên tự học: Common Core Algebra 1
+<span class="screen-reader-only">Note</span>High School Mathematics Study Guidance: Common Core Algebra 1
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức Đại số 1 cơ bản, ví dụ minh họa công thức LaTeX sắc nét, bài tập tự luyện và ngân hàng câu hỏi củng cố. Đây là nền tảng đại số cốt lõi nhất bắt buộc phải nắm vững cho mọi môn học toán học tiếp theo.</p>
+<p>Welcome to the <strong>Common Core Algebra 1</strong> study portal! Algebra 1 is the essential gateway course in High School Mathematics designed under the <strong>Common Core State Standards (CCSS)</strong>. It establishes critical mathematical thinking by transitioning from concrete arithmetic to abstract algebraic reasoning.</p>
+<p>Below you will find our curated collection of <strong>96 topic-specific practice worksheets</strong> covering 14 core algebraic units—including linear equations, inequalities, quadratic functions, polynomials, radical expressions, and statistical data analysis. Use the interactive practice bank and reference textbooks to strengthen your problem-solving skills and prepare for high school end-of-course exams, Regents, SAT, and AP Mathematics.</p>
 </div>
 </div>
-<section id="giới-thiệu-chương-trình" class="level2">
-<h2 class="anchored" data-anchor-id="giới-thiệu-chương-trình">1. Giới Thiệu Chương Trình</h2>
-<p>
-<strong>Algebra 1</strong> là học phần đại số đầu tiên bậc High School của hệ thống giáo dục Mỹ (Common Core State Standards). Môn học tập trung phát triển tư duy chuyển dịch từ số học cụ thể sang đại số biến số trừu tượng, giải quyết các phương trình tuyến tính và phi tuyến cơ bản.
-</p>
+<section id="algebra-1-practice-questions-worksheets-by-topic" class="level2">
+<h2 class="anchored" data-anchor-id="algebra-1-practice-questions-worksheets-by-topic">1. Algebra 1 Practice Questions &amp; Worksheets by Topic</h2>
+<p><em>Select a specific topic from the dropdown menu or type keywords to search through 96 printable practice worksheets with answers:</em></p>
+<div class="search-engine-box">
+<div class="card p-3 mb-4 shadow-sm" style="border-radius: 12px; border: 1px solid rgba(0,0,0,0.08); background: var(--bs-card-bg, #ffffff);">
+  <div class="card-body p-0">
+    <div class="d-flex align-items-center flex-wrap gap-3">
+      
+      <div class="d-flex align-items-center gap-2" style="min-width: 260px;">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Topic Unit:</span>
+        <select id="filter-alg1-topic" class="form-select form-select-sm" onchange="window.filterAlgebra1Worksheets()" style="display: inline-block;">
+          <option value="" selected="">All 14 Topics (96 Worksheets)</option>
+          <option value="1">1. Basics</option>
+          <option value="2">2. Equations</option>
+          <option value="3">3. Inequalities</option>
+          <option value="4">4. Relations and Introduction to Functions</option>
+          <option value="5">5. Linear Equations and Inequalities</option>
+          <option value="6">6. Systems of Equations and Inequalities</option>
+          <option value="7">7. Word Problems</option>
+          <option value="8">8. Exponents</option>
+          <option value="9">9. Polynomials</option>
+          <option value="10">10. Quadratic Functions</option>
+          <option value="11">11. Radical Expression</option>
+          <option value="12">12. Rational Expressions</option>
+          <option value="13">13. Trigonometry</option>
+          <option value="14">14. Statistics</option>
+        </select>
+      </div>
+
+      <div class="d-none d-md-block" style="border-left: 1px solid rgba(0,0,0,0.1); height: 24px;"></div>
+      
+      <div class="d-flex align-items-center gap-2 flex-grow-1" style="min-width: 240px;">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--bs-body-color); white-space: nowrap;">Search Title:</span>
+        <input type="text" id="search-alg1-keyword" class="form-control form-control-sm" placeholder="e.g. Factoring, Quadratic, Slope, Integers..." oninput="window.filterAlgebra1Worksheets()">
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div id="alg1-table-container">
+  <p><i class="bi bi-hourglass-split"></i> Loading Algebra 1 practice worksheets...</p>
+</div>
+
+<script>
+(function() {
+  let alg1Db = [];
+  let currentPage = 1;
+  const pageSize = 15;
+  let filteredItems = [];
+
+  async function loadAlg1Db() {
+    if (alg1Db.length > 0) return alg1Db;
+    try {
+      const response = await fetch('algebra_1_kuta_math_metadata.json');
+      if (!response.ok) throw new Error('Network response was not ok');
+      alg1Db = await response.json();
+    } catch (error) {
+      console.error('Failed to load Algebra 1 worksheets metadata:', error);
+    }
+    return alg1Db;
+  }
+
+  function renderTableData() {
+    const container = document.getElementById('alg1-table-container');
+    if (!container) return;
+
+    if (filteredItems.length === 0) {
+      container.innerHTML = '<p style="padding: 1rem; text-align: center; color: #9ca3af;"><i class="bi bi-info-circle"></i> No matching practice worksheets found for your search criteria.</p>';
+      return;
+    }
+
+    const totalPages = Math.ceil(filteredItems.length / pageSize);
+    if (currentPage > totalPages) currentPage = Math.max(1, totalPages);
+
+    const start = (currentPage - 1) * pageSize;
+    const end = start + pageSize;
+    const pageItems = filteredItems.slice(start, end);
+
+    let html = `
+      <div class="table-wrapper">
+        <table class="premium-table">
+          <thead>
+            <tr>
+              <th style="width: 250px;">Topic Unit</th>
+              <th>Worksheet Practice Title</th>
+              <th style="text-align: center; width: 120px;">Download</th>
+            </tr>
+          </thead>
+          <tbody>
+    `;
+
+    pageItems.forEach(item => {
+      const driveLink = item.google_drive_link || '#';
+      const topicLabel = `${item.topic_id}. ${item.topic_name}`;
+      
+      html += `
+        <tr>
+          <td><span class="badge" style="background-color: #3b82f6; color: #ffffff; font-weight: 600; font-size: 0.8rem; padding: 0.35em 0.7em;">${topicLabel}</span></td>
+          <td><strong>${item.title}</strong></td>
+          <td style="text-align: center;">
+            <a href="${driveLink}" target="_blank" title="Download Worksheet PDF" class="btn btn-sm btn-primary bi bi-file-earmark-pdf" style="padding: 0.35rem 0.65rem; font-size: 0.9rem; border-radius: 6px;"> PDF</a>
+          </td>
+        </tr>
+      `;
+    });
+
+    html += `
+          </tbody>
+        </table>
+      </div>
+      <div class="d-flex justify-content-center align-items-center gap-2 mt-3" id="alg1-pagination-controls"></div>
+    `;
+
+    container.innerHTML = html;
+
+    const paginationContainer = document.getElementById('alg1-pagination-controls');
+    if (!paginationContainer) return;
+
+    if (totalPages <= 1) {
+      paginationContainer.innerHTML = '';
+      return;
+    }
+
+    let pagHtml = `<button class="btn btn-sm btn-outline-primary" ${currentPage === 1 ? 'disabled' : ''} onclick="window.changeAlg1Page(${currentPage - 1})">Prev</button>`;
+    for (let i = 1; i <= totalPages; i++) {
+      if (i === currentPage) {
+        pagHtml += `<button class="btn btn-sm btn-primary active">${i}</button>`;
+      } else if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= 1) {
+        pagHtml += `<button class="btn btn-sm btn-outline-primary" onclick="window.changeAlg1Page(${i})">${i}</button>`;
+      } else if (i === 2 || i === totalPages - 1) {
+        pagHtml += `<span class="text-muted px-1">...</span>`;
+      }
+    }
+    pagHtml += `<button class="btn btn-sm btn-outline-primary" ${currentPage === totalPages ? 'disabled' : ''} onclick="window.changeAlg1Page(${currentPage + 1})">Next</button>`;
+    
+    paginationContainer.innerHTML = pagHtml.replace(/(<span class="text-muted px-1">\.\.\.<\/span>\s*){2,}/g, '<span class="text-muted px-1">...</span>');
+  }
+
+  window.changeAlg1Page = function(page) {
+    currentPage = page;
+    renderTableData();
+  };
+
+  window.filterAlgebra1Worksheets = function() {
+    const topicEl = document.getElementById('filter-alg1-topic');
+    const keywordEl = document.getElementById('search-alg1-keyword');
+    
+    const selectedTopic = topicEl ? (topicEl.value || '') : '';
+    const keyword = keywordEl ? (keywordEl.value || '').trim().toLowerCase() : '';
+
+    filteredItems = alg1Db.filter(item => {
+      let matchesTopic = true;
+      if (selectedTopic) {
+        matchesTopic = item.topic_id.toString() === selectedTopic;
+      }
+      
+      let matchesKeyword = true;
+      if (keyword) {
+        const titleMatch = item.title.toLowerCase().includes(keyword);
+        const topicMatch = item.topic_name.toLowerCase().includes(keyword);
+        matchesKeyword = titleMatch || topicMatch;
+      }
+
+      return matchesTopic && matchesKeyword;
+    });
+
+    currentPage = 1;
+    renderTableData();
+  };
+
+  async function initAlg1Table() {
+    const container = document.getElementById('alg1-table-container');
+    if (!container) return;
+
+    const db = await loadAlg1Db();
+    if (!db || db.length === 0) {
+      container.innerHTML = '<p><i class="bi bi-exclamation-triangle-fill" style="color: #ef4444;"></i> Error: Failed to load Algebra 1 metadata.</p>';
+      return;
+    }
+
+    filteredItems = db;
+    currentPage = 1;
+    renderTableData();
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initAlg1Table);
+  } else {
+    initAlg1Table();
+  }
+})();
+</script>
+</div>
 <hr>
-</section>
-<section id="khung-chương-trình-chi-tiết-syllabus-core" class="level2">
-<h2 class="anchored" data-anchor-id="khung-chương-trình-chi-tiết-syllabus-core">2. Khung Chương Trình Chi Tiết (Syllabus Core)</h2>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
+<section id="official-nys-high-school-regents-examination-papers" class="level3">
+<h3 class="anchored" data-anchor-id="official-nys-high-school-regents-examination-papers">1.3 Official NYS High School Regents Examination Papers</h3>
+<p>Access official New York State (NYS) Regents High School Examination papers, scoring keys, rating guides, and model student response sets. Select exam year or search by keyword to download official PDFs.</p>
+<div class="kuta-search-container my-4 p-4 rounded-3 shadow-sm bg-body-tertiary" style="border: 1px solid rgba(0,0,0,0.08);">
+<div class="row g-3 align-items-center mb-3">
+<div class="col-md-4">
+<label for="regents-filter-year" class="form-label fw-semibold mb-1 small text-uppercase">Filter by Exam Year</label>
+<select id="regents-filter-year" class="form-select form-select-sm" onchange="selectRegentsYearDropdown()">
+<option value="">All Years</option>
+</select>
 </div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span>Các chuyên đề cốt lõi của Algebra 1:
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ol type="1">
-<li><strong>Linear Equations and Inequalities (Phương trình &amp; Bất phương trình tuyến tính):</strong>
-<ul>
-<li>Giải phương trình 1 ẩn, hệ phương trình tuyến tính 2 ẩn bằng phương pháp thế hoặc cộng đại số.</li>
-<li>Giải và biểu diễn tập nghiệm bất phương trình tuyến tính trên trục số.</li>
-</ul></li>
-<li><strong>Linear Functions and Graphs (Hàm số tuyến tính):</strong>
-<ul>
-<li>Hệ số góc (slope) <span class="math inline">\(m = \frac{y_2-y_1}{x_2-x_1}\)</span>. Viết phương trình đường thẳng dạng <span class="math inline">\(y=mx+b\)</span> hoặc dạng tiêu chuẩn.</li>
-</ul></li>
-<li><strong>Quadratic Functions (Hàm số bậc hai):</strong>
-<ul>
-<li>Biến đổi đa thức bậc hai dạng khai triển sang dạng nhân tử (factoring) và dạng bình phương hoàn chỉnh.</li>
-<li>Sử dụng công thức nghiệm bậc hai (quadratic formula) để tìm nghiệm.</li>
-</ul></li>
-<li><strong>Exponents and Exponential Functions (Hàm số mũ cơ bản):</strong>
-<ul>
-<li>Các quy luật mũ nguyên, vẽ đồ thị hàm số mũ cơ bản tăng trưởng/suy giảm.</li>
-</ul></li>
-</ol>
+<div class="col-md-8">
+<label for="regents-search-input" class="form-label fw-semibold mb-1 small text-uppercase">Search Keyword</label>
+<div class="input-group input-group-sm">
+<span class="input-group-text"><i class="bi bi-search"></i></span>
+<input type="text" id="regents-search-input" class="form-control" placeholder="Search by year, month session, or document..." onkeyup="filterRegentsExams()">
 </div>
 </div>
-<hr>
-</section>
-<section id="ví-dụ-minh-họa-công-thức-trọng-tâm" class="level2">
-<h2 class="anchored" data-anchor-id="ví-dụ-minh-họa-công-thức-trọng-tâm">3. Ví Dụ Minh Họa &amp; Công Thức Trọng Tâm</h2>
-<p>Công thức đại số hiển thị sắc nét bằng LaTeX:</p>
-<section id="công-thức-nghiệm-phương-trình-bậc-hai-quadratic-formula" class="level3">
-<h3 class="anchored" data-anchor-id="công-thức-nghiệm-phương-trình-bậc-hai-quadratic-formula">Công thức nghiệm phương trình bậc hai (Quadratic Formula)</h3>
-<p>Nghiệm của phương trình bậc hai tổng quát <span class="math inline">\(ax^2 + bx + c = 0\)</span> (<span class="math inline">\(a \neq 0\)</span>): <span class="math display">\[x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}\]</span></p>
-</section>
-<section id="hệ-số-góc-của-đường-thẳng-slope-formula" class="level3">
-<h3 class="anchored" data-anchor-id="hệ-số-góc-của-đường-thẳng-slope-formula">Hệ số góc của đường thẳng (Slope formula)</h3>
-<p>Hệ số góc <span class="math inline">\(m\)</span> của đường thẳng đi qua hai điểm <span class="math inline">\(A(x_1, y_1)\)</span> và <span class="math inline">\(B(x_2, y_2)\)</span>: <span class="math display">\[m = \frac{y_2 - y_1}{x_2 - x_1}\]</span></p>
-<hr>
-</section>
-</section>
-<section id="bẫy-điểm-số-phương-pháp-làm-bài-exam-tips" class="level2">
-<h2 class="anchored" data-anchor-id="bẫy-điểm-số-phương-pháp-làm-bài-exam-tips">4. Bẫy Điểm Số &amp; Phương Pháp Làm Bài (Exam Tips)</h2>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
 </div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Các lỗi phổ biến học sinh cần tránh ở Algebra 1:
+
+<div id="regents-table-container">
+<div class="text-center py-4 text-muted">
+<div class="spinner-border spinner-border-sm text-primary me-2" role="status"></div>
+Loading Regents examination database...
 </div>
 </div>
-<div class="callout-body-container callout-body">
-<ul>
-<li><strong>⚠️ Đảo chiều bất đẳng thức khi nhân/chia số âm:</strong> Đây là lỗi kinh điển nhất của học sinh. Khi nhân hoặc chia cả hai vế của một bất đẳng thức với một <strong>số âm</strong>, ta bắt buộc phải <strong>đảo ngược chiều</strong> của bất đẳng thức (ví dụ: <span class="math inline">\(-2x &lt; 6 \Leftrightarrow x &gt; -3\)</span>).</li>
-<li><strong>⚠️ Rút gọn đa thức sai quy tắc phân phối:</strong> Hãy cẩn thận khi nhân phá ngoặc có dấu trừ phía trước, ví dụ: <span class="math inline">\(-(x - 3) = -x + 3\)</span>.</li>
-</ul>
 </div>
-</div>
-<hr>
+
+<script>
+(function() {
+  let regentsDb = [];
+  let regentsSelectedYear = '';
+  let regentsKeyword = '';
+  let regentsPage = 1;
+  const regentsPageSize = 10;
+  let filteredRegentsSessions = [];
+  const targetSubject = 'algebra_1';
+
+  async function loadRegentsDb() {
+    if (regentsDb.length > 0) return regentsDb;
+    try {
+      const response = await fetch('regents_metadata.json');
+      if (!response.ok) throw new Error('Network response was not ok');
+      regentsDb = await response.json();
+    } catch (error) {
+      console.error('Failed to load Regents metadata:', error);
+    }
+    return regentsDb;
+  }
+
+  function populateRegentsYearDropdown(db) {
+    const yearSelect = document.getElementById('regents-filter-year');
+    if (!yearSelect) return;
+
+    const years = new Set();
+    db.forEach(item => {
+      if (item.subject === targetSubject && item.year) {
+        years.add(item.year.toString().trim());
+      }
+    });
+
+    const sortedYears = Array.from(years).sort((a, b) => parseInt(b) - parseInt(a));
+
+    yearSelect.innerHTML = '<option value="">All Years</option>';
+    sortedYears.forEach(year => {
+      const option = document.createElement('option');
+      option.value = year;
+      option.textContent = year;
+      yearSelect.appendChild(option);
+    });
+  }
+
+  function renderRegentsTableData() {
+    const container = document.getElementById('regents-table-container');
+    if (!container) return;
+
+    if (filteredRegentsSessions.length === 0) {
+      container.innerHTML = '<p style="padding: 1rem; text-align: center; color: #9ca3af;"><i class="bi bi-info-circle"></i> No matching Regents examination papers found.</p>';
+      return;
+    }
+
+    const totalPages = Math.ceil(filteredRegentsSessions.length / regentsPageSize);
+    if (regentsPage > totalPages) regentsPage = Math.max(1, totalPages);
+
+    const start = (regentsPage - 1) * regentsPageSize;
+    const end = start + regentsPageSize;
+    const pageItems = filteredRegentsSessions.slice(start, end);
+
+    let html = `
+      <div class="table-wrapper">
+        <table class="premium-table">
+          <thead>
+            <tr>
+              <th>Year</th>
+              <th>Session / Month</th>
+              <th style="text-align: center; width: 100px;">Question Paper</th>
+              <th style="text-align: center; width: 100px;">Scoring Key</th>
+              <th style="text-align: center; width: 110px;">Model Answers</th>
+            </tr>
+          </thead>
+          <tbody>
+    `;
+
+    pageItems.forEach(session => {
+      let monthFull = session.month;
+      if (session.month === 'Jan') monthFull = 'January';
+      else if (session.month === 'Jun') monthFull = 'June';
+      else if (session.month === 'Aug') monthFull = 'August';
+
+      let qpHtml = session.qp 
+        ? `<a href="${session.qp}" target="_blank" title="Download Question Paper" class="btn btn-sm btn-primary bi bi-file-earmark-text" style="padding: 0.35rem 0.6rem; font-size: 0.85rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px;"> Exam</a>`
+        : `<span class="text-muted" style="font-size: 0.85rem;">N/A</span>`;
+
+      let skHtml = session.sk 
+        ? `<a href="${session.sk}" target="_blank" title="Download Scoring Key" class="btn btn-sm btn-success bi bi-key" style="padding: 0.35rem 0.6rem; font-size: 0.85rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px;"> Key</a>`
+        : `<span class="text-muted" style="font-size: 0.85rem;">N/A</span>`;
+
+      let mrsHtml = session.mrs 
+        ? `<a href="${session.mrs}" target="_blank" title="Download Model Response Set" class="btn btn-sm btn-info text-white bi bi-award" style="padding: 0.35rem 0.6rem; font-size: 0.85rem; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px;"> Model</a>`
+        : `<span class="text-muted" style="font-size: 0.85rem;">N/A</span>`;
+
+      html += `
+        <tr>
+          <td><strong>${session.year}</strong></td>
+          <td><span class="badge bg-secondary">${monthFull || 'Annual'}</span></td>
+          <td style="text-align: center;">${qpHtml}</td>
+          <td style="text-align: center;">${skHtml}</td>
+          <td style="text-align: center;">${mrsHtml}</td>
+        </tr>
+      `;
+    });
+
+    html += `
+          </tbody>
+        </table>
+      </div>
+      <div class="d-flex justify-content-center align-items-center gap-2 mt-3" id="regents-pagination-controls"></div>
+    `;
+
+    container.innerHTML = html;
+
+    const paginationContainer = document.getElementById('regents-pagination-controls');
+    if (totalPages <= 1 || !paginationContainer) return;
+
+    let pagHtml = '';
+    pagHtml += `<button class="btn btn-sm btn-outline-primary" ${regentsPage === 1 ? 'disabled' : ''} onclick="window.changeRegentsPage(${regentsPage - 1})">Prev</button>`;
+    
+    for (let i = 1; i <= totalPages; i++) {
+      if (i === regentsPage) {
+        pagHtml += `<button class="btn btn-sm btn-primary active">${i}</button>`;
+      } else {
+        if (i === 1 || i === totalPages || Math.abs(i - regentsPage) <= 1) {
+          pagHtml += `<button class="btn btn-sm btn-outline-primary" onclick="window.changeRegentsPage(${i})">${i}</button>`;
+        } else if (i === 2 || i === totalPages - 1) {
+          pagHtml += `<span class="text-muted px-1">...</span>`;
+        }
+      }
+    }
+
+    pagHtml += `<button class="btn btn-sm btn-outline-primary" ${regentsPage === totalPages ? 'disabled' : ''} onclick="window.changeRegentsPage(${regentsPage + 1})">Next</button>`;
+    
+    paginationContainer.innerHTML = pagHtml.replace(/(<span class="text-muted px-1">\.\.\.<\/span>\s*){2,}/g, '<span class="text-muted px-1">...</span>');
+  }
+
+  window.changeRegentsPage = function(page) {
+    regentsPage = page;
+    renderRegentsTableData();
+    const elem = document.getElementById('regents-table-container');
+    if (elem) elem.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  };
+
+  function applyRegentsFilters() {
+    let rawFiltered = regentsDb.filter(item => item.subject === targetSubject);
+
+    if (regentsSelectedYear) {
+      rawFiltered = rawFiltered.filter(item => item.year.toString() === regentsSelectedYear);
+    }
+    if (regentsKeyword) {
+      const kw = regentsKeyword.toLowerCase();
+      rawFiltered = rawFiltered.filter(item => 
+        item.year.toString().toLowerCase().includes(kw) ||
+        item.month.toLowerCase().includes(kw) ||
+        item.doc_type.toLowerCase().includes(kw) ||
+        item.filename.toLowerCase().includes(kw)
+      );
+    }
+
+    const sessions = {};
+    rawFiltered.forEach(item => {
+      const key = `${item.year}_${item.month}`;
+      if (!sessions[key]) {
+        sessions[key] = {
+          year: item.year,
+          month: item.month,
+          qp: null,
+          sk: null,
+          mrs: null
+        };
+      }
+      if (item.doc_type === 'question') {
+        sessions[key].qp = item.link;
+      } else if (item.doc_type === 'scoring-key') {
+        sessions[key].sk = item.link;
+      } else if (item.doc_type === 'model response set') {
+        sessions[key].mrs = item.link;
+      }
+    });
+
+    filteredRegentsSessions = Object.values(sessions);
+    filteredRegentsSessions.sort((a, b) => {
+      if (a.year !== b.year) return parseInt(b.year) - parseInt(a.year);
+      return a.month.localeCompare(b.month);
+    });
+
+    regentsPage = 1;
+    renderRegentsTableData();
+  }
+
+  window.selectRegentsYearDropdown = function() {
+    const yearSelect = document.getElementById('regents-filter-year');
+    regentsSelectedYear = yearSelect ? (yearSelect.value || '') : '';
+    applyRegentsFilters();
+  };
+
+  window.filterRegentsExams = function() {
+    const input = document.getElementById('regents-search-input');
+    regentsKeyword = input ? (input.value || '') : '';
+    applyRegentsFilters();
+  };
+
+  async function initRegentsTable() {
+    const container = document.getElementById('regents-table-container');
+    const db = await loadRegentsDb();
+    
+    if (!db || db.length === 0) {
+      if (container) container.innerHTML = '<p><i class="bi bi-exclamation-triangle-fill" style="color: #ef4444;"></i> Error: Failed to load Regents examination database. Please try again later.</p>';
+      return;
+    }
+
+    populateRegentsYearDropdown(db);
+    applyRegentsFilters();
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initRegentsTable);
+  } else {
+    initRegentsTable();
+  }
+})();
+</script>
 </section>
-<section id="kho-đề-past-papers-theo-chuyên-đề" class="level2">
-<h2 class="anchored" data-anchor-id="kho-đề-past-papers-theo-chuyên-đề">5. Kho Đề Past Papers Theo Chuyên Đề</h2>
-<div class="program-grid">
-<section id="topic-1-linear-systems" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-1-linear-systems">Topic 1: Linear Systems</h3>
-<ul>
-<li>Giải hệ phương trình tuyến tính hai ẩn, bất phương trình và biểu diễn trục số.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 1 →</strong></a></li>
-</ul>
 </section>
-<section id="topic-2-slope-linear-graphs" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-2-slope-linear-graphs">Topic 2: Slope &amp; Linear Graphs</h3>
-<ul>
-<li>Tính hệ số góc đường thẳng, viết phương trình đường thẳng và vẽ đồ thị.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 2 →</strong></a></li>
-</ul>
-</section>
-<section id="topic-3-quadratic-factoring" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-3-quadratic-factoring">Topic 3: Quadratic Factoring</h3>
-<ul>
-<li>Phương pháp phân tích nhân tử bậc hai, giải phương trình bậc hai bằng công thức nghiệm.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 3 →</strong></a></li>
-</ul>
-</section>
-<section id="topic-4-exponents-laws" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-4-exponents-laws">Topic 4: Exponents Laws</h3>
-<ul>
-<li>Rút gọn biểu thức chứa lũy thừa mũ nguyên dương/âm và giải phương trình mũ cơ bản.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 4 →</strong></a></li>
-</ul>
-</section>
-</div>
-</section>
-<section id="algebra-1-books" class="level2">
-<h2 class="anchored" data-anchor-id="algebra-1-books">6. Algebra 1 Books</h2>
-<p>Access core textbooks, workbooks, and practice guides for Common Core Algebra 1 below:</p>
+<section id="recommended-algebra-1-textbooks-study-guides" class="level2">
+<h2 class="anchored" data-anchor-id="recommended-algebra-1-textbooks-study-guides">2. Recommended Algebra 1 Textbooks &amp; Study Guides</h2>
+<p><em>Access official High School Algebra 1 textbooks, practice workbooks, and comprehensive reference materials:</em></p>
 <div class="book-grid">
 <div class="book-card">
 <div class="book-cover-container">
-<p><img src="../../images/books/us_math/algebra1/-for-dummies-math-science-mary-jane-sterling-1-001-algebra-i-practice-problems-for-dummies-for-dummies-2013-.png" class="book-cover-img" alt="1,001 Algebra I Practice Problems For Dummies Cover"></p>
+<p><img src="../../images/books/us_math/algebra1/randall-i.-charles-algebra-1-common-core-student-edition-grade-8-9.jpg" class="book-cover-img" alt="Algebra 1: Common Core Student Edition Cover"></p>
 </div>
 <div class="book-info">
 <h4 class="book-title anchored">
-1,001 Algebra I Practice Problems For Dummies
+Algebra 1: Common Core (Student Edition)
 </h4>
 <div class="book-meta">
-<strong>Author:</strong> Mary Jane Sterling
+<strong>Author:</strong> Randall I. Charles, Basia Hall, Dan Kennedy
 </div>
 <div class="book-meta">
-<strong>Publisher:</strong> For Dummies (John Wiley &amp; Sons)
+<strong>Publisher:</strong> Pearson
 </div>
 <div class="book-meta">
-<strong>Year:</strong> 2013
+<strong>Year:</strong> 2015
 </div>
 </div>
-<p><a href="https://drive.google.com/file/d/1kpFErnZ5gfN2xSro96p705qW4u59lc81/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn"> <i class="bi bi-download"></i> Download Book </a></p>
+<p><a href="https://drive.google.com/file/d/12A5yQ8A4ryVxbSuIyPWrbXKAte9rkxmu/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn"> <i class="bi bi-download"></i> Download Book </a></p>
 </div>
 <div class="book-card">
 <div class="book-cover-container">
-<p><img src="../../images/books/us_math/algebra1/-for-dummies-math-science-mary-jane-sterling-algebra-i-workbook-for-dummies-2nd-edition-for-dummies-math-science-john-wiley-sons-2011-.png" class="book-cover-img" alt="Algebra I Workbook For Dummies (2nd Edition) Cover"></p>
-</div>
-<div class="book-info">
-<h4 class="book-title anchored">
-Algebra I Workbook For Dummies (2nd Edition)
-</h4>
-<div class="book-meta">
-<strong>Author:</strong> Mary Jane Sterling
-</div>
-<div class="book-meta">
-<strong>Publisher:</strong> John Wiley &amp; Sons
-</div>
-<div class="book-meta">
-<strong>Year:</strong> 2011
-</div>
-</div>
-<p><a href="https://drive.google.com/file/d/1ab_nY2_kDaaY_r4SxQvgPaWNDeHsj3vV/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn"> <i class="bi bi-download"></i> Download Book </a></p>
-</div>
-<div class="book-card">
-<div class="book-cover-container">
-<p><img src="../../images/books/us_math/algebra1/9781439065181.pdf-charles-p.-mckeague.jpg" class="book-cover-img" alt="Elementary Algebra (9th Edition) Cover"></p>
-</div>
-<div class="book-info">
-<h4 class="book-title anchored">
-Elementary Algebra (9th Edition)
-</h4>
-<div class="book-meta">
-<strong>Author:</strong> Charles P. McKeague
-</div>
-<div class="book-meta">
-<strong>Publisher:</strong> Brooks/Cole Cengage Learning
-</div>
-<div class="book-meta">
-<strong>Year:</strong> 2010
-</div>
-</div>
-<p><a href="https://drive.google.com/file/d/1UO1KbFTDd3APIhz8A0quUULYir30Dboi/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn"> <i class="bi bi-download"></i> Download Book </a></p>
-</div>
-<div class="book-card">
-<div class="book-cover-container">
-<p><img src="../../images/books/us_math/algebra1/basic-math-pre-algebra-all-in-one-for-dummies-mark-zegarelli.jpg" class="book-cover-img" alt="Basic Math &amp; Pre-Algebra All-in-One For Dummies Cover"></p>
-</div>
-<div class="book-info">
-<h4 class="book-title anchored">
-Basic Math &amp; Pre-Algebra All-in-One For Dummies
-</h4>
-<div class="book-meta">
-<strong>Author:</strong> Mark Zegarelli
-</div>
-<div class="book-meta">
-<strong>Publisher:</strong> John Wiley &amp; Sons
-</div>
-<div class="book-meta">
-<strong>Year:</strong> 2022
-</div>
-</div>
-<p><a href="https://drive.google.com/file/d/1J1TaSAS8yd1ZMDrVwON2KRYYq4jY_iMJ/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn"> <i class="bi bi-download"></i> Download Book </a></p>
-</div>
-<div class="book-card">
-<div class="book-cover-container">
-<p><img src="../../images/books/us_math/algebra1/basic-math-pre-algebra_-basic-math.png" class="book-cover-img" alt="CliffsNotes Basic Math and Pre-Algebra Quick Review Cover"></p>
-</div>
-<div class="book-info">
-<h4 class="book-title anchored">
-CliffsNotes Basic Math and Pre-Algebra Quick Review
-</h4>
-<div class="book-meta">
-<strong>Author:</strong> Jerry Bobrow
-</div>
-<div class="book-meta">
-<strong>Publisher:</strong> Wiley Publishing
-</div>
-<div class="book-meta">
-<strong>Year:</strong> 2001
-</div>
-</div>
-<p><a href="https://drive.google.com/file/d/1qc50tvnn5ef8_dPjwVidxdHK-DrkpMp3/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn"> <i class="bi bi-download"></i> Download Book </a></p>
-</div>
-<div class="book-card">
-<div class="book-cover-container">
-<p><img src="../../images/books/us_math/algebra1/cliffsnotes-algebra-i-quick-review-bobrow-jerry.-kohn-edward_.jpg" class="book-cover-img" alt="CliffsNotes Algebra I Quick Review (2nd Edition) Cover"></p>
-</div>
-<div class="book-info">
-<h4 class="book-title anchored">
-CliffsNotes Algebra I Quick Review (2nd Edition)
-</h4>
-<div class="book-meta">
-<strong>Author:</strong> Jerry Bobrow, Edward Kohn
-</div>
-<div class="book-meta">
-<strong>Publisher:</strong> John Wiley &amp; Sons
-</div>
-<div class="book-meta">
-<strong>Year:</strong> 2011
-</div>
-</div>
-<p><a href="https://drive.google.com/file/d/1CMXcJTaavHhQb_8wh-SptFaD5-bddKL6/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn"> <i class="bi bi-download"></i> Download Book </a></p>
-</div>
-<div class="book-card">
-<div class="book-cover-container">
-<p><img src="../../images/books/us_math/algebra1/express-review-guides_-algebra-i-design.jpg" class="book-cover-img" alt="Express Review Guides: Algebra I Cover"></p>
-</div>
-<div class="book-info">
-<h4 class="book-title anchored">
-Express Review Guides: Algebra I
-</h4>
-<div class="book-meta">
-<strong>Author:</strong> LearningExpress Editors
-</div>
-<div class="book-meta">
-<strong>Publisher:</strong> LearningExpress
-</div>
-<div class="book-meta">
-<strong>Year:</strong> 2007
-</div>
-</div>
-<p><a href="https://drive.google.com/file/d/1cHhLLpOUKTPoCiwhA8Y0womhtV3WnpKD/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn"> <i class="bi bi-download"></i> Download Book </a></p>
-</div>
-<div class="book-card">
-<div class="book-cover-container">
-<p><img src="../../images/books/us_math/algebra1/express-review-guides_-basic-math-pre-algebra-design.jpg" class="book-cover-img" alt="Express Review Guides: Basic Math &amp; Pre-Algebra Cover"></p>
-</div>
-<div class="book-info">
-<h4 class="book-title anchored">
-Express Review Guides: Basic Math &amp; Pre-Algebra
-</h4>
-<div class="book-meta">
-<strong>Author:</strong> LearningExpress Editors
-</div>
-<div class="book-meta">
-<strong>Publisher:</strong> LearningExpress
-</div>
-<div class="book-meta">
-<strong>Year:</strong> 2007
-</div>
-</div>
-<p><a href="https://drive.google.com/file/d/1WXsZ5I6xY5aMOTxwH3oI6YrXZzcivKY1/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn"> <i class="bi bi-download"></i> Download Book </a></p>
-</div>
-<div class="book-card">
-<div class="book-cover-container">
-<p><img src="../../images/books/us_math/algebra1/jane-sterling-mary-algebra-i-workbook-for-dummies-2017-.png" class="book-cover-img" alt="Algebra I Workbook For Dummies (3rd Edition) Cover"></p>
+<p><img src="../../images/books/us_math/algebra1/jane-sterling-mary-algebra-i-workbook-for-dummies-2017-.png" class="book-cover-img" alt="Algebra I Workbook For Dummies Cover"></p>
 </div>
 <div class="book-info">
 <h4 class="book-title anchored">
@@ -865,106 +1034,6 @@ Algebra I Workbook For Dummies (3rd Edition)
 </div>
 </div>
 <p><a href="https://drive.google.com/file/d/1vMsI8bHvctUrB4P83aeXtVig7M_s6Nd1/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn"> <i class="bi bi-download"></i> Download Book </a></p>
-</div>
-<div class="book-card">
-<div class="book-cover-container">
-<p><img src="../../images/books/us_math/algebra1/larson-r.-boswell-l.-kanold-t.-stiff-l.-algebra-1-concepts-skills.jpg" class="book-cover-img" alt="Algebra 1: Concepts and Skills (Student Edition) Cover"></p>
-</div>
-<div class="book-info">
-<h4 class="book-title anchored">
-Algebra 1: Concepts and Skills (Student Edition)
-</h4>
-<div class="book-meta">
-<strong>Author:</strong> Ron Larson, Laurie Boswell, Timothy D. Kanold, Lee Stiff
-</div>
-<div class="book-meta">
-<strong>Publisher:</strong> McDougal Littell
-</div>
-<div class="book-meta">
-<strong>Year:</strong> 2010
-</div>
-</div>
-<p><a href="https://drive.google.com/file/d/1F-jYunzEk4-g-nxE6XbanFswbP7dZXwC/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn"> <i class="bi bi-download"></i> Download Book </a></p>
-</div>
-<div class="book-card">
-<div class="book-cover-container">
-<p><img src="../../images/books/us_math/algebra1/laurie-boswell-holt-mcdougal-algebra_-concepts-and-skills-1-2003-holt-mcdougal-libgen.li.png" class="book-cover-img" alt="Algebra 1: Concepts and Skills (Student Edition) Cover"></p>
-</div>
-<div class="book-info">
-<h4 class="book-title anchored">
-Algebra 1: Concepts and Skills (Student Edition)
-</h4>
-<div class="book-meta">
-<strong>Author:</strong> Ron Larson, Laurie Boswell, Timothy D. Kanold, Lee Stiff
-</div>
-<div class="book-meta">
-<strong>Publisher:</strong> McDougal Littell
-</div>
-<div class="book-meta">
-<strong>Year:</strong> 2004
-</div>
-</div>
-<p><a href="https://drive.google.com/file/d/1sZwJYNb-ny0WfHGGb2CQMhZfM2pvca0t/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn"> <i class="bi bi-download"></i> Download Book </a></p>
-</div>
-<div class="book-card">
-<div class="book-cover-container">
-<p><img src="../../images/books/us_math/algebra1/learningexpress-editors-express-review-guide_-algebra-i-learningexpress-llc-2007-.png" class="book-cover-img" alt="Express Review Guides: Algebra I Cover"></p>
-</div>
-<div class="book-info">
-<h4 class="book-title anchored">
-Express Review Guides: Algebra I
-</h4>
-<div class="book-meta">
-<strong>Author:</strong> LearningExpress Editors
-</div>
-<div class="book-meta">
-<strong>Publisher:</strong> LearningExpress
-</div>
-<div class="book-meta">
-<strong>Year:</strong> 2007
-</div>
-</div>
-<p><a href="https://drive.google.com/file/d/1GVjpyJi-hkJ6z5PCnAUG7t7T9-Oejhel/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn"> <i class="bi bi-download"></i> Download Book </a></p>
-</div>
-<div class="book-card">
-<div class="book-cover-container">
-<p><img src="../../images/books/us_math/algebra1/margaret-l-lial_-e-john-hornsby_-terry-mcginnis-beginning-and-intermediate-algebra-pearson-addison-wesley-2012-.png" class="book-cover-img" alt="Beginning and Intermediate Algebra (5th Edition) Cover"></p>
-</div>
-<div class="book-info">
-<h4 class="book-title anchored">
-Beginning and Intermediate Algebra (5th Edition)
-</h4>
-<div class="book-meta">
-<strong>Author:</strong> Margaret L. Lial, John Hornsby, Terry McGinnis
-</div>
-<div class="book-meta">
-<strong>Publisher:</strong> Pearson Addison-Wesley
-</div>
-<div class="book-meta">
-<strong>Year:</strong> 2012
-</div>
-</div>
-<p><a href="https://drive.google.com/file/d/1xzA9MQSAq6aGlxs4_NyfmJoSue0SG2zh/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn"> <i class="bi bi-download"></i> Download Book </a></p>
-</div>
-<div class="book-card">
-<div class="book-cover-container">
-<p><img src="../../images/books/us_math/algebra1/martin-gay-k.-elayn-beginning-intermediate-algebra.-custom-edition-for-los-angeles-mission-college-pearson-2013-.png" class="book-cover-img" alt="Beginning &amp; Intermediate Algebra (5th Edition, Custom Edition for Los Angeles Mission College) Cover"></p>
-</div>
-<div class="book-info">
-<h4 class="book-title anchored">
-Beginning &amp; Intermediate Algebra (5th Edition, Custom Edition for Los Angeles Mission College)
-</h4>
-<div class="book-meta">
-<strong>Author:</strong> Elayn Martin-Gay
-</div>
-<div class="book-meta">
-<strong>Publisher:</strong> Pearson
-</div>
-<div class="book-meta">
-<strong>Year:</strong> 2013
-</div>
-</div>
-<p><a href="https://drive.google.com/file/d/1QPYTqAMMN2Pld9kvr737BEyLAADbPvag/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn"> <i class="bi bi-download"></i> Download Book </a></p>
 </div>
 <div class="book-card">
 <div class="book-cover-container">
@@ -988,31 +1057,11 @@ Practice Makes Perfect: Algebra
 </div>
 <div class="book-card">
 <div class="book-cover-container">
-<p><img src="../../images/books/us_math/algebra1/randall-i.-charles-algebra-1-common-core-student-edition-grade-8-9.jpg" class="book-cover-img" alt="Algebra 1: Common Core (Student Edition) Cover"></p>
+<p><img src="../../images/books/us_math/algebra1/larson-r.-boswell-l.-kanold-t.-stiff-l.-algebra-1-concepts-skills.jpg" class="book-cover-img" alt="Algebra 1: Concepts and Skills Cover"></p>
 </div>
 <div class="book-info">
 <h4 class="book-title anchored">
-Algebra 1: Common Core (Student Edition)
-</h4>
-<div class="book-meta">
-<strong>Author:</strong> Randall I. Charles, Basia Hall, Dan Kennedy
-</div>
-<div class="book-meta">
-<strong>Publisher:</strong> Pearson
-</div>
-<div class="book-meta">
-<strong>Year:</strong> 2015
-</div>
-</div>
-<p><a href="https://drive.google.com/file/d/12A5yQ8A4ryVxbSuIyPWrbXKAte9rkxmu/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn"> <i class="bi bi-download"></i> Download Book </a></p>
-</div>
-<div class="book-card">
-<div class="book-cover-container">
-<p><img src="../../images/books/us_math/algebra1/-applications-equations-graphs-laurie-boswell-timothy-d.-kanold-lee-stiff-holt-mcdougal-algebra-1-2003-holt-mcdougal-libgen.li.png" class="book-cover-img" alt="Algebra 1 (Student Edition) Cover"></p>
-</div>
-<div class="book-info">
-<h4 class="book-title anchored">
-Algebra 1 (Student Edition)
+Algebra 1: Concepts and Skills (Student Edition)
 </h4>
 <div class="book-meta">
 <strong>Author:</strong> Ron Larson, Laurie Boswell, Timothy D. Kanold, Lee Stiff
@@ -1021,10 +1070,90 @@ Algebra 1 (Student Edition)
 <strong>Publisher:</strong> McDougal Littell
 </div>
 <div class="book-meta">
-<strong>Year:</strong> 2004
+<strong>Year:</strong> 2010
 </div>
 </div>
-<p><a href="https://drive.google.com/file/d/1-osdV_fk06MaQk4hAp0t51O2gfmiazdo/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn"> <i class="bi bi-download"></i> Download Book </a></p>
+<p><a href="https://drive.google.com/file/d/1F-jYunzEk4-g-nxE6XbanFswbP7dZXwC/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn"> <i class="bi bi-download"></i> Download Book </a></p>
+</div>
+<div class="book-card">
+<div class="book-cover-container">
+<p><img src="../../images/books/us_math/algebra1/learningexpress-editors-express-review-guide_-algebra-i-learningexpress-llc-2007-.png" class="book-cover-img" alt="Express Review Guides: Algebra I Cover"></p>
+</div>
+<div class="book-info">
+<h4 class="book-title anchored">
+Express Review Guides: Algebra I
+</h4>
+<div class="book-meta">
+<strong>Author:</strong> LearningExpress Editors
+</div>
+<div class="book-meta">
+<strong>Publisher:</strong> LearningExpress
+</div>
+<div class="book-meta">
+<strong>Year:</strong> 2007
+</div>
+</div>
+<p><a href="https://drive.google.com/file/d/1GVjpyJi-hkJ6z5PCnAUG7t7T9-Oejhel/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn"> <i class="bi bi-download"></i> Download Book </a></p>
+</div>
+<div class="book-card">
+<div class="book-cover-container">
+<p><img src="../../images/books/us_math/algebra1/express-review-guides_-basic-math-pre-algebra-design.jpg" class="book-cover-img" alt="Express Review Guides: Basic Math &amp; Pre-Algebra Cover"></p>
+</div>
+<div class="book-info">
+<h4 class="book-title anchored">
+Express Review Guides: Basic Math &amp; Pre-Algebra
+</h4>
+<div class="book-meta">
+<strong>Author:</strong> LearningExpress Editors
+</div>
+<div class="book-meta">
+<strong>Publisher:</strong> LearningExpress
+</div>
+<div class="book-meta">
+<strong>Year:</strong> 2007
+</div>
+</div>
+<p><a href="https://drive.google.com/file/d/1WXsZ5I6xY5aMOTxwH3oI6YrXZzcivKY1/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn"> <i class="bi bi-download"></i> Download Book </a></p>
+</div>
+<div class="book-card">
+<div class="book-cover-container">
+<p><img src="../../images/books/us_math/algebra1/margaret-l-lial_-e-john-hornsby_-terry-mcginnis-beginning-and-intermediate-algebra-pearson-addison-wesley-2012-.png" class="book-cover-img" alt="Beginning and Intermediate Algebra Cover"></p>
+</div>
+<div class="book-info">
+<h4 class="book-title anchored">
+Beginning and Intermediate Algebra (5th Edition)
+</h4>
+<div class="book-meta">
+<strong>Author:</strong> Margaret L. Lial, John Hornsby, Terry McGinnis
+</div>
+<div class="book-meta">
+<strong>Publisher:</strong> Pearson Addison-Wesley
+</div>
+<div class="book-meta">
+<strong>Year:</strong> 2012
+</div>
+</div>
+<p><a href="https://drive.google.com/file/d/1xzA9MQSAq6aGlxs4_NyfmJoSue0SG2zh/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn"> <i class="bi bi-download"></i> Download Book </a></p>
+</div>
+<div class="book-card">
+<div class="book-cover-container">
+<p><img src="../../images/books/us_math/algebra1/martin-gay-k.-elayn-beginning-intermediate-algebra.-custom-edition-for-los-angeles-mission-college-pearson-2013-.png" class="book-cover-img" alt="Beginning &amp; Intermediate Algebra Custom Edition Cover"></p>
+</div>
+<div class="book-info">
+<h4 class="book-title anchored">
+Beginning &amp; Intermediate Algebra (5th Edition, Custom Edition)
+</h4>
+<div class="book-meta">
+<strong>Author:</strong> Elayn Martin-Gay
+</div>
+<div class="book-meta">
+<strong>Publisher:</strong> Pearson
+</div>
+<div class="book-meta">
+<strong>Year:</strong> 2013
+</div>
+</div>
+<p><a href="https://drive.google.com/file/d/1QPYTqAMMN2Pld9kvr737BEyLAADbPvag/view?usp=drivesdk" target="_blank" class="btn btn-primary btn-sm book-download-btn"> <i class="bi bi-download"></i> Download Book </a></p>
 </div>
 </div>
 
@@ -1445,7 +1574,7 @@ Algebra 1 (Student Edition)
     }
   });
   </script>
-<nav class="page-navigation">
+<nav class="page-navigation column-body">
   <div class="nav-page nav-page-previous">
       <a href="../../math/common-core/math-grade-6-8.html" class="pagination-link" aria-label="Math Grade 6-8">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Math Grade 6-8</span>
@@ -1461,10 +1590,10 @@ Algebra 1 (Student Edition)
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Copyright © 2026 Dr.&nbsp;Kiem Nguyen</p>
+<p>Copyright © 2026 Dr.&nbsp;Kiem Nguyen. All rights reserved.</p>
 </div>   
     <div class="nav-footer-center">
-<p><a href="../../index.html">Home</a> | <a href="../../math/ib/index.html">Mathematics</a> | <a href="../../chem/ib/index.html">Chemistry</a></p>
+<p><a href="../../index.html">Home</a> | <a href="../../math/ib/index.html">Mathematics</a> | <a href="../../chem/ib/index.html">Chemistry</a> | <a href="../../test_bank.html">Test Bank</a> | <a href="../../books.html">Books</a> | <a href="../../news.html">News &amp; Updates</a> | <a href="../../about.html">About</a></p>
 </div>
     <div class="nav-footer-right">
 <p><a href="mailto:khackiemnguyen@gmail.com" class="text-white me-3" style="text-decoration: none;" title="Email"><i class="bi bi-envelope-fill"></i></a> <a href="tel:0815113114" class="text-white me-3" style="text-decoration: none;" title="Gọi điện"><i class="bi bi-telephone-fill"></i></a> <a href="https://zalo.me/0815113114" target="_blank" class="text-white me-3" style="text-decoration: none;" title="Zalo"><i class="bi bi-chat-dots-fill"></i> Zalo</a> <a href="https://wa.me/84815113114" target="_blank" class="text-white me-3" style="text-decoration: none;" title="WhatsApp"><i class="bi bi-whatsapp"></i></a> <a href="https://line.me/ti/p/~141173314" target="_blank" class="text-white me-3" style="text-decoration: none;" title="Line"><i class="bi bi-line"></i></a> <a href="https://t.me/+84815113114" target="_blank" class="text-white me-3" style="text-decoration: none;" title="Telegram"><i class="bi bi-telegram"></i></a> <a href="https://www.facebook.com/share/1EX9cfmDD3/" target="_blank" class="text-white" style="text-decoration: none;" title="Fanpage"><i class="bi bi-facebook"></i></a></p>

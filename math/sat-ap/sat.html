@@ -113,7 +113,7 @@ gtag('config', 'G-Y5KN25P14N', { 'anonymize_ip': true});
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="NKK-Education Hub">
 <meta property="og:title" content="Digital SAT Mathematics – NKK-Education Hub">
-<meta property="og:description" content="Chương Trình Luyện Thi Toán SAT Công Nghệ Mới (College Board)">
+<meta property="og:description" content="Comprehensive Digital SAT Math Preparation, Practice Books &amp; Study Guides (College Board)">
 <meta property="og:url" content="https://drkiem.vn">
 <meta property="og:image" content="https://drkiem.vn/images/academic_workspace.png">
 
@@ -172,35 +172,6 @@ gtag('config', 'G-Y5KN25P14N', { 'anonymize_ip': true});
 }
 </script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -449,6 +420,10 @@ window.Quarto = {
 <span class="menu-text">Books</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../../news.html"> 
+<span class="menu-text">News &amp; Updates</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
@@ -517,19 +492,7 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#giới-thiệu-chương-trình" id="toc-giới-thiệu-chương-trình" class="nav-link active" data-scroll-target="#giới-thiệu-chương-trình">1. Giới Thiệu Chương Trình</a>
-  <ul class="collapse">
-  <li><a href="#cấu-trúc-phần-thi-toán-sat-assessment-outline" id="toc-cấu-trúc-phần-thi-toán-sat-assessment-outline" class="nav-link" data-scroll-target="#cấu-trúc-phần-thi-toán-sat-assessment-outline">Cấu Trúc Phần Thi Toán SAT (Assessment Outline)</a></li>
-  </ul></li>
-  <li><a href="#khung-chương-trình-chi-tiết-syllabus-core" id="toc-khung-chương-trình-chi-tiết-syllabus-core" class="nav-link" data-scroll-target="#khung-chương-trình-chi-tiết-syllabus-core">2. Khung Chương Trình Chi Tiết (Syllabus Core)</a></li>
-  <li><a href="#ví-dụ-minh-họa-công-thức-trọng-tâm" id="toc-ví-dụ-minh-họa-công-thức-trọng-tâm" class="nav-link" data-scroll-target="#ví-dụ-minh-họa-công-thức-trọng-tâm">3. Ví Dụ Minh Họa &amp; Công Thức Trọng Tâm</a>
-  <ul class="collapse">
-  <li><a href="#phương-trình-đường-tròn-trong-hệ-tọa-độ-phẳng-oxy" id="toc-phương-trình-đường-tròn-trong-hệ-tọa-độ-phẳng-oxy" class="nav-link" data-scroll-target="#phương-trình-đường-tròn-trong-hệ-tọa-độ-phẳng-oxy">Phương trình đường tròn trong hệ tọa độ phẳng Oxy</a></li>
-  <li><a href="#mô-hình-tăng-trưởng-và-suy-giảm-theo-hàm-số-mũ" id="toc-mô-hình-tăng-trưởng-và-suy-giảm-theo-hàm-số-mũ" class="nav-link" data-scroll-target="#mô-hình-tăng-trưởng-và-suy-giảm-theo-hàm-số-mũ">Mô hình tăng trưởng và suy giảm theo hàm số mũ</a></li>
-  </ul></li>
-  <li><a href="#bẫy-điểm-số-chiến-thuật-sử-dụng-desmos-desmos-hacks" id="toc-bẫy-điểm-số-chiến-thuật-sử-dụng-desmos-desmos-hacks" class="nav-link" data-scroll-target="#bẫy-điểm-số-chiến-thuật-sử-dụng-desmos-desmos-hacks">4. Bẫy Điểm Số &amp; Chiến Thuật Sử Dụng Desmos (Desmos Hacks)</a></li>
-  <li><a href="#kho-đề-past-papers-theo-chuyên-đề" id="toc-kho-đề-past-papers-theo-chuyên-đề" class="nav-link" data-scroll-target="#kho-đề-past-papers-theo-chuyên-đề">5. Kho Đề Past Papers Theo Chuyên Đề</a></li>
-  <li><a href="#digital-sat-mathematics-books" id="toc-digital-sat-mathematics-books" class="nav-link" data-scroll-target="#digital-sat-mathematics-books">6. Digital SAT Mathematics Books</a></li>
+  <li><a href="#digital-sat-mathematics-textbooks-prep-books" id="toc-digital-sat-mathematics-textbooks-prep-books" class="nav-link active" data-scroll-target="#digital-sat-mathematics-textbooks-prep-books">1. Digital SAT Mathematics Textbooks &amp; Prep Books</a></li>
   </ul>
 </nav>
     </div>
@@ -540,7 +503,7 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Digital SAT Mathematics</h1>
-<p class="subtitle lead">Chương Trình Luyện Thi Toán SAT Công Nghệ Mới (College Board)</p>
+<p class="subtitle lead">Comprehensive Digital SAT Math Preparation, Practice Books &amp; Study Guides (College Board)</p>
 </div>
 
 
@@ -563,177 +526,16 @@ window.Quarto = {
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Tài nguyên ôn tập &amp; Luyện thi: Digital SAT Math
+<span class="screen-reader-only">Note</span>Academic Repository: Digital SAT Mathematics
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức cốt lõi, ví dụ minh họa bằng công thức LaTeX sắc nét, các chiến thuật giải nhanh bằng phần mềm đồ họa Desmos được nhúng trực tiếp trong kỳ thi và ngân hàng câu hỏi luyện thi SAT chất lượng cao giúp các em đạt điểm tuyệt đối 800/800.</p>
+<p>Welcome to the <strong>Digital SAT Mathematics</strong> learning hub. Access essential textbooks, prep strategies, and practice test collections tailored for the College Board Digital SAT Math suite (covering Heart of Algebra, Problem Solving &amp; Data Analysis, Passport to Advanced Math, and Geometry &amp; Trigonometry).</p>
 </div>
 </div>
-<section id="giới-thiệu-chương-trình" class="level2">
-<h2 class="anchored" data-anchor-id="giới-thiệu-chương-trình">1. Giới Thiệu Chương Trình</h2>
-<p>
-<strong>Digital SAT Mathematics</strong> là phần thi trắc nghiệm toán học chuẩn hóa quốc tế của College Board phục vụ tuyển sinh đại học Mỹ và các trường đại học quốc tế. Kỳ thi Digital SAT cho phép sử dụng phần mềm đồ họa Desmos tích hợp xuyên suốt bài thi, mở ra các chiến thuật giải toán công nghệ nhanh chóng và đột phá.
-</p>
-<section id="cấu-trúc-phần-thi-toán-sat-assessment-outline" class="level3">
-<h3 class="anchored" data-anchor-id="cấu-trúc-phần-thi-toán-sat-assessment-outline">Cấu Trúc Phần Thi Toán SAT (Assessment Outline)</h3>
-<div class="table-wrapper" style="margin-bottom: 2rem;">
-<table class="premium-table">
-<thead>
-<tr>
-<th>
-Thành phần thi (Module)
-</th>
-<th>
-Số lượng câu hỏi
-</th>
-<th>
-Thời gian làm bài
-</th>
-<th>
-Chính sách sử dụng máy tính
-</th>
-<th style="text-align: right;">
-Thang điểm quy đổi
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-<strong>Section 2: Math (Module 1 &amp; Module 2)</strong>
-</td>
-<td>
-44 câu hỏi (gồm câu trắc nghiệm và câu điền số - student-produced responses)
-</td>
-<td>
-70 phút (35 phút cho mỗi Module 22 câu)
-</td>
-<td>
-<span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Cho phép dùng máy tính Desmos nhúng</span>
-</td>
-<td style="text-align: right;">
-<strong>200 - 800 điểm</strong>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-<hr>
-</section>
-</section>
-<section id="khung-chương-trình-chi-tiết-syllabus-core" class="level2">
-<h2 class="anchored" data-anchor-id="khung-chương-trình-chi-tiết-syllabus-core">2. Khung Chương Trình Chi Tiết (Syllabus Core)</h2>
-<p>Nội dung toán SAT được chia làm 4 mảng kiến thức lớn theo chuẩn College Board:</p>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span>Các chuyên đề cốt lõi của SAT Math:
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ol type="1">
-<li><strong>Heart of Algebra (Trọng tâm đại số - 35%):</strong>
-<ul>
-<li>Phương trình tuyến tính 1 ẩn, hệ phương trình tuyến tính 2 ẩn.</li>
-<li>Bất phương trình tuyến tính và đồ thị biểu diễn miền nghiệm phẳng.</li>
-</ul></li>
-<li><strong>Problem Solving and Data Analysis (Giải quyết vấn đề &amp; Phân tích số liệu - 15%):</strong>
-<ul>
-<li>Bài toán tỷ lệ phần trăm (percentage), tỷ suất (ratio, rate), đổi đơn vị đo lường cơ bản.</li>
-<li>Tính toán Mean, Median, Mode, Range, Standard deviation. Đọc hiểu biểu đồ thống kê.</li>
-</ul></li>
-<li><strong>Passport to Advanced Math (Đại số nâng cao - 35%):</strong>
-<ul>
-<li>Hàm số bậc hai, đa thức bậc cao, phương trình phi tuyến tính và biến đổi đại số phức tạp.</li>
-<li>Hàm số mũ (exponential growth/decay) và khảo sát tương quan đồ thị.</li>
-</ul></li>
-<li><strong>Additional Topics in Math (Chủ đề bổ trợ - 15%):</strong>
-<ul>
-<li>Hình học Euclid phẳng: tính diện tích, thể tích, tính chất góc tam giác và đường tròn.</li>
-<li>Lượng giác lượng giác góc nhọn tam giác vuông và phương trình đường tròn trong hệ Oxy.</li>
-</ul></li>
-</ol>
-</div>
-</div>
-<hr>
-</section>
-<section id="ví-dụ-minh-họa-công-thức-trọng-tâm" class="level2">
-<h2 class="anchored" data-anchor-id="ví-dụ-minh-họa-công-thức-trọng-tâm">3. Ví Dụ Minh Họa &amp; Công Thức Trọng Tâm</h2>
-<p>Công thức đại số hiển thị sắc nét bằng LaTeX:</p>
-<section id="phương-trình-đường-tròn-trong-hệ-tọa-độ-phẳng-oxy" class="level3">
-<h3 class="anchored" data-anchor-id="phương-trình-đường-tròn-trong-hệ-tọa-độ-phẳng-oxy">Phương trình đường tròn trong hệ tọa độ phẳng Oxy</h3>
-<p>Đường tròn có tâm tại <span class="math inline">\(I(h, k)\)</span> và bán kính <span class="math inline">\(r\)</span>: <span class="math display">\[(x - h)^2 + (y - k)^2 = r^2\]</span></p>
-</section>
-<section id="mô-hình-tăng-trưởng-và-suy-giảm-theo-hàm-số-mũ" class="level3">
-<h3 class="anchored" data-anchor-id="mô-hình-tăng-trưởng-và-suy-giảm-theo-hàm-số-mũ">Mô hình tăng trưởng và suy giảm theo hàm số mũ</h3>
-<p>Số lượng <span class="math inline">\(A(t)\)</span> sau khoảng thời gian <span class="math inline">\(t\)</span> với lượng ban đầu <span class="math inline">\(P\)</span>, tăng trưởng/suy giảm với tốc độ <span class="math inline">\(r\)</span> theo chu kỳ <span class="math inline">\(T\)</span>: <span class="math display">\[A(t) = P \cdot (1 \pm r)^{\frac{t}{T}}\]</span></p>
-<hr>
-</section>
-</section>
-<section id="bẫy-điểm-số-chiến-thuật-sử-dụng-desmos-desmos-hacks" class="level2">
-<h2 class="anchored" data-anchor-id="bẫy-điểm-số-chiến-thuật-sử-dụng-desmos-desmos-hacks">4. Bẫy Điểm Số &amp; Chiến Thuật Sử Dụng Desmos (Desmos Hacks)</h2>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Các bí quyết giải toán SAT bằng Desmos:
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ul>
-<li><strong>⚠️ Tận dụng tối đa Desmos để tìm nghiệm:</strong>
-<ul>
-<li><strong>Giải hệ phương trình:</strong> Gõ trực tiếp hai phương trình vào hai dòng trong Desmos và click chuột vào giao điểm đồ thị để đọc tọa độ <span class="math inline">\((x, y)\)</span> nghiệm chính xác 100%.</li>
-<li><strong>Tìm cực trị hàm số:</strong> Vẽ đồ thị bậc hai hoặc đa thức trong Desmos và click trực tiếp vào đỉnh/đáy để tìm tọa độ cực trị (Vertex).</li>
-</ul></li>
-<li><strong>⚠️ Tránh bẫy làm tròn số câu điền đáp án:</strong> Đối với câu hỏi tự điền số (Student-Produced Responses), nếu đáp số là số thập phân vô hạn tuần hoàn (ví dụ: <span class="math inline">\(\frac{2}{3}\)</span>), bạn bắt buộc phải nhập đầy đủ các ô lưới là <code>.666</code> hoặc <code>.667</code> hoặc tốt nhất là nhập phân số <code>2/3</code> để không bị trừ điểm đáp số.</li>
-</ul>
-</div>
-</div>
-<hr>
-</section>
-<section id="kho-đề-past-papers-theo-chuyên-đề" class="level2">
-<h2 class="anchored" data-anchor-id="kho-đề-past-papers-theo-chuyên-đề">5. Kho Đề Past Papers Theo Chuyên Đề</h2>
-<div class="program-grid">
-<section id="topic-1-heart-of-algebra" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-1-heart-of-algebra">Topic 1: Heart of Algebra</h3>
-<ul>
-<li>Luyện giải hệ phương trình tuyến tính trắc nghiệm tốc độ cao, bất phương trình phẳng.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 1 →</strong></a></li>
-</ul>
-</section>
-<section id="topic-2-problem-solving-data" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-2-problem-solving-data">Topic 2: Problem Solving &amp; Data</h3>
-<ul>
-<li>Bài toán tỷ lệ phần trăm thực tế, đọc hiểu bảng tần số xác suất thống kê trung vị Mean Median.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 2 →</strong></a></li>
-</ul>
-</section>
-<section id="topic-3-passport-to-advanced-math" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-3-passport-to-advanced-math">Topic 3: Passport to Advanced Math</h3>
-<ul>
-<li>Giải phương trình bậc hai phi tuyến tính, hàm số mũ tăng trưởng, biến đổi đa thức phân thức.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 3 →</strong></a></li>
-</ul>
-</section>
-<section id="topic-4-circles-trigonometry" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-4-circles-trigonometry">Topic 4: Circles &amp; Trigonometry</h3>
-<ul>
-<li>Viết phương trình đường tròn Oxy, tính góc lượng giác tam giác vuông, thể tích khối chóp trụ nón.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 4 →</strong></a></li>
-</ul>
-</section>
-</div>
-</section>
-<section id="digital-sat-mathematics-books" class="level2">
-<h2 class="anchored" data-anchor-id="digital-sat-mathematics-books">6. Digital SAT Mathematics Books</h2>
-<p>Access core textbooks, practice books, and test prep materials for the Digital SAT Mathematics section. Select any book to view or download:</p>
+<section id="digital-sat-mathematics-textbooks-prep-books" class="level2">
+<h2 class="anchored" data-anchor-id="digital-sat-mathematics-textbooks-prep-books">1. Digital SAT Mathematics Textbooks &amp; Prep Books</h2>
+<p>Access core textbooks, practice books, and test prep materials for the Digital SAT Mathematics section. Select any book to view or download directly:</p>
 <div class="book-grid">
 <div class="book-card">
 <div class="book-cover-container">
@@ -1970,10 +1772,10 @@ Practice Tests For The Digital SAT
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Copyright © 2026 Dr.&nbsp;Kiem Nguyen</p>
+<p>Copyright © 2026 Dr.&nbsp;Kiem Nguyen. All rights reserved.</p>
 </div>   
     <div class="nav-footer-center">
-<p><a href="../../index.html">Home</a> | <a href="../../math/ib/index.html">Mathematics</a> | <a href="../../chem/ib/index.html">Chemistry</a></p>
+<p><a href="../../index.html">Home</a> | <a href="../../math/ib/index.html">Mathematics</a> | <a href="../../chem/ib/index.html">Chemistry</a> | <a href="../../test_bank.html">Test Bank</a> | <a href="../../books.html">Books</a> | <a href="../../news.html">News &amp; Updates</a> | <a href="../../about.html">About</a></p>
 </div>
     <div class="nav-footer-right">
 <p><a href="mailto:khackiemnguyen@gmail.com" class="text-white me-3" style="text-decoration: none;" title="Email"><i class="bi bi-envelope-fill"></i></a> <a href="tel:0815113114" class="text-white me-3" style="text-decoration: none;" title="Gọi điện"><i class="bi bi-telephone-fill"></i></a> <a href="https://zalo.me/0815113114" target="_blank" class="text-white me-3" style="text-decoration: none;" title="Zalo"><i class="bi bi-chat-dots-fill"></i> Zalo</a> <a href="https://wa.me/84815113114" target="_blank" class="text-white me-3" style="text-decoration: none;" title="WhatsApp"><i class="bi bi-whatsapp"></i></a> <a href="https://line.me/ti/p/~141173314" target="_blank" class="text-white me-3" style="text-decoration: none;" title="Line"><i class="bi bi-line"></i></a> <a href="https://t.me/+84815113114" target="_blank" class="text-white me-3" style="text-decoration: none;" title="Telegram"><i class="bi bi-telegram"></i></a> <a href="https://www.facebook.com/share/1EX9cfmDD3/" target="_blank" class="text-white" style="text-decoration: none;" title="Fanpage"><i class="bi bi-facebook"></i></a></p>

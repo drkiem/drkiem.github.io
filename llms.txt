@@ -9,6 +9,16 @@ General overview and introductory pages of the portal.
 - [Reference Books](books.html): Thư viện Sách Tham Khảo Toán & Hóa học Quốc Tế (IB, A-Level, AP, IGCSE, SAT)
 - [AP Chemistry Prep](chem/sat-ap.html): Chương Trình Luyện Thi Hóa Học Advanced Placement (College Board)
 - [NKK-Education Hub](index.html): Premium Academic Gateways for International Mathematics & Chemistry
+- [News & Updates](news.html): Latest announcements, curriculum releases, past papers updates, and study guides
+- [Cập nhật hệ thống đề thi IB Chemistry & IB Mathematics 2025 (Winter Update)](posts/2026-08-09-ib-past-papers-update/index.html): Thông báo hoàn thành cập nhật bộ đề thi IB Chemistry (546 tệp) và IB Mathematics (1,099 tệp) mới nhất năm 2025 trên NKK-Education Hub.
+- [IB Mathematics (AA & AI) Study Guide for International School Students in District 2](posts/2026-08-10-ib-math-guide-district-2/index.html): Comprehensive IB Mathematics AA and AI study guide for students attending international schools in Thao Dien, District 2 (BIS, ISHCMC, AIS, EIS).
+- [IB Chemistry (HL & SL) Study Guide & Syllabus Breakdown for International Students in District 2](posts/2026-08-13-ib-chem-guide-district-2/index.html): IB Chemistry HL/SL study guide for international school students in Thao Dien, District 2 (BIS, ISHCMC, EIS). Access past papers and topical question banks.
+- [A-Level Mathematics (CIE 9709 & Edexcel IAL) Study Guide for District 2 Students](posts/2026-08-16-alevel-math-guide-district-2/index.html): A-Level Mathematics study guide for CIE 9709 and Edexcel IAL students attending international schools in Thao Dien, District 2 (BIS, AIS).
+- [A-Level Chemistry (CIE 9701 & Edexcel IAL) Study Guide for District 2 Students](posts/2026-08-19-alevel-chem-guide-district-2/index.html): A-Level Chemistry study guide for CIE 9701 and Edexcel IAL students attending international schools in Thao Dien, District 2 (BIS, AIS).
+- [Official Exam Release: IB Mathematics Analysis & Approaches HL Paper 1 (May 2026)](posts/2026-08-20-ib-math-aa-hl-may-2026-paper-1/index.html): Full PDF document view of the official May 2026 IB Mathematics Analysis & Approaches HL Paper 1 examination paper for international school students.
+- [Official Exam Release: IB Mathematics Analysis & Approaches HL Paper 2 (May 2026)](posts/2026-08-21-ib-math-aa-hl-may-2026-paper-2/index.html): Full PDF document view of the official May 2026 IB Mathematics Analysis & Approaches HL Paper 2 examination paper for international school students.
+- [IB Mathematics: Analysis and Approaches Higher Level Paper 1 (May 2026)](posts/data_post/Mathematics analysis and approaches Higher level Paper 1.html): Đề thi chính thức IB Diploma Program May 2026 - Non-Calculator Examination
+- [IB Mathematics: Analysis and Approaches Higher Level Paper 2 (May 2026)](posts/data_post/Mathematics- analysis and approaches Higher level Paper 2.html): Đề thi chính thức IB Diploma Program May 2026 - Calculator Examination
 - [Test Bank Portal](test_bank.html): Exam Preparation Resources & Question Banks for International Mathematics & Chemistry
 
 ## IB Mathematics
@@ -81,12 +91,12 @@ Fundamental chemistry principles (CIE 0620 and Edexcel 4CH1).
 ## Common Core Mathematics
 US High School pathways (Algebra 1/2, Geometry, Pre-Calculus, and Math Grade 6-8).
 
-- [Common Core Algebra 1](math/common-core/algebra1.html): Chương Trình Đại Số 1 Phổ Thông Hệ Mỹ (High School)
-- [Common Core Algebra 2](math/common-core/algebra2.html): Chương Trình Đại Số 2 Phổ Thông Hệ Mỹ (High School)
-- [Common Core Geometry](math/common-core/geometry.html): Chương Trình Hình Học Phổ Thông Hệ Mỹ (High School)
+- [Common Core Algebra 1](math/common-core/algebra1.html): Comprehensive High School Mathematics Practice Questions, Topic Worksheets & Reference Textbooks
+- [Common Core Algebra 2](math/common-core/algebra2.html): Comprehensive High School Mathematics Practice Questions, Topic Worksheets & Reference Textbooks
+- [Common Core Geometry](math/common-core/geometry.html): Comprehensive High School Geometry Practice Questions, Topic Worksheets & Reference Textbooks
 - [Common Core Mathematics Overview](math/common-core/index.html): US School Mathematics Curriculum (Common Core State Standards)
 - [US Math Grade 6-8](math/common-core/math-grade-6-8.html): US School Mathematics Curriculum (Common Core State Standards)
-- [Common Core Pre-Calculus](math/common-core/pre-calculus.html): Chương Trình Tiền Giải Tích Phổ Thông Hệ Mỹ (High School)
+- [Common Core Pre-Calculus & Calculus Foundations](math/common-core/pre-calculus.html): Comprehensive High School & AP Mathematics Practice Questions, Topic Worksheets & Reference Textbooks
 
 ## SAT & AP Mathematics
 Targeted digital SAT Math, AP Calculus AB/BC, and AP Statistics preparation.

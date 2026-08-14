@@ -1,0 +1,746 @@
+[
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 1,
+    "topic_name": "Functions",
+    "file_name": "01 - Average Rates of Change.pdf",
+    "title": "Average Rates of Change",
+    "google_drive_link": "https://drive.google.com/file/d/1UImnJN_GDpJe4asusGQxBOkoHWZEHmm1/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 1,
+    "topic_name": "Functions",
+    "file_name": "01 - Continuity.pdf",
+    "title": "Continuity",
+    "google_drive_link": "https://drive.google.com/file/d/1E9uxy3-38ZkP6X34pG3vMPLT6wcqJJvx/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 1,
+    "topic_name": "Functions",
+    "file_name": "01 - Extrema, Increase and Decrease.pdf",
+    "title": "Extrema, Increase and Decrease",
+    "google_drive_link": "https://drive.google.com/file/d/1s4KCcWKmQGi_aqNxFP_0w5j51N4pNvE_/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 1,
+    "topic_name": "Functions",
+    "file_name": "01 - Function Inverses.pdf",
+    "title": "Function Inverses",
+    "google_drive_link": "https://drive.google.com/file/d/1ld39iriWaAtpm46xMHOybOxzqEZqdxDw/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 1,
+    "topic_name": "Functions",
+    "file_name": "01 - Function Operations.pdf",
+    "title": "Function Operations",
+    "google_drive_link": "https://drive.google.com/file/d/1OABaWAwfG-5jVTvsXi5bwVgHcasJ_N7E/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 1,
+    "topic_name": "Functions",
+    "file_name": "01 - Piecewise Functions.pdf",
+    "title": "Piecewise Functions",
+    "google_drive_link": "https://drive.google.com/file/d/1JMymGlKJA0Yo0Be_PBNPSazN6h2A1vjn/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 1,
+    "topic_name": "Functions",
+    "file_name": "01 - Power Functions.pdf",
+    "title": "Power Functions",
+    "google_drive_link": "https://drive.google.com/file/d/1dqyGe5I2p8NTFqI0mofZkkQhjLHj-ZIr/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 1,
+    "topic_name": "Functions",
+    "file_name": "01 - Transformations of Graphs.pdf",
+    "title": "Transformations of Graphs",
+    "google_drive_link": "https://drive.google.com/file/d/1khswH_nNSgKjCSmg7jUy5RBVepv3HsSl/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 2,
+    "topic_name": "Power, Polynomial, and Rational Functions",
+    "file_name": "02 - Dividing Polynomials.pdf",
+    "title": "Dividing Polynomials",
+    "google_drive_link": "https://drive.google.com/file/d/13DJnyZg5oLuBg17zOjEWyolIn4gqnqj-/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 2,
+    "topic_name": "Power, Polynomial, and Rational Functions",
+    "file_name": "02 - Graphs of Polynomial Functions.pdf",
+    "title": "Graphs of Polynomial Functions",
+    "google_drive_link": "https://drive.google.com/file/d/1Exzk34flxSk_hstAWE26_BzbrqMBD3Xc/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 2,
+    "topic_name": "Power, Polynomial, and Rational Functions",
+    "file_name": "02 - Graphs of Rational Functions.pdf",
+    "title": "Graphs of Rational Functions",
+    "google_drive_link": "https://drive.google.com/file/d/1nkVhoQauXuu9DluuyZJmP5x4Dl2I-ekt/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 2,
+    "topic_name": "Power, Polynomial, and Rational Functions",
+    "file_name": "02 - Polynomial Inequalities.pdf",
+    "title": "Polynomial Inequalities",
+    "google_drive_link": "https://drive.google.com/file/d/1xa38WN40OTMTQUM2mif6brJXXA_fZYq_/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 2,
+    "topic_name": "Power, Polynomial, and Rational Functions",
+    "file_name": "02 - Polynomials and Conjugate Roots.pdf",
+    "title": "Polynomials and Conjugate Roots",
+    "google_drive_link": "https://drive.google.com/file/d/1dftGN5XhLhFubTQJyQGn_YiL4HEoQHl9/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 2,
+    "topic_name": "Power, Polynomial, and Rational Functions",
+    "file_name": "02 - Rational Equations.pdf",
+    "title": "Rational Equations",
+    "google_drive_link": "https://drive.google.com/file/d/1Kni-jeF4i3Ch36_QFuGJy_3sDrEItx2q/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 2,
+    "topic_name": "Power, Polynomial, and Rational Functions",
+    "file_name": "02 - Rational Inequalities.pdf",
+    "title": "Rational Inequalities",
+    "google_drive_link": "https://drive.google.com/file/d/1vx1ywKNwRqhzo7heCWxMSvwCbwjdGkm9/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 2,
+    "topic_name": "Power, Polynomial, and Rational Functions",
+    "file_name": "02 - The Fundamental Theorem of Algebra.pdf",
+    "title": "The Fundamental Theorem of Algebra",
+    "google_drive_link": "https://drive.google.com/file/d/1M84iY1ndbEhbQ87UzL-n7HeQXS25Q302/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 2,
+    "topic_name": "Power, Polynomial, and Rational Functions",
+    "file_name": "02 - The Remainder Theorem and Bounds.pdf",
+    "title": "The Remainder Theorem and Bounds",
+    "google_drive_link": "https://drive.google.com/file/d/13y4J1SV16Rk52dV1oTA3hJHZmF8OdGSi/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 3,
+    "topic_name": "Exponential and Logarithmic Expressions",
+    "file_name": "03 - Compound Interest.pdf",
+    "title": "Compound Interest",
+    "google_drive_link": "https://drive.google.com/file/d/1y3oescI27CetIF6Xye67ev777BOqck85/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 3,
+    "topic_name": "Exponential and Logarithmic Expressions",
+    "file_name": "03 - Evaluating Logarithms.pdf",
+    "title": "Evaluating Logarithms",
+    "google_drive_link": "https://drive.google.com/file/d/1f1MB9-6C3o_Mtq-YwvXumSTVT0LKEs8F/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 3,
+    "topic_name": "Exponential and Logarithmic Expressions",
+    "file_name": "03 - Exponential Equations No Logs.pdf",
+    "title": "Exponential Equations No Logs",
+    "google_drive_link": "https://drive.google.com/file/d/1fN5fLXk1vQtw9BDAePCeaL0R8vUoGGCo/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 3,
+    "topic_name": "Exponential and Logarithmic Expressions",
+    "file_name": "03 - Exponential Equations With Logarithms.pdf",
+    "title": "Exponential Equations With Logarithms",
+    "google_drive_link": "https://drive.google.com/file/d/1SgobvMsL1mPpU5yT5U_D-dETqlukYIkr/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 3,
+    "topic_name": "Exponential and Logarithmic Expressions",
+    "file_name": "03 - Exponents and Logarithms.pdf",
+    "title": "Exponents and Logarithms",
+    "google_drive_link": "https://drive.google.com/file/d/1hm6HSZn_xWal8-iYcjbrAN6RqXjThKdM/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 3,
+    "topic_name": "Exponential and Logarithmic Expressions",
+    "file_name": "03 - Graphing Exponential Functions.pdf",
+    "title": "Graphing Exponential Functions",
+    "google_drive_link": "https://drive.google.com/file/d/1SMOqlbUJaEXp9LcYAg2y_qTAIYlm83DN/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 3,
+    "topic_name": "Exponential and Logarithmic Expressions",
+    "file_name": "03 - Graphing Logarithms.pdf",
+    "title": "Graphing Logarithms",
+    "google_drive_link": "https://drive.google.com/file/d/1SJL9VFs0gm1rTyphRwz_wVhX36G5k812/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 3,
+    "topic_name": "Exponential and Logarithmic Expressions",
+    "file_name": "03 - Inverses of Logarithms.pdf",
+    "title": "Inverses of Logarithms",
+    "google_drive_link": "https://drive.google.com/file/d/1GAc7HAbSpH52GW2lF5DjLK9FdsNIcsy0/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 3,
+    "topic_name": "Exponential and Logarithmic Expressions",
+    "file_name": "03 - Logarithmic Equations Hard.pdf",
+    "title": "Logarithmic Equations Hard",
+    "google_drive_link": "https://drive.google.com/file/d/1vHbqFxllQOJNH97Oe9up9DkFali37InE/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 3,
+    "topic_name": "Exponential and Logarithmic Expressions",
+    "file_name": "03 - Logarithmic Equations Simple.pdf",
+    "title": "Logarithmic Equations Simple",
+    "google_drive_link": "https://drive.google.com/file/d/14kjeBqNGNg0JUFfS4PVYbJ11K2pnc7eI/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 3,
+    "topic_name": "Exponential and Logarithmic Expressions",
+    "file_name": "03 - Properties of Logarithms.pdf",
+    "title": "Properties of Logarithms",
+    "google_drive_link": "https://drive.google.com/file/d/1apzClanOV6XHJzv_u4TJr0fTYFQLdBo6/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 3,
+    "topic_name": "Exponential and Logarithmic Expressions",
+    "file_name": "03 - Writing Logs in Terms of Others.pdf",
+    "title": "Writing Logs in Terms of Others",
+    "google_drive_link": "https://drive.google.com/file/d/1fWYj1B9dtZ7jeJ56iO38fNiERdWkjK_O/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 4,
+    "topic_name": "Trigonometry",
+    "file_name": "04 - Angles and Angle Measure.pdf",
+    "title": "Angles and Angle Measure",
+    "google_drive_link": "https://drive.google.com/file/d/1INKMMcXIXKCTcyqVTxemoJu8gLZnzAeJ/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 4,
+    "topic_name": "Trigonometry",
+    "file_name": "04 - Equations and Multiple-Angle Identities.pdf",
+    "title": "Equations and Multiple-Angle Identities",
+    "google_drive_link": "https://drive.google.com/file/d/1zDhRxfVN75eCXWzs0CzzAG1NcQhapy0e/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 4,
+    "topic_name": "Trigonometry",
+    "file_name": "04 - Fundamental Trig Identities.pdf",
+    "title": "Fundamental Trig Identities",
+    "google_drive_link": "https://drive.google.com/file/d/1CY_CNZKCYqK6Oojn722ActYrccHxmy92/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 4,
+    "topic_name": "Trigonometry",
+    "file_name": "04 - Graphs of Trig Functions.pdf",
+    "title": "Graphs of Trig Functions",
+    "google_drive_link": "https://drive.google.com/file/d/18wROYhxKXyuu0OA1XjrIbdEO7kqibFo1/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 4,
+    "topic_name": "Trigonometry",
+    "file_name": "04 - Inverse Trig Functions.pdf",
+    "title": "Inverse Trig Functions",
+    "google_drive_link": "https://drive.google.com/file/d/1PApZ5JtSHps5WlL5C9DgkRMPAlLIcEIT/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 4,
+    "topic_name": "Trigonometry",
+    "file_name": "04 - Multiple-Angle Identities.pdf",
+    "title": "Multiple-Angle Identities",
+    "google_drive_link": "https://drive.google.com/file/d/106L178DmetcApUxHR8VCRvz98RQjXlfY/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 4,
+    "topic_name": "Trigonometry",
+    "file_name": "04 - Product-to-Sum Identities.pdf",
+    "title": "Product-to-Sum Identities",
+    "google_drive_link": "https://drive.google.com/file/d/1J9sr60JZEi6sw6uWPf2SLSKQyvferjn4/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 4,
+    "topic_name": "Trigonometry",
+    "file_name": "04 - Right Triangle Trigonometry.pdf",
+    "title": "Right Triangle Trigonometry",
+    "google_drive_link": "https://drive.google.com/file/d/11bkvPz2o2w8ZLF9na7eVTrMSz1k3M3Rx/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 4,
+    "topic_name": "Trigonometry",
+    "file_name": "04 - Simple Trig Equations.pdf",
+    "title": "Simple Trig Equations",
+    "google_drive_link": "https://drive.google.com/file/d/1_6DORg3OYcxaOi9fk9Oqrj2bT40y1-9K/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 4,
+    "topic_name": "Trigonometry",
+    "file_name": "04 - Sum and Difference Identities.pdf",
+    "title": "Sum and Difference Identities",
+    "google_drive_link": "https://drive.google.com/file/d/1WwKvqqBSK1uyJGvEWqEiN9RTGd1byvZT/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 4,
+    "topic_name": "Trigonometry",
+    "file_name": "04 - The Law of Cosines.pdf",
+    "title": "The Law of Cosines",
+    "google_drive_link": "https://drive.google.com/file/d/1rC20xeYsmJxr0SnMDp-6jswH6WdlJPoB/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 4,
+    "topic_name": "Trigonometry",
+    "file_name": "04 - The Law of Sines.pdf",
+    "title": "The Law of Sines",
+    "google_drive_link": "https://drive.google.com/file/d/1p3ilfZ7HIMQzCzZdhY6dBFte8iM1cZrP/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 4,
+    "topic_name": "Trigonometry",
+    "file_name": "04 - Trig Equations w Factoring + Fundamental Identities.pdf",
+    "title": "Trig Equations w Factoring + Fundamental Identities",
+    "google_drive_link": "https://drive.google.com/file/d/18y9wPpzV6RNMwE0ExuIBIBzkQT8q5pIF/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 4,
+    "topic_name": "Trigonometry",
+    "file_name": "04 - Trig Ratios of Any Angle.pdf",
+    "title": "Trig Ratios of Any Angle",
+    "google_drive_link": "https://drive.google.com/file/d/1cUgUszgcn2zH6o5t86DbS2wCqKmgKtVM/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 5,
+    "topic_name": "Parametric Equations",
+    "file_name": "05 - Parametric Equations.pdf",
+    "title": "Parametric Equations",
+    "google_drive_link": "https://drive.google.com/file/d/1q3tkrhoHkRKxtUe9eQZjf-VWvk02OPr7/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 5,
+    "topic_name": "Parametric Equations",
+    "file_name": "05 - Projectile Motion.pdf",
+    "title": "Projectile Motion",
+    "google_drive_link": "https://drive.google.com/file/d/1SgwnejKF8gcMXKCDxFicvYGerKqyhpKy/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 6,
+    "topic_name": "Polar Coordinates",
+    "file_name": "06 - Complex Numbers and Polar Form.pdf",
+    "title": "Complex Numbers and Polar Form",
+    "google_drive_link": "https://drive.google.com/file/d/1uSv3GGDrW8nXZtnhiUpDR3LxnCKVkbBp/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 6,
+    "topic_name": "Polar Coordinates",
+    "file_name": "06 - Graphs of Polar Equations.pdf",
+    "title": "Graphs of Polar Equations",
+    "google_drive_link": "https://drive.google.com/file/d/14T1cM7-zoUeOhbNnWhFx_KLgxCqgaOi9/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 6,
+    "topic_name": "Polar Coordinates",
+    "file_name": "06 - Polar Coordinates.pdf",
+    "title": "Polar Coordinates",
+    "google_drive_link": "https://drive.google.com/file/d/1I8FbSOpozycJj1chQbvHIuQZuyXpcwFT/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 6,
+    "topic_name": "Polar Coordinates",
+    "file_name": "06 - Polar Forms of Conic Sections.pdf",
+    "title": "Polar Forms of Conic Sections",
+    "google_drive_link": "https://drive.google.com/file/d/1GuYoqzO9l1TDnE8HX8AWzuSk_7jmTXOO/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 6,
+    "topic_name": "Polar Coordinates",
+    "file_name": "06 - Polar and Rectangular Forms of Equations.pdf",
+    "title": "Polar and Rectangular Forms of Equations",
+    "google_drive_link": "https://drive.google.com/file/d/1mqy9wLXuyBRkNjHVqVOSNdoXHoK9U-GI/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 7,
+    "topic_name": "Vectors",
+    "file_name": "07 - Dot Products.pdf",
+    "title": "Dot Products",
+    "google_drive_link": "https://drive.google.com/file/d/1pXJ0lSlpQYCQQDJezY8DW5AEcpV_8snG/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 7,
+    "topic_name": "Vectors",
+    "file_name": "07 - Vector Basics.pdf",
+    "title": "Vector Basics",
+    "google_drive_link": "https://drive.google.com/file/d/1xrKtd6Ue5zlyKngNkyYTvrFP_XEuo0Mi/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 7,
+    "topic_name": "Vectors",
+    "file_name": "07 - Vector Operations.pdf",
+    "title": "Vector Operations",
+    "google_drive_link": "https://drive.google.com/file/d/1t9EbbVG4eavdwsCYPrf_kLFRBexqZDOm/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 8,
+    "topic_name": "3D Vectors",
+    "file_name": "08 - 3D Vector Basics.pdf",
+    "title": "3D Vector Basics",
+    "google_drive_link": "https://drive.google.com/file/d/1XGtQx9Zbrl7QPtupog71fb0DmON_9Owq/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 8,
+    "topic_name": "3D Vectors",
+    "file_name": "08 - 3D Vector Operations.pdf",
+    "title": "3D Vector Operations",
+    "google_drive_link": "https://drive.google.com/file/d/10NZZXY9Ujazl0NZHh8rEUaHXxVeEgdAM/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 8,
+    "topic_name": "3D Vectors",
+    "file_name": "08 - Vector Cross Products.pdf",
+    "title": "Vector Cross Products",
+    "google_drive_link": "https://drive.google.com/file/d/1g2eXik_GNKz9WPcaIoKi17KITy0i5p38/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 9,
+    "topic_name": "Matrices",
+    "file_name": "09 - Cramer's Rule.pdf",
+    "title": "Cramer's Rule",
+    "google_drive_link": "https://drive.google.com/file/d/1MgNPC6sWStO2-FSTyWJSVv-_SPJwWNpq/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 9,
+    "topic_name": "Matrices",
+    "file_name": "09 - Matrix Equations.pdf",
+    "title": "Matrix Equations",
+    "google_drive_link": "https://drive.google.com/file/d/1aS9GkAmjVXCZUV3TVY0OtVzum-99gcu0/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 9,
+    "topic_name": "Matrices",
+    "file_name": "09 - Matrix Inverses and Determinants.pdf",
+    "title": "Matrix Inverses and Determinants",
+    "google_drive_link": "https://drive.google.com/file/d/15QXT5QCeUqwc-VAHG23y0oEDmCG_yV45/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 9,
+    "topic_name": "Matrices",
+    "file_name": "09 - Matrix Operations.pdf",
+    "title": "Matrix Operations",
+    "google_drive_link": "https://drive.google.com/file/d/19Vfd90zr-XfkKln_SxxuVnHmYBQRr1ia/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 9,
+    "topic_name": "Matrices",
+    "file_name": "09 - Partial Fraction Decomposition.pdf",
+    "title": "Partial Fraction Decomposition",
+    "google_drive_link": "https://drive.google.com/file/d/1hDVTq1XnXlmwDv8lNmCj4fYJbdGl22vX/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 9,
+    "topic_name": "Matrices",
+    "file_name": "09 - Systems and Row Operations.pdf",
+    "title": "Systems and Row Operations",
+    "google_drive_link": "https://drive.google.com/file/d/19xhf6weIWtRTk_l5P3L-M5vVPUZVximR/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 10,
+    "topic_name": "Conic Sections",
+    "file_name": "10 - Circles.pdf",
+    "title": "Circles",
+    "google_drive_link": "https://drive.google.com/file/d/1C1X3wlGLPS335vdmMPOPCUXTNpmtSQzQ/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 10,
+    "topic_name": "Conic Sections",
+    "file_name": "10 - Ellipses.pdf",
+    "title": "Ellipses",
+    "google_drive_link": "https://drive.google.com/file/d/1mKdg9-xHuJIMZFG1S7XUkq0Gu9N3FIfO/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 10,
+    "topic_name": "Conic Sections",
+    "file_name": "10 - Hyperbolas.pdf",
+    "title": "Hyperbolas",
+    "google_drive_link": "https://drive.google.com/file/d/1KF0nwUyvmMfObjlhUIU6dbapPK6e0ifE/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 10,
+    "topic_name": "Conic Sections",
+    "file_name": "10 - Parabolas.pdf",
+    "title": "Parabolas",
+    "google_drive_link": "https://drive.google.com/file/d/1FsFJCzK03CHhw4X4ZnsvinUoRPUrnzcq/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 10,
+    "topic_name": "Conic Sections",
+    "file_name": "10 - Rotations of Conic Sections.pdf",
+    "title": "Rotations of Conic Sections",
+    "google_drive_link": "https://drive.google.com/file/d/1tvhEWa95aUX4KGatR_qc1e1pRPDdLtk7/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 11,
+    "topic_name": "Combinatorics",
+    "file_name": "11 - Combinations.pdf",
+    "title": "Combinations",
+    "google_drive_link": "https://drive.google.com/file/d/1JrsPewWGDEahpU_yo_G_KQLDcfikK_Wv/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 11,
+    "topic_name": "Combinatorics",
+    "file_name": "11 - Induction.pdf",
+    "title": "Induction",
+    "google_drive_link": "https://drive.google.com/file/d/1URssSxYjO0ImsAjwRN0tCL_teO1WnSCs/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 11,
+    "topic_name": "Combinatorics",
+    "file_name": "11 - Permutations vs Combinations.pdf",
+    "title": "Permutations vs Combinations",
+    "google_drive_link": "https://drive.google.com/file/d/1saRE0_Xxov1zIPpNAYSKpKN9pig-q7IT/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 11,
+    "topic_name": "Combinatorics",
+    "file_name": "11 - Permutations.pdf",
+    "title": "Permutations",
+    "google_drive_link": "https://drive.google.com/file/d/1lM3ZpTWn0iOSF5Gk0o_ZJhkHnVbCT9ge/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 11,
+    "topic_name": "Combinatorics",
+    "file_name": "11 - Samples Spaces and the Fundamental Counting Principle.pdf",
+    "title": "Samples Spaces and the Fundamental Counting Principle",
+    "google_drive_link": "https://drive.google.com/file/d/136KtrBWSClrjboiWTxEaPJ8OvfacPpYj/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 11,
+    "topic_name": "Combinatorics",
+    "file_name": "11 - The Binomial Theorem.pdf",
+    "title": "The Binomial Theorem",
+    "google_drive_link": "https://drive.google.com/file/d/18SOLfjq7QS_nVajuhGWnGSczM4nznSGS/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 12,
+    "topic_name": "Probability",
+    "file_name": "12 - Independent and Dependent Events.pdf",
+    "title": "Independent and Dependent Events",
+    "google_drive_link": "https://drive.google.com/file/d/1CSuLluM87Us61gbgoyLFM8n23GS7b-tP/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 12,
+    "topic_name": "Probability",
+    "file_name": "12 - Mutually Exclusive Events.pdf",
+    "title": "Mutually Exclusive Events",
+    "google_drive_link": "https://drive.google.com/file/d/1XB-xqvQ2rOjcoUeBe12u_sFdpq3UsLA6/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 12,
+    "topic_name": "Probability",
+    "file_name": "12 - Probability with Combinatorics - Binomial.pdf",
+    "title": "Probability with Combinatorics - Binomial",
+    "google_drive_link": "https://drive.google.com/file/d/1bjtpZNMrY6eVtkCH6QeR0GZPaJsqxbtH/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 12,
+    "topic_name": "Probability",
+    "file_name": "12 - Probability with Combinatorics.pdf",
+    "title": "Probability with Combinatorics",
+    "google_drive_link": "https://drive.google.com/file/d/1kUnsEFPda9HFareV-M1BS1Qe0dHbQMhS/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 13,
+    "topic_name": "Sequences and Series",
+    "file_name": "13 - Arithmetic Sequences and Series.pdf",
+    "title": "Arithmetic Sequences and Series",
+    "google_drive_link": "https://drive.google.com/file/d/11KjZ9Ai-toZKBSsLYFyOpKX5tz1bJimE/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 13,
+    "topic_name": "Sequences and Series",
+    "file_name": "13 - Geometric Sequences and Series.pdf",
+    "title": "Geometric Sequences and Series",
+    "google_drive_link": "https://drive.google.com/file/d/1RXRYNMTQ84io3KvOuiMPag2O46Aif2Ag/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 13,
+    "topic_name": "Sequences and Series",
+    "file_name": "13 - Power Series.pdf",
+    "title": "Power Series",
+    "google_drive_link": "https://drive.google.com/file/d/14_G6_7838aNvCqHRut5WyMmRNZ3xW_Tm/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 13,
+    "topic_name": "Sequences and Series",
+    "file_name": "13 - Sequences and Series.pdf",
+    "title": "Sequences and Series",
+    "google_drive_link": "https://drive.google.com/file/d/13UHRWivQYEGAz2j8R--ffp3lmX6cJjII/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 14,
+    "topic_name": "Introduction to Calculus",
+    "file_name": "14 - Approximating Area Under a Curve.pdf",
+    "title": "Approximating Area Under a Curve",
+    "google_drive_link": "https://drive.google.com/file/d/1zCMLIB76q0so5vJZHTIHhYeSbWpV4227/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 14,
+    "topic_name": "Introduction to Calculus",
+    "file_name": "14 - Area Under a Curve Using Limits of Sums.pdf",
+    "title": "Area Under a Curve Using Limits of Sums",
+    "google_drive_link": "https://drive.google.com/file/d/1WSG0VxMP1SBEey74Dtz5AbruEleXlguq/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 14,
+    "topic_name": "Introduction to Calculus",
+    "file_name": "14 - Definition of the Derivative.pdf",
+    "title": "Definition of the Derivative",
+    "google_drive_link": "https://drive.google.com/file/d/1CCyxwwvTBBYsrZ2u5UHFtV8fr-HBrNQQ/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 14,
+    "topic_name": "Introduction to Calculus",
+    "file_name": "14 - Indefinite Integrals.pdf",
+    "title": "Indefinite Integrals",
+    "google_drive_link": "https://drive.google.com/file/d/1aVBFGyQFsBLkYZBWu4xAs2snzLLFuk-x/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 14,
+    "topic_name": "Introduction to Calculus",
+    "file_name": "14 - Instantaneous Rates of Change.pdf",
+    "title": "Instantaneous Rates of Change",
+    "google_drive_link": "https://drive.google.com/file/d/1rQgvzU45RyMLX340FrNjYmQh6Pjiw7Mw/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 14,
+    "topic_name": "Introduction to Calculus",
+    "file_name": "14 - Limits at Essential Discontinuities.pdf",
+    "title": "Limits at Essential Discontinuities",
+    "google_drive_link": "https://drive.google.com/file/d/1_V0pKS_4_uqy_NW9I9kySbe4dABa7473/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 14,
+    "topic_name": "Introduction to Calculus",
+    "file_name": "14 - Limits at Infinity.pdf",
+    "title": "Limits at Infinity",
+    "google_drive_link": "https://drive.google.com/file/d/1zhvHTHszNcO4E-ZSh4Ubd6wk_D1r6vZV/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 14,
+    "topic_name": "Introduction to Calculus",
+    "file_name": "14 - Limits at Jump Discontinuities and Kinks.pdf",
+    "title": "Limits at Jump Discontinuities and Kinks",
+    "google_drive_link": "https://drive.google.com/file/d/1ORLUBmr3Q8vxK6f3EbWuEzbknKxYvIkJ/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 14,
+    "topic_name": "Introduction to Calculus",
+    "file_name": "14 - Limits at Removable Discontinuities.pdf",
+    "title": "Limits at Removable Discontinuities",
+    "google_drive_link": "https://drive.google.com/file/d/1TUQlaJw7TwgfSL2RRv2719ZP8dB3Uvsu/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 14,
+    "topic_name": "Introduction to Calculus",
+    "file_name": "14 - Limits by Direct Evaluation.pdf",
+    "title": "Limits by Direct Evaluation",
+    "google_drive_link": "https://drive.google.com/file/d/1x-BWgSerXEA_anD0Eyxcq5QP66N8PDaw/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 14,
+    "topic_name": "Introduction to Calculus",
+    "file_name": "14 - Motion Along a Line.pdf",
+    "title": "Motion Along a Line",
+    "google_drive_link": "https://drive.google.com/file/d/1ysP9gGES0mZvO0NZLXzKqe-BPui4qkvn/view?usp=sharing"
+  },
+  {
+    "grade": "Pre-Calculus",
+    "topic_id": 14,
+    "topic_name": "Introduction to Calculus",
+    "file_name": "14 - Power Rule.pdf",
+    "title": "Power Rule",
+    "google_drive_link": "https://drive.google.com/file/d/1f475xCqR-nR9JqZZD3Op7b3pTz5cacoS/view?usp=sharing"
+  }
+]
