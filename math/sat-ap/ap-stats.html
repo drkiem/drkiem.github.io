@@ -112,7 +112,7 @@ gtag('config', 'G-Y5KN25P14N', { 'anonymize_ip': true});
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="NKK-Education Hub">
 <meta property="og:title" content="AP Statistics – NKK-Education Hub">
-<meta property="og:description" content="Chương Trình Xác Suất Thống Kê Advanced Placement (College Board)">
+<meta property="og:description" content="Advanced Placement Statistics Textbooks, Practice Books &amp; Study Guides (College Board)">
 <meta property="og:url" content="https://drkiem.vn">
 <meta property="og:image" content="https://drkiem.vn/images/academic_workspace.png">
 
@@ -171,35 +171,6 @@ gtag('config', 'G-Y5KN25P14N', { 'anonymize_ip': true});
 }
 </script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -448,6 +419,10 @@ window.Quarto = {
 <span class="menu-text">Books</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../../happy-books.html"> 
+<span class="menu-text">Happy Books</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../../news.html"> 
 <span class="menu-text">News &amp; Updates</span></a>
   </li>  
@@ -520,19 +495,7 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#giới-thiệu-chương-trình" id="toc-giới-thiệu-chương-trình" class="nav-link active" data-scroll-target="#giới-thiệu-chương-trình">1. Giới Thiệu Chương Trình</a>
-  <ul class="collapse">
-  <li><a href="#cấu-trúc-đề-thi-assessment-outline" id="toc-cấu-trúc-đề-thi-assessment-outline" class="nav-link" data-scroll-target="#cấu-trúc-đề-thi-assessment-outline">Cấu Trúc Đề Thi (Assessment Outline)</a></li>
-  </ul></li>
-  <li><a href="#khung-chương-trình-chi-tiết-syllabus-core" id="toc-khung-chương-trình-chi-tiết-syllabus-core" class="nav-link" data-scroll-target="#khung-chương-trình-chi-tiết-syllabus-core">2. Khung Chương Trình Chi Tiết (Syllabus Core)</a></li>
-  <li><a href="#ví-dụ-minh-họa-công-thức-trọng-tâm" id="toc-ví-dụ-minh-họa-công-thức-trọng-tâm" class="nav-link" data-scroll-target="#ví-dụ-minh-họa-công-thức-trọng-tâm">3. Ví Dụ Minh Họa &amp; Công Thức Trọng Tâm</a>
-  <ul class="collapse">
-  <li><a href="#công-thức-chung-của-khoảng-tin-cậy-confidence-interval" id="toc-công-thức-chung-của-khoảng-tin-cậy-confidence-interval" class="nav-link" data-scroll-target="#công-thức-chung-của-khoảng-tin-cậy-confidence-interval">Công thức chung của Khoảng tin cậy (Confidence Interval)</a></li>
-  <li><a href="#công-thức-giá-trị-kiểm-định-thống-kê-test-statistic" id="toc-công-thức-giá-trị-kiểm-định-thống-kê-test-statistic" class="nav-link" data-scroll-target="#công-thức-giá-trị-kiểm-định-thống-kê-test-statistic">Công thức Giá trị kiểm định thống kê (Test Statistic)</a></li>
-  </ul></li>
-  <li><a href="#bẫy-điểm-số-phương-pháp-làm-bài-frq-frq-exam-tips" id="toc-bẫy-điểm-số-phương-pháp-làm-bài-frq-frq-exam-tips" class="nav-link" data-scroll-target="#bẫy-điểm-số-phương-pháp-làm-bài-frq-frq-exam-tips">4. Bẫy Điểm Số &amp; Phương Pháp Làm Bài FRQ (FRQ Exam Tips)</a></li>
-  <li><a href="#kho-đề-frqmcq-theo-chuyên-đề" id="toc-kho-đề-frqmcq-theo-chuyên-đề" class="nav-link" data-scroll-target="#kho-đề-frqmcq-theo-chuyên-đề">5. Kho Đề FRQ/MCQ Theo Chuyên Đề</a></li>
-  <li><a href="#ap-statistics-books" id="toc-ap-statistics-books" class="nav-link" data-scroll-target="#ap-statistics-books">6. AP Statistics Books</a></li>
+  <li><a href="#ap-statistics-textbooks-prep-books" id="toc-ap-statistics-textbooks-prep-books" class="nav-link active" data-scroll-target="#ap-statistics-textbooks-prep-books">1. AP Statistics Textbooks &amp; Prep Books</a></li>
   </ul>
 </nav>
     </div>
@@ -543,7 +506,7 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">AP Statistics</h1>
-<p class="subtitle lead">Chương Trình Xác Suất Thống Kê Advanced Placement (College Board)</p>
+<p class="subtitle lead">Advanced Placement Statistics Textbooks, Practice Books &amp; Study Guides (College Board)</p>
 </div>
 
 
@@ -566,199 +529,16 @@ window.Quarto = {
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Tài nguyên ôn tập &amp; Luyện thi: AP Statistics
+<span class="screen-reader-only">Note</span>Academic Repository: AP Statistics
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức thống kê chuẩn đại học, công thức tính khoảng tin cậy và kiểm định z-test, t-test bằng LaTeX sắc nét cùng ngân hàng tài liệu luyện viết lập luận FRQ (Free Response Questions) độc quyền giúp đạt điểm tuyệt đối 5/5.</p>
+<p>Welcome to the <strong>AP Statistics</strong> learning hub. Access essential textbooks, practice books, and study guides tailored for the College Board AP Statistics suite (covering Exploring Data, Sampling &amp; Experimentation, Probability &amp; Random Variables, and Statistical Inference).</p>
 </div>
 </div>
-<section id="giới-thiệu-chương-trình" class="level2">
-<h2 class="anchored" data-anchor-id="giới-thiệu-chương-trình">1. Giới Thiệu Chương Trình</h2>
-<p>
-<strong>Advanced Placement (AP) Statistics</strong> là kỳ thi chuẩn hóa quốc tế của College Board tương đương một học kỳ xác suất thống kê đại cương tại đại học. Khác với các môn toán thông thường, AP Stats đòi hỏi khả năng diễn dịch số liệu bằng ngôn từ thực tế vô cùng chuẩn xác và logic.
-</p>
-<section id="cấu-trúc-đề-thi-assessment-outline" class="level3">
-<h3 class="anchored" data-anchor-id="cấu-trúc-đề-thi-assessment-outline">Cấu Trúc Đề Thi (Assessment Outline)</h3>
-<p>
-Đề thi AP Stats gồm hai phần thi chính trắc nghiệm MCQ (50%) và tự luận FRQ (50%):
-</p>
-<div class="table-wrapper" style="margin-bottom: 2rem;">
-<table class="premium-table">
-<thead>
-<tr>
-<th>
-Thành phần thi (Section)
-</th>
-<th>
-Số lượng câu hỏi
-</th>
-<th>
-Thời gian làm bài
-</th>
-<th>
-Chính sách sử dụng máy tính
-</th>
-<th style="text-align: right;">
-Trọng số điểm
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-<strong>Section I: Multiple Choice (MCQ)</strong>
-</td>
-<td>
-40 câu trắc nghiệm
-</td>
-<td>
-1 tiếng 30 phút
-</td>
-<td>
-<span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Bắt buộc dùng máy tính đồ họa</span>
-</td>
-<td style="text-align: right;">
-<strong>50%</strong>
-</td>
-</tr>
-<tr>
-<td>
-<strong>Section II: Free Response (FRQ)</strong>
-</td>
-<td>
-6 câu hỏi tự luận lớn (gồm câu 6 Investigative Task đặc trưng)
-</td>
-<td>
-1 tiếng 30 phút
-</td>
-<td>
-<span class="badge" style="background: rgba(16, 185, 129, 0.1); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.2); text-transform: none; font-size: 0.8rem;">Bắt buộc dùng máy tính đồ họa</span>
-</td>
-<td style="text-align: right;">
-<strong>50%</strong>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-<hr>
-</section>
-</section>
-<section id="khung-chương-trình-chi-tiết-syllabus-core" class="level2">
-<h2 class="anchored" data-anchor-id="khung-chương-trình-chi-tiết-syllabus-core">2. Khung Chương Trình Chi Tiết (Syllabus Core)</h2>
-<p>Syllabus AP Statistics được chia thành 9 Units lớn theo cấu trúc của College Board:</p>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span>Các chuyên đề cốt lõi của AP Statistics:
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ol type="1">
-<li><strong>Exploring One-Variable &amp; Two-Variable Data (Phân tích dữ liệu - 30%):</strong>
-<ul>
-<li>Biểu diễn dữ liệu bằng Boxplot, Histogram. Tính toán Mean, Median, Standard deviation, z-score.</li>
-<li>Vẽ đồ thị phân tán (Scatterplot), tính hệ số tương quan <span class="math inline">\(r\)</span> và viết phương trình đường hồi quy <span class="math inline">\(y = a + bx\)</span>.</li>
-</ul></li>
-<li><strong>Collecting Data (Thu thập dữ liệu thực nghiệm - 15%):</strong>
-<ul>
-<li>Thiết kế chọn mẫu ngẫu nhiên: SRS, Stratified, Cluster.</li>
-<li>Thiết kế thực nghiệm (experiments) có đối chứng độc lập, các bẫy thiên lệch (bias).</li>
-</ul></li>
-<li><strong>Probability &amp; Random Variables (Xác suất &amp; Biến ngẫu nhiên - 20%):</strong>
-<ul>
-<li>Quy tắc xác suất có điều kiện. Tính kỳ vọng và phương sai biến ngẫu nhiên rời rạc.</li>
-<li>Phân phối nhị thức (Binomial), hình học (Geometric) và phân phối chuẩn (Normal).</li>
-</ul></li>
-<li><strong>Statistical Inference (Kiểm định thống kê suy luận - 35%):</strong>
-<ul>
-<li>Ước lượng khoảng tin cậy (Confidence Intervals) và kiểm định giả thuyết thống kê (Hypothesis Tests).</li>
-<li>Kiểm định tham số cho tỷ lệ (z-test) và kiểm định cho trung bình (t-test) của 1 mẫu hoặc 2 mẫu độc lập/ghép đôi.</li>
-<li>Kiểm định Chi-Square (<span class="math inline">\(\chi^2\)</span>) cho mức độ phù hợp và độc lập. Kiểm định hệ số góc đường hồi quy.</li>
-</ul></li>
-</ol>
-</div>
-</div>
-<hr>
-</section>
-<section id="ví-dụ-minh-họa-công-thức-trọng-tâm" class="level2">
-<h2 class="anchored" data-anchor-id="ví-dụ-minh-họa-công-thức-trọng-tâm">3. Ví Dụ Minh Họa &amp; Công Thức Trọng Tâm</h2>
-<p>Công thức kiểm định thống kê hiển thị sắc nét bằng LaTeX:</p>
-<section id="công-thức-chung-của-khoảng-tin-cậy-confidence-interval" class="level3">
-<h3 class="anchored" data-anchor-id="công-thức-chung-của-khoảng-tin-cậy-confidence-interval">Công thức chung của Khoảng tin cậy (Confidence Interval)</h3>
-<p>Mọi khoảng tin cậy đều có cấu trúc gồm ước lượng điểm cộng/trừ sai số biên: <span class="math display">\[\text{Confidence Interval} = \text{Point Estimate} \pm (\text{Critical Value}) \times (\text{Standard Error})\]</span> <span class="math display">\[\text{Ví dụ khoảng tin cậy 95\% cho trung bình } \mu \text{ (dùng t-test): } \bar{x} \pm t^* \frac{s_x}{\sqrt{n}}\]</span></p>
-</section>
-<section id="công-thức-giá-trị-kiểm-định-thống-kê-test-statistic" class="level3">
-<h3 class="anchored" data-anchor-id="công-thức-giá-trị-kiểm-định-thống-kê-test-statistic">Công thức Giá trị kiểm định thống kê (Test Statistic)</h3>
-<p>Đo lường mức độ sai lệch giữa giả thuyết không và giá trị thực nghiệm mẫu: <span class="math display">\[\text{Test Statistic} = \frac{\text{Point Estimate} - \text{Null Value}}{\text{Standard Error}}\]</span> <span class="math display">\[\text{Ví dụ kiểm định t-test cho } \mu: \quad t = \frac{\bar{x} - \mu_0}{s_x / \sqrt{n}}\]</span></p>
-<hr>
-</section>
-</section>
-<section id="bẫy-điểm-số-phương-pháp-làm-bài-frq-frq-exam-tips" class="level2">
-<h2 class="anchored" data-anchor-id="bẫy-điểm-số-phương-pháp-làm-bài-frq-frq-exam-tips">4. Bẫy Điểm Số &amp; Phương Pháp Làm Bài FRQ (FRQ Exam Tips)</h2>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Các quy tắc lập luận bắt buộc để đạt điểm tuyệt đối (E - Essentially Correct):
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ul>
-<li><strong>⚠️ Viết đầy đủ 3 bước kiểm tra điều kiện (Conditions Check):</strong> Đối với bất kỳ bài toán FRQ yêu cầu tính khoảng tin cậy hay kiểm định giả thuyết, bạn bắt buộc phải kiểm tra và xác nhận 3 điều kiện:
-<ol type="1">
-<li><strong>Randomness:</strong> Dữ liệu được chọn ngẫu nhiên từ mẫu SRS hoặc thiết kế thực nghiệm ngẫu nhiên.</li>
-<li><strong>10% Condition:</strong> Kích thước mẫu <span class="math inline">\(n \le 10\%\)</span> tổng thể (bắt buộc khi chọn mẫu không hoàn lại để đảm bảo tính độc lập).</li>
-<li><strong>Normality:</strong> Chứng minh phân phối xấp xỉ chuẩn: dùng điều kiện <span class="math inline">\(np \ge 10\)</span> and <span class="math inline">\(n(1-p) \ge 10\)</span> cho tỷ lệ; dùng Định lý giới hạn trung tâm (CLT) <span class="math inline">\(n \ge 30\)</span> hoặc vẽ biểu đồ Boxplot chứng minh không có điểm ngoại lai đối với trung bình.</li>
-</ol></li>
-<li><strong>⚠️ Diễn dịch kết quả bằng ngữ cảnh thực tế (In Context):</strong> Không bao giờ viết kết luận trơ trọi. Thay vì ghi <em>“Reject <span class="math inline">\(H_0\)</span> because <span class="math inline">\(p &lt; 0.05\)</span>”</em>, bạn phải viết đầy đủ: <em>“Since the p-value (<span class="math inline">\(0.02\)</span>) is less than the significance level <span class="math inline">\(\alpha = 0.05\)</span>, we reject <span class="math inline">\(H_0\)</span>. There is convincing evidence that the true mean recovery time of all patients using the new drug is less than 15 days.”</em></li>
-</ul>
-</div>
-</div>
-<hr>
-</section>
-<section id="kho-đề-frqmcq-theo-chuyên-đề" class="level2">
-<h2 class="anchored" data-anchor-id="kho-đề-frqmcq-theo-chuyên-đề">5. Kho Đề FRQ/MCQ Theo Chuyên Đề</h2>
-<div class="program-grid">
-<section id="topic-1-describing-collecting-data" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-1-describing-collecting-data">Topic 1: Describing &amp; Collecting Data</h3>
-<ul>
-<li>Biểu diễn dữ liệu Boxplot Skewness, viết phương trình đường hồi quy, thiết kế chọn mẫu không thiên lệch.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 1 →</strong></a></li>
-</ul>
-</section>
-<section id="topic-2-probability-random-variables" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-2-probability-random-variables">Topic 2: Probability &amp; Random Variables</h3>
-<ul>
-<li>Xác suất có điều kiện sơ đồ cây, lập bảng xác suất rời rạc, tính kỳ vọng toán và phân phối chuẩn.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 2 →</strong></a></li>
-</ul>
-</section>
-<section id="topic-3-confidence-intervals-z-interval-t-interval" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-3-confidence-intervals-z-interval-t-interval">Topic 3: Confidence Intervals (Z-Interval &amp; T-Interval)</h3>
-<ul>
-<li>Kiểm tra điều kiện, tính toán khoảng tin cậy cho tỷ lệ và trung bình một mẫu hoặc hai mẫu độc lập.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 3 →</strong></a></li>
-</ul>
-</section>
-<section id="topic-4-hypothesis-testing-z-test-t-test-chi-square" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-4-hypothesis-testing-z-test-t-test-chi-square">Topic 4: Hypothesis Testing (z-test, t-test, Chi-Square)</h3>
-<ul>
-<li>Thực hành viết giả thuyết, kiểm tra điều kiện, tính toán test statistic, p-value và kết luận ngữ cảnh thực tế.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 4 →</strong></a></li>
-</ul>
-</section>
-</div>
-</section>
-<section id="ap-statistics-books" class="level2">
-<h2 class="anchored" data-anchor-id="ap-statistics-books">6. AP Statistics Books</h2>
-<p>Access core textbooks, practice books, and test prep materials for the AP Statistics section. Select any book to view or download:</p>
+<section id="ap-statistics-textbooks-prep-books" class="level2">
+<h2 class="anchored" data-anchor-id="ap-statistics-textbooks-prep-books">1. AP Statistics Textbooks &amp; Prep Books</h2>
+<p>Access core textbooks, practice books, and test prep materials for the AP Statistics section. Select any book to view or download directly:</p>
 <div class="book-grid">
 <div class="book-card">
 <div class="book-cover-container">

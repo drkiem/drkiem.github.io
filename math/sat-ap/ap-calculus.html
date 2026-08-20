@@ -113,7 +113,7 @@ gtag('config', 'G-Y5KN25P14N', { 'anonymize_ip': true});
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="NKK-Education Hub">
 <meta property="og:title" content="AP Calculus AB &amp; BC – NKK-Education Hub">
-<meta property="og:description" content="Chương Trình Toán Học Giải Tích Advanced Placement (College Board)">
+<meta property="og:description" content="Advanced Placement Calculus AB &amp; BC Textbooks, Practice Books &amp; Study Guides (College Board)">
 <meta property="og:url" content="https://drkiem.vn">
 <meta property="og:image" content="https://drkiem.vn/images/academic_workspace.png">
 
@@ -172,35 +172,6 @@ gtag('config', 'G-Y5KN25P14N', { 'anonymize_ip': true});
 }
 </script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -449,6 +420,10 @@ window.Quarto = {
 <span class="menu-text">Books</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../../happy-books.html"> 
+<span class="menu-text">Happy Books</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../../news.html"> 
 <span class="menu-text">News &amp; Updates</span></a>
   </li>  
@@ -521,19 +496,7 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#giới-thiệu-chương-trình" id="toc-giới-thiệu-chương-trình" class="nav-link active" data-scroll-target="#giới-thiệu-chương-trình">1. Giới Thiệu Chương Trình</a>
-  <ul class="collapse">
-  <li><a href="#cấu-trúc-đề-thi-assessment-outline" id="toc-cấu-trúc-đề-thi-assessment-outline" class="nav-link" data-scroll-target="#cấu-trúc-đề-thi-assessment-outline">Cấu Trúc Đề Thi (Assessment Outline)</a></li>
-  </ul></li>
-  <li><a href="#khung-chương-trình-chi-tiết-syllabus-core" id="toc-khung-chương-trình-chi-tiết-syllabus-core" class="nav-link" data-scroll-target="#khung-chương-trình-chi-tiết-syllabus-core">2. Khung Chương Trình Chi Tiết (Syllabus Core)</a></li>
-  <li><a href="#ví-dụ-minh-họa-công-thức-trọng-tâm" id="toc-ví-dụ-minh-họa-công-thức-trọng-tâm" class="nav-link" data-scroll-target="#ví-dụ-minh-họa-công-thức-trọng-tâm">3. Ví Dụ Minh Họa &amp; Công Thức Trọng Tâm</a>
-  <ul class="collapse">
-  <li><a href="#định-lý-cơ-bản-của-giải-tích-fundamental-theorem-of-calculus" id="toc-định-lý-cơ-bản-của-giải-tích-fundamental-theorem-of-calculus" class="nav-link" data-scroll-target="#định-lý-cơ-bản-của-giải-tích-fundamental-theorem-of-calculus">Định lý cơ bản của Giải tích (Fundamental Theorem of Calculus)</a></li>
-  <li><a href="#chuỗi-khai-triển-maclaurin-của-một-số-hàm-số-cốt-lõi" id="toc-chuỗi-khai-triển-maclaurin-của-một-số-hàm-số-cốt-lõi" class="nav-link" data-scroll-target="#chuỗi-khai-triển-maclaurin-của-một-số-hàm-số-cốt-lõi">Chuỗi khai triển Maclaurin của một số hàm số cốt lõi</a></li>
-  </ul></li>
-  <li><a href="#bẫy-điểm-số-phương-pháp-làm-bài-frq-frq-exam-tips" id="toc-bẫy-điểm-số-phương-pháp-làm-bài-frq-frq-exam-tips" class="nav-link" data-scroll-target="#bẫy-điểm-số-phương-pháp-làm-bài-frq-frq-exam-tips">4. Bẫy Điểm Số &amp; Phương Pháp Làm Bài FRQ (FRQ Exam Tips)</a></li>
-  <li><a href="#kho-đề-frqmcq-theo-chuyên-đề" id="toc-kho-đề-frqmcq-theo-chuyên-đề" class="nav-link" data-scroll-target="#kho-đề-frqmcq-theo-chuyên-đề">5. Kho Đề FRQ/MCQ Theo Chuyên Đề</a></li>
-  <li><a href="#ap-calculus-books" id="toc-ap-calculus-books" class="nav-link" data-scroll-target="#ap-calculus-books">6. AP Calculus Books</a></li>
+  <li><a href="#ap-calculus-ab-bc-textbooks-prep-books" id="toc-ap-calculus-ab-bc-textbooks-prep-books" class="nav-link active" data-scroll-target="#ap-calculus-ab-bc-textbooks-prep-books">1. AP Calculus AB &amp; BC Textbooks &amp; Prep Books</a></li>
   </ul>
 </nav>
     </div>
@@ -544,7 +507,7 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">AP Calculus AB &amp; BC</h1>
-<p class="subtitle lead">Chương Trình Toán Học Giải Tích Advanced Placement (College Board)</p>
+<p class="subtitle lead">Advanced Placement Calculus AB &amp; BC Textbooks, Practice Books &amp; Study Guides (College Board)</p>
 </div>
 
 
@@ -567,201 +530,16 @@ window.Quarto = {
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Tài nguyên ôn tập &amp; Luyện thi: AP Calculus AB &amp; BC
+<span class="screen-reader-only">Note</span>Academic Repository: AP Calculus AB &amp; BC
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức giải tích chuyên sâu bậc đại học, công thức đạo hàm đạo hàm và tích phân hiển thị bằng LaTeX sắc nét cùng ngân hàng tài liệu luyện viết tự luận FRQ (Free Response Questions) độc quyền giúp đạt điểm tuyệt đối 5/5.</p>
+<p>Welcome to the <strong>AP Calculus AB &amp; BC</strong> learning hub. Access essential textbooks, practice books, and test preparation materials tailored for the College Board AP Calculus AB &amp; BC suite (covering Limits &amp; Continuity, Differentiation, Integration, Differential Equations, Parametric/Polar Curves, and Infinite Series).</p>
 </div>
 </div>
-<section id="giới-thiệu-chương-trình" class="level2">
-<h2 class="anchored" data-anchor-id="giới-thiệu-chương-trình">1. Giới Thiệu Chương Trình</h2>
-<p>
-<strong>Advanced Placement (AP) Calculus</strong> là kỳ thi giải tích chuẩn đại học dành cho học sinh trung học phổ thông định hướng du học Mỹ. Chương trình chia làm hai phân hệ:
-</p>
-<ul>
-<li><strong>Calculus AB:</strong> Tương đương với học kỳ giải tích thứ nhất (Calculus I) của đại học. Trọng tâm: Giới hạn (Limits), Đạo hàm (Derivatives) và Tích phân (Integrals) cơ bản.</li>
-<li><strong>Calculus BC:</strong> Bao gồm toàn bộ chương trình của AB và bổ sung các phương pháp tích phân nâng cao, phương trình vi phân tham số/cực và chuỗi số vô hạn (Infinite Series).</li>
-</ul>
-<section id="cấu-trúc-đề-thi-assessment-outline" class="level3">
-<h3 class="anchored" data-anchor-id="cấu-trúc-đề-thi-assessment-outline">Cấu Trúc Đề Thi (Assessment Outline)</h3>
-<p>
-Đề thi AP Calculus gồm hai phần thi chính trắc nghiệm MCQ (50%) và tự luận FRQ (50%):
-</p>
-<div class="table-wrapper" style="margin-bottom: 2rem;">
-<table class="premium-table">
-<thead>
-<tr>
-<th>
-Thành phần thi (Section)
-</th>
-<th>
-Số lượng câu hỏi
-</th>
-<th>
-Thời gian làm bài
-</th>
-<th>
-Chính sách sử dụng máy tính
-</th>
-<th style="text-align: right;">
-Trọng số điểm
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-<strong>Section I: Multiple Choice (MCQ)</strong>
-</td>
-<td>
-45 câu trắc nghiệm (chia làm phần Non-calc &amp; Calc)
-</td>
-<td>
-1 tiếng 45 phút
-</td>
-<td>
-Có phần cho phép và không cho phép dùng máy tính đồ họa
-</td>
-<td style="text-align: right;">
-<strong>50%</strong>
-</td>
-</tr>
-<tr>
-<td>
-<strong>Section II: Free Response (FRQ)</strong>
-</td>
-<td>
-6 câu hỏi tự luận lớn (chia làm phần Non-calc &amp; Calc)
-</td>
-<td>
-1 tiếng 30 phút
-</td>
-<td>
-Có phần cho phép và không cho phép dùng máy tính đồ họa
-</td>
-<td style="text-align: right;">
-<strong>50%</strong>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-<hr>
-</section>
-</section>
-<section id="khung-chương-trình-chi-tiết-syllabus-core" class="level2">
-<h2 class="anchored" data-anchor-id="khung-chương-trình-chi-tiết-syllabus-core">2. Khung Chương Trình Chi Tiết (Syllabus Core)</h2>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span>Các chuyên đề cốt lõi của AP Calculus BC:
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ol type="1">
-<li><strong>Limits and Continuity (Giới hạn &amp; Tính liên tục):</strong>
-<ul>
-<li>Định lý kẹp (Squeeze Theorem), giới hạn dạng vô định, quy tắc L’Hopital.</li>
-</ul></li>
-<li><strong>Differentiation (Đạo hàm và Ứng dụng):</strong>
-<ul>
-<li>Đạo hàm hàm ẩn, hàm ngược. Định lý giá trị trung bình (MVT), định lý cực trị (EVT).</li>
-<li>Ứng dụng đạo hàm khảo sát tối ưu hóa cực trị,Related rates.</li>
-</ul></li>
-<li><strong>Integration (Tích phân và Ứng dụng):</strong>
-<ul>
-<li>Tổng Riemann xấp xỉ tích phân. Định lý cơ bản của giải tích (Fundamental Theorem of Calculus).</li>
-<li>Tích phân từng phần, tích phân đổi biến, tích phân phân thức (Partial fractions).</li>
-<li>Ứng dụng tính diện tích, thể tích khối tròn xoay (đĩa, vòng đệm, vỏ trụ), chiều dài cung đường cong.</li>
-</ul></li>
-<li><strong>Parametric, Polar, and Vector Calculus [BC Extension]:</strong>
-<ul>
-<li>Đạo hàm và tích phân của hàm số tham số và tọa độ cực. Tính diện tích đường cực.</li>
-</ul></li>
-<li><strong>Infinite Sequences and Series [BC Extension]:</strong>
-<ul>
-<li>Kiểm định tính hội tụ của chuỗi số (p-series, Ratio test, Integral test).</li>
-<li>Chuỗi lũy thừa, chuỗi Taylor và chuỗi Maclaurin của các hàm số cốt lõi.</li>
-</ul></li>
-</ol>
-</div>
-</div>
-<hr>
-</section>
-<section id="ví-dụ-minh-họa-công-thức-trọng-tâm" class="level2">
-<h2 class="anchored" data-anchor-id="ví-dụ-minh-họa-công-thức-trọng-tâm">3. Ví Dụ Minh Họa &amp; Công Thức Trọng Tâm</h2>
-<p>Công thức giải tích hiển thị sắc nét bằng LaTeX:</p>
-<section id="định-lý-cơ-bản-của-giải-tích-fundamental-theorem-of-calculus" class="level3">
-<h3 class="anchored" data-anchor-id="định-lý-cơ-bản-của-giải-tích-fundamental-theorem-of-calculus">Định lý cơ bản của Giải tích (Fundamental Theorem of Calculus)</h3>
-<p>Mối liên hệ mật thiết giữa đạo hàm và tích phân xác định của hàm liên tục <span class="math inline">\(f(x)\)</span> trên <span class="math inline">\([a, b]\)</span>: <span class="math display">\[\frac{d}{dx} \int_{a}^{x} f(t) \, dt = f(x)\]</span> <span class="math display">\[\int_{a}^{b} f(x) \, dx = F(b) - F(a) \quad \text{với } F'(x) = f(x)\]</span></p>
-</section>
-<section id="chuỗi-khai-triển-maclaurin-của-một-số-hàm-số-cốt-lõi" class="level3">
-<h3 class="anchored" data-anchor-id="chuỗi-khai-triển-maclaurin-của-một-số-hàm-số-cốt-lõi">Chuỗi khai triển Maclaurin của một số hàm số cốt lõi</h3>
-<p>Khai triển chuỗi vô hạn tại lân cận <span class="math inline">\(x=0\)</span>: <span class="math display">\[e^x = \sum_{n=0}^{\infty} \frac{x^n}{n!} = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \dots \quad \text{với } x \in \mathbb{R}\]</span> <span class="math display">\[\cos x = \sum_{n=0}^{\infty} \frac{(-1)^n x^{2n}}{(2n)!} = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \dots \quad \text{với } x \in \mathbb{R}\]</span></p>
-<hr>
-</section>
-</section>
-<section id="bẫy-điểm-số-phương-pháp-làm-bài-frq-frq-exam-tips" class="level2">
-<h2 class="anchored" data-anchor-id="bẫy-điểm-số-phương-pháp-làm-bài-frq-frq-exam-tips">4. Bẫy Điểm Số &amp; Phương Pháp Làm Bài FRQ (FRQ Exam Tips)</h2>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Các lưu ý sống còn để giành trọn vẹn điểm FRQ:
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ul>
-<li><strong>⚠️ Viết đầy đủ điều kiện áp dụng định lý:</strong> Điểm số lập luận FRQ bắt buộc học sinh phải chứng minh điều kiện trước khi viết công thức. Ví dụ: trước khi áp dụng <strong>Định lý giá trị trung bình (MVT)</strong>, bạn bắt buộc phải ghi câu mở đầu: <em>“Since <span class="math inline">\(f(x)\)</span> is continuous on <span class="math inline">\([a, b]\)</span> and differentiable on <span class="math inline">\((a, b)\)</span>, then by MVT…”</em>. Thiếu câu này sẽ mất sạch điểm lập luận.</li>
-<li><strong>⚠️ Nhớ đơn vị đo lường trong bài toán thực tế:</strong> Các câu hỏi FRQ liên quan đến Related rates hoặc tích phân dòng chảy thường yêu cầu ghi đơn vị (ví dụ: <span class="math inline">\(\text{cm}^3/\text{sec}\)</span> hoặc <span class="math inline">\(\text{gallons}\)</span>). Luôn ghi kèm đơn vị ở đáp số cuối cùng để tránh bị trừ 1 điểm phụ.</li>
-<li><strong>⚠️ Tuyệt đối không làm tròn số trung gian:</strong> Chỉ làm tròn đáp số cuối cùng đến <strong>3 chữ số thập phân (3 decimal places)</strong> theo chuẩn College Board. Hãy dùng bộ nhớ máy tính để lưu các giá trị trung gian.</li>
-</ul>
-</div>
-</div>
-<hr>
-</section>
-<section id="kho-đề-frqmcq-theo-chuyên-đề" class="level2">
-<h2 class="anchored" data-anchor-id="kho-đề-frqmcq-theo-chuyên-đề">5. Kho Đề FRQ/MCQ Theo Chuyên Đề</h2>
-<div class="program-grid">
-<section id="topic-1-limits-continuity" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-1-limits-continuity">Topic 1: Limits &amp; Continuity</h3>
-<ul>
-<li>Tính giới hạn dạng vô định, kiểm định tính liên tục tại một điểm và áp dụng quy tắc L’Hopital.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 1 →</strong></a></li>
-</ul>
-</section>
-<section id="topic-2-derivatives-applications" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-2-derivatives-applications">Topic 2: Derivatives Applications</h3>
-<ul>
-<li>Giải toán Related rates, bài toán cực trị tối ưu hóa kinh tế vật lý và kiểm định định lý MVT/EVT.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 2 →</strong></a></li>
-</ul>
-</section>
-<section id="topic-3-integrals-volume" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-3-integrals-volume">Topic 3: Integrals &amp; Volume</h3>
-<ul>
-<li>Tính tích phân vô định/xác định nâng cao, diện tích hình phẳng và thể tích khối tròn xoay.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 3 →</strong></a></li>
-</ul>
-</section>
-<section id="topic-4-infinite-series-bc" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-4-infinite-series-bc">Topic 4: Infinite Series [BC]</h3>
-<ul>
-<li>Luyện giải các bài toán kiểm định tính hội tụ Ratio test, khai triển chuỗi Taylor và sai số Lagrange.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 4 →</strong></a></li>
-</ul>
-</section>
-</div>
-</section>
-<section id="ap-calculus-books" class="level2">
-<h2 class="anchored" data-anchor-id="ap-calculus-books">6. AP Calculus Books</h2>
-<p>Access core textbooks, practice books, and test prep materials for the AP Calculus section. Select any book to view or download:</p>
+<section id="ap-calculus-ab-bc-textbooks-prep-books" class="level2">
+<h2 class="anchored" data-anchor-id="ap-calculus-ab-bc-textbooks-prep-books">1. AP Calculus AB &amp; BC Textbooks &amp; Prep Books</h2>
+<p>Access core textbooks, practice books, and test prep materials for the AP Calculus AB &amp; BC section. Select any book to view or download directly:</p>
 <div class="book-grid">
 <div class="book-card">
 <div class="book-cover-container">

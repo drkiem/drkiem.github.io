@@ -6,6 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="keywords" content="Cambridge IGCSE International Mathematics 0607, CIE 0607, IGCSE Math 0607 past papers, 0607 topical questions, Paper 1 Core Non-Calculator, Paper 2 Extended Non-Calculator">
+<meta name="description" content="Comprehensive Cambridge IGCSE International Mathematics (0607) curriculum resource. Access assessment structures, paper configurations, and download official topical past papers for Paper 1 and Paper 2.">
 
 <title>CIE International Mathematics (0607) – NKK-Education Hub</title>
 <style>
@@ -113,7 +115,7 @@ gtag('config', 'G-Y5KN25P14N', { 'anonymize_ip': true});
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="NKK-Education Hub">
 <meta property="og:title" content="CIE International Mathematics (0607) – NKK-Education Hub">
-<meta property="og:description" content="Chương Trình Toán Quốc Tế Cambridge IGCSE (GDC heavy &amp; Paper 6)">
+<meta property="og:description" content="Comprehensive Cambridge IGCSE International Mathematics (0607) curriculum resource. Access assessment structures, paper configurations, and download official topical past papers for Paper 1 and Paper 2.">
 <meta property="og:url" content="https://drkiem.vn">
 <meta property="og:image" content="https://drkiem.vn/images/academic_workspace.png">
 
@@ -172,35 +174,6 @@ gtag('config', 'G-Y5KN25P14N', { 'anonymize_ip': true});
 }
 </script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -449,6 +422,10 @@ window.Quarto = {
 <span class="menu-text">Books</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../../happy-books.html"> 
+<span class="menu-text">Happy Books</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../../news.html"> 
 <span class="menu-text">News &amp; Updates</span></a>
   </li>  
@@ -515,18 +492,11 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#giới-thiệu-chương-trình" id="toc-giới-thiệu-chương-trình" class="nav-link active" data-scroll-target="#giới-thiệu-chương-trình">1. Giới Thiệu Chương Trình</a>
+  <li><a href="#course-introduction-qualification-framework" id="toc-course-introduction-qualification-framework" class="nav-link active" data-scroll-target="#course-introduction-qualification-framework">1. Course Introduction &amp; Qualification Framework</a>
   <ul class="collapse">
-  <li><a href="#cấu-trúc-đề-thi-đặc-trưng-paper-5-paper-6" id="toc-cấu-trúc-đề-thi-đặc-trưng-paper-5-paper-6" class="nav-link" data-scroll-target="#cấu-trúc-đề-thi-đặc-trưng-paper-5-paper-6">Cấu Trúc Đề Thi Đặc Trưng (Paper 5 &amp; Paper 6)</a></li>
+  <li><a href="#assessment-structure-paper-configurations" id="toc-assessment-structure-paper-configurations" class="nav-link" data-scroll-target="#assessment-structure-paper-configurations">Assessment Structure &amp; Paper Configurations</a></li>
   </ul></li>
-  <li><a href="#khung-chương-trình-chi-tiết-syllabus-core" id="toc-khung-chương-trình-chi-tiết-syllabus-core" class="nav-link" data-scroll-target="#khung-chương-trình-chi-tiết-syllabus-core">2. Khung Chương Trình Chi Tiết (Syllabus Core)</a></li>
-  <li><a href="#ví-dụ-minh-họa-công-thức-trọng-tâm" id="toc-ví-dụ-minh-họa-công-thức-trọng-tâm" class="nav-link" data-scroll-target="#ví-dụ-minh-họa-công-thức-trọng-tâm">3. Ví Dụ Minh Họa &amp; Công Thức Trọng Tâm</a>
-  <ul class="collapse">
-  <li><a href="#khoảng-cách-giữa-hai-điểm-trong-không-gian-2d" id="toc-khoảng-cách-giữa-hai-điểm-trong-không-gian-2d" class="nav-link" data-scroll-target="#khoảng-cách-giữa-hai-điểm-trong-không-gian-2d">Khoảng cách giữa hai điểm trong không gian 2D</a></li>
-  <li><a href="#phương-trình-hồi-quy-tuyến-tính-gdc-linear-regression" id="toc-phương-trình-hồi-quy-tuyến-tính-gdc-linear-regression" class="nav-link" data-scroll-target="#phương-trình-hồi-quy-tuyến-tính-gdc-linear-regression">Phương trình hồi quy tuyến tính GDC (Linear Regression)</a></li>
-  </ul></li>
-  <li><a href="#bẫy-điểm-số-phương-pháp-làm-bài-exam-tips" id="toc-bẫy-điểm-số-phương-pháp-làm-bài-exam-tips" class="nav-link" data-scroll-target="#bẫy-điểm-số-phương-pháp-làm-bài-exam-tips">4. Bẫy Điểm Số &amp; Phương Pháp Làm Bài (Exam Tips)</a></li>
-  <li><a href="#kho-đề-past-papers-theo-chuyên-đề" id="toc-kho-đề-past-papers-theo-chuyên-đề" class="nav-link" data-scroll-target="#kho-đề-past-papers-theo-chuyên-đề">5. Kho Đề Past Papers Theo Chuyên Đề</a></li>
+  <li><a href="#topical-past-papers-question-vault" id="toc-topical-past-papers-question-vault" class="nav-link" data-scroll-target="#topical-past-papers-question-vault">2. Topical Past Papers Question Vault</a></li>
   </ul>
 </nav>
     </div>
@@ -537,9 +507,14 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">CIE International Mathematics (0607)</h1>
-<p class="subtitle lead">Chương Trình Toán Quốc Tế Cambridge IGCSE (GDC heavy &amp; Paper 6)</p>
+<p class="subtitle lead">Course Introduction, Syllabus Framework &amp; Topical Past Paper Vault</p>
 </div>
 
+<div>
+  <div class="description">
+    Comprehensive Cambridge IGCSE International Mathematics (0607) curriculum resource. Access assessment structures, paper configurations, and download official topical past papers for Paper 1 and Paper 2.
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
@@ -550,6 +525,12 @@ window.Quarto = {
   </div>
   
 
+<div>
+  <div class="keywords">
+    <div class="block-title">Keywords</div>
+    <p>Cambridge IGCSE International Mathematics 0607, CIE 0607, IGCSE Math 0607 past papers, 0607 topical questions, Paper 1 Core Non-Calculator, Paper 2 Extended Non-Calculator</p>
+  </div>
+</div>
 
 </header>
 
@@ -560,129 +541,954 @@ window.Quarto = {
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Tài nguyên ôn tập &amp; Luyện thi: CIE International Mathematics (0607)
+<span class="screen-reader-only">Note</span>Academic Portal: Cambridge IGCSE™ International Mathematics (0607)
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Chào mừng các em học sinh! Khu vực này chứa Sơ đồ kiến thức toán học quốc tế chuyên sâu, hướng dẫn sử dụng máy tính đồ họa (GDC) và các công thức toán lượng giác hiển thị bằng LaTeX sắc nét cùng ngân hàng tài liệu luyện thi Paper 6 (Mathematical Investigation) độc quyền.</p>
+<p>Welcome to the specialized study and revision portal for <strong>Cambridge IGCSE International Mathematics (0607)</strong>. Designed specifically for students at premier international schools, this syllabus integrates rigorous mathematical reasoning with modern <strong>Graphic Display Calculator (GDC)</strong> proficiency and <strong>Mathematical Investigation &amp; Modelling (Papers 5 &amp; 6)</strong>. This course serves as the most effective academic gateway to the <strong>International Baccalaureate (IB) Diploma Mathematics</strong> (Analysis and Approaches / Applications and Interpretation) and <strong>Cambridge International AS &amp; A Level Mathematics</strong>.</p>
 </div>
 </div>
-<section id="giới-thiệu-chương-trình" class="level2">
-<h2 class="anchored" data-anchor-id="giới-thiệu-chương-trình">1. Giới Thiệu Chương Trình</h2>
+<section id="course-introduction-qualification-framework" class="level2">
+<h2 class="anchored" data-anchor-id="course-introduction-qualification-framework">1. Course Introduction &amp; Qualification Framework</h2>
 <p>
-<strong>CIE IGCSE International Mathematics (Mã môn: 0607)</strong> được thiết kế đặc biệt cho học sinh tại các trường quốc tế sử dụng máy tính đồ họa (GDC - Casio fx-CG50 hoặc TI-Nspire) từ sớm. Chương trình này là sự chuẩn bị hoàn hảo nhất cho phân hệ IB Mathematics ở cấp học trung học phổ thông.
+<strong>Cambridge IGCSE International Mathematics (0607)</strong> provides a contemporary and global mathematical curriculum. It places equal emphasis on theoretical mathematical principles, computational mastery through graphic display calculators, and autonomous inquiry through open-ended investigations and real-world modelling tasks.
 </p>
-<section id="cấu-trúc-đề-thi-đặc-trưng-paper-5-paper-6" class="level3">
-<h3 class="anchored" data-anchor-id="cấu-trúc-đề-thi-đặc-trưng-paper-5-paper-6">Cấu Trúc Đề Thi Đặc Trưng (Paper 5 &amp; Paper 6)</h3>
+<section id="assessment-structure-paper-configurations" class="level3">
+<h3 class="anchored" data-anchor-id="assessment-structure-paper-configurations">Assessment Structure &amp; Paper Configurations</h3>
 <p>
-Khác với chương trình 0580, đề thi 0607 Extended bao gồm 3 Papers thi chính:
+The qualification offers two distinct assessment pathways: <strong>Core Tier</strong> (targeted at grades C–G) and <strong>Extended Tier</strong> (targeted at grades A*–E). Candidates must sit three written papers within their chosen tier.
 </p>
-<ul>
-<li><strong>Paper 2 (Non-calculator):</strong> Đánh giá tư duy tính nhẩm toán học cốt lõi.</li>
-<li><strong>Paper 4 (Calculator - GDC active):</strong> Đánh giá khả năng giải quyết các bài toán phức tạp sử dụng sức mạnh tính toán của máy tính đồ họa.</li>
-<li><strong>Paper 6 (Investigation &amp; Modelling):</strong> Đánh giá tư duy tự học độc lập qua một đề tài điều tra toán học (Section A) và thiết lập mô hình toán học (Section B).</li>
-</ul>
+<div class="table-wrapper" style="margin-bottom: 2rem;">
+<table class="premium-table">
+<thead>
+<tr>
+<th style="width: 18%;">
+Paper
+</th>
+<th style="width: 12%;">
+Tier
+</th>
+<th style="width: 42%;">
+Assessment Outline &amp; Calculator Policy
+</th>
+<th style="width: 14%;">
+Duration &amp; Marks
+</th>
+<th style="width: 14%; text-align: right;">
+Weighting
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<strong>Paper 1 (Core)</strong>
+</td>
+<td>
+<span class="badge" style="background-color: #0284c7; color: white;">Core</span>
+</td>
+<td>
+Structured short-answer questions testing fundamental non-calculator numeracy, algebraic manipulation, and geometric reasoning. <strong>No calculator permitted.</strong>
+</td>
+<td>
+45 mins<br><strong>40 marks</strong>
+</td>
+<td style="text-align: right;">
+<strong>25%</strong>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Paper 3 (Core)</strong>
+</td>
+<td>
+<span class="badge" style="background-color: #0284c7; color: white;">Core</span>
+</td>
+<td>
+Structured medium-to-long questions covering all Core syllabus domains. <strong>Graphic Display Calculator (GDC) required.</strong>
+</td>
+<td>
+1 hr 45 mins<br><strong>96 marks</strong>
+</td>
+<td style="text-align: right;">
+<strong>60%</strong>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Paper 5 (Core)</strong>
+</td>
+<td>
+<span class="badge" style="background-color: #0284c7; color: white;">Core</span>
+</td>
+<td>
+One or more structured <strong>Mathematical Investigation</strong> tasks assessing pattern recognition, inductive reasoning, and algebraic generalisation. GDC required.
+</td>
+<td>
+1 hr 15 mins<br><strong>36 marks</strong>
+</td>
+<td style="text-align: right;">
+<strong>15%</strong>
+</td>
+</tr>
+<tr style="border-top: 2px solid #e2e8f0;">
+<td>
+<strong>Paper 2 (Extended)</strong>
+</td>
+<td>
+<span class="badge" style="background-color: #7c3aed; color: white;">Extended</span>
+</td>
+<td>
+Structured short-answer questions assessing rigorous mathematical thinking, non-calculator arithmetic, surds, indices, and exact trigonometry. <strong>No calculator permitted.</strong>
+</td>
+<td>
+45 mins<br><strong>40 marks</strong>
+</td>
+<td style="text-align: right;">
+<strong>20%</strong>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Paper 4 (Extended)</strong>
+</td>
+<td>
+<span class="badge" style="background-color: #7c3aed; color: white;">Extended</span>
+</td>
+<td>
+Advanced multi-step problems requiring full synthesis of the Extended curriculum and deep utilization of graphic calculator functions (graph analysis, polynomial extrema, non-linear regression). <strong>Graphic Display Calculator (GDC) required.</strong>
+</td>
+<td>
+2 hrs 15 mins<br><strong>120 marks</strong>
+</td>
+<td style="text-align: right;">
+<strong>60%</strong>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Paper 6 (Extended)</strong>
+</td>
+<td>
+<span class="badge" style="background-color: #7c3aed; color: white;">Extended</span>
+</td>
+<td>
+Two mandatory sections: <strong>Section A (Mathematical Investigation)</strong> and <strong>Section B (Mathematical Modelling)</strong>. Assesses independent mathematical formulation, justification, and real-world scenario analysis. GDC required.
+</td>
+<td>
+1 hr 40 mins<br><strong>60 marks</strong>
+</td>
+<td style="text-align: right;">
+<strong>20%</strong>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
 <hr>
 </section>
 </section>
-<section id="khung-chương-trình-chi-tiết-syllabus-core" class="level2">
-<h2 class="anchored" data-anchor-id="khung-chương-trình-chi-tiết-syllabus-core">2. Khung Chương Trình Chi Tiết (Syllabus Core)</h2>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
+<section id="topical-past-papers-question-vault" class="level2">
+<h2 class="anchored" data-anchor-id="topical-past-papers-question-vault">2. Topical Past Papers Question Vault</h2>
+<p>
+Master the Cambridge IGCSE International Mathematics (0607) curriculum by practicing with categorized past paper question sets. Switch between <strong>Paper 1 (Core Non-Calculator)</strong> and <strong>Paper 2 (Extended Non-Calculator)</strong> using the tabs below to download topic-by-topic PDF question packs with direct Google Drive access.
+</p>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" href=""><i class="bi bi-file-earmark-text text-primary"></i> Paper 1: Core Tier (23 Resource Packs)</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false" href=""><i class="bi bi-file-earmark-code text-purple"></i> Paper 2: Extended Tier (24 Resource Packs)</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
+<p style="margin-top: 1rem; color: #475569; font-size: 0.95rem;">
+<strong>Paper 1 (Core Non-Calculator):</strong> 45 minutes | 40 marks | 25% weighting. Structured short-answer questions testing fundamental non-calculator arithmetic, algebra, geometry, and statistics.
+</p>
+<div class="table-wrapper" style="margin-bottom: 2rem;">
+<table class="premium-table">
+<thead>
+<tr>
+<th style="width: 25%;">
+Chapter &amp; Topic
+</th>
+<th style="width: 15%;">
+Part
+</th>
+<th style="width: 40%;">
+Resource Description
+</th>
+<th style="width: 20%; text-align: center;">
+Download
+</th>
+</tr>
+</thead>
+<tbody>
+<tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.06); font-weight: bold;">
+<td colspan="4" style="color: #1e3a8a; font-size: 0.95rem;">
+<i class="bi bi-folder2-open" style="color: #2563eb; margin-right: 0.4rem;"></i> Chapter 1: Number <span class="badge" style="background-color: #0284c7; font-size: 0.75rem; margin-left: 0.5rem; font-weight: 500;">10 Parts</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Number
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 1</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch1_number_01.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1P8hxScnL582nWd1AyLFBPZy19HzCkLd5/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Number
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 2</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch1_number_02.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1ssz_WyTPww_QEddtj_srO4akK8vqDLjv/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Number
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 3</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch1_number_03.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1PlVTMEuPHlXxs5od4kaKo9gpGRSI9XYu/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Number
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 4</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch1_number_04.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1OT7xM5tQ5IhFn7GY_CFCD6ICg7IUIqBR/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Number
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 5</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch1_number_05.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1H-xvNhQTn9uGRYzUISUr5oJWJklh4XTi/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Number
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 6</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch1_number_06.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1g-60DZ6mZBInYg-cz5cu5VY08jhWYaYm/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Number
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 7</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch1_number_07.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1vc3yc7DgzYE0eCWiSDL1u1TRwSHsHSZg/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Number
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 8</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch1_number_08.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1gJl8T3Q5nF2EHor2ORnljrGyc0gZWwOZ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Number
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 9</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch1_number_09.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1eNfm_BdwJpK7T6Bzw-Tx1JZGOTKj5EgL/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Number
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 10</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch1_number_10.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1TDOYbUOhNWlYjD5i1OVnvVfGOQ_UPcV7/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.06); font-weight: bold;">
+<td colspan="4" style="color: #1e3a8a; font-size: 0.95rem;">
+<i class="bi bi-folder2-open" style="color: #2563eb; margin-right: 0.4rem;"></i> Chapter 2: Algebra <span class="badge" style="background-color: #0284c7; font-size: 0.75rem; margin-left: 0.5rem; font-weight: 500;">4 Parts</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Algebra
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 1</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch2_algebra_01.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/136jTopDl_hJMi5CRT-YzX9DGyGqRoOJA/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Algebra
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 2</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch2_algebra_02.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1sSMieerADS05tUJtxLRmmz5B6E-44osU/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Algebra
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 3</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch2_algebra_03.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/16pUzF9aUKzRJPOctC-iyYxiHwTrayLS0/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Algebra
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 4</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch2_algebra_04.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1hmwWi6-FXd3lOnNDiPahUHoiUiLaLEtZ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.06); font-weight: bold;">
+<td colspan="4" style="color: #1e3a8a; font-size: 0.95rem;">
+<i class="bi bi-folder2-open" style="color: #2563eb; margin-right: 0.4rem;"></i> Chapter 3: Function <span class="badge" style="background-color: #0284c7; font-size: 0.75rem; margin-left: 0.5rem; font-weight: 500;">2 Parts</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Function
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 1</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch3_function_01.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1UWwdSQoIRBC4cfrBw_EDFBJoNl09EuJM/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Function
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 2</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch3_function_02.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1Mhk0y0oejsONRZumbUqpGIVdwOH8uk8R/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.06); font-weight: bold;">
+<td colspan="4" style="color: #1e3a8a; font-size: 0.95rem;">
+<i class="bi bi-folder2-open" style="color: #2563eb; margin-right: 0.4rem;"></i> Chapter 4: Coordinate Geometry <span class="badge" style="background-color: #0284c7; font-size: 0.75rem; margin-left: 0.5rem; font-weight: 500;">2 Parts</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Coordinate Geometry
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 1</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch4_Coordinate geometry_01.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1E5lW02L-7srZ58lCOQBaoPAEJ7Npa_sg/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Coordinate Geometry
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 2</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch4_Coordinate geometry_02.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1GNc9zlwYDB1EAxLj7psHhzYdmTyuPaw4/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.06); font-weight: bold;">
+<td colspan="4" style="color: #1e3a8a; font-size: 0.95rem;">
+<i class="bi bi-folder2-open" style="color: #2563eb; margin-right: 0.4rem;"></i> Chapter 5: Geometry <span class="badge" style="background-color: #0284c7; font-size: 0.75rem; margin-left: 0.5rem; font-weight: 500;">4 Parts</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Geometry
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 1</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch5_geometry_01.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1iD9mjc94vd7YUbZIL_f4kmf1El5EwbGN/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Geometry
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 2</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch5_geometry_02.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1dfIptSZJsCnwxjCuhvAU8PY_RwpxbEcb/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Geometry
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 3</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch5_geometry_03.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1TlxDQK0Vb38hKH4kMjkW8TVjt-Ly7Yl8/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Geometry
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 4</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch5_geometry_04.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1ZZUS2IPaXd2OygZSkBohxPVBeBDX9zoB/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.06); font-weight: bold;">
+<td colspan="4" style="color: #1e3a8a; font-size: 0.95rem;">
+<i class="bi bi-folder2-open" style="color: #2563eb; margin-right: 0.4rem;"></i> Chapter 7: Mensuration <span class="badge" style="background-color: #0284c7; font-size: 0.75rem; margin-left: 0.5rem; font-weight: 500;">2 Parts</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Mensuration
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 1</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch7_Mensuration_01.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1MCpp4KV6wXh68KDQ8DgLWhP-sPPU1aM9/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Mensuration
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 2</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch7_Mensuration_02.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1sVmS_b0laKRGE32EfVmnCj-LyYcbXuWW/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.06); font-weight: bold;">
+<td colspan="4" style="color: #1e3a8a; font-size: 0.95rem;">
+<i class="bi bi-folder2-open" style="color: #2563eb; margin-right: 0.4rem;"></i> Chapter 10: Probability <span class="badge" style="background-color: #0284c7; font-size: 0.75rem; margin-left: 0.5rem; font-weight: 500;">1 Part</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Probability
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 1</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch10_probability_01.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1G7FDbmUrTN6s2eGZJDgBX_sIXks2QIk5/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.06); font-weight: bold;">
+<td colspan="4" style="color: #1e3a8a; font-size: 0.95rem;">
+<i class="bi bi-folder2-open" style="color: #2563eb; margin-right: 0.4rem;"></i> Chapter 11: Statistics <span class="badge" style="background-color: #0284c7; font-size: 0.75rem; margin-left: 0.5rem; font-weight: 500;">2 Parts</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Statistics
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 1</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch11_statistics_01.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/189bqUy_o4MzyGShu7SolZnC48WHXLjV8/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Statistics
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 2</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P1_ch11_statistics_02.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/10NHFgFBue7Q0sKfe6l1TD-H1R4IsnF_x/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span>Các chuyên đề cốt lõi của IGCSE 0607:
+</div>
+<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
+<p style="margin-top: 1rem; color: #475569; font-size: 0.95rem;">
+<strong>Paper 2 (Extended Non-Calculator):</strong> 45 minutes | 40 marks | 20% weighting. Rigorous non-calculator questions assessing advanced algebra, surds, indices, functions, and coordinate geometry.
+</p>
+<div class="table-wrapper" style="margin-bottom: 2rem;">
+<table class="premium-table">
+<thead>
+<tr>
+<th style="width: 25%;">
+Chapter &amp; Topic
+</th>
+<th style="width: 15%;">
+Part
+</th>
+<th style="width: 40%;">
+Resource Description
+</th>
+<th style="width: 20%; text-align: center;">
+Download
+</th>
+</tr>
+</thead>
+<tbody>
+<tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.06); font-weight: bold;">
+<td colspan="4" style="color: #1e3a8a; font-size: 0.95rem;">
+<i class="bi bi-folder2-open" style="color: #2563eb; margin-right: 0.4rem;"></i> Chapter 1: Number <span class="badge" style="background-color: #7c3aed; font-size: 0.75rem; margin-left: 0.5rem; font-weight: 500;">6 Parts</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Number
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 1</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P2_ch1_number_01.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1RjVZT7_hPP_xOOJgTLEOKtUHLAkd3E0s/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Number
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 2</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P2_ch1_number_02.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1vo5OwkVpJHe_S3ZgpkS87VkvXMBk-ZtJ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Number
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 3</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P2_ch1_number_03.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1bFWqs_79Kpbt3c6xLAEIEDAnR3USvDGL/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Number
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 4</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P2_ch1_number_04.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1hNtqrwrRIZxhmJlGWuwfX7VjoeG_jx8B/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Number
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 5</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P2_ch1_number_05.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1l2ZmbpzEtSUswRxB6Tpr1gxzZc_poxD4/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Number
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 6</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P2_ch1_number_06.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1-zcYFXIXeICrv-3Q8I-TzLDSAfR2Fbt1/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.06); font-weight: bold;">
+<td colspan="4" style="color: #1e3a8a; font-size: 0.95rem;">
+<i class="bi bi-folder2-open" style="color: #2563eb; margin-right: 0.4rem;"></i> Chapter 2: Algebra <span class="badge" style="background-color: #7c3aed; font-size: 0.75rem; margin-left: 0.5rem; font-weight: 500;">6 Parts</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Algebra
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 1</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P2_ch2_algebra_01.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1lFq--kr-TGB6UT52tlykG6_AeduIiVXx/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Algebra
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 2</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P2_ch2_algebra_02.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1aHQ199mOmHhHdT0jHF1heOffbk5Bfma0/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Algebra
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 3</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P2_ch2_algebra_03.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1UyOhUrhvUTQHBxm-BGwR_9F5rstop4HV/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Algebra
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 4</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P2_ch2_algebra_04.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1S_2YxBI9L6_-XAoDAuWfZkwtRNWrsgc6/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Algebra
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 5</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P2_ch2_algebra_05.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/13A8GzD7y-YLCUASsfq-sJMvH3nZsglWX/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Algebra
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 6</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P2_ch2_algebra_06.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1L8QQc5DXHZeU78qIlGoeslA_L6JXwykQ/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.06); font-weight: bold;">
+<td colspan="4" style="color: #1e3a8a; font-size: 0.95rem;">
+<i class="bi bi-folder2-open" style="color: #2563eb; margin-right: 0.4rem;"></i> Chapter 3: Function <span class="badge" style="background-color: #7c3aed; font-size: 0.75rem; margin-left: 0.5rem; font-weight: 500;">1 Part</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Function
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 1</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P2_ch3_function_01.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/10iw07HwcscN9sViaZLIkVFbtxAeNGjAY/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.06); font-weight: bold;">
+<td colspan="4" style="color: #1e3a8a; font-size: 0.95rem;">
+<i class="bi bi-folder2-open" style="color: #2563eb; margin-right: 0.4rem;"></i> Chapter 4: Coordinate Geometry <span class="badge" style="background-color: #7c3aed; font-size: 0.75rem; margin-left: 0.5rem; font-weight: 500;">1 Part</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Coordinate Geometry
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 1</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P2_ch4_Coordinate geometry_01.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1p55SdSKo5rmqU0jiasYZdtBR8nH4NNnR/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.06); font-weight: bold;">
+<td colspan="4" style="color: #1e3a8a; font-size: 0.95rem;">
+<i class="bi bi-folder2-open" style="color: #2563eb; margin-right: 0.4rem;"></i> Chapter 5: Geometry <span class="badge" style="background-color: #7c3aed; font-size: 0.75rem; margin-left: 0.5rem; font-weight: 500;">3 Parts</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Geometry
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 1</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P2_ch5_geometry_01.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1-jCYPrPD3aShveL7ntnCKQNTowVrgrBc/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Geometry
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 2</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P2_ch5_geometry_02.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1I7pxcQpdtrrGmknEJOmz4sc9rVrBz0UH/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Geometry
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 3</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P2_ch5_geometry_03.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1-cpOSOhz0s2UDe9bqZZRS89GidrQC74x/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.06); font-weight: bold;">
+<td colspan="4" style="color: #1e3a8a; font-size: 0.95rem;">
+<i class="bi bi-folder2-open" style="color: #2563eb; margin-right: 0.4rem;"></i> Chapter 7: Mensuration <span class="badge" style="background-color: #7c3aed; font-size: 0.75rem; margin-left: 0.5rem; font-weight: 500;">1 Part</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Mensuration
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 1</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P2_ch7_Mensuration_01.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/13H08cFGUF2H00K9Ws_KBt3XDelN3TVXs/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.06); font-weight: bold;">
+<td colspan="4" style="color: #1e3a8a; font-size: 0.95rem;">
+<i class="bi bi-folder2-open" style="color: #2563eb; margin-right: 0.4rem;"></i> Chapter 10: Probability <span class="badge" style="background-color: #7c3aed; font-size: 0.75rem; margin-left: 0.5rem; font-weight: 500;">1 Part</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Probability
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 1</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P2_ch10_probability_01.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1TZIOWp096Od8VlUgbyWDRzNoA6812fqx/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+<tr class="topic-group-header" style="background-color: rgba(37, 99, 235, 0.06); font-weight: bold;">
+<td colspan="4" style="color: #1e3a8a; font-size: 0.95rem;">
+<i class="bi bi-folder2-open" style="color: #2563eb; margin-right: 0.4rem;"></i> Chapter 11: Statistics <span class="badge" style="background-color: #7c3aed; font-size: 0.75rem; margin-left: 0.5rem; font-weight: 500;">1 Part</span>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 1.5rem; font-weight: 500;">
+Statistics
+</td>
+<td>
+<span class="badge bg-secondary" style="font-size: 0.75rem;">Part 1</span>
+</td>
+<td>
+<code style="font-size: 0.8rem; color: #475569;">igcse_math_0607_P2_ch11_statistics_01.pdf</code>
+</td>
+<td style="text-align: center;">
+<a href="https://drive.google.com/file/d/1VBFH4g3l6sB5S55YlRUZUi7h22ahhxHp/view?usp=sharing" target="_blank" class="btn-search-submit" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem; padding: 0.35rem 0.85rem; font-size: 0.8rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); text-decoration: none !important; color: white !important; border-radius: 6px; font-weight: 600; width: 100%; box-shadow: 0 2px 4px rgba(37,99,235,0.2);"> <i class="bi bi-file-earmark-arrow-down"></i> Download PDF </a>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </div>
-<div class="callout-body-container callout-body">
-<ol type="1">
-<li><strong>Number (Số học):</strong> Các phép toán số học cơ bản, lũy thừa, căn thức, hệ đếm, lãi suất.</li>
-<li><strong>Algebra (Đại số GDC):</strong>
-<ul>
-<li>Giải phương trình phi tuyến tính bằng đồ thị trên máy tính GDC (tìm giao điểm, điểm cực trị).</li>
-<li>Khảo sát các dạng hàm số nâng cao: hàm bậc ba, hàm phân thức, hàm mũ.</li>
-</ul></li>
-<li><strong>Geometry and Trigonometry (Hình học &amp; Lượng giác):</strong>
-<ul>
-<li>Tính chất hình học phẳng, góc cung tròn. Lượng giác tam giác phẳng và hình học không gian 3D cơ bản.</li>
-</ul></li>
-<li><strong>Statistics &amp; Probability (Thống kê GDC):</strong>
-<ul>
-<li>Vẽ biểu đồ Scatter plot, tìm phương trình đường xu hướng (regression lines) bằng máy tính GDC.</li>
-<li>Xác suất biến cố kết hợp, kỳ vọng rời rạc.</li>
-</ul></li>
-<li><strong>Venn Diagrams (Sơ đồ Venn):</strong> Trọng tâm thiết kế các bài toán phân tích logic tập hợp phức tạp.</li>
-</ol>
 </div>
-</div>
-<hr>
-</section>
-<section id="ví-dụ-minh-họa-công-thức-trọng-tâm" class="level2">
-<h2 class="anchored" data-anchor-id="ví-dụ-minh-họa-công-thức-trọng-tâm">3. Ví Dụ Minh Họa &amp; Công Thức Trọng Tâm</h2>
-<p>Công thức hình học tọa độ hiển thị sắc nét bằng LaTeX:</p>
-<section id="khoảng-cách-giữa-hai-điểm-trong-không-gian-2d" class="level3">
-<h3 class="anchored" data-anchor-id="khoảng-cách-giữa-hai-điểm-trong-không-gian-2d">Khoảng cách giữa hai điểm trong không gian 2D</h3>
-<p>Cho hai điểm <span class="math inline">\(A(x_1, y_1)\)</span> và <span class="math inline">\(B(x_2, y_2)\)</span> trên hệ trục tọa độ: <span class="math display">\[d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}\]</span></p>
-</section>
-<section id="phương-trình-hồi-quy-tuyến-tính-gdc-linear-regression" class="level3">
-<h3 class="anchored" data-anchor-id="phương-trình-hồi-quy-tuyến-tính-gdc-linear-regression">Phương trình hồi quy tuyến tính GDC (Linear Regression)</h3>
-<p>Sử dụng chức năng thống kê của máy tính GDC để tìm đường thẳng xu hướng từ bảng số liệu thực nghiệm: <span class="math display">\[y = ax + b\]</span></p>
-<hr>
-</section>
-</section>
-<section id="bẫy-điểm-số-phương-pháp-làm-bài-exam-tips" class="level2">
-<h2 class="anchored" data-anchor-id="bẫy-điểm-số-phương-pháp-làm-bài-exam-tips">4. Bẫy Điểm Số &amp; Phương Pháp Làm Bài (Exam Tips)</h2>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Các bẫy cần tránh ở đề thi 0607:
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ul>
-<li><strong>⚠️ Rèn luyện kỹ năng viết lời giải Paper 6:</strong> Đề thi Paper 6 chấm điểm rất mạnh ở quá trình lập luận và khả năng khái quát hóa công thức (generalisations). Hãy viết rõ ràng các bước tìm quy luật dãy số từ các dữ liệu ban đầu, tránh việc chỉ ghi mỗi đáp án cuối cùng.</li>
-<li><strong>⚠️ Làm chủ thao tác máy tính đồ họa GDC:</strong> Máy tính GDC là phao cứu sinh của các em ở Paper 4. Hãy học cách vẽ đồ thị nhanh, tìm điểm cực đại cực tiểu (G-Solv trên Casio hoặc Graph trên TI), tìm hệ số tương quan thống kê để tăng tốc độ làm bài.</li>
-</ul>
-</div>
-</div>
-<hr>
-</section>
-<section id="kho-đề-past-papers-theo-chuyên-đề" class="level2">
-<h2 class="anchored" data-anchor-id="kho-đề-past-papers-theo-chuyên-đề">5. Kho Đề Past Papers Theo Chuyên Đề</h2>
-<div class="program-grid">
-<section id="topic-1-gdc-algebra-functions" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-1-gdc-algebra-functions">Topic 1: GDC Algebra &amp; Functions</h3>
-<ul>
-<li>Luyện giải các phương trình phi tuyến tính, tìm giao điểm và cực trị đồ thị bằng máy tính GDC.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 1 →</strong></a></li>
-</ul>
-</section>
-<section id="topic-2-paper-6-investigation-prep" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-2-paper-6-investigation-prep">Topic 2: Paper 6 Investigation Prep</h3>
-<ul>
-<li>Ngân hàng bài tập hướng dẫn tự luyện viết đề tài điều tra toán học, tìm quy luật chuỗi số.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 2 →</strong></a></li>
-</ul>
-</section>
-<section id="topic-3-geometry-trigonometry" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-3-geometry-trigonometry">Topic 3: Geometry &amp; Trigonometry</h3>
-<ul>
-<li>Các dạng toán lượng giác 2D/3D nâng cao, tính chất đa giác góc đường tròn.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 3 →</strong></a></li>
-</ul>
-</section>
-<section id="topic-4-statistics-scatter-plots" class="level3 program-card topic-card">
-<h3 class="anchored" data-anchor-id="topic-4-statistics-scatter-plots">Topic 4: Statistics &amp; Scatter Plots</h3>
-<ul>
-<li>Luyện giải các bài toán thống kê thực nghiệm, vẽ biểu đồ phân tán và tìm đường hồi quy GDC.</li>
-<li><a href="#" class="btn-gateway"><strong>Tải đề luyện chuyên đề 4 →</strong></a></li>
-</ul>
-</section>
 </div>
 
 

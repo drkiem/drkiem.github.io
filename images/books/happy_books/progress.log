@@ -1,0 +1,96 @@
+Starting conversion for 148 books...
+[1/148] ALREADY EXISTS: math_oxford_mathematics_primary_years_program_1.png
+[2/148] ALREADY EXISTS: math_oxford_mathematics_primary_years_program_2.png
+[3/148] ALREADY EXISTS: math_oxford_mathematics_primary_years_program_3.png
+[4/148] ALREADY EXISTS: math_oxford_mathematics_primary_years_program_4.png
+[5/148] ALREADY EXISTS: math_oxford_mathematics_primary_years_program_5.png
+[6/148] ALREADY EXISTS: math_oxford_mathematics_primary_years_program_6.png
+[7/148] ALREADY EXISTS: math_oxford_mathematics_primary_years_program_7.png
+[8/148] ALREADY EXISTS: english_a_new_friend_ib_pyp_friends_storybook__8.png
+[9/148] ALREADY EXISTS: english_agency_for_the_ib_pyp_teaching_for_succ_9.png
+[10/148] ALREADY EXISTS: english_fair_play_ib_pyp_friends_storybook__10.png
+[11/148] ALREADY EXISTS: english_growth_mindset_for_the_ib_pyp_teaching__11.png
+[12/148] ALREADY EXISTS: english_growth_mindset_for_the_ib_pyp_atl_skill_12.png
+[13/148] ALREADY EXISTS: english_interpersonal_relationships_for_the_ib_p_13.png
+[14/148] ALREADY EXISTS: english_lochie_s_little_lie_ib_pyp_friends_stor_14.png
+[15/148] ALREADY EXISTS: english_mindfulness_for_the_ib_pyp_atl_skills_w_15.png
+[16/148] ALREADY EXISTS: english_social_and_emotional_intelligence_and_em_16.png
+[17/148] ALREADY EXISTS: english_the_sleepover_ib_pyp_friends_storybook__17.png
+[18/148] ALREADY EXISTS: english_ups_and_downs_ib_pyp_friends_storybook__18.png
+[19/148] ALREADY EXISTS: english_wellbeing_for_the_ib_pyp_teaching_for_s_19.png
+[20/148] ALREADY EXISTS: math_cambridge_primary_mathematics_learner_s__20.png
+[21/148] ALREADY EXISTS: math_cambridge_primary_mathematics_learner_s__21.png
+[22/148] ALREADY EXISTS: math_cambridge_primary_mathematics_workbook_1_22.png
+[23/148] ALREADY EXISTS: math_cambridge_primary_mathematics_workbook_2_23.png
+[24/148] ALREADY EXISTS: math_cambridge_primary_mathematics_workbook_3_24.png
+[25/148] ALREADY EXISTS: math_cambridge_primary_mathematics_workbook_4_25.png
+[26/148] ALREADY EXISTS: math_cambridge_primary_mathematics_workbook_5_26.png
+[27/148] ALREADY EXISTS: math_cambridge_primary_mathematics_workbook_6_27.png
+[28/148] ALREADY EXISTS: math_cambridge_primary_mathematics_learner_s__28.png
+[29/148] ALREADY EXISTS: math_cambridge_primary_mathematics_learner_s__29.png
+[30/148] ALREADY EXISTS: math_cambridge_primary_mathematics_learner_s__30.png
+[31/148] ALREADY EXISTS: math_cambridge_primary_mathematics_learner_s__31.png
+[32/148] ALREADY EXISTS: math_cambridge_primary_mathematics_learner_s__32.png
+[33/148] ALREADY EXISTS: math_cambridge_primary_mathematics_learner_s__33.png
+[34/148] ALREADY EXISTS: english_cambridge_primary_english_activity_book__34.png
+[35/148] ALREADY EXISTS: english_cambridge_primary_english_learner_s_book_35.png
+[36/148] ALREADY EXISTS: english_cambridge_primary_english_activity_book__36.png
+[37/148] ALREADY EXISTS: english_cambridge_primary_english_learner_s_book_37.png
+[38/148] ALREADY EXISTS: english_cambridge_primary_english_activity_book__38.png
+[39/148] ALREADY EXISTS: english_cambridge_primary_english_learner_s_book_39.png
+[40/148] ALREADY EXISTS: english_cambridge_primary_english_activity_book__40.png
+[41/148] ALREADY EXISTS: english_cambridge_primary_english_learner_s_book_41.png
+[42/148] ALREADY EXISTS: english_cambridge_primary_english_activity_book__42.png
+[43/148] Cambridge Primary English 5 Learner (10.18s) -> OK
+[44/148] Cambridge Primary English 6 Activit (7.74s) -> OK
+[45/148] Cambridge Primary English 6 Learner (10.71s) -> OK
+[46/148] ALREADY EXISTS: science_cambridge_primary_science_activity_book__46.png
+[47/148] Cambridge Primary Science 1 Learner (7.71s) -> OK
+[48/148] Cambridge Primary Science 2 Activit (5.51s) -> OK
+[49/148] Cambridge Primary Science 2 Learner (3.57s) -> OK
+[50/148] Cambridge Primary Science 3 Activit (6.31s) -> OK
+[51/148] Cambridge Primary Science 3 Learner (5.61s) -> OK
+[52/148] Cambridge Primary Science 4 Activit (28.95s) -> OK
+[53/148] Cambridge Primary Science 4 Learner (178.99s) -> OK
+
+--- Launching 4-worker parallel conversion for remaining 95 tasks ---
+[1/95] [Book #54] Cambridge Primary Science 5 Ac (69.31s) -> OK
+[2/95] [Book #57] Cambridge Primary Science 6 Le (108.86s) -> OK
+[3/95] [Book #55] Cambridge Primary Science 5 Le (108.89s) -> OK
+[4/95] [Book #56] Cambridge Primary Science 6 Ac (108.88s) -> OK
+[5/95] [Book #58] Daily Science Grade 1-5011i.pd (67.42s) -> OK
+[6/95] [Book #59] Daily Science Grade 2-5012i.pd (32.16s) -> OK
+[7/95] [Book #60] Daily Science Grade 3-5013i.pd (32.18s) -> OK
+[8/95] [Book #61] Daily Science Grade 4-5014i.pd (32.47s) -> OK
+[9/95] [Book #62] (DK Workbooks) DK - DK Workboo (8.96s) -> OK
+[10/95] [Book #63] (DK Workbooks) DK - DK Workboo (13.67s) -> OK
+[11/95] [Book #64] (DK Workbooks) DK - DK Workboo (15.87s) -> OK
+[12/95] [Book #65] (DK Workbooks) DK - DK Workboo (18.74s) -> OK
+[13/95] [Book #67] Sam Priddy, Sam Atkinson, Lizz (23.34s) -> OK
+[14/95] [Book #69] HM_Math_G2.pdf (18.01s) -> OK
+[15/95] [Book #68] HM_Math_G1.pdf (21.43s) -> OK
+[16/95] [Book #66] Davey, Lizzie - DK children's  (33.94s) -> OK
+[17/95] [Book #71] HM_Math_G4.pdf (20.95s) -> OK
+[18/95] [Book #72] HM_Math_G5.pdf (34.61s) -> OK
+[19/95] [Book #73] HM_Math_G6.pdf (47.17s) -> OK
+[20/95] [Book #70] HM_Math_G3.pdf (48.72s) -> OK
+[21/95] [Book #75] Anthony Russell - Nelson Inter (41.62s) -> OK
+[22/95] [Book #74] Anthony Russell - Nelson Inter (55.55s) -> OK
+[23/95] [Book #76] Anthony Russell - Nelson Inter (67.57s) -> OK
+[24/95] [Book #77] Anthony Russell - Nelson Inter (68.35s) -> OK
+[25/95] [Book #78] Anthony Russell - Nelson Inter (180.06s) -> FAIL
+[26/95] [Book #79] Anthony Russell - Nelson Inter (180.06s) -> FAIL
+[27/95] [Book #80] Anthony Russell - Nelson Inter (170.72s) -> OK
+[28/95] [Book #81] Anthony Russell - Nelson Inter (169.93s) -> OK
+[29/95] [Book #82] Anthony Russell - Nelson Inter (100.78s) -> OK
+[30/95] [Book #83] Anthony Russell - Nelson Inter (100.81s) -> OK
+[31/95] [Book #85] Karen Morrison - Nelson Intern (76.24s) -> OK
+[32/95] [Book #84] Anthony Russell - Nelson Inter (89.83s) -> OK
+[33/95] [Book #87] Karen Morrison - Nelson Intern (180.12s) -> FAIL
+[34/95] [Book #86] Karen Morrison - Nelson Intern (180.13s) -> FAIL
+[35/95] [Book #88] Karen Morrison - Nelson Intern (180.01s) -> FAIL
+[36/95] [Book #89] (Master Maths At Home)  - Math (180.04s) -> FAIL
+[37/95] [Book #91] (Master Maths At Home) Maths — (180.09s) -> FAIL
+[38/95] [Book #90] (Master Maths At Home) Maths — (180.14s) -> FAIL
+[39/95] [Book #92] (Master Maths At Home) Maths — (180.02s) -> FAIL
+[40/95] [Book #93] (Master Maths At Home) Maths — (180.03s) -> FAIL
